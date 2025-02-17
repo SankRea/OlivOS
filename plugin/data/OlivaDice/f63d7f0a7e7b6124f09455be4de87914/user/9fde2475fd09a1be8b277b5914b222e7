@@ -1,0 +1,17 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "141960502",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1739454628,
+        "configNote": {
+            "logEnable": false,
+            "logNowName": "log_99b15f06-f777-4552-911d-f2cfe78b020b",
+            "groupEnable": true,
+            "groupMainDice": null,
+            "groupMainDiceDRight": null,
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
+        }
+    }
+}

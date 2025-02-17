@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "腐烂的柑橘",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            92
+                        ],
+                        [],
+                        [
+                            92
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 92,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2895551949",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1731322541
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "清词",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            11
+                        ],
+                        [],
+                        [
+                            11
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 11,
+            "RDRecordSkillInt": 50
+        },
+        "userId": "2039502134",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739519998
+    }
+}

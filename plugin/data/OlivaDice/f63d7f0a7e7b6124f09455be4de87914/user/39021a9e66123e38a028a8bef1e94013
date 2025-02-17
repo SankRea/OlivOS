@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "林剑风",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            36
+                        ],
+                        [],
+                        [
+                            36
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 36,
+            "RDRecordSkillInt": 16
+        },
+        "userId": "1552024398",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1736391613
+    }
+}

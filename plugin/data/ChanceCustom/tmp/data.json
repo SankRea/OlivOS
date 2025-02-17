@@ -1,0 +1,20 @@
+{
+    "type": "ccpk",
+    "dataVersion": 2,
+    "info": {
+        "name": "网易云点歌",
+        "author": "滦浣春",
+        "version": "0.0.1",
+        "info": "网易云音乐点歌。空格是必要的。"
+    },
+    "data": {
+        "点歌 (.*)": {
+            "key": "点歌 (.*)",
+            "division": "1",
+            "matchType": "reg",
+            "matchPlace": "3",
+            "priority": 0,
+            "value": "【赋值变量音乐搜索>=<\n【判空\n【访问https://api-music.imsyy.top/cloudsearch?keywords=【内容1】】>=<{}】】\n【文本-替换文本【正则\"id\":[0-9]+>=<【变量音乐搜索】>=<1】>=<0>=<5>=<[CQ:music,type=163,id=】]"
+        }
+    }
+}

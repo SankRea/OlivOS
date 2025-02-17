@@ -1,0 +1,42 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "灵羲",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            49
+                        ],
+                        [],
+                        [
+                            49
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 49,
+            "RDRecordSkillInt": 65,
+            "userObList": [
+                "946c06547b465bfa95f347083a5e59b3"
+            ]
+        },
+        "userId": "1841409236",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738672733
+    }
+}

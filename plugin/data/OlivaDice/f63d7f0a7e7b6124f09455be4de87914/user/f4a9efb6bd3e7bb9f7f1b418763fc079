@@ -1,0 +1,35 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "春色春恋春熙风",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            68
+                        ],
+                        [
+                            2
+                        ],
+                        [
+                            28
+                        ]
+                    ],
+                    "key": {
+                        "op": "b",
+                        "l": 1,
+                        "r": 1,
+                        "v": {}
+                    }
+                }
+            ],
+            "RDRecordRaw": "B",
+            "RDRecordInt": 28,
+            "RDRecordSkillInt": 90
+        },
+        "userId": "2363287739",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1727175202
+    }
+}

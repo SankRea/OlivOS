@@ -1,0 +1,5 @@
+{"time": 1735107417, "type": "reply", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1735107421, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "10101010101"}
+{"time": 1735107423, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "1001010"}
+{"time": 1735107425, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "00111"}
+{"time": 1735107429, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}

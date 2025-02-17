@@ -1,0 +1,107 @@
+[2025-02-13 16:27:07] [INFO]: 当前版本:v1.3.1-pre-3 
+[2025-02-13 16:27:07] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2025-02-13 16:27:07] [INFO]: 已生成设备信息并保存到 device.json 文件. 
+[2025-02-13 16:27:07] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2025-02-13 16:27:12] [INFO]: 开始尝试登录并同步消息... 
+[2025-02-13 16:27:12] [INFO]: 使用协议: Android Pad 9.1.35.22670 
+[2025-02-13 16:27:12] [INFO]: 使用签名服务器：http://localhost:17937/ 
+[2025-02-13 16:27:12] [INFO]: Protocol -> connect to server: 183.47.102.213:8080 
+[2025-02-13 16:27:12] [WARNING]: Error getting energy sign: Post "http://localhost:17937/custom_energy": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:12] [WARNING]: too many tried sign 
+[2025-02-13 16:27:12] [ERROR]: pack sec sign err:too many tried 
+[2025-02-13 16:27:12] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2025-02-13 16:27:12] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2875548981&sid=6996909276370152672&cap_cd=qx3fbKi53y1A8vF4eTOw1fLpXE9d9LpqDeIpgVsh6GHZKdyi4KiC8g**&clientype=1&apptype=2  
+[2025-02-13 16:27:12] [WARNING]: 请输入ticket： (Enter 提交) 
+[2025-02-13 16:27:56] [WARNING]: Error getting energy sign: Post "http://localhost:17937/custom_energy": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: Error getting sso sign: Post "http://localhost:17937/sign": dial tcp 127.0.0.1:17937: connect: connection refused. server: http://localhost:17937/ 
+[2025-02-13 16:27:56] [WARNING]: too many tried sign 
+[2025-02-13 16:27:56] [ERROR]: pack sec sign err:too many tried 
+[2025-02-13 16:27:56] [WARNING]: 登录失败: 登录失败，请前往QQ官网im.qq.com下载最新版QQ后重试，或通过问题反馈与我们联系。 Code: 45 
+[2025-02-13 16:27:56] [WARNING]: 你的账号被限制登录, 请配置 SignServer 后重试 
+[2025-02-13 16:27:56] [INFO]: 按 Enter 继续.... 
+[2025-02-13 16:29:14] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 16:29:14] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 16:29:19] [WARNING]: 登录需要滑条验证码, 请验证后重试. 
+[2025-02-13 16:29:19] [WARNING]: 请前往该地址验证 -> https://ti.qq.com/safe/tools/captcha/sms-verify-login?aid=16&uin=2875548981&sid=9164494414992485727&cap_cd=keO8azD9DWB_Ek1WsdbhaI8kE1A1xKtDk_CG-ECm0b0UXs-_bt5Z0g**&clientype=1&apptype=2  
+[2025-02-13 16:29:19] [WARNING]: 请输入ticket： (Enter 提交) 
+[2025-02-13 16:29:41] [WARNING]: 账号已开启设备锁，请选择验证方式: 
+[2025-02-13 16:29:41] [WARNING]: 1. 向手机 173*******9 发送短信验证码 
+[2025-02-13 16:29:41] [WARNING]: 2. 使用手机QQ扫码验证. 
+[2025-02-13 16:29:41] [WARNING]: 请输入(1 - 2)： 
+[2025-02-13 16:29:44] [WARNING]: 请输入短信验证码： (Enter 提交) 
+[2025-02-13 16:31:16] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:16] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:44] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:46] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:47] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 3 次重试 
+[2025-02-13 16:31:48] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:49] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"group","time":1739435504,"self_id":2875548981,"sub_type":"normal","anonymous":null,"font":0,"message_seq":543678,"raw_message":"不会换","sender":{"age":0,"area":"","card":"薄荷水","level":"","nickname":"l1ke","role":"admin","sex":"unknown","title":"","user_id":372207822},"user_id":372207822,"message_id":1596585517,"group_id":223248122,"message":"不会换"}
+ 到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 停止上报：已达重试上限 
+[2025-02-13 16:31:49] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:49] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:50] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:51] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 3 次重试 
+[2025-02-13 16:31:52] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 3 次重试 
+[2025-02-13 16:31:52] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:52] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1739435508,"self_id":2875548981,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":162,"packet_sent":125,"packet_lost":0,"message_received":23,"message_sent":0,"disconnect_times":0,"lost_times":0,"last_message_time":1739435504}},"interval":5000}
+ 到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 停止上报：已达重试上限 
+[2025-02-13 16:31:53] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:31:53] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"group","time":1739435508,"self_id":2875548981,"sub_type":"normal","message_id":674154171,"anonymous":null,"font":0,"group_id":223248122,"message_seq":543679,"raw_message":"除非零比二","message":"除非零比二","sender":{"age":0,"area":"","card":"薄荷水","level":"","nickname":"l1ke","role":"admin","sex":"unknown","title":"","user_id":372207822},"user_id":372207822}
+ 到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 停止上报：已达重试上限 
+[2025-02-13 16:31:53] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:54] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 2 次重试 
+[2025-02-13 16:31:55] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 3 次重试 
+[2025-02-13 16:31:56] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 3 次重试 
+[2025-02-13 16:34:22] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:34:22] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:34:23] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 16:37:55] [WARNING]: Unknown businessType = 21 
+[2025-02-13 17:16:04] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:16:04] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:16:31] [WARNING]: 上报 Event 数据到 http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default 失败: Post "http://127.0.0.1:55001/OlivOSMsgApi/qq/onebot/default": dial tcp 127.0.0.1:55001: connect: connection refused 将进行第 1 次重试 
+[2025-02-13 17:16:43] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:16:43] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:20:03] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:20:03] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:21:54] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:21:54] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:29:34] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:29:34] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:30:33] [FATAL]: open cache database db failed: resource temporarily unavailable 
+[2025-02-13 17:35:58] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:35:58] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:36:04] [WARNING]: Current server wss://qsign.trpgbot.com/ws unavailable, searching for a new one 
+[2025-02-13 17:36:04] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:36:04] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:40:41] [WARNING]: WebSocket check failed for wss://qsign-v3.trpgbot.com/ws, error: websocket: bad handshake 
+[2025-02-13 17:40:41] [WARNING]: Checking server: wss://qsign-v3.trpgbot.com/ws (4/7) failed! 
+[2025-02-13 17:48:55] [WARNING]: 警告: 群 788081069 图片上传失败: image type error: text/html; charset=utf-8 
+[2025-02-13 17:48:55] [WARNING]: 群 788081069 消息发送失败: 消息为空. 
+[2025-02-13 18:00:10] [WARNING]: 群 1098529435 发送消息失败: 账号可能被风控. 
+[2025-02-13 18:24:40] [WARNING]: 警告: 群 1098529435 图片上传失败: image type error: application/octet-stream 
+[2025-02-13 18:41:08] [WARNING]: rkey expired. refresh... 
+[2025-02-13 18:42:37] [WARNING]: 转换消息 [CQ:image,file=检索失败] 到MiraiGo Element时出现错误: invalid image. 
+[2025-02-13 18:46:00] [WARNING]: 警告: 群 1098529435 图片上传失败: image type error: application/octet-stream 
+[2025-02-13 19:38:12] [WARNING]: rkey expired. refresh... 
+[2025-02-13 20:11:07] [WARNING]: Unknown businessType = 21 
+[2025-02-13 20:35:17] [WARNING]: rkey expired. refresh... 
+[2025-02-13 20:50:28] [WARNING]: Unknown businessType = 21 
+[2025-02-13 21:02:14] [WARNING]: Unknown businessType = 21 
+[2025-02-13 21:33:22] [WARNING]: rkey expired. refresh... 
+[2025-02-13 22:20:48] [WARNING]: 警告: 群 738301235 图片上传失败: oidb result unsuccessful: 170019003 msg: verify identify fail 
+[2025-02-13 22:20:48] [WARNING]: 群 738301235 消息发送失败: 消息为空. 
+[2025-02-13 22:32:07] [WARNING]: rkey expired. refresh... 
+[2025-02-13 22:50:54] [WARNING]: Unknown businessType = 21 
+[2025-02-13 23:30:47] [WARNING]: rkey expired. refresh... 

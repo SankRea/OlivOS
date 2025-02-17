@@ -1,0 +1,30 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "932113569",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1739261277,
+        "configNote": {
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3",
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
+            "groupInitList": {
+                "流萤": 15,
+                "星": 13,
+                "灵砂": 16,
+                "食尸蝙蝠": 27,
+                "阮梅": 11,
+                "食尸鬼": 15
+            },
+            "groupInitParaList": {
+                "流萤": "1D20+9",
+                "星": "1D20+4",
+                "灵砂": "1D20+9",
+                "食尸蝙蝠": "1D20+7",
+                "阮梅": "1D20+7",
+                "食尸鬼": "1D20+2"
+            }
+        }
+    }
+}

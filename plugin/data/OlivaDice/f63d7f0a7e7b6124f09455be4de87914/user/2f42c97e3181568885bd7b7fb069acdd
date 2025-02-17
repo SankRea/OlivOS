@@ -1,0 +1,35 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Accelerator",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            4
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            4
+                        ]
+                    ],
+                    "key": {
+                        "op": "b",
+                        "l": 1,
+                        "r": 1,
+                        "v": {}
+                    }
+                }
+            ],
+            "RDRecordRaw": "B",
+            "RDRecordInt": 4,
+            "RDRecordSkillInt": 80
+        },
+        "userId": "1085444390",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739520381
+    }
+}

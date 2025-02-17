@@ -1,0 +1,47 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "尘",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            [
+                                {
+                                    "op": "mark01",
+                                    "v": 4
+                                },
+                                2,
+                                2,
+                                3
+                            ]
+                        ],
+                        [
+                            1
+                        ],
+                        [
+                            1
+                        ]
+                    ],
+                    "key": {
+                        "op": "a",
+                        "l": 4,
+                        "r": 12,
+                        "v": {
+                            "k": 4,
+                            "q": null,
+                            "m": 4
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "4a12k4m4",
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2522421010",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1735056176
+    }
+}

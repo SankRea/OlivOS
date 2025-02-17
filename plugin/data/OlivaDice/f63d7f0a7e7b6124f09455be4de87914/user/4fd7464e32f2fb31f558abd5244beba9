@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Arcadia",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            700
+                        ],
+                        [],
+                        [
+                            700
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 1595,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d1595",
+            "RDRecordInt": 700,
+            "RDRecordSkillInt": null
+        },
+        "userId": "3362422751",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739503011
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "千成之愿",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            74
+                        ],
+                        [
+                            6
+                        ],
+                        [
+                            64
+                        ]
+                    ],
+                    "key": {
+                        "op": "b",
+                        "l": 1,
+                        "r": 1,
+                        "v": {}
+                    }
+                }
+            ],
+            "RDRecordRaw": "B",
+            "RDRecordInt": 64,
+            "RDRecordSkillInt": 70
+        },
+        "userId": "1252219916",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739528301
+    }
+}

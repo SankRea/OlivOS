@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "虚幻过往",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            29
+                        ],
+                        [],
+                        [
+                            29
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 29,
+            "RDRecordSkillInt": 59
+        },
+        "userId": "1067041556",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738478820
+    }
+}

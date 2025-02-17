@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "残阳亦旭.宇宙艾蕾ver",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            70
+                        ],
+                        [],
+                        [
+                            70
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 70,
+            "RDRecordSkillInt": 35
+        },
+        "userId": "2739405262",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738740216
+    }
+}

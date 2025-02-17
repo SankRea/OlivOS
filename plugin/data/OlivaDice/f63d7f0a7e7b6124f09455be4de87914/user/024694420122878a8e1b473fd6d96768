@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "不会在的人",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            28
+                        ],
+                        [],
+                        [
+                            28
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 28,
+            "RDRecordSkillInt": 28
+        },
+        "userId": "961142868",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739520619
+    }
+}

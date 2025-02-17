@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "风铃浅唱",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            10
+                        ],
+                        [],
+                        [
+                            10
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 10,
+            "RDRecordSkillInt": 60
+        },
+        "userId": "458095233",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739454099
+    }
+}

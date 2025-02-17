@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Stellar",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            92
+                        ],
+                        [],
+                        [
+                            92
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 92,
+            "RDRecordSkillInt": 30
+        },
+        "userId": "2179970959",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738134828
+    }
+}

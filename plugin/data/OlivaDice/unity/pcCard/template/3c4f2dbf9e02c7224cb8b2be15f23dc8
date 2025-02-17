@@ -1,0 +1,12 @@
+{
+    "伍特": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查",
+            "灵感",
+            "说服"
+        ]
+    }
+}

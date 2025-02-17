@@ -1,0 +1,4 @@
+{"time": 1735610550, "type": "reply", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1735610556, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "dadsdasdasdasdasdas"}
+{"time": 1735610569, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1337086764"}, "sender": {"id": "1337086764", "name": "晓月"}, "message": "134 7648134043"}
+{"time": 1735610580, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "。log end"}

@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "湘江August",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            92
+                        ],
+                        [],
+                        [
+                            92
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 92,
+            "RDRecordSkillInt": 12
+        },
+        "userId": "2483922115",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1736063909
+    }
+}

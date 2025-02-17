@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "落歆.",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            7
+                        ],
+                        [],
+                        [
+                            7
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 22,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d22",
+            "RDRecordInt": 7,
+            "RDRecordSkillInt": null
+        },
+        "userId": "3254243138",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1731750720
+    }
+}

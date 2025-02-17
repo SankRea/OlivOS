@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "烫",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            19
+                        ],
+                        [],
+                        [
+                            19
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d",
+            "RDRecordInt": 19,
+            "RDRecordSkillInt": null
+        },
+        "userId": "673444926",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1722355257
+    }
+}

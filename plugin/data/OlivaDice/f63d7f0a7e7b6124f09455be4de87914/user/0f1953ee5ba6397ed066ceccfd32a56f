@@ -1,0 +1,42 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "眠",
+            "userObList": [
+                "f239b288ab95895a6cd7cab17e78c555"
+            ],
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            17
+                        ],
+                        [],
+                        [
+                            17
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 17,
+            "RDRecordSkillInt": 80
+        },
+        "userId": "877791004",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1730104665
+    }
+}

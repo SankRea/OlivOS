@@ -1,0 +1,40 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "折木",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            78
+                        ],
+                        [],
+                        [
+                            78
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d100",
+            "RDRecordInt": 78,
+            "RDRecordSkillInt": null,
+            "trustLevel": 1000
+        },
+        "userId": "1370316409",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739543403
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Aestivalis.",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            4
+                        ],
+                        [],
+                        [
+                            4
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 10,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d10",
+            "RDRecordInt": 4,
+            "RDRecordSkillInt": null
+        },
+        "userId": "354951605",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1736957137
+    }
+}

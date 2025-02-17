@@ -1,0 +1,35 @@
+{
+    "globalEnable": 1,
+    "userConfigCount": 100,
+    "pulseInterval": 300,
+    "autoAcceptGroupAdd": 1,
+    "autoAcceptFriendAdd": 1,
+    "disableReplyPrivate": 0,
+    "messageFliterMode": 0,
+    "messageSplitGate": 650,
+    "messageSplitPageLimit": 10,
+    "messageSplitDelay": 1000,
+    "largeRollLimit": 300,
+    "multiRollDetail": 1,
+    "randomMode": 0,
+    "drawRecommendMode": 1,
+    "drawListMode": 2,
+    "helpRecommendGate": 25,
+    "censorMode": 1,
+    "censorMatchMode": 1,
+    "masterList": [
+        [
+            "1370316409",
+            "qq"
+        ]
+    ],
+    "noticeGroupList": [],
+    "pulseUrlList": [],
+    "joyPokeMode": 0,
+    "joyEnableCCPK": 0,
+    "masterAutoUpdate": 1,
+    "odysseyRulesItemLimit": 8,
+    "odysseyKOOKBotMarketPulseEnable": 0,
+    "odysseyKOOKPlayGameMode": 1,
+    "odysseyKOOKPlayGameMusicSoftware": 0
+}

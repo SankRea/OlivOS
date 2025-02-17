@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "kirakira，dokidoki",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            31
+                        ],
+                        [],
+                        [
+                            31
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 31,
+            "RDRecordSkillInt": 35
+        },
+        "userId": "1990868981",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738130586
+    }
+}

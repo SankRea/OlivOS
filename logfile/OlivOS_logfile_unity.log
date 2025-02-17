@@ -1,0 +1,183 @@
+[2025-02-13 17:40:18] - [INFO] - OlivOS 组件 [OlivOS_logger] 初始化
+[2025-02-13 17:40:18] - [INFO] - 欢迎使用 青果核心交互栈 OlivOS 0.11.53(173)
+[2025-02-13 17:40:18] - [INFO] - 从配置存档 [./conf/account.json] 装载账号 ... 完成
+[2025-02-13 17:40:18] - [INFO] - 进行 [qq] 账号装载，从 [2875548981] 至 [f63d7f0a7e7b6124f09455be4de87914] ... 完成
+[2025-02-13 17:40:18] - [INFO] - 进行账号装载 ... 全部完成
+[2025-02-13 17:40:18] - [INFO] - OlivOS 日志组件 [OlivOS_logger] 正在运作
+[2025-02-13 17:40:18] - [INFO] - 从配置存档 [./conf/account.json] 装载账号 ... 完成
+[2025-02-13 17:40:18] - [INFO] - 进行 [qq] 账号装载，从 [2875548981] 至 [f63d7f0a7e7b6124f09455be4de87914] ... 完成
+[2025-02-13 17:40:18] - [INFO] - 进行账号装载 ... 全部完成
+[2025-02-13 17:40:18] - [INFO] - OlivOS 组件 [OlivOS_plugin] 初始化
+[2025-02-13 17:40:18] - [INFO] - OlivOS 组件 [OlivOS_flask_post_rx] 初始化
+[2025-02-13 17:40:18] - [INFO] - OlivOS onebotV11 flask POST服务组件 [OlivOS_flask_post_rx] 正在运作于端口 [55717]
+[2025-02-13 17:40:18] - [INFO] - OlivOS onebotV11 flask POST服务组件 [OlivOS_flask_post_rx] 的参考上报地址为 [http://127.0.0.1:55717/OlivOSMsgApi/qq/onebot/default]
+[2025-02-13 17:40:19] - [WARN] - OlivOS 插件 [来点色图（] 专为旧版 OlivOS 版本 0 设计
+[2025-02-13 17:40:19] - [WARN] - OlivOS 插件 [OlivaEmoji混合器] 专为旧版 OlivOS 版本 81 设计
+[2025-02-13 17:40:19] - [WARN] - OlivOS 插件 [.gitkeep] 被 OlivOS 插件组件 [OlivOS_plugin] 跳过: mask path
+[2025-02-13 17:40:19] - [INFO] - OlivOS 插件 [来点色图（] 调用 [init] 完成
+[2025-02-13 17:40:19] - [INFO] - OlivOS 插件 [来点色图（] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:19] - [INFO] - OlivOS 插件 [OlivaDice大师模块] 调用 [init] 完成
+[2025-02-13 17:40:19] - [INFO] - OlivOS 插件 [OlivaDice大师模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice日志模块] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice日志模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_撤回] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_撤回] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [图片记录] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [图片记录] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [AnimelImages] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [AnimelImages] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice高阶模块] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice高阶模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaStory核心模块] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaStory核心模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaEmoji混合器] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaEmoji混合器] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [二三三的后宫] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [二三三的后宫] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [SmartBOT] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [SmartBOT] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [WARN] - [OlivaDice] - [Init] - 加载牌堆文件[奇怪的知识增加了.json]至[全局]时出错，请检查文件格式或软件版本！
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - [720]个牌堆已加载至[全局]，共[787]个牌堆
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - [0]个牌堆已加载至[qq|2875548981]，共[787]个牌堆
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - [71]条[人物卡]数据已加载
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - [253]条[用户记录]数据已加载
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - 已生成敏感词检测模型至[qq|2875548981]，耗时[0.02ms]，包含[0]条
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - 请使用[.master 1bc3fde2-5324-4cbf-b5ef-6f1660e84210]指令以获取Master权限
+[2025-02-13 17:40:20] - [INFO] - [OlivaDice] - [Init] - 当前版本为[3.3.27(1077)]
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice核心模块] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice核心模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_steam] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_steam] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_背包] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_背包] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [可爱回应] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [可爱回应] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [程心自定义] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [程心自定义] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice设置面板] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice设置面板] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_今日番剧] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [宅爷_今日番剧] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [查询平替] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [查询平替] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [跑团梗图] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [跑团梗图] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [自动消息发送] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [自动消息发送] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [运行代码] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [运行代码] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice娱乐模块] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice娱乐模块] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [music share] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [music share] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [红银文字生成器] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [红银文字生成器] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [dndmeme] 调用 [init] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [dndmeme] 被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - 共 [26] 个 OlivOS 插件被 OlivOS 插件组件 [OlivOS_plugin] 加载
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice核心模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice娱乐模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice大师模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice日志模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice高阶模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaStory核心模块] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [OlivaDice设置面板] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [程心自定义] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件 [查询平替] 调用 [init_after] 完成
+[2025-02-13 17:40:20] - [INFO] - OlivOS 插件组件 [OlivOS_plugin] 正在运作
+[2025-02-13 18:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 19:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 20:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 21:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 22:00:03] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 夜安，要早些休息哦
+[2025-02-13 22:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-13 23:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 00:00:21] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 晚安，我们在梦见相会
+[2025-02-14 00:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 01:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 02:40:20] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 03:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 04:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 05:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 06:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 07:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 08:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 09:00:03] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 早安，昨天有梦见我吗
+[2025-02-14 09:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 10:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 11:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 12:00:05] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 午安，在我的演奏下安静地睡着吧
+[2025-02-14 12:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 13:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 14:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 15:40:21] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 16:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 17:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 18:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 19:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 20:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 21:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 22:00:04] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 夜安，要早些休息哦
+[2025-02-14 22:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-14 23:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 00:00:30] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 晚安，我们在梦见相会
+[2025-02-15 00:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 01:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 02:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 03:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 04:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 05:40:22] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 06:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 07:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 08:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 09:00:03] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 早安，昨天有梦见我吗
+[2025-02-15 09:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 10:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 11:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 12:00:04] - [INFO] - [qq|2875548981] - [OvOautomsg] - <send> - Group(1098529435): 午安，在我的演奏下安静地睡着吧
+[2025-02-15 12:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 13:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 14:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 15:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 16:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 17:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 18:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 19:40:23] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 20:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 21:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 22:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-15 23:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 00:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 01:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 02:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 03:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 04:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 05:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 06:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 07:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 08:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 09:40:24] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 10:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 11:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 12:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 13:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 14:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 15:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 16:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 17:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 18:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 19:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 20:40:25] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 21:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 22:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-16 23:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 00:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 01:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 02:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 03:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 04:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 05:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 06:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 07:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
+[2025-02-17 08:40:26] - [WARN] - [OlivaDice] - [autoupdate] - 访问更新检测接口失败!
