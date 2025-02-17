@@ -1,0 +1,28 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "961820333",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1723563161,
+        "configNote": {
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
+            "logEnable": false,
+            "logNowName": "log_a7bb0b86-f968-4216-8248-75386ea2719c",
+            "groupInitList": {
+                "伽娜": 7,
+                "阿尔墨斯": 21,
+                "芊羽_？": 11,
+                "灵风雨璇": 4,
+                "变异的狼": 8
+            },
+            "groupInitParaList": {
+                "伽娜": "7",
+                "阿尔墨斯": "21",
+                "芊羽_？": "1D20+3",
+                "灵风雨璇": "4",
+                "变异的狼": "1D20+2"
+            }
+        }
+    }
+}

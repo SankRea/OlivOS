@@ -1,0 +1,25 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "1098529435",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1739707158,
+        "configNote": {
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3",
+            "groupMainDice": null,
+            "groupMainDiceDRight": null,
+            "logEnable": true,
+            "logNowName": "log_c1961cad-76c8-4b2b-ae5d-44d40d31c535",
+            "groupInitList": {
+                "jkl": 1000015
+            },
+            "groupInitParaList": {
+                "jkl": "1D20+1000000"
+            },
+            "groupObList": [
+                "733bbd1efeb9a43711198c349e9cd549"
+            ]
+        }
+    }
+}

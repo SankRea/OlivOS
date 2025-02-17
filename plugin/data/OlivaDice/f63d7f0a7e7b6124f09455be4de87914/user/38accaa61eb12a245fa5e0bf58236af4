@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "玖与辰",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            32
+                        ],
+                        [],
+                        [
+                            32
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 32,
+            "RDRecordSkillInt": 76
+        },
+        "userId": "2302697787",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738474528
+    }
+}

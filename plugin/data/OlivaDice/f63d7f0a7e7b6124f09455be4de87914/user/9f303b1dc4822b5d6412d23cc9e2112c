@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "我叫五个五",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            2
+                        ],
+                        [],
+                        [
+                            2
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 2,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d2",
+            "RDRecordInt": 2,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2388921818",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739424825
+    }
+}

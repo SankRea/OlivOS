@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "everlasting snow",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            15
+                        ],
+                        [],
+                        [
+                            15
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 15,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2508145934",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1731404266
+    }
+}

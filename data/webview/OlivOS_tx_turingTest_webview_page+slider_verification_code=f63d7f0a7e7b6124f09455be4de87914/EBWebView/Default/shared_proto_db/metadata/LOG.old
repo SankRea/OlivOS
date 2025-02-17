@@ -1,0 +1,5 @@
+2025/02/13-12:35:29.128 19bc Recovering log #32
+2025/02/13-12:35:29.128 19bc Level-0 table #34: started
+2025/02/13-12:35:29.132 19bc Level-0 table #34: 124 bytes OK
+2025/02/13-12:35:29.141 19bc Delete type=0 #32
+2025/02/13-12:35:29.141 19bc Delete type=3 #30

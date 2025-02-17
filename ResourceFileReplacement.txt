@@ -1,0 +1,4 @@
+插件的资源文件：替换data文件夹中的文件
+插件替换：plugin/app替换
+骰子数据：plugin/data替换
+替换gocq:lib/AstralGocq替换

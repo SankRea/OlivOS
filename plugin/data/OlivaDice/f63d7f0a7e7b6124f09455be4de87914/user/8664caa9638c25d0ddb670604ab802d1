@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "衛階",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            8
+                        ],
+                        [],
+                        [
+                            8
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 22,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d22",
+            "RDRecordInt": 8,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2896077682",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1732895619
+    }
+}

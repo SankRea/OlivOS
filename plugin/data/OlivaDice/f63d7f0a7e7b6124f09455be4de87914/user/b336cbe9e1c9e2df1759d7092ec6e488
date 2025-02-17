@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Anco",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            86
+                        ],
+                        [],
+                        [
+                            86
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 86,
+            "RDRecordSkillInt": 50
+        },
+        "userId": "2943152042",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738130514
+    }
+}

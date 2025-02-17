@@ -1,0 +1,15 @@
+{"time": 1735610225, "type": "reply", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1735610230, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "22"}
+{"time": 1735610231, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "33"}
+{"time": 1735610232, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "2"}
+{"time": 1735610233, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "21"}
+{"time": 1735610233, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "32"}
+{"time": 1735610234, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "42"}
+{"time": 1735610234, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "32"}
+{"time": 1735610235, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "312"}
+{"time": 1735610235, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "31"}
+{"time": 1735610235, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "2312"}
+{"time": 1735610236, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "312"}
+{"time": 1735610236, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "3123"}
+{"time": 1735610236, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "12"}
+{"time": 1735610242, "type": "recv", "dect": {"host_id": null, "group_id": "788081069", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log end"}

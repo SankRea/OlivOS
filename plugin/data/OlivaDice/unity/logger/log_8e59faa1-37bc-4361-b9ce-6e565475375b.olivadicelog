@@ -1,0 +1,4 @@
+{"time": 1720972996, "type": "reply", "dect": {"host_id": null, "group_id": "121735290", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1720973021, "type": "recv", "dect": {"host_id": null, "group_id": "121735290", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "（你log on名字啊）"}
+{"time": 1720973097, "type": "recv", "dect": {"host_id": null, "group_id": "121735290", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(没必要吧。)"}
+{"time": 1720973102, "type": "recv", "dect": {"host_id": null, "group_id": "121735290", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

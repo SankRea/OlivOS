@@ -1,0 +1,41 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "mind1e55",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            3,
+                            5,
+                            1
+                        ],
+                        [],
+                        [
+                            9
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "3d6",
+            "RDRecordInt": 9,
+            "RDRecordSkillInt": null
+        },
+        "userId": "1540417666",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1731738275
+    }
+}

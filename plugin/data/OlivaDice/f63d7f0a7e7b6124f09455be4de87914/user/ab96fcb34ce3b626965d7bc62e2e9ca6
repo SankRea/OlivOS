@@ -1,0 +1,40 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "连叶冰",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            2,
+                            5
+                        ],
+                        [],
+                        [
+                            7
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 2,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "2d6",
+            "RDRecordInt": 7,
+            "RDRecordSkillInt": null
+        },
+        "userId": "1728993100",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739627345
+    }
+}

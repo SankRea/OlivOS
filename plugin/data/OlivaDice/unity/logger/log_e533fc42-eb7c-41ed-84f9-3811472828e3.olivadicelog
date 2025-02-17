@@ -1,0 +1,921 @@
+{"time": 1722002414, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1722002464, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（怎么动）"}
+{"time": 1722002506, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "2010-7-26，夜，伦敦火车站\r\r平静祥和的夏日夜晚，湿热的风吹的人有些迷糊，蝉还在聒噪的叫着，一如每一个夏日。艾薇儿背着吉他一如往常的来到了伦敦火车站。如果想要寻得一个既能锻炼自己胆量又能练习技术的地方，那想来就是这里的广场了。距离平常开始唱歌的时候还早，艾薇儿决定去附近的便利店买瓶水润润喉咙。她推开了店门，随随便便的对着柜台那边说到“一瓶矿泉水”。却不料对面的人此时已经愣住了神——\r\r而与此同时，由于寻求爱恋而不得的Eric也散心溜达到了这家超市——"}
+{"time": 1722002527, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1040972910][CQ:at,qq=408119794][CQ:at,qq=825734198][CQ:at,qq=1159237057]"}
+{"time": 1722002534, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（1）"}
+{"time": 1722002536, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（姐姐先动吧）"}
+{"time": 1722002537, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（有人没改名）"}
+{"time": 1722002546, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": ".sn"}
+{"time": 1722002546, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已将群名片修改为[弗朗哥 hp12/12 san60/60 dex55]"}
+{"time": 1722002548, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（有人没改名）"}
+{"time": 1722002584, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我看到你有啥问题）"}
+{"time": 1722002606, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我叫你啥好呢）"}
+{"time": 1722002609, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你妹妹大晚上不睡觉，在一个火车站）"}
+{"time": 1722002617, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（薇儿？）"}
+{"time": 1722002621, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不知道）"}
+{"time": 1722002650, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“薇薇？你怎么在这，和朋友出来玩吗”*接过你的矿泉水"}
+{"time": 1722002657, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你妹妹不学习大晚上背个大包来火车站）"}
+{"time": 1722002665, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*撇了一眼，好像是熟人，进仓库躲着了"}
+{"time": 1722002666, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（呃）"}
+{"time": 1722002666, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（正常rp）"}
+{"time": 1722002681, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你熟吗）"}
+{"time": 1722002687, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*留开叙旧的空间"}
+{"time": 1722002703, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“啊，姐姐，好巧，现在不是暑假么，我有个朋友要出去玩，我来火车站送送她”挠挠头"}
+{"time": 1722002763, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“巧吗，我一直在这里打工的嘛。早点回去吧，天色也不晚了”"}
+{"time": 1722002772, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（eric现在是纯路人的状态）"}
+{"time": 1722002795, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*把矿泉水给你"}
+{"time": 1722002796, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*思考自己的事"}
+{"time": 1722002796, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（kp不动的话，我真有可能走了）"}
+{"time": 1722002820, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“一杯水就不用给钱了”"}
+{"time": 1722002832, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#接过矿泉水“好的姐姐，我会小心点，你打工完回家也要注意安全”"}
+{"time": 1722002856, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“嗯”"}
+{"time": 1722002858, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我身上背了个包你不问问吗（）"}
+{"time": 1722002866, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（算了，kp呢）"}
+{"time": 1722002874, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我要离开店了（"}
+{"time": 1722002880, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "全员，过个侦察"}
+{"time": 1722002883, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我问来干啥，在家看不到你的包吗）"}
+{"time": 1722002885, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": ".ra侦查"}
+{"time": 1722002886, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[侦查:80]检定: 1D100=55 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722002888, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
+{"time": 1722002888, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[侦查:80]检定: 1D100=8 极难成功，流水落花春去也，天上人间"}
+{"time": 1722002891, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（哎我还在写文本）"}
+{"time": 1722002895, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra侦查"}
+{"time": 1722002895, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[侦查:46]检定: 1D100=40 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722002935, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*钻出来“要跟上去看看吗？不扣你工资”"}
+{"time": 1722002938, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra侦查"}
+{"time": 1722002938, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[侦查:60]检定: 1D100=23 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722003007, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "侦察成功的人，你们在此时嗅到了一些不同寻常的气味。那种味道有点咸，又有点腥，在潮湿的风中又微微有点臭的味道。像什么呢——好像，是肉腐烂的味道？"}
+{"time": 1722003008, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398507]“好，趁机看看薇薇交了什么朋友去，是不是交男朋友了”"}
+{"time": 1722003062, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*偷偷跟在妹妹后面出去"}
+{"time": 1722003072, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（“额，姐姐，她已经坐火车走了，不过你这店内怎么有奇怪的味道”"}
+{"time": 1722003079, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我在想要不要发这句话）"}
+{"time": 1722003087, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（因为我根本没有离开的动作）"}
+{"time": 1722003093, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（还没走吗）"}
+{"time": 1722003097, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（怎么就当我走了）"}
+{"time": 1722003106, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那就）"}
+{"time": 1722003149, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“什么朋友呀，和姐姐说说呗”*看店里也没啥客人了，饶有兴趣地问下"}
+{"time": 1722003178, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“额，姐姐，一个比较要好的女同学罢了，不过你这店内怎么有奇怪的味道”"}
+{"time": 1722003229, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“挺怪的味道，呕吐物？”"}
+{"time": 1722003230, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“不知道诶，哪个酒鬼喝醉吐了吧”"}
+{"time": 1722003248, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“晚上这里治安可不太好，很多奇奇怪怪的人走来走去的”"}
+{"time": 1722003302, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "店里的气味逐渐浓厚了起来，你们现在能明显的闻到这个味道"}
+{"time": 1722003354, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#捏起鼻子“好难闻啊”"}
+{"time": 1722003371, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（气味源头在店里是吧）"}
+{"time": 1722003381, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（对的）"}
+{"time": 1722003396, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“呃好臭，老板，你什么时候买一堆咸鱼回来了？”*转身"}
+{"time": 1722003427, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“什么味道……”"}
+{"time": 1722003454, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？店里？）"}
+{"time": 1722003465, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（对的捏）"}
+{"time": 1722003467, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我店多大）"}
+{"time": 1722003478, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*找找气味的源头"}
+{"time": 1722003490, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（中小型便利店）"}
+{"time": 1722003505, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（711那么大吗（）"}
+{"time": 1722003538, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我先叫清洁工吧”*拨通前台的电话"}
+{"time": 1722003571, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不先看看是什么吗）"}
+{"time": 1722003585, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#好奇的找找气味源头"}
+{"time": 1722003596, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*寻找源头"}
+{"time": 1722003632, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（是什么都不可能我自己清理吧）"}
+{"time": 1722003635, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在店长拨打电话前，你们很轻易地顺着气味找到了味道的源头——一个血迹斑斑的行李箱，此时正摆在商店大厅中央。"}
+{"time": 1722003667, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“什么时候放在这的？”"}
+{"time": 1722003676, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“这……这什么啊”"}
+{"time": 1722003685, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "行李箱覆盖着斑斑血迹和腐肉，里面散发着的腥臭让你们确定里面的东西正在夏日的微醺中腐坏"}
+{"time": 1722003689, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（什么商店能有大厅）"}
+{"time": 1722003689, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“不会是..有人抛尸了吧”"}
+{"time": 1722003699, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐，那个店长不会是杀人犯吧”瘫坐在地上"}
+{"time": 1722003705, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“也许是谁把冰箱的烂肉丢出来了吧”"}
+{"time": 1722003708, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“真没公德心”"}
+{"time": 1722003711, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "见到行李箱的人，sc0/1d3"}
+{"time": 1722003718, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "见到行李箱的人，sc0/1d3"}
+{"time": 1722003722, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722003723, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……不太正常，我们先出去。用手机报警吧”"}
+{"time": 1722003728, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": ".sc0/1d3"}
+{"time": 1722003728, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行理智检定[60]:\n1D100=62 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=3点,当前剩余[57]点"}
+{"time": 1722003729, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".sc0/1d3"}
+{"time": 1722003729, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行理智检定[65]:\n1D100=14 成功，春风得意马蹄急，一日看尽长安花\n理智减少0=0点,当前剩余[65]点"}
+{"time": 1722003730, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398450]“应该不至于，他人了挺好的”*小声说，偷看了一眼店长"}
+{"time": 1722003733, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".sc0/1d3"}
+{"time": 1722003733, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行理智检定[55]:\n1D100=68 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=2点,当前剩余[53]点"}
+{"time": 1722003741, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": ".sc0/1d3"}
+{"time": 1722003741, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行理智检定[55]:\n1D100=64 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=3点,当前剩余[52]点"}
+{"time": 1722003756, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“抛尸的话，未免也太明目张胆了”"}
+{"time": 1722003756, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(扣0，爽)"}
+{"time": 1722003768, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“先……先报警吧”"}
+{"time": 1722003818, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“都先出来吧”*拉开门，招呼店里的人先出来"}
+{"time": 1722003823, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*看看外面什么情况"}
+{"time": 1722003945, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722003965, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（renne）"}
+{"time": 1722003971, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（别急 在码字）"}
+{"time": 1722003973, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我在）"}
+{"time": 1722003982, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398423][CQ:at,qq=825734198] 侦查"}
+{"time": 1722003987, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra侦查"}
+{"time": 1722003987, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[侦查:80]检定: 1D100=99 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1722003991, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（乐了）"}
+{"time": 1722003992, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#出去呼吸新鲜空气缓解一下紧张的心情"}
+{"time": 1722003993, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（乐）"}
+{"time": 1722003997, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
+{"time": 1722003997, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[侦查:80]检定: 1D100=16 极难成功，流水落花春去也，天上人间"}
+{"time": 1722004008, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*出店"}
+{"time": 1722004010, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra侦查"}
+{"time": 1722004010, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[侦查:60]检定: 1D100=42 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722004019, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file=38264EB1053B8863296C0782AB92D9D3.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=Cgk4MjU3MzQxOTgSFJ0dnIjEUVXOQq7NOMc1CYtFtUPMGJNoIP8KKN2z4u70xIcDUIC9owE&amp;spec=0&amp;rkey=CAESKBkcro_MGujoW6nO6hGbFVOy4PbgC7FIdwm-cLttJnwVKS-ybAY-lfQ,file_size=13331]"}
+{"time": 1722004023, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra侦查"}
+{"time": 1722004023, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[侦查:46]检定: 1D100=85 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722004083, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（好的）"}
+{"time": 1722004091, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（大失败的有难喽）"}
+{"time": 1722004097, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（还是得靠我）"}
+{"time": 1722004099, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我先给成功）"}
+{"time": 1722004100, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file=83E8CA1B2793D69BEB0F6F8A65329BD0.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=Cgk4MjU3MzQxOTgSFG3n1ZszpiK2eeFQKH-xw6CfCn5-GPt1IP8KKIbk8ZT1xIcDUIC9owE&amp;spec=0&amp;rkey=CAESKBkcro_MGujoW6nO6hGbFVOy4PbgC7FIdwm-cLttJnwVKS-ybAY-lfQ,file_size=15099]"}
+{"time": 1722004115, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（笑死）"}
+{"time": 1722004137, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（快进到撕卡）"}
+{"time": 1722004156, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（草食龙难道可以去劫了？）"}
+{"time": 1722004158, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我要跑多少个团才能迎来我的he呢）"}
+{"time": 1722004159, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（看一眼就4️⃣ 这不是癫火吗）"}
+{"time": 1722004165, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我刚下线）"}
+{"time": 1722004176, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（偷偷劫是吧）"}
+{"time": 1722004177, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "先来全员信息 成不成功都有的"}
+{"time": 1722004185, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你的小店要被抢劫了）"}
+{"time": 1722004228, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "嘟——列车的汽笛声想起，传来了铁轨哐当哐当的声音。似乎是有火车进站了"}
+{"time": 1722004258, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "常在火车站附近人，感觉这班车好像比平日略晚了一些"}
+{"time": 1722004267, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "然后是侦查信息"}
+{"time": 1722004365, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "侦查成功的人，你们明显感觉门外的温度分外炎热，仿佛自己正处于一座蒸锅之中。偶尔有微风划过，但带来的只是混杂着热气的热风"}
+{"time": 1722004408, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（夏天不热吗）"}
+{"time": 1722004420, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（这是要成功才会感觉热吗）"}
+{"time": 1722004424, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好怪哦）"}
+{"time": 1722004430, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（现在是什么时候）"}
+{"time": 1722004436, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（失败了怎么会有空调）"}
+{"time": 1722004436, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（说是癫火也没错吧）"}
+{"time": 1722004438, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（深夜吧）"}
+{"time": 1722004439, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在火车站的对面，你们看到了英国大选的选举海报。上面的人是工党的哈罗德对战保守党的修牧"}
+{"time": 1722004441, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（7月20日）"}
+{"time": 1722004445, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（答案是看描述）"}
+{"time": 1722004451, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（古神的影响力和认知也确实有点关系）"}
+{"time": 1722004453, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我给了描述都是有用的）"}
+{"time": 1722004500, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398328]你们不认识这两个人，但是觉得海报的风格都显得很复古，像是历史书上的海报"}
+{"time": 1722004507, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（然后是大失败）"}
+{"time": 1722004511, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（赫赫赫赫）"}
+{"time": 1722004515, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（能灵感吗）"}
+{"time": 1722004522, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哦不认识）"}
+{"time": 1722004524, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（一会给你灵感）"}
+{"time": 1722004540, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（想要骰子自己说）"}
+{"time": 1722004630, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不对 等我找下sc）"}
+{"time": 1722004691, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不是哥们 怎么不给sc多少的）"}
+{"time": 1722004707, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": " （自己随便扣）"}
+{"time": 1722004713, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（自己随便扣）"}
+{"time": 1722004715, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你说得对）"}
+{"time": 1722004836, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=825734198] 在开门时，你的眼角余光看到了远方驶来的火车。但是比起火车，你在火车周围看到了更难以置信的东西——一个身上长满触手，眼睛的东西正在懒洋洋的空中漂浮。"}
+{"time": 1722004882, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:image,file=1BAE2EC139F112AAFE5B34937DA179BB.jpg,url=https://gchat.qpic.cn/gchatpic_new/1985245608/2067565322-2825135014-1BAE2EC139F112AAFE5B34937DA179BB/0?term=255&amp;is_origin=0,file_size=177035]"}
+{"time": 1722004890, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "参考图片"}
+{"time": 1722004891, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "？"}
+{"time": 1722004893, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（？）"}
+{"time": 1722004895, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722004897, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722004898, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（草）"}
+{"time": 1722004899, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "+铁p"}
+{"time": 1722004902, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "()"}
+{"time": 1722004904, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（？）"}
+{"time": 1722004905, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "sc1d6/1d12"}
+{"time": 1722004921, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "sc1d8/1d15"}
+{"time": 1722004926, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "（？）"}
+{"time": 1722004927, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722004930, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（？）"}
+{"time": 1722004932, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（？）"}
+{"time": 1722004933, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": ".sc1d8/1d15"}
+{"time": 1722004933, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行理智检定[57]:\n1D100=74 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d15=13点,当前剩余[44]点"}
+{"time": 1722004937, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（下线了家人们）"}
+{"time": 1722004941, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我只能说他没给描述 但是确实是很像这个）"}
+{"time": 1722004941, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。li"}
+{"time": 1722004941, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[草食龙]疯狂发作-总结症状:\n你抽到了:\n7) 被收容（Institutionalized）：调查员在精神病院病房或警察局牢房中回过神来，他们可能会慢慢回想起导致自己被关在这里的事情。"}
+{"time": 1722004944, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（直接似了是吧）"}
+{"time": 1722004948, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（脱出了）"}
+{"time": 1722004952, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（另外sc也没给）"}
+{"time": 1722004964, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（这个sc是我编的）"}
+{"time": 1722004968, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（加纳，我的戏份结束了）"}
+{"time": 1722004976, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（被收容？）"}
+{"time": 1722004986, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（但是你这13有点难绷了）"}
+{"time": 1722004995, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(会想你的)"}
+{"time": 1722004996, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（怎么说呢）"}
+{"time": 1722005002, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（是相当于被关了？）"}
+{"time": 1722005003, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（没见过d15的骰子）"}
+{"time": 1722005008, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（唉要不给你们点机会吧）"}
+{"time": 1722005015, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我不下手那么狠了）"}
+{"time": 1722005022, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147398257]（参考你们沙影被密大软禁）"}
+{"time": 1722005024, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "sc1d6/1d12"}
+{"time": 1722005028, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能精神分析吗）"}
+{"time": 1722005032, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st san+13"}
+{"time": 1722005032, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]的人物卡已更新:\n[SAN]: 44+13=57"}
+{"time": 1722005032, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "传统派"}
+{"time": 1722005034, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".st show 精神分析"}
+{"time": 1722005034, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]的[精神分析]: 40"}
+{"time": 1722005042, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。sc1d6/1d12"}
+{"time": 1722005042, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行理智检定[57]:\n1D100=37 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d6=2点,当前剩余[55]点"}
+{"time": 1722005050, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（还行）"}
+{"time": 1722005052, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（孩子们，我回来了）"}
+{"time": 1722005064, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（让你多活一会只能说）"}
+{"time": 1722005070, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（乐 那li怎么说）"}
+{"time": 1722005101, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147398259]（扣1果然复活了）"}
+{"time": 1722005101, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（无了呗）"}
+{"time": 1722005105, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（兄弟们现在有点抽象）"}
+{"time": 1722005107, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那是什……不对，太诡异了，不能让那辆火车进站……！”"}
+{"time": 1722005116, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（当那个骰子不存在）"}
+{"time": 1722005123, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我导找我，问着问着）"}
+{"time": 1722005133, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（说起了他陈年往事，草了）"}
+{"time": 1722005175, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“怎么了？”"}
+{"time": 1722005183, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（一边跑团一边回我到了属于是）"}
+{"time": 1722005193, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398234]“什么火车？”"}
+{"time": 1722005207, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（说起来我这便利店是什么样的）"}
+{"time": 1722005220, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（开在站台上还是还隔着闸机之类的）"}
+{"time": 1722005244, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“为什么，叔叔，你看到了什么”"}
+{"time": 1722005257, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（火车站外面广场的便利店）"}
+{"time": 1722005264, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不在站里）"}
+{"time": 1722005265, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147398355]（[CQ:at,qq=1985245608]"}
+{"time": 1722005273, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我这什么超强视距）"}
+{"time": 1722005293, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（广场视野很开阔的）"}
+{"time": 1722005303, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（火车进站也不是很远）"}
+{"time": 1722005308, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（还好吧）"}
+{"time": 1722005337, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（就是车站出站口进站口都会有的广场上的超市 跟车站是一栋楼）"}
+{"time": 1722005385, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（so？）"}
+{"time": 1722005398, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那辆车……像个大号行李箱，店里那个”*准备好枪械"}
+{"time": 1722005407, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？）"}
+{"time": 1722005423, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（对，对吗）"}
+{"time": 1722005444, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我之后可能去局子里呆会……你帮我解释一下，最好让警察快点来”"}
+{"time": 1722005463, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*对爱丽丝说"}
+{"time": 1722005480, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": " “啊？这火车和往常的有什么不一样吗”"}
+{"time": 1722005496, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398203]“你想干什么？”"}
+{"time": 1722005497, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（对了，是不是能对海报灵感来着）"}
+{"time": 1722005501, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你已经报警了是吧）"}
+{"time": 1722005533, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（还没）"}
+{"time": 1722005539, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（刚打算报警就大失败）"}
+{"time": 1722005588, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398206]“等等”*按住你拿枪的手，“这个火车，有什么问题吗，有什么人？”"}
+{"time": 1722005607, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（1）"}
+{"time": 1722005615, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（行李箱还没打开看过吧）"}
+{"time": 1722005619, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你们不进去看一眼）"}
+{"time": 1722005623, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（有点好奇的）"}
+{"time": 1722005625, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“你对那个行李箱知道些什么吗？”"}
+{"time": 1722005631, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（sc警告）"}
+{"time": 1722005632, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（感觉看了掉san）"}
+{"time": 1722005637, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“薇薇，你先报警吧”"}
+{"time": 1722005640, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（谁知道呢）"}
+{"time": 1722005649, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“好”"}
+{"time": 1722005653, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你都跑coc了还怕掉san）"}
+{"time": 1722005658, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#报警"}
+{"time": 1722005667, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（合理rp为优先级）"}
+{"time": 1722005670, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "过幸运"}
+{"time": 1722005678, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra幸运"}
+{"time": 1722005678, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[幸运:65]检定: 1D100=60 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722005680, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我们没人见过那个行李箱怎么进来的吧……就好像凭空出现一样。那辆车，也像”"}
+{"time": 1722005701, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（都过幸运吗）"}
+{"time": 1722005702, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“也许你该去的是精神病院吧。”"}
+{"time": 1722005714, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "嘟——嘟——"}
+{"time": 1722005717, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（打电话才过吧）"}
+{"time": 1722005721, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（只要报警的人）"}
+{"time": 1722005725, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147398198]（）"}
+{"time": 1722005740, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在漫长的嘟嘟声后，电话被接听了"}
+{"time": 1722005746, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“警察叔叔，我在伦敦火车站的xx便利店，这里出现了一个恐怖的行李箱，上面沾有好多血”害怕的颤颤巍巍的说"}
+{"time": 1722005749, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398168][CQ:at,qq=825734198] （你没看到海报的异常）"}
+{"time": 1722005758, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你灵感什么）"}
+{"time": 1722005767, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我可以灵感吗）"}
+{"time": 1722005777, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（[CQ:at,qq=1985245608]"}
+{"time": 1722005789, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“你们在哪？伦敦火车站附近吗？”"}
+{"time": 1722005791, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（海报上的人）"}
+{"time": 1722005799, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398162][CQ:at,qq=1040972910] （先打完电话）"}
+{"time": 1722005800, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（总感觉这个描述像穿越了）"}
+{"time": 1722005816, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147398161]（byd我不是说了伦敦火车站的xx便利店么[CQ:at,qq=1985245608]"}
+{"time": 1722005819, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（怎么会事呢）"}
+{"time": 1722005830, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“对的，叔叔，我们现在在便利店外面”"}
+{"time": 1722005836, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我能灵感吗）"}
+{"time": 1722005838, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": " （这就穿越啦）"}
+{"time": 1722005843, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“那个箱子就像凭空出现的一样”"}
+{"time": 1722005849, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“话说那个海报……好奇怪啊”"}
+{"time": 1722005852, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“好的，情况我大致了解了，请各位在原地稍作等待，我们马上就到”"}
+{"time": 1722005858, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*自言自语"}
+{"time": 1722005864, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“什么海报？”"}
+{"time": 1722005870, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1040972910] 过个侦查"}
+{"time": 1722005882, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
+{"time": 1722005882, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[侦查:80]检定: 1D100=87 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722005889, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（😰😰😰😰）"}
+{"time": 1722005914, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "无事发生"}
+{"time": 1722005924, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你想过灵感过吧）"}
+{"time": 1722005925, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“你没看见吗？就那边那个”"}
+{"time": 1722005927, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（侦查成功我是不是也要sc）"}
+{"time": 1722005933, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra灵感"}
+{"time": 1722005933, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[灵感:90]检定: 1D100=71 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722005939, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。ra灵感"}
+{"time": 1722005939, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[灵感:65]检定: 1D100=54 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722005942, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra灵感"}
+{"time": 1722005942, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[灵感:80]检定: 1D100=71 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722005943, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（这个不是 这个就是单纯情报）"}
+{"time": 1722005955, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:reply,id=-2147398136]（[CQ:at,qq=825734198] 你不是大失败了）"}
+{"time": 1722005963, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398139]*顺着她说的看过去"}
+{"time": 1722005968, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我回来了.jpg）"}
+{"time": 1722005985, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "灵感成功的人，你们好像在历史课本上见过这两位"}
+{"time": 1722006000, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（尼伯龙根.jpg）"}
+{"time": 1722006006, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra灵感"}
+{"time": 1722006006, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[灵感:60]检定: 1D100=13 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722006014, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "好像是50年前的参选者"}
+{"time": 1722006031, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“这两个好像，什么地方见到过？”"}
+{"time": 1722006049, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“真邪门……之前挂的是这样的海报？这是谁的恶作剧吗？”"}
+{"time": 1722006066, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147398124](老师，我不上课的[CQ:at,qq=1985245608]"}
+{"time": 1722006073, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（乐队少女怎么会看书）"}
+{"time": 1722006076, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398115][CQ:at,qq=1040972910] 那你不知道"}
+{"time": 1722006077, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（哎，摇滚）"}
+{"time": 1722006084, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不登校.jpg）"}
+{"time": 1722006102, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*往车站里走，沿途观察其他路人的行为"}
+{"time": 1722006111, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（有一说一进度比我想的要慢）"}
+{"time": 1722006135, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不知道）"}
+{"time": 1722006137, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（文字团是这样的呀）"}
+{"time": 1722006140, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（因为都在括号）"}
+{"time": 1722006141, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（大家括号太多了（）"}
+{"time": 1722006148, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398110][CQ:at,qq=825734198] 出门的瞬间，你注意到天空中其他的方向还有两只"}
+{"time": 1722006154, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（因为没人想摸行李箱）"}
+{"time": 1722006157, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（呃呃）"}
+{"time": 1722006161, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147398110]*跟上，担心他发什么电"}
+{"time": 1722006171, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（没有那个动机去摸）"}
+{"time": 1722006172, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#跟紧姐姐"}
+{"time": 1722006176, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（除非我是刑警）"}
+{"time": 1722006183, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*跟随"}
+{"time": 1722006185, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398095][CQ:at,qq=1159237057] （你出来吗）"}
+{"time": 1722006187, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "好的"}
+{"time": 1722006194, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我优先担心店长的心理状态）"}
+{"time": 1722006199, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "那么你们仨也看到了"}
+{"time": 1722006204, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147398095]（[CQ:at,qq=1159237057] （你带个面具吗）"}
+{"time": 1722006205, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（乐了）"}
+{"time": 1722006205, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我凑热闹）"}
+{"time": 1722006208, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（有点恐怖的）"}
+{"time": 1722006210, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（队友也干了）"}
+{"time": 1722006211, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "sc1d6/1d12"}
+{"time": 1722006218, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。sc1d6/1d12"}
+{"time": 1722006218, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行理智检定[52]:\n1D100=27 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d6=1点,当前剩余[51]点"}
+{"time": 1722006219, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我们应该怀疑你干的）"}
+{"time": 1722006219, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（？）"}
+{"time": 1722006224, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（什么本啊这是）"}
+{"time": 1722006231, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（什么本呢）"}
+{"time": 1722006232, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（癫火本）"}
+{"time": 1722006235, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。sc1d6/1d12"}
+{"time": 1722006235, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行理智检定[65]:\n1D100=57 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d6=3点,当前剩余[62]点"}
+{"time": 1722006244, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（很狗屎的一个本）"}
+{"time": 1722006246, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（到这里我已经觉得我们在做梦了）"}
+{"time": 1722006254, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（只能说不能我一个人在赤石）"}
+{"time": 1722006266, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（姐姐快sc）"}
+{"time": 1722006268, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我吃了那么久的矢你们也得吃）"}
+{"time": 1722006294, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794]"}
+{"time": 1722006305, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。sc1d6/1d12"}
+{"time": 1722006305, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行理智检定[53]:\n1D100=52 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d6=6点,当前剩余[47]点"}
+{"time": 1722006311, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（这不是拉满）"}
+{"time": 1722006311, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（好）"}
+{"time": 1722006317, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（终于等到你）"}
+{"time": 1722006319, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ti"}
+{"time": 1722006319, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[森の月]疯狂发作-临时症状:\n你抽到了:\n3) 暴力倾向 ：调查员陷入了六亲不认的暴力行为中，对周围的敌人与友方进行着无差别的攻击，持续1D10=2轮。"}
+{"time": 1722006324, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（okd）"}
+{"time": 1722006325, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（好好好）"}
+{"time": 1722006325, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（帅）"}
+{"time": 1722006329, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那太棒了）"}
+{"time": 1722006330, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".rd3"}
+{"time": 1722006331, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]演奏出: 1D3=2"}
+{"time": 1722006347, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722006353, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我打谁呢）"}
+{"time": 1722006356, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（kp选吧）"}
+{"time": 1722006363, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（认识你的捍卫者）"}
+{"time": 1722006369, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rd3"}
+{"time": 1722006369, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D3=2"}
+{"time": 1722006408, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那就是打妹妹  我按群id的名单顺序来的）"}
+{"time": 1722006415, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（这还真不是我要搞事）"}
+{"time": 1722006416, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（能阻拦吗）"}
+{"time": 1722006421, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（不能我就摆了）"}
+{"time": 1722006422, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（但是你门先别急）"}
+{"time": 1722006426, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（没点斗殴.jpg）"}
+{"time": 1722006430, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（等我先给个描述）"}
+{"time": 1722006462, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（重要之人啊）"}
+{"time": 1722006463, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（感觉那个描述不像死亡）"}
+{"time": 1722006466, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能不能过个意志）"}
+{"time": 1722006472, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（像法环那个大乌贼）"}
+{"time": 1722006569, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在出门的瞬间，你们所有人都看到了那些在空中优雅的摇曳的家伙。它们没有目标，也没有急躁，只是不紧不慢的在空中散步，偶尔伸出一只触手，从广场上选取一只惊慌失措逃跑的倒霉蛋，送入那个姑且勉强能称之为嘴的东西里"}
+{"time": 1722006582, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "全员 1d3/1d6"}
+{"time": 1722006589, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。r1d3/1d6"}
+{"time": 1722006589, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]演奏出: 1d3/1d6={1}/{4}=0"}
+{"time": 1722006599, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。sc1d3/1d6"}
+{"time": 1722006599, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行理智检定[55]:\n1D100=87 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d6=1点,当前剩余[54]点"}
+{"time": 1722006604, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。scr1d3/1d6"}
+{"time": 1722006604, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行理智检定[51]:\n1D100=65 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d6=5点,当前剩余[46]点"}
+{"time": 1722006606, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。sc1d3/1d6"}
+{"time": 1722006606, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行理智检定[47]:\n1D100=84 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d6=2点,当前剩余[45]点"}
+{"time": 1722006612, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。sc1d6/1d12"}
+{"time": 1722006612, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行理智检定[62]:\n1D100=37 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d6=6点,当前剩余[56]点"}
+{"time": 1722006624, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（好姐妹一起疯）"}
+{"time": 1722006632, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（感觉可以结团了）"}
+{"time": 1722006633, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不对）"}
+{"time": 1722006638, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我复制错了）"}
+{"time": 1722006646, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（难绷）"}
+{"time": 1722006646, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st san+6"}
+{"time": 1722006646, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]的人物卡已更新:\n[SAN]: 56+6=62"}
+{"time": 1722006650, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你这也太远了）"}
+{"time": 1722006653, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。sc1d3/1d6"}
+{"time": 1722006653, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行理智检定[62]:\n1D100=25 成功，春风得意马蹄急，一日看尽长安花\n理智减少1d3=3点,当前剩余[59]点"}
+{"time": 1722006657, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你们能够透过它们看到后面的房子，树。这些建筑散发着淡蓝色的光晕"}
+{"time": 1722006684, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（感觉该开摆了）"}
+{"time": 1722006717, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "可以过个侦查"}
+{"time": 1722006725, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
+{"time": 1722006725, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[侦查:80]检定: 1D100=78 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722006725, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra侦查"}
+{"time": 1722006725, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[侦查:60]检定: 1D100=40 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722006743, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra侦查"}
+{"time": 1722006743, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[侦查:80]检定: 1D100=31 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722006758, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "成功的人，你们注意到祂伸出触手抓人时触手穿过了路径上的树枝"}
+{"time": 1722006761, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我应该不能侦查了吧）"}
+{"time": 1722006767, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147398013][CQ:at,qq=1985245608] （是建筑整体发蓝光，还是透过身体看到的部分发光）"}
+{"time": 1722006774, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你可以试试）"}
+{"time": 1722006778, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147398000][CQ:at,qq=825734198] （后者）"}
+{"time": 1722006795, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra侦查"}
+{"time": 1722006795, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[侦查:46]检定: 1D100=49 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722006808, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "困难成功的人，你感觉触手穿过的时候速度略微下降了一点"}
+{"time": 1722006817, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我直接开揍？还是你先描述完）"}
+{"time": 1722006819, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（好了 该打架了）"}
+{"time": 1722006825, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我描述完了）"}
+{"time": 1722006828, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（这么快）"}
+{"time": 1722006835, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（只能说是这样的）"}
+{"time": 1722006847, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“哈哈哈哈哈哈哈，这些都是什么啊，这是世界是疯了吧”*掏枪"}
+{"time": 1722006850, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这……是……什么……见鬼，得找车”"}
+{"time": 1722006856, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？掏枪？）"}
+{"time": 1722006862, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（暴力倾向了）"}
+{"time": 1722006866, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*冲上去压住她的手"}
+{"time": 1722006876, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397982][CQ:at,qq=1159237057] 敏捷对抗"}
+{"time": 1722006879, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你还有枪呐）"}
+{"time": 1722006881, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“别激动！”"}
+{"time": 1722006885, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你们俩扔敏捷吧"}
+{"time": 1722006886, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（对抗怎么搞（）"}
+{"time": 1722006889, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra敏捷"}
+{"time": 1722006889, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[敏捷:75]检定: 1D100=29 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722006894, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你给的 我设定是）"}
+{"time": 1722006897, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra敏捷"}
+{"time": 1722006897, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[敏捷:75]检定: 1D100=95 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722006907, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（怎么不是大失败）"}
+{"time": 1722006910, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（可惜了）"}
+{"time": 1722006913, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我怎么还给你这种东西）"}
+{"time": 1722006914, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722006916, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（呵呵）"}
+{"time": 1722006919, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不许大失败）"}
+{"time": 1722006920, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐，你怎么了，你别吓我”"}
+{"time": 1722006928, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147397969]（我心理想的 嘿嘿）"}
+{"time": 1722006934, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（所以我能有）"}
+{"time": 1722006937, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哎，没点驾驶）"}
+{"time": 1722006939, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“怎么疯了两个了”"}
+{"time": 1722006949, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1159237057] 眼疾手快，压住了格林抬枪的手"}
+{"time": 1722006961, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？哪有两个）"}
+{"time": 1722006966, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不就一个姐姐吗）"}
+{"time": 1722006967, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（就一个其实）"}
+{"time": 1722006973, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（之前那个讲话不也挺疯的）"}
+{"time": 1722006991, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*回头再看一眼店里，行李箱和其周围有什么变化吗"}
+{"time": 1722007017, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147397959]“放开！”"}
+{"time": 1722007020, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "行李箱中渗出的血水流的到处都是"}
+{"time": 1722007023, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*挣扎"}
+{"time": 1722007031, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "除此之外没什么异常"}
+{"time": 1722007041, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397951]店门口那片区域内"}
+{"time": 1722007051, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐，冷静一下”上去抱住姐姐"}
+{"time": 1722007055, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（惨了 好像只有我精神分析）"}
+{"time": 1722007065, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（赫赫）"}
+{"time": 1722007109, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“火车上也有这个东西……车上的人，恐怕已经……”"}
+{"time": 1722007136, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“真是不对劲。”"}
+{"time": 1722007144, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*夺走爱丽丝的枪"}
+{"time": 1722007146, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147397947]（我可以过个意志冷静一下吗）"}
+{"time": 1722007150, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“先试试看能不能不引起注意走掉吧”*从货架上丢两瓶酒到行李箱旁边"}
+{"time": 1722007152, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不是真要打重要之人吧）"}
+{"time": 1722007156, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147397939]（也就两轮）"}
+{"time": 1722007177, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你自己解不开的）"}
+{"time": 1722007200, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st show精神分析"}
+{"time": 1722007200, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]的[精神分析]: 1"}
+{"time": 1722007205, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（妹妹倒是可以考虑过个什么技能）"}
+{"time": 1722007207, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（那我枪夺了吗）"}
+{"time": 1722007217, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“把枪还给我，这个世界疯了，你们也疯了！”"}
+{"time": 1722007223, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397931][CQ:at,qq=1159237057] 你只是压下去了"}
+{"time": 1722007224, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（她总不能一拳给我面具干碎吧）"}
+{"time": 1722007234, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:reply,id=-2147397940]（）"}
+{"time": 1722007237, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147397932]（这样吗[CQ:at,qq=1985245608]"}
+{"time": 1722007239, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*尝试推开你们"}
+{"time": 1722007249, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397927][CQ:at,qq=1159237057] 过个力量对抗"}
+{"time": 1722007250, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐冷静一下啊”"}
+{"time": 1722007258, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra力量"}
+{"time": 1722007258, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[力量:60]检定: 1D100=52 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722007261, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（不带奶的后果）"}
+{"time": 1722007266, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794]"}
+{"time": 1722007268, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（没有奖励骰吗）"}
+{"time": 1722007272, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra力量"}
+{"time": 1722007272, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[力量:35]检定: 1D100=43 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722007275, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我们两个人哎）"}
+{"time": 1722007280, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（好险我是弱女子哦）"}
+{"time": 1722007282, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（用不到）"}
+{"time": 1722007295, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（模组有一种）"}
+{"time": 1722007299, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "Eric抢过手枪"}
+{"time": 1722007300, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不知道该干什么的美）"}
+{"time": 1722007308, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397909][CQ:at,qq=825734198] （对吧）"}
+{"time": 1722007312, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147397909]（难绷）"}
+{"time": 1722007315, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（完全没有引导）"}
+{"time": 1722007321, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不说不知道该干嘛）"}
+{"time": 1722007325, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（只要有kp就好了）"}
+{"time": 1722007326, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（都不知道能干嘛）"}
+{"time": 1722007331, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（诶我有精神分析）"}
+{"time": 1722007332, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（能用吗）"}
+{"time": 1722007337, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（过）"}
+{"time": 1722007338, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（可以吧）"}
+{"time": 1722007339, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（不对看错了）"}
+{"time": 1722007345, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（点错了没事了）"}
+{"time": 1722007355, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（你害怕就show一下）"}
+{"time": 1722007362, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147397938]*点着打火机丢过去，这个样子也撑不到警察来了"}
+{"time": 1722007367, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397926]（姐妹羁绊放的水）"}
+{"time": 1722007395, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我弹个吉他让你冷静一下）"}
+{"time": 1722007404, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（现场来首春日影）"}
+{"time": 1722007416, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好快的烧）"}
+{"time": 1722007420, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我还想去看看呢）"}
+{"time": 1722007446, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我怕烧完还能看）"}
+{"time": 1722007449, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "行李箱熊熊燃烧，散发出难闻的气味"}
+{"time": 1722007468, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "很快化为了灰烬"}
+{"time": 1722007478, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "全员，过个侦查"}
+{"time": 1722007480, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（那俩姐妹怎么样了）"}
+{"time": 1722007483, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra侦查"}
+{"time": 1722007483, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[侦查:60]检定: 1D100=26 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722007490, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“快走吧，麻烦你们先按着她。我们去停车场”"}
+{"time": 1722007492, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra侦查"}
+{"time": 1722007492, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[侦查:80]检定: 1D100=58 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722007495, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（姐妹俩也没过技能啊）"}
+{"time": 1722007501, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（再打一轮吧）"}
+{"time": 1722007501, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我该rp克里斯汀了）"}
+{"time": 1722007510, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147397874]（我不是问你么[CQ:at,qq=1985245608]"}
+{"time": 1722007514, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra乐器"}
+{"time": 1722007514, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[乐器:60]检定: 1D100=88 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722007522, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好想斗殴把她打晕）"}
+{"time": 1722007524, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（真就演奏是吧）"}
+{"time": 1722007536, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你姐姐也没听过春日影啊）"}
+{"time": 1722007539, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#太紧张了没有发挥实力"}
+{"time": 1722007557, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“对不起了姐姐”"}
+{"time": 1722007558, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "侦查成功的人，你们感觉天上的东西似乎注意到了这里，不像之前那样悠闲了，开始慢慢向这里飞过来"}
+{"time": 1722007561, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra斗殴"}
+{"time": 1722007561, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[斗殴:70]检定: 1D100=51 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722007563, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra力量"}
+{"time": 1722007563, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[力量:35]检定: 1D100=13 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722007565, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（大失败不会要弹lost rivers吧）"}
+{"time": 1722007565, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*尝试挣扎"}
+{"time": 1722007569, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#电击枪电姐姐"}
+{"time": 1722007587, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722007592, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（不是被我按着）"}
+{"time": 1722007594, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（什么姐妹情深）"}
+{"time": 1722007596, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（相爱相杀）"}
+{"time": 1722007601, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（爱了爱了）"}
+{"time": 1722007615, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（电击枪我记着是斗殴吧）"}
+{"time": 1722007615, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra力量"}
+{"time": 1722007615, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[力量:60]检定: 1D100=33 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722007630, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好 摁不住了）"}
+{"time": 1722007647, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（帅）"}
+{"time": 1722007648, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147397850]（是啊[CQ:at,qq=1985245608]"}
+{"time": 1722007652, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397856][CQ:at,qq=1040972910] 过斗殴"}
+{"time": 1722007654, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147397862]（这里么）"}
+{"time": 1722007656, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“这小妮子什么蛮劲……”"}
+{"time": 1722007658, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我过过了）"}
+{"time": 1722007670, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147397861]（）"}
+{"time": 1722007681, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra斗殴"}
+{"time": 1722007681, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[斗殴:25]检定: 1D100=100 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1722007687, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（草）"}
+{"time": 1722007687, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（哦豁）"}
+{"time": 1722007692, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（昏过去吧）"}
+{"time": 1722007697, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*一拳挥过去"}
+{"time": 1722007703, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不是你斗殴什么）"}
+{"time": 1722007704, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不会直接电死吧）"}
+{"time": 1722007705, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（物理意义上冷静下来了）"}
+{"time": 1722007711, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（反击啊）"}
+{"time": 1722007711, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（她说她要反击）"}
+{"time": 1722007715, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（她电我 我不能反击吗）"}
+{"time": 1722007724, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“对不起了，姐姐，你先冷静一下吧”"}
+{"time": 1722007729, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（有一说一电击枪是枪）"}
+{"time": 1722007738, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你还真不能反击）"}
+{"time": 1722007746, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（过体质吧）"}
+{"time": 1722007746, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（还好我被甩开了 不然我也得被电）"}
+{"time": 1722007764, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不是 为什么枪过斗殴）"}
+{"time": 1722007772, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（很神奇吧）"}
+{"time": 1722007776, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（电击枪是近战啊）"}
+{"time": 1722007781, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不是接触的吗）"}
+{"time": 1722007785, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（总不能透支）"}
+{"time": 1722007789, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（投掷）"}
+{"time": 1722007790, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（泰瑟枪还是有射速的啊）"}
+{"time": 1722007798, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（电击枪是电击枪）"}
+{"time": 1722007803, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（泰瑟枪是泰瑟枪）"}
+{"time": 1722007810, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（唉）"}
+{"time": 1722007810, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（斗殴那个其实叫电击器也行）"}
+{"time": 1722007814, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那行吧）"}
+{"time": 1722007822, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那你没救了）"}
+{"time": 1722007839, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794] 过个体质"}
+{"time": 1722007853, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra体质"}
+{"time": 1722007853, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[体质:55]检定: 1D100=38 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722007860, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（嘿嘿我晕了吗）"}
+{"time": 1722007867, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我没晕）"}
+{"time": 1722007875, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "晕过去了"}
+{"time": 1722007886, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "体质是看死没死"}
+{"time": 1722007890, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（？）"}
+{"time": 1722007893, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（逆天）"}
+{"time": 1722007894, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722007901, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你都大失败了还想着清醒呢？"}
+{"time": 1722007905, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（这就要被电死了 太抽象了）"}
+{"time": 1722007915, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（1d3电死是否有点离谱）"}
+{"time": 1722007918, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（多少伤害啊电击枪 电死是不是有一点）"}
+{"time": 1722007918, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（哎手刃姐姐）"}
+{"time": 1722007921, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".r1d3"}
+{"time": 1722007921, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]演奏出: 1D3=3"}
+{"time": 1722007927, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（哈哈）"}
+{"time": 1722007941, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794] 试图反击，但是一手抓一个电极直接昏死过去"}
+{"time": 1722007964, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st show力量"}
+{"time": 1722007964, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]的[力量]: 60"}
+{"time": 1722007972, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".st show 力量"}
+{"time": 1722007972, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]的[力量]: 35"}
+{"time": 1722007979, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（姐姐怎么回事）"}
+{"time": 1722007982, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我才35 怎么回事呢）"}
+{"time": 1722007989, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rd6"}
+{"time": 1722007989, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D6=2"}
+{"time": 1722007991, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（弹吉他的连成筋肉少女了吗）"}
+{"time": 1722007994, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“好危险啊你们这些小姑娘”"}
+{"time": 1722007995, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "昏两轮"}
+{"time": 1722008008, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（2轮是2h？）"}
+{"time": 1722008029, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我能不能用音乐的力量唤醒她[CQ:at,qq=1985245608] ）"}
+{"time": 1722008029, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“那按你说的把她抬去停车场吧”"}
+{"time": 1722008033, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（）"}
+{"time": 1722008040, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“我得回去看看克里斯汀有没有事”"}
+{"time": 1722008044, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（不得不单独行动了）"}
+{"time": 1722008049, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你要不过个急救吧）"}
+{"time": 1722008059, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（音乐不行）"}
+{"time": 1722008065, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那是坟头蹦迪）"}
+{"time": 1722008067, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st show急救"}
+{"time": 1722008067, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]的[急救]: 30"}
+{"time": 1722008074, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra急救"}
+{"time": 1722008074, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[急救:30]检定: 1D100=77 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008078, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（失败了）"}
+{"time": 1722008089, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（往好处想不是大失败）"}
+{"time": 1722008103, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（开局到现在已经接近三个大失败了）"}
+{"time": 1722008110, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“我看看能不能为她处理一下”"}
+{"time": 1722008114, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra急救"}
+{"time": 1722008114, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[急救:30]检定: 1D100=79 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008117, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……不知道醒了会是什么样，先去停车场吧”*把爱丽丝背起来"}
+{"time": 1722008126, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“哎 没办法”"}
+{"time": 1722008139, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那些玩意好像在往我们这边靠”"}
+{"time": 1722008162, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。r1d5"}
+{"time": 1722008162, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D5=3"}
+{"time": 1722008170, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“无论如何我也得去看克里斯汀的情况了”"}
+{"time": 1722008171, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*前往停车场"}
+{"time": 1722008197, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#把姐姐背起来"}
+{"time": 1722008218, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:reply,id=-2147397748]（？）"}
+{"time": 1722008223, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（你们两个人背？）"}
+{"time": 1722008229, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722008239, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "出门时，你们明显感觉祂们在加速向你们的方向飞来"}
+{"time": 1722008243, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st show力量"}
+{"time": 1722008243, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]的[力量]: 55"}
+{"time": 1722008258, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我在想我怎么杀呢）"}
+{"time": 1722008274, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（背人一般是力量和体型对抗？）"}
+{"time": 1722008307, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".st show size"}
+{"time": 1722008307, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]的[SIZE]: 0"}
+{"time": 1722008313, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（siz）"}
+{"time": 1722008314, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".st show 体型"}
+{"time": 1722008314, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]的[体型]: 35"}
+{"time": 1722008324, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（放水了 不用对抗了）"}
+{"time": 1722008324, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我这么娇小对不对）"}
+{"time": 1722008327, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不用过啦）"}
+{"time": 1722008332, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-2147397731]（还没我力量大[CQ:at,qq=2875548981]"}
+{"time": 1722008340, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（好小的一只姐姐啊）"}
+{"time": 1722008342, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st show siz"}
+{"time": 1722008342, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]的[SIZ]: 40"}
+{"time": 1722008345, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（后面所有动作一个惩罚骰）"}
+{"time": 1722008350, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147397720]（真是筋肉少女吧你）"}
+{"time": 1722008358, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(怎么比我还矮)"}
+{"time": 1722008364, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（到底谁是姐姐（）"}
+{"time": 1722008386, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（谁背）"}
+{"time": 1722008390, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rd4"}
+{"time": 1722008390, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D4=4"}
+{"time": 1722008394, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“叔叔，姐姐还是我来背吧”"}
+{"time": 1722008409, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（到底谁是姐姐啊）"}
+{"time": 1722008443, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……这重要吗？跑起来！”"}
+{"time": 1722008450, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*润润润"}
+{"time": 1722008460, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#跑跑跑"}
+{"time": 1722008462, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（全员过敏捷）"}
+{"time": 1722008472, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra敏捷"}
+{"time": 1722008472, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[敏捷:75]检定: 1D100=64 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722008472, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（背着的要惩罚骰）"}
+{"time": 1722008475, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我不用过是吧）"}
+{"time": 1722008482, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。rap敏捷"}
+{"time": 1722008482, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[敏捷:55]检定: P={1D100=85 punish:[0]}(85)=85 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008484, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你已经是死人了）"}
+{"time": 1722008489, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。ra敏捷"}
+{"time": 1722008489, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[敏捷:65]检定: 1D100=53 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722008496, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（唉）"}
+{"time": 1722008518, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（哎哎哎，姐姐别4了）"}
+{"time": 1722008526, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=825734198] 你感觉祂们正在追你"}
+{"time": 1722008536, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "再来一轮敏捷"}
+{"time": 1722008545, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra敏捷"}
+{"time": 1722008545, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[敏捷:75]检定: 1D100=68 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722008554, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。rap敏捷"}
+{"time": 1722008554, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[敏捷:55]检定: P={1D100=73 punish:[4]}(73)=73 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008555, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（这是我对克里斯汀的爱）"}
+{"time": 1722008563, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（燃吧）"}
+{"time": 1722008565, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“克里斯汀！”"}
+{"time": 1722008571, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。ra敏捷"}
+{"time": 1722008571, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[敏捷:65]检定: 1D100=69 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008583, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（可以燃）"}
+{"time": 1722008585, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“一定要没事啊克里斯汀”"}
+{"time": 1722008589, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*无视另外三个人"}
+{"time": 1722008642, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？谁要燃）"}
+{"time": 1722008659, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不燃）"}
+{"time": 1722008665, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我要和姐姐一起4（）"}
+{"time": 1722008666, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（失败的那个燃呗）"}
+{"time": 1722008666, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不会就似了吧）"}
+{"time": 1722008677, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（真就一晚结团速通）"}
+{"time": 1722008679, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我要去找我的克里斯汀了）"}
+{"time": 1722008689, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*回想起曾经看过长袍运动员的采访节目，运用专业的呼吸技巧，压榨每一块能用上力的肌肉，有氧作无氧地跑"}
+{"time": 1722008690, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=825734198]"}
+{"time": 1722008707, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st luck-18"}
+{"time": 1722008707, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]的人物卡已更新:\n[LUCK]: 0-18=-18"}
+{"time": 1722008715, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st 幸运-18"}
+{"time": 1722008715, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]的人物卡已更新:\n[幸运]: 60-18=42"}
+{"time": 1722008732, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你竭尽全力燃烧自己努力向着停车场奔去"}
+{"time": 1722008748, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你与祂们的距离没有进一步缩小了"}
+{"time": 1722008752, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rd4"}
+{"time": 1722008752, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D4=1"}
+{"time": 1722008778, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（好好好 小雅的旨意那就没办法了）"}
+{"time": 1722008794, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（1号不是草食龙么（）"}
+{"time": 1722008803, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722008853, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=825734198] 你奋力奔跑，但感觉手脚一点点无力，像是整个身体都在融化——"}
+{"time": 1722008865, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "不对，你似乎真的在一点点融化"}
+{"time": 1722008871, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（寄）"}
+{"time": 1722008875, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（姐姐呢）"}
+{"time": 1722008888, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你的身体发出淡蓝色的光，变成半透明的样子"}
+{"time": 1722008906, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "肉体变成半流体，但短时间还能维持人形"}
+{"time": 1722008928, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794] 被重重摔倒地上，醒了过来"}
+{"time": 1722008940, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "格林hp-3"}
+{"time": 1722008950, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“呃，我怎么了”*摸摸头"}
+{"time": 1722008959, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐快跑”"}
+{"time": 1722008964, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嘁……还是没办法……吗”"}
+{"time": 1722008979, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你们可以过个侦查"}
+{"time": 1722008986, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
+{"time": 1722008986, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[侦查:80]检定: 1D100=71 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722008990, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra侦查"}
+{"time": 1722008990, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[侦查:60]检定: 1D100=75 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722008993, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“啊”*立刻跟上步伐"}
+{"time": 1722008996, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（这个本好怪啊）"}
+{"time": 1722008997, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“什么情况啊！！！！”"}
+{"time": 1722009003, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（这个本好怪啊）"}
+{"time": 1722009004, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*把脖子上的金币吊坠摘下来，丢给爱丽丝"}
+{"time": 1722009011, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "哦对了"}
+{"time": 1722009034, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "看到[CQ:at,qq=825734198] 异常的，sc1/1d4+1"}
+{"time": 1722009043, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（难绷）"}
+{"time": 1722009049, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我已经跑了应该没看到吧）"}
+{"time": 1722009058, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".sc1/1d4+1"}
+{"time": 1722009058, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行理智检定[45]:\n1D100=91 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d4+1=4点,当前剩余[41]点"}
+{"time": 1722009058, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不回头就没有）"}
+{"time": 1722009063, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".sc1/1d4+1"}
+{"time": 1722009063, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行理智检定[59]:\n1D100=7 成功，春风得意马蹄急，一日看尽长安花\n理智减少1=1点,当前剩余[58]点"}
+{"time": 1722009066, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我是不是已经li了）"}
+{"time": 1722009069, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:reply,id=-2147397658]（确实没回头）"}
+{"time": 1722009071, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（乐）"}
+{"time": 1722009090, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（li是什么标准来着）"}
+{"time": 1722009108, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（曼1/5）"}
+{"time": 1722009120, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（在没有休息的情况下）"}
+{"time": 1722009133, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（sc扣满意志的1/5）"}
+{"time": 1722009152, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "侦查成功的人，你们感觉祂们飞向店主的动作明显快了不少，就好像前面有一道诱人的美食一样"}
+{"time": 1722009159, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "877791004"}, "sender": {"id": "877791004", "name": "长宁"}, "message": "（就撕一个了？）"}
+{"time": 1722009163, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你满的是多少）"}
+{"time": 1722009171, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（5）"}
+{"time": 1722009173, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（55）"}
+{"time": 1722009185, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我还能侦查吗）"}
+{"time": 1722009191, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。sn"}
+{"time": 1722009191, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已将群名片修改为[Erik hp11/11 san46/55 dex75]"}
+{"time": 1722009196, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“店长你又什么情况啊啊啊啊！！！！！”"}
+{"time": 1722009200, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那你li了）"}
+{"time": 1722009213, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（还差2）"}
+{"time": 1722009214, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".li"}
+{"time": 1722009214, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[森の月]疯狂发作-总结症状:\n你抽到了:\n8) 逃避行为（Flee in panic）：调查员恢复清醒时发现自己在很远的地方，也许迷失在荒郊野岭，或是在驶向远方的列车或长途汽车上。"}
+{"time": 1722009222, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（正好）"}
+{"time": 1722009227, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（又4️⃣了）"}
+{"time": 1722009236, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那倒没什么影响）"}
+{"time": 1722009263, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=408119794] 疯狂的向着停车场跑去，像是逃避着世间的一切"}
+{"time": 1722009265, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“哦……还有这个，希望你们用的上……”*最后摸出车钥匙和金币一并丢给爱丽丝"}
+{"time": 1722009327, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "触手伸向了[CQ:at,qq=825734198]"}
+{"time": 1722009343, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你可以过个有惩罚骰的闪避"}
+{"time": 1722009350, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。rap闪避"}
+{"time": 1722009350, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[闪避:60]检定: P={1D100=37 punish:[3]}(37)=37 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722009382, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra抓75"}
+{"time": 1722009382, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[抓:75]检定: 1D100=54 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722009404, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你堪堪闪过了第一下"}
+{"time": 1722009404, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好简单的抓）"}
+{"time": 1722009424, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "接下来，第二只也过来了"}
+{"time": 1722009433, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra抓75"}
+{"time": 1722009433, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[抓:75]检定: 1D100=30 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1722009442, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嘛，不知道有没有用就是了”*一手持枪射击，一手用打火机点燃自己"}
+{"time": 1722009450, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不躲了）"}
+{"time": 1722009465, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（手枪）"}
+{"time": 1722009471, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra手枪"}
+{"time": 1722009471, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]进行技能[手枪:60]检定: 1D100=12 极难成功，流水落花春去也，天上人间"}
+{"time": 1722009481, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。rd10+10"}
+{"time": 1722009481, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[弗朗哥]演奏出: 1D10+10={2}+10=12"}
+{"time": 1722009505, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你一枪崩掉了第一只"}
+{"time": 1722009510, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1722009525, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（能穿墙，没物免？）"}
+{"time": 1722009536, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file=11796938CEFE037F3F7513B6B6602D72.jpg.gif,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=Cgk4MjU3MzQxOTgSFG5q5739-yh3Q3G1nle1IGOj1ixNGNebFCD_Ciia1K21icWHA1CAvaMB&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=331223]"}
+{"time": 1722009553, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（好崩）"}
+{"time": 1722009554, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（无所谓的对不对）"}
+{"time": 1722009562, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（反正你也要死了）"}
+{"time": 1722009574, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你的队友也不会反击）"}
+{"time": 1722009585, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有点绷不住）"}
+{"time": 1722009591, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "但是第二只的触手抓住了店长"}
+{"time": 1722009600, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=825734198] 卒"}
+{"time": 1722009609, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file=4F8EEDA6D4BD19012432D90393FBF279.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=Cgk4MjU3MzQxOTgSFF77yp7K-kPbzEV7RQKUfALm4YMVGIlgIP8KKJO4hdiJxYcDUIC9owE&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=12297]"}
+{"time": 1722009615, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（难绷）"}
+{"time": 1722009632, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我什么时候能跑到停车场）"}
+{"time": 1722009633, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1159237057][CQ:at,qq=408119794][CQ:at,qq=1040972910]"}
+{"time": 1722009635, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（什么b东西啊）"}
+{"time": 1722009641, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "过敏捷"}
+{"time": 1722009642, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我还能动吗 不是疯了）"}
+{"time": 1722009643, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐姐，快跑”"}
+{"time": 1722009646, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra敏捷"}
+{"time": 1722009646, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[敏捷:75]检定: 1D100=68 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722009646, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra敏捷"}
+{"time": 1722009646, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[敏捷:65]检定: 1D100=5 大成功！众里寻他千百度，蓦然回首，那人却在灯火阑珊处"}
+{"time": 1722009648, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra敏捷"}
+{"time": 1722009649, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[敏捷:75]检定: 1D100=98 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1722009652, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（死了）"}
+{"time": 1722009654, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（哈哈）"}
+{"time": 1722009656, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（大成功大失败）"}
+{"time": 1722009658, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（绷）"}
+{"time": 1722009658, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“克里斯汀——”"}
+{"time": 1722009672, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（小雅！）"}
+{"time": 1722009674, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（给你一拳！）"}
+{"time": 1722009676, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那么我要给一些比较绝情的东西了）"}
+{"time": 1722009678, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:image,file=CF588096F77467986B0B96B8F2F27DB8.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoxMTU5MjM3MDU3EhRC2Q_VyFxKNFL6J1MIiV583oYY-xjrxgIg_wooiJ2W-YnFhwNQgL2jAQ&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=41835]"}
+{"time": 1722009693, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（纯真的快乐）"}
+{"time": 1722009701, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（哦不对 妹妹大成功啊）"}
+{"time": 1722009701, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我会把你们写到新歌里的）"}
+{"time": 1722009705, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（失望）"}
+{"time": 1722009751, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "妹妹爆发小宇宙直接闪现到停车场 开门点火准备发车一套行云流水"}
+{"time": 1722009762, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "姐姐也跑到了停车场"}
+{"time": 1722009773, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我还会开车（）"}
+{"time": 1722009782, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "但是她似乎在逃避着一切，也包括妹妹"}
+{"time": 1722009786, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（大成功换的）"}
+{"time": 1722009800, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（什么绯弹的亚里亚）"}
+{"time": 1722009812, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1159237057] 带着面具没看清路，一脚闷倒"}
+{"time": 1722009833, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你感觉祂们就在身后了"}
+{"time": 1722009838, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rd5"}
+{"time": 1722009838, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]演奏出: 1D5=4"}
+{"time": 1722009855, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（合着行李箱是活人化了是吧）"}
+{"time": 1722009856, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在远方，又有两只向你们飘过来"}
+{"time": 1722009859, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "*拔枪射击"}
+{"time": 1722009861, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（等等我现在）"}
+{"time": 1722009863, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（有两把枪）"}
+{"time": 1722009867, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:image,file=258EB5EEB89E2E4289BE0BCA49048C5B.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoxMTU5MjM3MDU3EhQkxkIsUJ5EM_knHk7mJ_Ow5aUzTxjZRSD_Cii1qJLTisWHA1CAvaMB&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=8921]"}
+{"time": 1722009871, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（化得好干脆，怎么一声不吭啊）"}
+{"time": 1722009909, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "过手枪"}
+{"time": 1722009929, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#把姐姐塞进车里"}
+{"time": 1722009931, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我能不能过两个）"}
+{"time": 1722009939, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我要和姐姐力量对抗吗）"}
+{"time": 1722009944, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "两个就是两个惩罚骰"}
+{"time": 1722009949, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147397481][CQ:at,qq=1040972910] 过"}
+{"time": 1722009952, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（ra手枪还是射击）"}
+{"time": 1722009963, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（手枪啊）"}
+{"time": 1722009964, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（1个要惩罚吗）"}
+{"time": 1722009967, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我觉得要的）"}
+{"time": 1722009976, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra力量"}
+{"time": 1722009976, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[力量:35]检定: 1D100=69 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722009977, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（两个都要惩罚）"}
+{"time": 1722009979, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra力量"}
+{"time": 1722009979, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾薇儿·格林]进行技能[力量:60]检定: 1D100=56 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1722009986, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".rap力量"}
+{"time": 1722009986, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[爱丽丝·格林]进行技能[力量:35]检定: P={1D100=100 punish:[6]}(100)=100 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1722009999, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "不是这个惩罚啊（）"}
+{"time": 1722010000, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（是我要惩罚骰？）"}
+{"time": 1722010008, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "我是说双枪要惩罚骰"}
+{"time": 1722010012, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（好 跳过一个大失败）"}
+{"time": 1722010013, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（舒服了）"}
+{"time": 1722010013, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不过"}
+{"time": 1722010015, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（我应该怎么打）"}
+{"time": 1722010018, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "姐姐被抓上了车"}
+{"time": 1722010019, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（本来他也没成功）"}
+{"time": 1722010021, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（她的手枪我这没录啊）"}
+{"time": 1722010030, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（。手枪技能是一样的）"}
+{"time": 1722010047, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（不会写指令）"}
+{"time": 1722010049, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（教我！）"}
+{"time": 1722010049, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你过两次rap手枪就行）"}
+{"time": 1722010055, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。rap手枪"}
+{"time": 1722010055, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[手枪:60]检定: P={1D100=70 punish:[5]}(70)=70 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722010057, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。rap手枪"}
+{"time": 1722010057, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[手枪:60]检定: P={1D100=49 punish:[7]}(79)=79 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722010063, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（绷）"}
+{"time": 1722010064, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "全马"}
+{"time": 1722010074, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（小雅！）"}
+{"time": 1722010080, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "两只触手向你袭来"}
+{"time": 1722010087, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:image,file=DA97868C3F3802F8CC2A7A5835A89B1E.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoxMTU5MjM3MDU3EhTw-_IWQf3ohGPSAvPu1Z3BiKBJvRjuEiD_CiiVrOq7i8WHA1CAvaMB&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=2414]"}
+{"time": 1722010090, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "困难闪避"}
+{"time": 1722010100, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "。ra闪避"}
+{"time": 1722010100, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Erik]进行技能[闪避:52]检定: 1D100=73 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1722010104, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？）"}
+{"time": 1722010110, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "[CQ:image,file=6B942B48D11D611367E5257C97DC087A.jpg,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=CgoxMTU5MjM3MDU3EhQ9CXOkcF_BE7Whbr_WcOp7vSilYRilCiD_Ciik1ZvHi8WHA1CAvaMB&amp;spec=0&amp;rkey=CAISKKSBekjVG1fMtM0hmA6UkMSNkYKwaC_jh7CbmaFwIn7UW5MGFfK1rU8,file_size=1317]"}
+{"time": 1722010110, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "你被抓起来了"}
+{"time": 1722010112, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "卒"}
+{"time": 1722010116, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（小雅演完了）"}
+{"time": 1722010132, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "虽然其实还是没那么快死的 但是太麻烦了不浪费时间了"}
+{"time": 1722010139, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "“克里斯……汀……”*"}
+{"time": 1722010202, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:at,qq=1040972910] 开车一路横冲直撞，驶离了火车站"}
+{"time": 1722010227, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "在开出火车站的瞬间，你感觉一阵恍惚"}
+{"time": 1722010228, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（姐妹花活下来了?）"}
+{"time": 1722010235, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "姐妹幸存"}
+{"time": 1722010240, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "但是姐姐疯了"}
+{"time": 1722010242, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1159237057"}, "sender": {"id": "1159237057", "name": "雨林霖"}, "message": "（？这车什么卡有意义吗）"}
+{"time": 1722010246, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。logend"}

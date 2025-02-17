@@ -1,0 +1,31 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "1141869747",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1739627848,
+        "configNote": {
+            "groupEnable": true,
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C1",
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
+            "groupInitList": {
+                "冰麒麟": 26,
+                "_8": 20,
+                "不会在的人": 14,
+                "云夜": 27,
+                "朝露": 28
+            },
+            "groupInitParaList": {
+                "冰麒麟": "1D20+10",
+                "_8": "20",
+                "不会在的人": "1D20+8",
+                "云夜": "1D20+9",
+                "朝露": "1D20+11"
+            },
+            "logEnable": false,
+            "logNowName": "log_d965e9b6-7ee2-4179-865a-295bd501dd14"
+        }
+    }
+}

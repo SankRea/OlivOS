@@ -1,0 +1,574 @@
+{"time": 1721563774, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1721563816, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "上回说到，配置了一波装备的各位，登上了秋风之墩为你们配置好的鹈鹕号星际航行器。"}
+{"time": 1721563855, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。st 力量:65 体质:70 体型:50 敏捷:80 外貌:50 智力:65 意志:70 教育:42\n生命:12 理智:70 魔法:14 幸运:80\n闪避:80\n教育（:85\n）:    灵感:65\nsan值:70\n理智值:70\n运气:80\n信用评级:10\n汽车:20\n母语:42\n开锁:1\n撬锁:1\n重型操作:1\n重型机械:1\n重型:1\n侦查:65\n生存:10\n急救:54\n天文学:65\nhpshow:    图书馆show:    手枪:60\nhelp:    计算机使用:70\n电子学:70"}
+{"time": 1721563868, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st show飞行器驾驶"}
+{"time": 1721563868, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]的[飞行器驾驶]: 75"}
+{"time": 1721563871, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "很快你们就在地勤的指示下停到了预定弹射位置。"}
+{"time": 1721563876, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。st show飞行器驾驶"}
+{"time": 1721563876, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]的[飞行器驾驶]: 0"}
+{"time": 1721563886, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。st show"}
+{"time": 1721563886, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[艾德尔]:\n<属性>\n力量:40 敏捷:70 意志:55 SAN:65 SANMAX:55 MP:11 MPMAX:11 体质:50 外貌:80 教育:80 体型:45 HP:9 HPMAX:9 智力:60 幸运:80\n<技能>\n闪避:60 母语:80 会计:5 人类学:1 估价:5 考古学:1 取悦:15 攀爬:20 计算机使用:70 信用:40 克苏鲁神话:0 乔装:5 汽车驾驶:70 电气维修:10 电子学:1 话术:5 投掷:20 急救:60 历史:5 恐吓:15 跳跃:20 法律:5 图书馆:60 聆听:20 锁匠:1 机械维修:10 医学:1 博物:10 导航:10 神秘学:50 操作重型机械:1 说服:10 精神分析:1 心理学:10 骑乘:5 妙手:10 侦查:25 潜行:20 游泳:60 追踪:10 驯兽:5 潜水:1 爆破:1 读唇:1 催眠:1 炮术:10\n<其它>\n灵感:60 SAN值:65 理智值:65 运气:80 体力:9 表演:5 歌唱:5 舞蹈:5 汽车:70 驾驶:70 斗殴:70 矛:20 电锯:10 手枪:80 步枪:25 霰弹枪:25 步霰:25 重武器:10 开锁:1 撬锁:1 重型操作:1 重型机械:1 重型:1 飞行器:1 天文学:1 生存:10 飞行器驾驶:0"}
+{"time": 1721563914, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st new 摩根黑手"}
+{"time": 1721563914, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[摩根黑手]已创建"}
+{"time": 1721563922, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st set 摩根黑手"}
+{"time": 1721563922, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[摩根黑手]"}
+{"time": 1721563927, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st lock"}
+{"time": 1721563927, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已在此成功锁定人物卡[摩根黑手]"}
+{"time": 1721563971, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这时，广播在全舰响起，“本舰即将进行亚光速跃迁，请全舰做好跃迁准备。本次跃迁位置，奥西里斯外星域。”"}
+{"time": 1721563996, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“大家，都坐好哦？要准备进入深海模式了”"}
+{"time": 1721564001, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st 力量60str60敏捷80dex80意志60pow60体质60con60外貌50app50教育80edu80体型40siz40智力70灵感70int70san60san值60理智60理智值60幸运65运气65mp12魔法12hp10体力10会计5人类学1估价5考古学1取悦15魅惑15攀爬20计算机60计算机使用60电脑60信用20信誉20信用评级20克苏鲁0克苏鲁神话0cm0乔装5闪避40汽车20驾驶20汽车驾驶20电气维修10电子学1话术5斗殴25手枪80投掷70步枪70霰弹枪70步霰70急救30历史5恐吓15跳跃20母语80法律5图书馆20图书馆使用20聆听60开锁46撬锁46锁匠46机械维修10医学1博物学10自然学10领航10导航10神秘学5重型操作1重型机械1操作重型机械1重型1说服60精神分析1心理学10骑术5妙手10侦查70潜行60生存10游泳20投掷20追踪10驯兽5潜水1爆破1读唇1催眠1炮术61"}
+{"time": 1721564002, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[摩根黑手]的人物卡已保存"}
+{"time": 1721564024, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*坐稳，系好安全带"}
+{"time": 1721564085, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“本次跃迁预计在三分钟后。”广播重复了几遍。"}
+{"time": 1721564099, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（坐在驾驶位的是谁？"}
+{"time": 1721564110, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*坐稳，系好安全带"}
+{"time": 1721564117, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我啊）"}
+{"time": 1721564119, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*坐稳，系好安全带"}
+{"time": 1721564135, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有方向盘这种东西吗）"}
+{"time": 1721564138, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（还是操作面板）"}
+{"time": 1721564193, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你发现，屏幕上出现了黑塔科学官的对话请求。"}
+{"time": 1721564198, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（操作面板）"}
+{"time": 1721564210, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（机器人有机器人的安全带吧）"}
+{"time": 1721564238, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不知道呢，可能有固定吧）"}
+{"time": 1721564247, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*接通对话“科学官，这里是鹈鹕号”"}
+{"time": 1721564251, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*总之固定好"}
+{"time": 1721564446, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（kp人呢）"}
+{"time": 1721564457, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“信号良好，嗯，没问题。那么鹈鹕号的各位，秋风之墩到达指定位置停泊后，由舰桥指令弹出。”"}
+{"time": 1721564460, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个聆听"}
+{"time": 1721564472, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra聆听"}
+{"time": 1721564472, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[聆听:20]检定: 1D100=13 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1721564474, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra聆听"}
+{"time": 1721564474, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]进行技能[聆听:20]检定: 1D100=3 极难成功，流水落花春去也，天上人间"}
+{"time": 1721564479, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（大成功）"}
+{"time": 1721564483, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。setcoc3"}
+{"time": 1721564483, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已设置本群套用模板[COC7]的规则[C3]:\n出1 - 5大成功\n出96 - 100大失败"}
+{"time": 1721564484, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（这不是大成功？）"}
+{"time": 1721564503, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（够了 不用我了）"}
+{"time": 1721564538, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*坐好发呆"}
+{"time": 1721564612, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（kp人呢）"}
+{"time": 1721564641, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（别急，在想）"}
+{"time": 1721564653, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（这里哪有什么大成功的信息啊）"}
+{"time": 1721564668, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（绷）"}
+{"time": 1721564695, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file={E245AC5C-ACC9-A337-52DE-E8D9E30EA646}.jpg,url=https://gchat.qpic.cn/gchatpic_new/825734198/939124705-2814940086-E245AC5CACC9A33752DEE8D9E30EA646/0?term=255&amp;is_origin=0,file_size=43411]"}
+{"time": 1721564710, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（先给正常信息吧）"}
+{"time": 1721564719, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（随便给个sc吧）"}
+{"time": 1721564726, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（大成功可以留着对不对）"}
+{"time": 1721564803, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "伊什塔尔听出黑塔那边的通讯有一些滋滋的声音，还有一些人交谈的声音和笑声，但当伊什塔尔准备仔细听的时候，又一切正常。"}
+{"time": 1721564898, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“收到，回来能有庆功宴吗？”"}
+{"time": 1721564974, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“这个嘛，说不定有共和国奖章哦？”"}
+{"time": 1721565029, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那就预祝我们凯旋咯”*坐好跃迁准备"}
+{"time": 1721565033, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“鹈鹕号近舰的操作权不在各位的手中，这一点还请注意。舰桥弹射后请立刻接手操作。”"}
+{"time": 1721565067, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“好的，交给我吧”"}
+{"time": 1721565091, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（播cg咯）"}
+{"time": 1721565114, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“常规通讯到此结束，在之后请继续留意来自秋风之墩的通讯。”"}
+{"time": 1721565197, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "通讯切断，很快秋风之墩舰体上的外视窗依次封闭，紧接着舰体开始剧烈震动。"}
+{"time": 1721565254, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "明明是在深空，却有一种撕破了什么的声音传到了你们的耳畔，紧接着超常的加速度席卷你们全身"}
+{"time": 1721565264, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "除机器人外全部过体质"}
+{"time": 1721565272, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我也要吗）"}
+{"time": 1721565275, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra体质"}
+{"time": 1721565275, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]进行技能[体质:65]检定: 1D100=62 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1721565292, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。ra70"}
+{"time": 1721565292, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[十万三千字]进行技能[70]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1721565297, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(要)"}
+{"time": 1721565340, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra体质"}
+{"time": 1721565340, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[体质:50]检定: 1D100=23 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1721565354, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。st体质70"}
+{"time": 1721565354, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[十万三千字]的人物卡已保存"}
+{"time": 1721565493, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "。ra体质"}
+{"time": 1721565493, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[摩根黑手]进行技能[体质:60]检定: 1D100=70 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1721565511, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*捂耳作难受状"}
+{"time": 1721565550, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "安洁莉娜作为新人科研工作者显然并不适应突然的跃迁，大量的血液堵塞在血管里，很快就呼吸困难，眼前开始发黑。而摩根黑手也出现了同样的症状。幸好跃迁持续的时间并不长。"}
+{"time": 1721565589, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "加速度像来的时候一样迅速又从你们身上撤走，你们知道跃迁已经结束了。"}
+{"time": 1721565598, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*大口喘气"}
+{"time": 1721565613, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“我是在天堂吗”"}
+{"time": 1721565649, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嘛……这也是我比起跃迁更喜欢巡航的原因之一。”*调整坐姿，开始操作飞船"}
+{"time": 1721565671, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“先确认一下位置吧”"}
+{"time": 1721565687, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*查看星图"}
+{"time": 1721565700, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“本舰抵达预定位置，即将开始停泊作业，请各单位注意。”舰上再次开始广播，同时鹈鹕号的你们注意到，指示灯开始闪烁，机库门传来释放气压的喷涌声。"}
+{"time": 1721565776, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "星图显示本舰距离奥西里斯空间站只有短短的星路，很显然已经到了极限停泊位置。"}
+{"time": 1721565790, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“要准备出舱了”*检查鹈鹕号气密性"}
+{"time": 1721565809, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“了解”*准备卸下固定带"}
+{"time": 1721565826, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（要弹射了你卸下固定带，）"}
+{"time": 1721565829, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（认真的吗）"}
+{"time": 1721565848, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（弹舌吗）"}
+{"time": 1721565867, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（鹈鹕号在大飞船里面）"}
+{"time": 1721565869, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“了解”"}
+{"time": 1721565871, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（奥）"}
+{"time": 1721565873, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（现在鹈鹕号准备出船）"}
+{"time": 1721565889, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*抓紧扶手"}
+{"time": 1721565910, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "气密性良好，各项指标正常，伊什塔尔检查的当口，机库门缓缓打开，黝黑的无物空间出现在你们眼前"}
+{"time": 1721565954, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "深邃的黑暗中点缀着大大小小的星辰和星河，在视野正中间，正是你们之前在资料上看到的星球。"}
+{"time": 1721566005, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“鹈鹕号即将弹射出舱，鹈鹕号即将弹射出舱。”"}
+{"time": 1721566035, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*做弹射准备"}
+{"time": 1721566040, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那就是致远星吧”"}
+{"time": 1721566107, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": ".st 力量65str65敏捷80dex80意志70pow70体质70con70外貌50app50教育42edu42体型50siz50智力65灵感65int65san70san值70理智70理智值70幸运80运气80mp14魔法14hp12体力12会计5人类学1估价5考古学1取悦15魅惑15攀爬20计算机70计算机使用70电脑70信用10信誉10信用评级10克苏鲁0克苏鲁神话0cm0乔装5闪避80汽车20驾驶20汽车驾驶20电气维修10电子学70话术5斗殴25手枪60急救60历史5恐吓15跳跃20母语42法律5图书馆20图书馆使用20聆听20开锁1撬锁1锁匠1机械维修10医学1博物学10自然学10领航10导航10神秘学5重型操作1重型机械1操作重型机械1重型1说服10精神分析1心理学10骑术5妙手10侦查69潜行20生存10游泳20投掷20追踪10驯兽5潜水1爆破1读唇1催眠1炮术1"}
+{"time": 1721566109, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[十万三千字]的人物卡已保存"}
+{"time": 1721566124, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（鸽了）"}
+{"time": 1721566126, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*找找空间站的位置"}
+{"time": 1721566127, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（拒绝多线程）"}
+{"time": 1721566151, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": ".nn 安心院安洁莉娜"}
+{"time": 1721566151, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[十万三千字]将乐谱的曲名更改为[安心院安洁莉娜]"}
+{"time": 1721566157, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（行）"}
+{"time": 1721566200, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "倒计时三，二，一！只听见突然的响声从舰体后传来，比之前更剧烈的加速过程袭击了你们的身体，眼前的视野极速变化，只是一眨眼间，你们便抵达了深空中。"}
+{"time": 1721566233, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（折木直接退了我是没想到的）"}
+{"time": 1721566257, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "之前体质失败的[CQ:at,qq=1041881506] 再过一个体质骰"}
+{"time": 1721566262, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（没事，今晚沙影应该能end了）"}
+{"time": 1721566265, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。ra体质"}
+{"time": 1721566265, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安心院安洁莉娜]进行技能[体质:70]检定: 1D100=56 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1721566272, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（当他跟随吧）"}
+{"time": 1721566325, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:reply,id=-2147415268][CQ:at,qq=825734198] （难说）"}
+{"time": 1721566326, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（折木也退东方快车了）"}
+{"time": 1721566342, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（起码能进战斗轮吧）"}
+{"time": 1721566348, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（折木退完了）"}
+{"time": 1721566348, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（之后就是垃圾时间了）"}
+{"time": 1721566358, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（折木什么情况）"}
+{"time": 1721566382, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不知道）"}
+{"time": 1721566417, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（专心带团吧）"}
+{"time": 1721566453, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "虽然这次弹射让安洁莉娜感觉更加不适了，但是总算没有出现进一步的症状。"}
+{"time": 1721566490, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（有人是不是忘了该做什么）"}
+{"time": 1721566499, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1721566508, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147415288]（）"}
+{"time": 1721566513, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（哦，转手动了）"}
+{"time": 1721566538, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "很快鹈鹕号就失去了控制源，开始被附近的星体引力捕获"}
+{"time": 1721566594, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*启动聚变芯体，恢复飞船动力"}
+{"time": 1721566602, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过驾驶"}
+{"time": 1721566609, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra飞行器驾驶"}
+{"time": 1721566609, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]进行技能[飞行器驾驶:75]检定: 1D100=24 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1721566613, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（快进到坠机）"}
+{"time": 1721566692, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "伊什塔尔从弹射中缓过了心神，重新掌控住了飞行器，鹈鹕号开始沿着星图稳定快速地航行"}
+{"time": 1721566776, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=-2147415200][CQ:at,qq=825734198] 空间站此时显示就在你们的航道正前方，预计需要一小时左右的时间"}
+{"time": 1721566823, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“大家，我们还有大概一个小时的时间。可以稍微放松一下了”"}
+{"time": 1721566972, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（renne）"}
+{"time": 1721566972, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "通讯信息很快出现在驾驶位的屏幕上"}
+{"time": 1721566974, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*闭目养神×接近昏死√"}
+{"time": 1721567008, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*接通通讯“我已出仓，感觉良好”"}
+{"time": 1721567043, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“哦，人没事就好，看来伊什塔尔小姐也算经验丰富的驾驶员了。”黑塔的声音从通讯中传出。"}
+{"time": 1721567064, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“依然是常规通讯，目前看来信号良好？”"}
+{"time": 1721567116, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“目前系统处于最佳运行状态，没有放松的必要”"}
+{"time": 1721567185, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“这次行动的危险性我就不多赘述了，保持通讯畅通。”"}
+{"time": 1721567238, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“对啦，你们与空间站接驳之后，让M114514把通讯模块拆下来装到它身上吧。”"}
+{"time": 1721567419, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“明白”"}
+{"time": 1721567495, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*缓过一口气"}
+{"time": 1721567512, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。rh"}
+{"time": 1721567513, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[菲儿]试图在黑暗中窥见岁月史书"}
+{"time": 1721567513, "type": "reply_private", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "在演奏厅[939124705]中[菲儿]演奏出: 1D100=54"}
+{"time": 1721567580, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“到达空间站之后再联络吧。”黑塔说完便挂断了通话，飞船继续平稳的前行"}
+{"time": 1721567595, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“一会还会有跃迁吗”"}
+{"time": 1721567612, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“这种感觉太不好受了”"}
+{"time": 1721567628, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不会了，接下来应该是比民航客机还安稳的航行时间”"}
+{"time": 1721567698, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*向窗口外望去“我们现在能看到空间站了吗”"}
+{"time": 1721567737, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "相比于你们清晰可见的行星，在它引力场内微小的空间站显然无法被肉眼直视"}
+{"time": 1721567783, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*查看不知道有没有的电磁场检测设备"}
+{"time": 1721567827, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*检查身上装备"}
+{"time": 1721567837, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*检查身上装备"}
+{"time": 1721567846, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "鹈鹕号仪器齐全，很快你就找到了常见的电磁场设备"}
+{"time": 1721567867, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你们身上的装备并没有因跃迁而消失"}
+{"time": 1721567872, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*查看读数是否正常"}
+{"time": 1721567880, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没有异常"}
+{"time": 1721567905, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*正常航行，前往空间站"}
+{"time": 1721568012, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你们在还算宽敞的驾驶舱内消磨了接近一小时的时间，再次看向窗外的时候，空间站已经出现在你们肉眼可见的范围内。"}
+{"time": 1721568043, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*逐渐减速，准备对接"}
+{"time": 1721568060, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*坐直"}
+{"time": 1721568085, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "空间站整体建在围绕着致远星活动的陨石上，从外表看上去崭新无比，外表没有丝毫遭受了袭击或碰撞的迹象。"}
+{"time": 1721568088, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。rh"}
+{"time": 1721568088, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[菲儿]试图在黑暗中窥见岁月史书"}
+{"time": 1721568089, "type": "reply_private", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "在演奏厅[939124705]中[菲儿]演奏出: 1D100=41"}
+{"time": 1721568127, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“居然是建在卫星上的吗”"}
+{"time": 1721568142, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（说起来致远星所在的星系是什么样的）"}
+{"time": 1721568179, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（近日孤星。）"}
+{"time": 1721568213, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“我还以为是在太空中悬浮着的那种空间站”"}
+{"time": 1721568243, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“不过也是，周围有这么多陨石，的确不太方便”"}
+{"time": 1721568261, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "伊什塔尔驾驶着鹈鹕号缓缓接近奥西里斯空间站，但是空间站丝毫没有接受停泊的迹象，机舱依然保持着紧闭的状态。"}
+{"time": 1721568298, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嗯……得我们自己想办法对接吗？”*尝试和空间站建立通讯"}
+{"time": 1721568370, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:image,file={F1A5A912-A840-2FD8-FE5C-32076CF20057}.png,url=https://gchat.qpic.cn/gchatpic_new/1252219916/939124705-2862251732-F1A5A912A8402FD8FE5C32076CF20057/0?term=255&amp;is_origin=0,file_size=391176]（大致参考这个）"}
+{"time": 1721568390, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（石村号是吧）"}
+{"time": 1721568399, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(✓)"}
+{"time": 1721568402, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（真是死亡空间）"}
+{"time": 1721568458, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(事实上比这个小，毕竟石村号可不小，你们这只是个稍大的舰载机)"}
+{"time": 1721568469, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*寻找接驳口，保持飞船和接驳口相对静止"}
+{"time": 1721568496, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "空间站没有传来任何回应"}
+{"time": 1721568515, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“hmmm”"}
+{"time": 1721568526, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“有可以临时停靠的平台吗”"}
+{"time": 1721568529, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“有办法接入空间站的内部系统就好了”"}
+{"time": 1721568627, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“M114514有办法做到吗？”"}
+{"time": 1721568681, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不行的话，只能找个临时停靠点，然后做太空行走了”"}
+{"time": 1721568689, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那么他能做到吗）"}
+{"time": 1721568700, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（那么他能做到吗）"}
+{"time": 1721568718, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(他人呢)"}
+{"time": 1721568726, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不知道喔）"}
+{"time": 1721568727, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（[CQ:at,qq=408119794] ）"}
+{"time": 1721568731, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能做到吗）"}
+{"time": 1721568736, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过灵感"}
+{"time": 1721568781, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。ra灵感"}
+{"time": 1721568781, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安心院安洁莉娜]进行技能[灵感:65]检定: 1D100=47 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1721568792, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那么做到了吧）"}
+{"time": 1721568805, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(机器人过)"}
+{"time": 1721568808, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你们过不了)"}
+{"time": 1721568822, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".ra灵感"}
+{"time": 1721568822, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[灵感:75]检定: 1D100=84 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1721568829, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（呃呃做不到）"}
+{"time": 1721568839, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "机器人不知道哦"}
+{"time": 1721568843, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（乐了）"}
+{"time": 1721568845, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“要不你去问问总部”"}
+{"time": 1721568859, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*找个临时停靠点"}
+{"time": 1721568868, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“做不到，新型的系统暂时还无法接驳”*查看了一下状态"}
+{"time": 1721568888, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "伊什塔尔把鹈鹕号挂靠在奥西里斯外壁上"}
+{"time": 1721568908, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*询问m114514“看看总部那边能不能给一些技术援助”"}
+{"time": 1721568918, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那我能做到吗）"}
+{"time": 1721568929, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能和总部通话吗）"}
+{"time": 1721568986, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（你们不是可以通讯黑塔吗？）"}
+{"time": 1721568998, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（对啊）"}
+{"time": 1721569016, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（黑塔都说了两次保持通讯了）"}
+{"time": 1721569057, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“报告，无法与空间站联系，无法对接”*发起通讯"}
+{"time": 1721569115, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（行吧）"}
+{"time": 1721569123, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“请求提供接入空间站内部电路方法，或提供空间站构造图以寻找太空行走进入的途径”"}
+{"time": 1721569134, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*与总部通讯"}
+{"time": 1721569220, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "通讯很快被黑塔接受了，“怎么了？你们已经进到空间站了吗？”"}
+{"time": 1721569274, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“已经和空间站物理接触了，但无法进入”"}
+{"time": 1721569275, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“嗯，接入空间站的内部系统”"}
+{"time": 1721569313, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“这样啊。”很长的停顿，你们只能听到黑塔的呼吸音。"}
+{"time": 1721569319, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147414911]（请求）"}
+{"time": 1721569365, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“很遗憾秋风之墩也不能直接介入空间站的管理系统，毕竟设计上算是平级?”"}
+{"time": 1721569487, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那有物理进入的办法吗？”"}
+{"time": 1721569578, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“嗯...当然有哦，这就是所谓的后门吧。”"}
+{"time": 1721569612, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“请继续”"}
+{"time": 1721569844, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（kp呢）"}
+{"time": 1721569978, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“从悬臂上，有一处隔离门，也许有办法可以进到隔离舱里。”"}
+{"time": 1721569994, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“收到”"}
+{"time": 1721570008, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*开船去悬臂上"}
+{"time": 1721570129, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“我这边把位置同步给你。”"}
+{"time": 1721570188, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*gogogo"}
+{"time": 1721570263, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“不过怎么从隔离舱进到空间站里，这个的话，我这里没有奥西里斯的设计图，所以也无能为力啦。”"}
+{"time": 1721570387, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“空间站内部的情况不明，所以珍惜这次通讯机会吧。还有什么想问的？”"}
+{"time": 1721570396, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你们听到黑塔叹了口气"}
+{"time": 1721570425, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“空间站里，还有没撤走的人吗？”"}
+{"time": 1721570443, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“我们还有什么后备支援吗，空间站里没人回应感觉不太妙啊”"}
+{"time": 1721570449, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“最后一次人员撤离的时候有发生过什么怪事吗？”"}
+{"time": 1721570499, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“抱歉哦？空间站的固定通讯断了连续两天，但是宇宙可是很广阔，到我们这里的时候可不只是两天呢。”"}
+{"time": 1721570589, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“只能说，在通讯结束之前和之后，完全没有撤出人员的记录。”"}
+{"time": 1721570591, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“也就是尚不明确吧……”"}
+{"time": 1721570606, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“确实只能说是尚不明确呢。”"}
+{"time": 1721570623, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“有没有其他飞船从空间站进出的记录？”"}
+{"time": 1721570624, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“支援的话，只能等待第二批小队出发了。”"}
+{"time": 1721570643, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“那支小队之后会转移到本舰上。”"}
+{"time": 1721570663, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=-2147414740][CQ:at,qq=825734198] “这些秋风之墩可查不到呢...”"}
+{"time": 1721570684, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嗯，还有一件在意的事”"}
+{"time": 1721570688, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“这附近也不能算是冷门的航道，你们懂我意思把”"}
+{"time": 1721570701, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“之前说到过首席科学官精神失常了”"}
+{"time": 1721570705, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“具体是什么表现呢？”"}
+{"time": 1721570789, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“以及，空间站里的那个晶体无法离开这颗行星……具体的表现是？”"}
+{"time": 1721571011, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（kp呢（））"}
+{"time": 1721571217, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（切换咕咕咕形态）"}
+{"time": 1721571225, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file={5A07FE08-5C45-7F91-3A65-EDA60ECE1D02}.jpg,url=https://gchat.qpic.cn/gchatpic_new/825734198/939124705-3140789960-5A07FE085C457F913A65EDA60ECE1D02/0?term=255&amp;is_origin=0,file_size=16477]"}
+{"time": 1721571248, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（kp是不是l去了）"}
+{"time": 1721571277, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（[CQ:at,qq=1252219916] ）"}
+{"time": 1721571336, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“这些..不好说呢”"}
+{"time": 1721571357, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（kp是不是l去了）"}
+{"time": 1721571369, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不好说？”"}
+{"time": 1721571393, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哎，一股yln味）"}
+{"time": 1721571585, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“我整理一下资料吧”"}
+{"time": 1721571623, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（然后今晚堂堂完结是吧）"}
+{"time": 1721571724, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(洗澡)"}
+{"time": 1721571769, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147414806]“有人打算先出舱看看情况吗？”"}
+{"time": 1721571971, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“要不m114514你去看看”"}
+{"time": 1721571982, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“好”"}
+{"time": 1721572044, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*解除固定带，橱窗"}
+{"time": 1721572183, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“据传回的信息所说，那位科学馆就是处于一种自认为清醒的状态。”"}
+{"time": 1721572199, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“举世皆浊我独清，大概这个样子?”"}
+{"time": 1721572252, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“有具体的语言记录吗？”"}
+{"time": 1721572377, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“我看看啊。”"}
+{"time": 1721572391, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "说完一些文字传到了你们的屏幕上"}
+{"time": 1721572452, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*看"}
+{"time": 1721572511, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "‘隐藏在黑暗的主’‘迷途灵魂的慰藉’‘我已经找到’‘献上身心’"}
+{"time": 1721572542, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "之类的话"}
+{"time": 1721572580, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“至于阿尔法离开致远星会是什么状态，会汽化。”"}
+{"time": 1721572595, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“听起来像误入了什么邪教……但科学官不应该是坚定的唯物主义者吗？”"}
+{"time": 1721572658, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“汽化？”"}
+{"time": 1721572833, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“确实如此。”"}
+{"time": 1721572881, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“空间站失联前，有没有什么异样？”"}
+{"time": 1721572909, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“有的话，会这么麻烦吗”"}
+{"time": 1721572925, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你们听到黑塔的轻笑"}
+{"time": 1721572927, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“倒也确实”"}
+{"time": 1721572934, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那114514那边怎么样了）"}
+{"time": 1721572949, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（队友呢）"}
+{"time": 1721572955, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（来点脑力支援）"}
+{"time": 1721573012, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（没啥线索）"}
+{"time": 1721573072, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（感觉先开始探图吧）"}
+{"time": 1721573079, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你们还在跟黑塔通话)"}
+{"time": 1721573149, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“协议似乎要求我们回收晶体？”"}
+{"time": 1721573231, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147414671]（）"}
+{"time": 1721573302, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（摸了）"}
+{"time": 1721573310, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（只能说明天要早起）"}
+{"time": 1721573313, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我没什么问题了。m-114514打算现在尝试进入空间站内”"}
+{"time": 1721573389, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“有说过吗？”"}
+{"time": 1721573447, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file={9C081BDB-E407-03A3-9078-E0CC809E2310}.jpg,url=https://gchat.qpic.cn/gchatpic_new/825734198/939124705-2605997936-9C081BDBE40703A39078E0CC809E2310/0?term=255&amp;is_origin=0,file_size=13471]"}
+{"time": 1721573451, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file={5A07FE08-5C45-7F91-3A65-EDA60ECE1D02}.jpg,url=https://gchat.qpic.cn/gchatpic_new/825734198/939124705-2266729402-5A07FE085C457F913A65EDA60ECE1D02/0?term=255&amp;is_origin=0,file_size=16477]"}
+{"time": 1721573626, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不是我忘了哦）"}
+{"time": 1721573634, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“还有什么问题吗？”"}
+{"time": 1721573649, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（不是同一个人是吧）"}
+{"time": 1721573651, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（这样）"}
+{"time": 1721573674, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（幸亏还有历史记录）"}
+{"time": 1721573695, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“暂时没有了。保持联络”"}
+{"time": 1721573708, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（那么哪个是有问题的）"}
+{"time": 1721573708, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（看看远处的机器人罢）"}
+{"time": 1721573720, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（起码第一个我们面对面见过）"}
+{"time": 1721573731, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（友情提示，上面那个也叫黑塔）"}
+{"time": 1721573755, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（不会是什么崩p剧本吧）"}
+{"time": 1721573783, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“保持联络。”通讯被挂断了。"}
+{"time": 1721573838, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(继续吧，你们的行动)"}
+{"time": 1721573860, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-2147414671]（）"}
+{"time": 1721573915, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（现在在悬臂接驳处（大概））"}
+{"time": 1721574133, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(人呢)"}
+{"time": 1721574139, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(没人save了)"}
+{"time": 1721574147, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（机器人不是在动吗）"}
+{"time": 1721574153, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你回他一下啊）"}
+{"time": 1721574156, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file={FAC92974-230E-AF71-8269-EDE52DDA418D}.jpg,url=https://gchat.qpic.cn/gchatpic_new/825734198/939124705-2555579508-FAC92974230EAF718269EDE52DDA418D/0?term=255&amp;is_origin=0,file_size=42450]"}
+{"time": 1721574164, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（机器人开图呢）"}
+{"time": 1721574330, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(也不在啊)"}
+{"time": 1721574351, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那你说啊）"}
+{"time": 1721574371, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*探测舱外情况"}
+{"time": 1721574543, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(我想save)"}
+{"time": 1721574549, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(正好停在这。)"}
+{"time": 1721574558, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（那就save，困了）"}
+{"time": 1721574559, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有一点难绷.jpg）"}
+{"time": 1721574603, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那就save）"}
+{"time": 1721574713, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
+{"time": 1723722135, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1723722144, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "决定你们的行动"}
+{"time": 1723722145, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那么上回说到？）"}
+{"time": 1723722173, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（机器人不是外出去了吗）"}
+{"time": 1723722187, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“我先出仓探索下外面是环境，你们留在这里等我”"}
+{"time": 1723722191, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那么上回说到？）"}
+{"time": 1723722205, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*在驾驶位上关注仪器和周边环境情况，等机器人回传消息"}
+{"time": 1723722227, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*保持戒备"}
+{"time": 1723722232, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*等机器人会传消息"}
+{"time": 1723722280, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么M1114出舱"}
+{"time": 1723722282, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个侦查"}
+{"time": 1723722289, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra侦查"}
+{"time": 1723722289, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[侦查:25]检定: 1D100=49 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1723722314, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（机器人怎么没有侦查）"}
+{"time": 1723722337, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（幽默G7人）"}
+{"time": 1723722350, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（是不是有修正值？）"}
+{"time": 1723722360, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我面板就没几个点了的）"}
+{"time": 1723722397, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。st show"}
+{"time": 1723722397, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[m114514]:\n<属性>\n力量:85 敏捷:70 意志:0 SAN:72 SANMAX:0 MP:0 MPMAX:0 体质:70 外貌:0 教育:70 体型:70 HP:14 HPMAX:14 智力:75 幸运:50\n<技能>\n闪避:35 母语:70 会计:5 人类学:1 估价:5 考古学:1 取悦:15 攀爬:20 计算机使用:50 信用:0 克苏鲁神话:0 乔装:5 汽车驾驶:20 电气维修:75 电子学:50 话术:5 急救:30 历史:5 恐吓:15 跳跃:20 法律:5 图书馆:20 聆听:40 锁匠:1 机械维修:75 医学:50 博物:10 导航:10 神秘学:5 操作重型机械:43 说服:10 精神分析:1 心理学:10 骑乘:5 妙手:10 侦查:25 潜行:20 游泳:20 投掷:20 追踪:10 驯兽:5 潜水:1 爆破:1 读唇:1 催眠:1 炮术:1\n<其它>\n灵感:75 SAN值:75 理智值:75 运气:50 体力:14 汽车:20 驾驶:20 斗殴:25 手枪:20 开锁:1 撬锁:1 重型操作:43 重型机械:43 重型:43 飞行器:75 工程学:50 物理学:50 生存:10"}
+{"time": 1723722406, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你应该看你的卡）"}
+{"time": 1723722416, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(也许给你发了什么)"}
+{"time": 1723722419, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(不记得就没有)"}
+{"time": 1723722419, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（这个团加成不少的）"}
+{"time": 1723722422, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（你看看卡）"}
+{"time": 1723722487, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我可能是真没点）"}
+{"time": 1723722498, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（侦查聆听图书馆一个没有）"}
+{"time": 1723722514, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（全部在工程理论和维修上面了 难绷）"}
+{"time": 1723722535, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（技能点这么少的吗）"}
+{"time": 1723722623, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（这下我是神人了）"}
+{"time": 1723722636, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么m114并没有找到有显眼的入口"}
+{"time": 1723722670, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“有什么发现吗？”"}
+{"time": 1723722681, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（环境呢）"}
+{"time": 1723722682, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“能把画面穿回来我们看看吗？”"}
+{"time": 1723722696, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“没看到入口”"}
+{"time": 1723722701, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（传）"}
+{"time": 1723722713, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*传输传感器探测数据"}
+{"time": 1723722830, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*把数据接到大屏幕上"}
+{"time": 1723722878, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（能侦查？）"}
+{"time": 1723722922, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(过个惩罚骰的侦查)"}
+{"time": 1723722931, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。rap侦查"}
+{"time": 1723722931, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]进行技能[侦查:60]检定: P={1D100=42 punish:[4]}(42)=42 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1723722938, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*聚精会神观察屏幕"}
+{"time": 1723722946, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。rap侦查"}
+{"time": 1723722946, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[内扎克]进行技能[侦查:69]检定: P={1D100=16 punish:[5]}(56)=56 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1723722995, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。rap侦查"}
+{"time": 1723722995, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[侦查:25]检定: P={1D100=93 punish:[8]}(93)=93 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1723723008, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。st list"}
+{"time": 1723723008, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[十万三千字]的人物卡:\n内扎克\n当前选择:内扎克"}
+{"time": 1723723048, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。nn 安心院安洁莉娜"}
+{"time": 1723723048, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[内扎克]将乐谱的曲名更改为[安心院安洁莉娜]"}
+{"time": 1723723121, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "在船上的两位找到了一处疑似外接门的标记"}
+{"time": 1723723288, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“m114，去那边看看吧”*把目标圈出来发送给机器人"}
+{"time": 1723723308, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“收到”*前面标记"}
+{"time": 1723723313, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（前往）"}
+{"time": 1723723351, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "太空制动，过幸运"}
+{"time": 1723723360, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra幸运"}
+{"time": 1723723360, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[幸运:50]检定: 1D100=96 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1723723364, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（笑死）"}
+{"time": 1723723366, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（？）"}
+{"time": 1723723375, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（6）"}
+{"time": 1723723393, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（机器人哪有幸运可言对吧）"}
+{"time": 1723723477, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（绷）"}
+{"time": 1723723496, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(?)"}
+{"time": 1723723607, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114正在太空行走的过程中突然遇到陨石群袭击"}
+{"time": 1723723620, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（笑死）"}
+{"time": 1723723636, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "先于它本人观测到的则是船上的几位"}
+{"time": 1723723756, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*发起通讯“m-114514小心，有陨石群在靠近”"}
+{"time": 1723723797, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“收到”*转身观测陨石群方位，伺机躲避"}
+{"time": 1723723878, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过连续3次幸运"}
+{"time": 1723723886, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "第一次有奖励骰"}
+{"time": 1723723890, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（草）"}
+{"time": 1723723892, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。rab幸运"}
+{"time": 1723723892, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[幸运:50]检定: B={1D100=24 bonus:[7]}(24)=24 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1723723896, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra幸运"}
+{"time": 1723723896, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[幸运:50]检定: 1D100=83 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1723723896, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（会赢的）"}
+{"time": 1723723899, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra幸运"}
+{"time": 1723723899, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[幸运:50]检定: 1D100=5 大成功！众里寻他千百度，蓦然回首，那人却在灯火阑珊处"}
+{"time": 1723723903, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我去）"}
+{"time": 1723723906, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（大成功）"}
+{"time": 1723723914, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“炮手？把大块的陨石处理一下吧？”"}
+{"time": 1723723916, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（会赢的）"}
+{"time": 1723723925, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。st show 炮术"}
+{"time": 1723723925, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]的[炮术]: 10"}
+{"time": 1723723926, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我没炮术应该）"}
+{"time": 1723723937, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st show 炮术"}
+{"time": 1723723937, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊什塔尔]的[炮术]: 1"}
+{"time": 1723723945, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。st show 炮术"}
+{"time": 1723723945, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安心院安洁莉娜]的[炮术]: 1"}
+{"time": 1723723972, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "大成功抵消一次失败影响"}
+{"time": 1723724031, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（居然都没有炮术吗）"}
+{"time": 1723724063, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（破案了，炮手是折木）"}
+{"time": 1723724097, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我想试试）"}
+{"time": 1723724105, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（不是大失败其实问题不大对不对）"}
+{"time": 1723724137, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（已经躲完了吧）"}
+{"time": 1723724217, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(稍等)"}
+{"time": 1723724226, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（查询丰川祥子）"}
+{"time": 1723724240, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不是长期素食？）"}
+{"time": 1723724527, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（怎么没动静了）"}
+{"time": 1723724532, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（有动作艾特我）"}
+{"time": 1723724536, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我看视频去了）"}
+{"time": 1723724538, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（是不是有人1去了）"}
+{"time": 1723724671, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（是不是有人1去了）"}
+{"time": 1723724736, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（是不是有人1去了）"}
+{"time": 1723724834, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（是不是有人1去了）"}
+{"time": 1723724838, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（谁上线逮捕一下）"}
+{"time": 1723725178, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（好了）"}
+{"time": 1723725183, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（我同学刚刚来了）"}
+{"time": 1723725255, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114堪堪躲掉了袭来的陨石，抵达了贴有标记的入口"}
+{"time": 1723725466, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（ [CQ:at,qq=408119794] ）"}
+{"time": 1723725482, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（哦回来了呀）"}
+{"time": 1723725546, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“陨石群已经离开，机件运行良好”"}
+{"time": 1723725551, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*检查一下入口"}
+{"time": 1723725615, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "入口完好，在临近恒星的光辉下显出了透亮无比的金属材质。"}
+{"time": 1723725639, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "只是并没有类似拉环的东西，你或许要用其他方法打开"}
+{"time": 1723725655, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（目前还打不开是吧）"}
+{"time": 1723725667, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*回去汇报情况"}
+{"time": 1723725721, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（唉，本来呢，还得过一个幸运）"}
+{"time": 1723725736, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114安然回到了停泊的鹈鹕号上"}
+{"time": 1723725833, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“可谓是新手村的门都不让进呢……要不咱们给它轰开？”"}
+{"time": 1723725834, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“外部没有异样，入口紧闭无法打开”"}
+{"time": 1723725864, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "“可以试试”"}
+{"time": 1723725890, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（行动就rp）"}
+{"time": 1723725908, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“真的假的……会被问责吧？”"}
+{"time": 1723725949, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "*询问m-114514“真的没有什么类似机关的物件吗”"}
+{"time": 1723725978, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*联系主舰“大门紧闭，找不到进去的办法。能把火力破门作为最后的保底选项吗”"}
+{"time": 1723725980, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（对的，真的没有吗？）"}
+{"time": 1723725992, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（呃呃）"}
+{"time": 1723725999, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“我们的探险船有扫描仪吗？”"}
+{"time": 1723726004, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "秋风之墩号并没有立刻给予回应"}
+{"time": 1723726008, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（要不我再回去一趟？）"}
+{"time": 1723726019, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（再去一趟吧，加油）"}
+{"time": 1723726021, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“我想绕着这个墙做个3d扫描”"}
+{"time": 1723726028, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-2147329332]*把调查的图像投影出来"}
+{"time": 1723726029, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“看看有没有什么东西”"}
+{"time": 1723726039, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "困难灵感"}
+{"time": 1723726051, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（谁）"}
+{"time": 1723726084, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你不会以为pl会懂空间站吧.jpg）"}
+{"time": 1723726085, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（谁）"}
+{"time": 1723726089, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（你不是投影了吧）"}
+{"time": 1723726093, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（你不是投影了吗）"}
+{"time": 1723726098, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "。rap灵感"}
+{"time": 1723726098, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安心院安洁莉娜]进行技能[灵感:65]检定: P={1D100=1 punish:[3]}(31)=31 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1723726116, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra灵感"}
+{"time": 1723726116, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾德尔]进行技能[灵感:60]检定: 1D100=24 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1723726131, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（为什么要惩罚骰）"}
+{"time": 1723726133, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "安洁莉娜在标记附近发现了一个类似数据线插接口的东西"}
+{"time": 1723726136, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（骰错了）"}
+{"time": 1723726137, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（为什么要惩罚骰）"}
+{"time": 1723726143, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（还我一个大成功）"}
+{"time": 1723726149, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（绷）"}
+{"time": 1723726157, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不还）"}
+{"time": 1723726160, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（懒得编）"}
+{"time": 1723726181, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（这为什么看不到啊）"}
+{"time": 1723726185, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "也许你们可以通过那个接口进入空间站的部分系统"}
+{"time": 1723726185, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（严查机器人）"}
+{"time": 1723726191, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（机器人看了吗？）"}
+{"time": 1723726197, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（严查机器人）"}
+{"time": 1723726210, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（我刚说没有看到拉环）"}
+{"time": 1723726211, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（看不到捏）"}
+{"time": 1723726215, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（机器人，回去了）"}
+{"time": 1723726218, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。st show侦查"}
+{"time": 1723726218, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]的[侦查]: 25"}
+{"time": 1723726220, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（对不对）"}
+{"time": 1723726222, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（心虚）"}
+{"time": 1723726244, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“好像有个接口”"}
+{"time": 1723726253, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（干脆实时投影得了）"}
+{"time": 1723726257, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那么机器人自带数据线吗）"}
+{"time": 1723726266, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“我们隔离出来一块电脑接进去看看吧”"}
+{"time": 1723726275, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“小心病毒污染”"}
+{"time": 1723726315, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（机器人当然带）"}
+{"time": 1723726323, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“没问题”*再过去一趟"}
+{"time": 1723726332, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "幸运"}
+{"time": 1723726336, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（乐）"}
+{"time": 1723726340, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra幸运"}
+{"time": 1723726340, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[幸运:50]检定: 1D100=81 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1723726347, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（笑死）"}
+{"time": 1723726361, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（唉）"}
+{"time": 1723726413, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114行动中受太阳风影响，磕到空间站表壳，hp-1"}
+{"time": 1723726423, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。hp-1"}
+{"time": 1723726432, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。st hp-1"}
+{"time": 1723726432, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]的人物卡已更新:\n[HP]: 14-1=13"}
+{"time": 1723726446, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（幽默机器人）"}
+{"time": 1723726450, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "不过M114还是抵达了预定位置"}
+{"time": 1723726466, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（幽默机器人）"}
+{"time": 1723726469, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*检查下入口还有没有其他痕迹"}
+{"time": 1723726478, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我猜这个机器人是蓝色的）"}
+{"time": 1723726490, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（恐怖G7人？"}
+{"time": 1723726506, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（尖塔第四强角色捏）"}
+{"time": 1723726510, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "并没有其他的发现"}
+{"time": 1723726525, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*接入插口"}
+{"time": 1723726628, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "平稳的蓝色信号灯从M114手腕上的灯具亮起，数据流缓慢传输到机器人体内，“正在验证....验证成功，允许访问，联邦军用3型，编号114514。”"}
+{"time": 1723726658, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114知道自己已经被授予了应急门的开启权限"}
+{"time": 1723726682, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*打开应急门"}
+{"time": 1723726744, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*看看能不能查询到秋风之墩号的资料"}
+{"time": 1723726783, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "应急门在你眼前缓缓打开，一个封闭的隔离通道显露出来"}
+{"time": 1723726791, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（你要在哪查秋风之墩）"}
+{"time": 1723726799, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（这个不是门口吗）"}
+{"time": 1723726808, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（看看这边能不能连接到资料库而已）"}
+{"time": 1723726813, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不是哦，正常是接驳进的）"}
+{"time": 1723726820, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（这个是应急入口）"}
+{"time": 1723726827, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（彳亍）"}
+{"time": 1723726834, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（而且，你想怎么进啊）"}
+{"time": 1723726846, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能不能直接进去）"}
+{"time": 1723726848, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不弄隔离舱封空气，人类还活不活了）"}
+{"time": 1723726932, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "资料库显然是正常运转的，跟你携带的资料库内容一致。秋风之墩号，地球所属翡翠鸟级轻型巡洋舰，由雷耶斯-Mclees船厂生产，高414米......."}
+{"time": 1723726939, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "后面是一连串的数据"}
+{"time": 1723726979, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "最近发生的事情日志有没有"}
+{"time": 1723726997, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "计算机使用"}
+{"time": 1723727006, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "。ra计算机使用"}
+{"time": 1723727006, "type": "reply", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[m114514]进行技能[计算机使用:50]检定: 1D100=34 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1723727029, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你在繁多的日志中发现了一篇尤其值得注意的"}
+{"time": 1723727085, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这篇日记大约是半年前由一位科学官留下的"}
+{"time": 1723727346, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（内容呢）"}
+{"time": 1723727356, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（别急）"}
+{"time": 1723727359, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（在码字）"}
+{"time": 1723727449, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“最近的发现总是让人不安，说时候是真不想再干这份差事了，在这种地方研究这些乱七八糟的外星人尸体。没有活体解刨的话，谁知道这些残肢原本的用途啊，令人作呕。还有下面那些人传回来的遗物，光是看见就让人做噩梦，这外星文明有够喜欢五的，什么都要做成五边形，哦，听说遗迹里还找到了活体体征......希望不会出事吧。赖斯老头这几天也是神神叨叨的，每天都是一副没睡醒的样子，还念叨了有人会死，已经向联邦申请了首席调换令了，赖斯老头也该是回地球休养了。”"}
+{"time": 1723727481, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不会是）"}
+{"time": 1723727488, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*把情况传回飞船"}
+{"time": 1723727494, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（星星头吧）"}
+{"time": 1723727502, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这位科学官的日志后续被人为损坏了，当你想要查看的时候只剩下一片空白。"}
+{"time": 1723727524, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我能不能直接进应急门看看里面情况）"}
+{"time": 1723727536, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（不等你队友一起？）"}
+{"time": 1723727551, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“看来赖斯就是那个疯了的首席科学官了”"}
+{"time": 1723727552, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "随你"}
+{"time": 1723727555, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（行动就rp）"}
+{"time": 1723727557, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（等了也是我先出去探索好吧）"}
+{"time": 1723727590, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“应急门已经开启，我先进去观察下情况，你们可以尝试介入”"}
+{"time": 1723727592, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*进去"}
+{"time": 1723727665, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“先检查一下气密舱的情况吧”"}
+{"time": 1723727672, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "M114走入隔离舱，背后的应急门应声关上，空气开始填充入隔离舱"}
+{"time": 1723727763, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "几分钟后气体填充的声音停止，眼前的应急门上的标识也由红转绿"}
+{"time": 1723728063, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1041881506"}, "sender": {"id": "1041881506", "name": "十万三千字"}, "message": "（我们小队是几个人来着）"}
+{"time": 1723728075, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（现在好像就4个）"}
+{"time": 1723728082, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（但是好像摸了（笑）"}
+{"time": 1723728108, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（是）"}
+{"time": 1723728110, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "save"}
+{"time": 1723728111, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*进去看看"}
+{"time": 1723728114, "type": "recv", "dect": {"host_id": null, "group_id": "939124705", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}

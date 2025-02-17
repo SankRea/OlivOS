@@ -1,0 +1,47 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "民用二向箔",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            5
+                        ],
+                        [],
+                        [
+                            5
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                5,
+                {
+                    "op": "-"
+                },
+                2
+            ],
+            "RDRecordRaw": "d+5-2",
+            "RDRecordInt": 8,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2759671356",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739628452
+    }
+}

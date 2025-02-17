@@ -1,0 +1,14 @@
+{
+    "史蒂夫": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查",
+            "手枪",
+            "斗殴",
+            "说服",
+            "灵感"
+        ]
+    }
+}

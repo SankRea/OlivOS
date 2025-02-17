@@ -1,0 +1,43 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "S&G绪章如梦",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            15
+                        ],
+                        [],
+                        [
+                            15
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                14
+            ],
+            "RDRecordRaw": "d20+14",
+            "RDRecordInt": 29,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2086118349",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739630006
+    }
+}

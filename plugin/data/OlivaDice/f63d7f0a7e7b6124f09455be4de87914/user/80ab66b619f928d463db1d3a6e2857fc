@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Alin",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            97
+                        ],
+                        [],
+                        [
+                            97
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d",
+            "RDRecordInt": 97,
+            "RDRecordSkillInt": null
+        },
+        "userId": "3220918185",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1733408505
+    }
+}

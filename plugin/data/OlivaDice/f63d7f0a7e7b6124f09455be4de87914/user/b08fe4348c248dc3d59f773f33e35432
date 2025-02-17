@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "邮电部诗人",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            4
+                        ],
+                        [],
+                        [
+                            4
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 4,
+            "RDRecordSkillInt": 75
+        },
+        "userId": "851304484",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739619872
+    }
+}

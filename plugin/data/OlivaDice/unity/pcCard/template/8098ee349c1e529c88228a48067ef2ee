@@ -1,0 +1,68 @@
+{
+    "克莉丝": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查",
+            "导航",
+            "晚上能开团",
+            "手枪",
+            "投掷",
+            "灵感"
+        ]
+    },
+    "音无彩名": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查"
+        ]
+    },
+    "安略特": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "机械维修",
+            "灵感",
+            "计算机使用"
+        ]
+    },
+    "江祥": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "聆听"
+        ]
+    },
+    "灯塔水母": {
+        "enhanceList": [
+            "话术",
+            "侦查",
+            "美术",
+            "灵感",
+            "聆听",
+            "图书馆",
+            "小雅今天给小屁孩一点教训",
+            "斗殴",
+            "紫砂"
+        ]
+    },
+    "“精灵”科尔": {
+        "enhanceList": [
+            "睡觉",
+            "精神分析",
+            "出门",
+            "投掷",
+            "斗殴",
+            "艾德的智力",
+            "手枪",
+            "撕咬",
+            "爱德华的敏捷",
+            "爱德华的幸运"
+        ]
+    }
+}

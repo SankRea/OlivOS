@@ -1,0 +1,25 @@
+{
+    "莫娜": {
+        "enhanceList": [
+            "测试",
+            "侦查",
+            "说服",
+            "天文学",
+            "灵感",
+            "取悦"
+        ],
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        }
+    },
+    "Erik": {
+        "enhanceList": [
+            "侦查",
+            "灵感",
+            "小雅跟我走吧"
+        ],
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        }
+    }
+}

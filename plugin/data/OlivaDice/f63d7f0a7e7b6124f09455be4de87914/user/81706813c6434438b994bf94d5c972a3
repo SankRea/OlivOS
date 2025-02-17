@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "月痕",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            99
+                        ],
+                        [],
+                        [
+                            99
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 99,
+            "RDRecordSkillInt": 40
+        },
+        "userId": "731590917",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738675733
+    }
+}

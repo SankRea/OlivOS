@@ -1,0 +1,43 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "如此",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            16
+                        ],
+                        [],
+                        [
+                            16
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                1
+            ],
+            "RDRecordRaw": "d20+1",
+            "RDRecordInt": 17,
+            "RDRecordSkillInt": null
+        },
+        "userId": "863574948",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1731761876
+    }
+}

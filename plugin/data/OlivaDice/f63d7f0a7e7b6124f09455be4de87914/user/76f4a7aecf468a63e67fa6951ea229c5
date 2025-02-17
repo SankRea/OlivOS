@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "'Akatanoesis(≖‿≖)✧",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            2
+                        ],
+                        [],
+                        [
+                            2
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 8,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d8",
+            "RDRecordInt": 2,
+            "RDRecordSkillInt": null
+        },
+        "userId": "203880921",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739752802
+    }
+}

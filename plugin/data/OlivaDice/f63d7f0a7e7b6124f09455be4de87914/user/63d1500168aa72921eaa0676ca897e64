@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "玉狩静名",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            27
+                        ],
+                        [],
+                        [
+                            27
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 27,
+            "RDRecordSkillInt": 0
+        },
+        "userId": "465917746",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1738675591
+    }
+}

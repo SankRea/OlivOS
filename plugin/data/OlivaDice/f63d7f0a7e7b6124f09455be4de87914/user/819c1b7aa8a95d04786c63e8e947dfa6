@@ -1,0 +1,43 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "ROY",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            14
+                        ],
+                        [],
+                        [
+                            14
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                11
+            ],
+            "RDRecordRaw": "d+11",
+            "RDRecordInt": 25,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2438158764",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1739629298
+    }
+}
