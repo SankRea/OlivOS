@@ -2,6 +2,9 @@
     "民用二向箔": {
         "mappingRecord": {
             "先攻": "1D20+5"
-        }
+        },
+        "enhanceList": [
+            "反击"
+        ]
     }
 }

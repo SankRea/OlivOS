@@ -67,6 +67,9 @@
         ]
     },
     "顾尘南": {
-        "enhanceList": []
+        "enhanceList": [
+            "闪避",
+            "剑"
+        ]
     }
 }

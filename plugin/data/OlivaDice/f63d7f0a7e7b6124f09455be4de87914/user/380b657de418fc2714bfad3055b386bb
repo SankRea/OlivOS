@@ -6,17 +6,18 @@
                 {
                     "result": [
                         [
-                            91
+                            6,
+                            4
                         ],
                         [],
                         [
-                            91
+                            10
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 2,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,15 +26,101 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                30,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            4,
+                            5,
+                            1,
+                            2,
+                            3,
+                            2,
+                            4,
+                            5,
+                            1,
+                            5,
+                            2,
+                            1
+                        ],
+                        [],
+                        [
+                            35
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 12,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                90,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            4,
+                            3,
+                            2,
+                            3,
+                            6,
+                            5,
+                            6,
+                            1,
+                            1,
+                            1,
+                            1,
+                            4
+                        ],
+                        [],
+                        [
+                            37
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 12,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                90
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 91,
-            "RDRecordSkillInt": 60
+            "RDRecordRaw": "2d8+30+12d6+90+12d6+90",
+            "RDRecordInt": 292,
+            "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1739622620
+        "lastHit": 1739982839
     }
 }

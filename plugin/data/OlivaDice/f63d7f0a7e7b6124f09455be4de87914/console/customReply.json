@@ -21,7 +21,7 @@
     "strLoggerLogAlreadyEnd": "没有正在演奏的乐曲",
     "strLoggerLogSave": "乐曲已保存",
     "strLoggerLogUrl": "乐曲已上传，请在[{tLogUrl}]提取乐谱",
-    "strRollHide": "在演奏厅[{tGroupId}]中[{tName}]演奏出: {tRollResult}",
+    "strRollHide": "在演奏厅中[{tName}]演奏出: {tRollResult}",
     "strRollHideWithReason": "在演奏厅[{tGroupId}]中[{tName}]用乐器[{tRollReason}]演奏出: {tRollResult}",
     "strRollHideShowWithReason": "[{tName}]由于[{tRollReason}]陷入黑暗",
     "str": "strObClear",
