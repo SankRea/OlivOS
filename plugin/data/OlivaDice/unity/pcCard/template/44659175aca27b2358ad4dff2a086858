@@ -1,5 +1,7 @@
 {
     "Accelerator": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

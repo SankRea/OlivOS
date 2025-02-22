@@ -185,6 +185,8 @@
         ]
     },
     "卡门": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }
