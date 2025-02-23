@@ -110,6 +110,8 @@
         ]
     },
     "塔莫林": {
-        "enhanceList": []
+        "enhanceList": [
+            "血统"
+        ]
     }
 }
