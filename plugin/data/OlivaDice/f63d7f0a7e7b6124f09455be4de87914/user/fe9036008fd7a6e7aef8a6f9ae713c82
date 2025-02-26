@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "不会在的人",
+            "userName": "晓月",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            16
+                            15
                         ],
                         [],
                         [
-                            16
+                            15
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,19 +25,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                8
+                }
             ],
-            "RDRecordRaw": "d20+8",
-            "RDRecordInt": 24,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 15,
             "RDRecordSkillInt": null
         },
-        "userId": "961142868",
+        "userId": "1337086764",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740471791
+        "lastHit": 1740531255
     }
 }
