@@ -3,13 +3,13 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1740563711,
+        "lastHit": 1740646321,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupMainDice": null,
-            "groupMainDiceDRight": null,
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
             "groupInitList": {
                 "冰麒麟": 26,
                 "_8": 20,

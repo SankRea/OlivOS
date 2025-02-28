@@ -3,19 +3,35 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1740628269,
+        "lastHit": 1740671396,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupMainDice": null,
-            "groupMainDiceDRight": null,
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
             "logEnable": true,
             "logNowName": "log_c1961cad-76c8-4b2b-ae5d-44d40d31c535",
             "groupInitList": {
-                "jkl": 1000015
+                "藿藿": 29,
+                "_d4": 37,
+                "丹德莱": 42,
+                "灵风雨璇": 30,
+                "呼雷": 19,
+                "艾丝妲": 36,
+                "突变怪物": 29,
+                "尾巴": 21,
+                "芊羽_？": 39
             },
             "groupInitParaList": {
-                "jkl": "1D20+1000000"
+                "藿藿": "1D20+10",
+                "_d4": "1D20+29",
+                "丹德莱": "1D20+25",
+                "灵风雨璇": "1D20+22",
+                "呼雷": "1D20+8",
+                "艾丝妲": "1D20+33",
+                "突变怪物": "1D20+10",
+                "尾巴": "1D20+5",
+                "芊羽_？": "39"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
