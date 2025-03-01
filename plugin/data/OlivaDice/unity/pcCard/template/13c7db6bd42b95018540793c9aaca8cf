@@ -57,6 +57,9 @@
         }
     },
     "尤斯蒂娅": {
-        "enhanceList": []
+        "enhanceList": [],
+        "mappingRecord": {
+            "先攻": "1D20+33"
+        }
     }
 }

@@ -6,18 +6,17 @@
                 {
                     "result": [
                         [
-                            2,
-                            1
+                            4
                         ],
                         [],
                         [
-                            3
+                            4
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 2,
-                        "r": 4,
+                        "l": 1,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -26,15 +25,27 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                17,
+                {
+                    "op": "+"
+                },
+                1,
+                {
+                    "op": "+"
+                },
+                2
             ],
-            "RDRecordRaw": "2d4",
-            "RDRecordInt": 3,
+            "RDRecordRaw": "1d20+17+1+2",
+            "RDRecordInt": 24,
             "RDRecordSkillInt": null
         },
         "userId": "1040972910",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740675970
+        "lastHit": 1740756009
     }
 }

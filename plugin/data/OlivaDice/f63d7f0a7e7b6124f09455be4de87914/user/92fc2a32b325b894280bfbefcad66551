@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "PlslP"
+            "userName": "PlslP",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            69
+                        ],
+                        [],
+                        [
+                            69
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 69,
+            "RDRecordSkillInt": 50
         },
         "userId": "247930163",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740630587
+        "lastHit": 1740718839
     }
 }

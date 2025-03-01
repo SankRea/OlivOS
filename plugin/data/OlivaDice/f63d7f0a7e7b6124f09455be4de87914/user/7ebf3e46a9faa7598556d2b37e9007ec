@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "血淚絞滾"
+            "userName": "血淚絞滾",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            46
+                        ],
+                        [],
+                        [
+                            46
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 46,
+            "RDRecordSkillInt": 99
         },
         "userId": "786848488",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740630168
+        "lastHit": 1740718755
     }
 }
