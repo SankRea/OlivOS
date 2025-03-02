@@ -1845,3 +1845,13 @@
 {"time": 1740737592, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哦对哦）"}
 {"time": 1740737599, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（[CQ:at,qq=1085444390] [CQ:at,qq=961142868] ）"}
 {"time": 1740738624, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
+{"time": 1740813330, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1740813340, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(到谁了来着)"}
+{"time": 1740813442, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（沉默了）"}
+{"time": 1740813446, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（好像是）"}
+{"time": 1740813454, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（[CQ:at,qq=1085444390] [CQ:at,qq=961142868] ）"}
+{"time": 1740813467, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（但是他们一个在返校，一个今天到现在还没冒头）"}
+{"time": 1740813605, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(难绷)"}
+{"time": 1740813615, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我看你是想看我写龙族同人)"}
+{"time": 1740813644, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（只是无聊）"}
+{"time": 1740813757, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
