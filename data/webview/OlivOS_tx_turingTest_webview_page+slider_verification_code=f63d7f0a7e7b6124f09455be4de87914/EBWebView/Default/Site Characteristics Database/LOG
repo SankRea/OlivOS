@@ -1,5 +1,5 @@
-2025/02/15-17:54:18.804 2afc Recovering log #35
-2025/02/15-17:54:18.806 2afc Level-0 table #37: started
-2025/02/15-17:54:18.828 2afc Level-0 table #37: 162 bytes OK
-2025/02/15-17:54:18.835 2afc Delete type=0 #35
-2025/02/15-17:54:18.835 2afc Delete type=3 #33
+2025/03/02-14:22:37.472 3828 Recovering log #45
+2025/03/02-14:22:37.474 3828 Level-0 table #47: started
+2025/03/02-14:22:37.496 3828 Level-0 table #47: 162 bytes OK
+2025/03/02-14:22:37.513 3828 Delete type=0 #45
+2025/03/02-14:22:37.514 3828 Delete type=3 #43

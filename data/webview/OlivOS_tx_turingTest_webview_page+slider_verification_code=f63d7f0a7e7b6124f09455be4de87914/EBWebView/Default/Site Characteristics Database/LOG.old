@@ -1,5 +1,5 @@
-2025/02/13-12:35:28.770 1a0c Recovering log #32
-2025/02/13-12:35:28.770 1a0c Level-0 table #34: started
-2025/02/13-12:35:28.782 1a0c Level-0 table #34: 162 bytes OK
-2025/02/13-12:35:28.791 1a0c Delete type=0 #32
-2025/02/13-12:35:28.791 1a0c Delete type=3 #30
+2025/03/02-14:17:53.355 302c Recovering log #41
+2025/03/02-14:17:53.356 302c Level-0 table #44: started
+2025/03/02-14:17:53.364 302c Level-0 table #44: 162 bytes OK
+2025/03/02-14:17:53.374 302c Delete type=0 #41
+2025/03/02-14:17:53.375 302c Delete type=3 #39

@@ -1,5 +1,5 @@
-2025/02/13-12:35:28.796 2b6c Recovering log #32
-2025/02/13-12:35:28.817 2b6c Level-0 table #34: started
-2025/02/13-12:35:28.825 2b6c Level-0 table #34: 203 bytes OK
-2025/02/13-12:35:28.836 2b6c Delete type=0 #32
-2025/02/13-12:35:28.837 2b6c Delete type=3 #30
+2025/03/02-14:17:53.371 2b3c Recovering log #41
+2025/03/02-14:17:53.391 2b3c Level-0 table #44: started
+2025/03/02-14:17:53.406 2b3c Level-0 table #44: 203 bytes OK
+2025/03/02-14:17:53.423 2b3c Delete type=0 #41
+2025/03/02-14:17:53.423 2b3c Delete type=3 #39
