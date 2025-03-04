@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Fragile",
+            "userName": "夜晚的ラキア不会游泳",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            68
+                            2
                         ],
                         [],
                         [
-                            68
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 2,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 68,
-            "RDRecordSkillInt": 50
+            "RDRecordRaw": "d2",
+            "RDRecordInt": 2,
+            "RDRecordSkillInt": null
         },
         "userId": "3350763001",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740710981
+        "lastHit": 1741013755
     }
 }

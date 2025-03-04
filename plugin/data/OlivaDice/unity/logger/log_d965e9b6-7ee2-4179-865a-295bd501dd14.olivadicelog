@@ -1855,3 +1855,281 @@
 {"time": 1740813615, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我看你是想看我写龙族同人)"}
 {"time": 1740813644, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（只是无聊）"}
 {"time": 1740813757, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
+{"time": 1740988194, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1740988204, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(上一次轮到谁动了)"}
+{"time": 1740988210, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（选了启用之后，你们的超能力发展方向就会和信念相关"}
+{"time": 1740988221, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(也不是不行)"}
+{"time": 1740988233, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(上次好像是双刀动吧)"}
+{"time": 1740988308, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那双刀动）"}
+{"time": 1740988318, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（我70敏捷）"}
+{"time": 1740988398, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（70敏捷）"}
+{"time": 1740988412, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "在开车"}
+{"time": 1740988444, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那先开着)"}
+{"time": 1740988448, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(等你搞定)"}
+{"time": 1740988458, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(其实多少敏捷无所谓)"}
+{"time": 1740988470, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(因为死侍移速很低)"}
+{"time": 1740988551, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#左手拿着杖身，右手摁着头部的同时轻轻摁动按钮拔剑而出。随后直刺死侍眼部"}
+{"time": 1740988562, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": ".ra剑 80"}
+{"time": 1740988562, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[不会在的人]进行技能[剑:80]检定: 1D100=14 极难成功，流水落花春去也，天上人间"}
+{"time": 1740988751, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（我也是70）"}
+{"time": 1740988758, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（闪电先动吧）"}
+{"time": 1740988767, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(roll伤害)"}
+{"time": 1740988776, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(炼金刀具额外+2)"}
+{"time": 1740988786, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(按大型刀具算)"}
+{"time": 1740988793, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": ".rd6+1+d4+7+4"}
+{"time": 1740988793, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[不会在的人]演奏出: d6+1+d4+7+4={3}+1+{1}+7+4=16"}
+{"time": 1740988798, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（1d8+2+db吧）"}
+{"time": 1740988802, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（用的是随身武器）"}
+{"time": 1740988878, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那+4是？）"}
+{"time": 1740988896, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(+7是？)"}
+{"time": 1740988901, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（穿刺）"}
+{"time": 1740988924, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（贯穿啊）"}
+{"time": 1740988952, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（贯穿伤害不是一次普通伤害，加一个满值？）"}
+{"time": 1740988967, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "死侍瘫倒在地上任由你的炼金刀具从它身上刺过，雪白的地面被乌黑腥臭的血液覆盖，天空传来悲泣的鸟鸣"}
+{"time": 1740988999, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（三动不如一刀"}
+{"time": 1740989001, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（唉"}
+{"time": 1740989059, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(笑了)"}
+{"time": 1740989147, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#右脚踏前先身一步，身体左转一圈顺势拔出，彻身而过死侍尸体，免得血溅身土"}
+{"time": 1740989152, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#右脚踏前先身一步，身体左转一圈顺势拔出，彻身而过死侍尸体，免得血溅身上"}
+{"time": 1740989535, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（问一下双刀怎么算）"}
+{"time": 1740989540, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（一次攻击还是两次）"}
+{"time": 1740989597, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我也想问）"}
+{"time": 1740989614, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（2*3=6）"}
+{"time": 1740989683, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（还有敌人吗）"}
+{"time": 1740990119, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（还有一个）"}
+{"time": 1740990134, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（双刀算两次伤害，但是吃惩罚骰）"}
+{"time": 1740990142, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（开言灵允许不吃）"}
+{"time": 1740990148, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（言灵过血统）"}
+{"time": 1740990299, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（到谁了）"}
+{"time": 1740990324, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（云泥）"}
+{"time": 1740990414, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#目光锁定最后一个敌人“桀桀桀，好久没有实战了”"}
+{"time": 1740990429, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#开启言灵，手握两把七宗罪当头劈下"}
+{"time": 1740990432, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。ra血统65"}
+{"time": 1740990432, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[血统:65]检定: 1D100=66 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740990439, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（[CQ:face,id=96]）"}
+{"time": 1740990449, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。ra剑80"}
+{"time": 1740990449, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[剑:80]检定: 1D100=66 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740990455, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。rap剑80"}
+{"time": 1740990455, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[剑:80]检定: P={1D100=52 punish:[3]}(52)=52 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740990485, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。r1d8+2+d4"}
+{"time": 1740990485, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]演奏出: 1d8+2+d4={8}+2+{4}=14"}
+{"time": 1740990493, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。r1d8+2+d4"}
+{"time": 1740990493, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]演奏出: 1d8+2+d4={1}+2+{2}=5"}
+{"time": 1740990508, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（哦，对面还有行动）"}
+{"time": 1740990517, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "[CQ:face,id=96]"}
+{"time": 1740990533, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（还在开车）"}
+{"time": 1740990546, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（问题不大）"}
+{"time": 1740991403, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（到谁了）"}
+{"time": 1740991424, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可能是，龙吧）"}
+{"time": 1740991679, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（到龙的反应，反击还是闪避）"}
+{"time": 1740991833, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd100"}
+{"time": 1740991833, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]演奏出: 1D100=10"}
+{"time": 1740991909, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "死侍硬生生抗下你这刀在最后的关键时刻同时向你掷出身上的骨刺，尖锐如同刺枪直直地往你面前飞去"}
+{"time": 1740991986, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd4+2"}
+{"time": 1740991986, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]演奏出: 1D4+2={2}+2=4"}
+{"time": 1740992043, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "高空盘旋的黑翼再次发出悲泣的鸣叫，可始终没有落在地上，似乎有什么东西让它极度忌惮，它挥舞起双翼，在暴风雪的掩盖下往远处飞去"}
+{"time": 1740992126, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“好过分呀”#抓住刺入身体的骨刺，将其体外的部分折断，以免晃动让伤口扩大"}
+{"time": 1740992260, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(战斗轮结束)"}
+{"time": 1740992271, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(还要维持风王之瞳过血统)"}
+{"time": 1740992286, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "长吁一口气，停下全力甚至有些超力的言灵，有些站立不稳，跪坐下来。"}
+{"time": 1740992288, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(移动时加惩罚骰)"}
+{"time": 1740992296, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(长时间维持过意志)"}
+{"time": 1740992308, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(长距离移动过体质)"}
+{"time": 1740992450, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*捡回被抢走的刀，狠狠给眼前的死侍一脚"}
+{"time": 1740992895, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“你们有人带了急救箱吗”"}
+{"time": 1740993078, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（坏了 没点急救好像）"}
+{"time": 1740993080, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我看一眼）"}
+{"time": 1740993087, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。st show"}
+{"time": 1740993087, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[路夜白]:\n<属性>\n力量:41 敏捷:70 意志:64 SAN:64 SANMAX:64 MP:12 MPMAX:12 体质:65 外貌:45 教育:99 体型:50 HP:11 HPMAX:11 智力:66 幸运:55\n<技能>\n闪避:60 母语:99 会计:5 人类学:1 估价:5 考古学:1 取悦:15 攀爬:20 计算机使用:5 信用:0 克苏鲁神话:0 乔装:5 汽车驾驶:40 电气维修:10 电子学:1 话术:5 投掷:51 急救:30 历史:5 恐吓:15 跳跃:20 法律:5 图书馆:20 聆听:20 锁匠:1 [*]机械维修:70 医学:1 博物:10 导航:10 神秘学:5 操作重型机械:1 说服:10 精神分析:1 心理学:10 骑乘:5 妙手:10 侦查:25 潜行:20 游泳:20 追踪:10 驯兽:5 潜水:1 爆破:30 读唇:1 催眠:1 炮术:1\n<其它>\n[*]灵感:66 SAN值:64 理智值:64 运气:55 体力:11 汽车:40 驾驶:40 斗殴:25 手枪:80 步枪:80 霰弹枪:80 步霰:80 机枪:80 弓箭:80 英语:1 开锁:1 撬锁:1 重型操作:1 重型机械:1 重型:1 化学:50 物理学:50 生存:10"}
+{"time": 1740993129, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（要试试我就口胡一下？当然还是看kp给不给我就是了）"}
+{"time": 1740993164, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 急救"}
+{"time": 1740993164, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]的[急救]: 80"}
+{"time": 1740993169, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哈哈）"}
+{"time": 1740993204, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*给自己紧急处理一下伤口"}
+{"time": 1740993230, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra急救"}
+{"time": 1740993230, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[急救:80]检定: 1D100=37 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1740993240, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（wow）"}
+{"time": 1740993253, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st hp+2"}
+{"time": 1740993253, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]的人物卡已更新:\n[HP]: 4+2=6"}
+{"time": 1740993261, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（还有谁受伤了）"}
+{"time": 1740993416, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...我没事，休息一下...\"扶着额头"}
+{"time": 1740993465, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“其他人有受伤吗”"}
+{"time": 1740993512, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*帮帕特森处理一下伤口"}
+{"time": 1740993524, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra急救"}
+{"time": 1740993524, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[急救:80]检定: 1D100=38 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1740993915, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（回多少学）"}
+{"time": 1740993917, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（血）"}
+{"time": 1740993940, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“谢谢，刚刚那一下还是有些疼的”"}
+{"time": 1740994012, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#用手指轻轻戳伤口，感觉蛮有趣的"}
+{"time": 1740994139, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（2吧）"}
+{"time": 1740994152, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=-1676480426][CQ:at,qq=1370316409] （）"}
+{"time": 1740994243, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（好的）"}
+{"time": 1740994568, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(怎么说)"}
+{"time": 1740994581, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(继续过导航)"}
+{"time": 1740994589, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(看你们能不能到第一个避难点)"}
+{"time": 1740994608, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（这个导航）"}
+{"time": 1740994619, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我能不能拿血统过）"}
+{"time": 1740994629, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(可以)"}
+{"time": 1740994682, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra42"}
+{"time": 1740994682, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[42]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740994689, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（经典）"}
+{"time": 1740994705, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（这个麻生真也太惨了）"}
+{"time": 1740994734, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（看着有种为了让凯撒成长才安排这一个角色的感觉）"}
+{"time": 1740994905, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st急救"}
+{"time": 1740994905, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]的[急救]: 75"}
+{"time": 1740994908, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。ra导航"}
+{"time": 1740994908, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[导航:65]检定: 1D100=72 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740994924, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "[CQ:reply,id=1855592297][CQ:at,qq=2468514664] （是的，唉）"}
+{"time": 1740994926, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra领航"}
+{"time": 1740994926, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]进行技能[领航:10]检定: 1D100=64 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995001, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(你们真是)"}
+{"time": 1740995004, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(无敌了)"}
+{"time": 1740995021, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（小雅干的）"}
+{"time": 1740995049, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra导航"}
+{"time": 1740995049, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[导航:10]检定: 1D100=42 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995068, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*事已至此，打开手机的收音机，看看有没有什么娱乐节目"}
+{"time": 1740995069, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra领航"}
+{"time": 1740995069, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[尤斯蒂娅]进行技能[领航:10]检定: 1D100=19 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995106, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过度使用言灵，现在还是虚弱的状态，沉默着跟在最后"}
+{"time": 1740995142, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "塔罗牌"}
+{"time": 1740995165, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(确实是你们了)"}
+{"time": 1740995184, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(过幸运吧)"}
+{"time": 1740995190, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra幸运"}
+{"time": 1740995192, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[幸运:55]检定: 1D100=7 极难成功，流水落花春去也，天上人间"}
+{"time": 1740995194, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（几个人过）"}
+{"time": 1740995199, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(全过)"}
+{"time": 1740995200, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（何意味）"}
+{"time": 1740995202, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra幸运"}
+{"time": 1740995202, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]进行技能[幸运:75]检定: 1D100=43 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740995205, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（广播吧可能）"}
+{"time": 1740995224, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra幸运"}
+{"time": 1740995224, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[尤斯蒂娅]进行技能[幸运:25]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995231, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(25luck)"}
+{"time": 1740995242, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": ".ra幸运 55"}
+{"time": 1740995242, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[不会在的人]进行技能[幸运:55]检定: 1D100=46 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740995284, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。ra幸运"}
+{"time": 1740995284, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[幸运:45]检定: 1D100=62 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995337, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#看着尤斯精神力消耗严重 放慢脚步“我来背着你走吧，这一路上还有多多麻烦你了”"}
+{"time": 1740995365, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra幸运"}
+{"time": 1740995365, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[幸运:45]检定: 1D100=77 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995472, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...\"看了一眼云泥身上背着的大型刀剑，摇摇头，\"没关系\""}
+{"time": 1740995542, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "【诺玛广播声】\n重复三次，声纹频率锁定卡塞尔学院血统波长\n\"这里是执行部中央指挥系统。所有在THM-114坐标圈的特派专员，立刻向北纬63.43度发射青铜树安全码。最后联络窗口将于30分钟后关闭。\"\n\"重复：未在2400前收到心跳监测脉冲的个体，将按《尼伯龙根协议》标记为龙侍转化候选体。\""}
+{"time": 1740995562, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "广播里突然插入装备部的尖叫：\"别用公共城市Wi-Fi！\""}
+{"time": 1740995566, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“哎哟我”"}
+{"time": 1740995594, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“看来咱们是摊上大事了哈”"}
+{"time": 1740995618, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……不说WiFi，这里能有信号都是撞大运了。”"}
+{"time": 1740995623, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不过，倒是还有办法”"}
+{"time": 1740995631, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“车上不是还有发信器吗？”"}
+{"time": 1740995699, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“也是，小路去搞一下”"}
+{"time": 1740995708, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“能让这群人喊出来，看来公共WiFi还真是有大手笔在”"}
+{"time": 1740995716, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“好的好的收到收到”"}
+{"time": 1740995746, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（机械维修吧？）"}
+{"time": 1740995758, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(是)"}
+{"time": 1740995763, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra机械维修"}
+{"time": 1740995763, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[机械维修:70]检定: 1D100=14 极难成功，流水落花春去也，天上人间"}
+{"time": 1740995771, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(再来个幸运)"}
+{"time": 1740995776, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra幸运"}
+{"time": 1740995776, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[幸运:55]检定: 1D100=86 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740995780, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（赫赫）"}
+{"time": 1740995791, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "你成功修好了发信器，但是无论怎么摆弄就是没有信号"}
+{"time": 1740995798, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“毕竟是我们开发的设备，线路是没问题”"}
+{"time": 1740995814, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd6"}
+{"time": 1740995814, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]演奏出: 1D6=1"}
+{"time": 1740995819, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哦豁)"}
+{"time": 1740995827, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“只是这破地方确实半点网没有呵”"}
+{"time": 1740995834, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（何意味）"}
+{"time": 1740995838, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（小雅，哎，小雅）"}
+{"time": 1740995842, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "你们花了一个小时在雪地里漫无目的地寻找安全屋还真给你们找到了"}
+{"time": 1740995855, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（嚯嚯，夸脏哦）"}
+{"time": 1740995868, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那挺幸运了）"}
+{"time": 1740995887, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（安全屋里会有网络吗）"}
+{"time": 1740995945, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(首先)"}
+{"time": 1740995950, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(尼伯龙根)"}
+{"time": 1740995951, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(其次)"}
+{"time": 1740995954, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(暴风雪)"}
+{"time": 1740995955, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“有一种和任务渐行渐远的感觉”*持枪戒备，准备开门"}
+{"time": 1740995984, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*看到队友架枪后知后觉地也备战"}
+{"time": 1740996023, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#不紧不慢的跟在队伍后"}
+{"time": 1740996030, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*比较神经大条，松弛地站在一旁"}
+{"time": 1740996123, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "木屋松木板墙在暴风中震颤，铸铁炉膛里有着炼金术处理的无烟炭火，但是没有点燃。行军床上的驼绒被印着卡塞尔校徽，褶皱里还卡着装备部特供能量棒的铝箔残片。铁皮柜顶部的锡罐阵列码得棱角分明：红烧牛腩自热锅（执行部特制龙血辣度）、压缩饼干（保质期114年）、保温壶内胆刻着“饮用前默诵《戒律》第三节”，沾雪橇板在门后组成卡塞尔剑盾标志，这里毫无疑问就是真正的安全屋"}
+{"time": 1740996130, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "[CQ:reply,id=-1037084571][CQ:at,qq=1252219916] “嘛嘛嘛，你这么小一只也不影响行动”"}
+{"time": 1740996139, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（唉llk）"}
+{"time": 1740996176, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "所有电子设备在进入瞬间自动播放《校歌》和弦，壁炉上方铜牌闪烁：\n避难点No.114 激活于公历20xx年"}
+{"time": 1740996219, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（压缩饼干114年？）"}
+{"time": 1740996228, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*一屁股坐在行军床上“终于可以休息了”"}
+{"time": 1740996236, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（这怕是刚出厂就臭了吧）"}
+{"time": 1740996242, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“看来这个安全屋确实是安全的哈”*挠挠鼻子硬憋了一句话"}
+{"time": 1740996245, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“看来我们到了，不知道这些东西还能不能吃，要不然我试试毒？”"}
+{"time": 1740996247, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“躲避天灾倒是够用了。但是居然没有火力配布，秘党什么时候变得这么温和了”"}
+{"time": 1740996292, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#用脚踩在木板上，利用触感和声音判断有没有暗格"}
+{"time": 1740996316, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#“不管怎么说，算是能歇脚了”随便找了个位置坐下，重新拔剑开始自己动手给剑保养"}
+{"time": 1740996364, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "你没有发现什么暗格"}
+{"time": 1740996367, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*尝试调查周围环境"}
+{"time": 1740996390, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra42"}
+{"time": 1740996390, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[42]检定: 1D100=37 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740996392, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "四周除开你们的脚印外还有几条滑雪板的划痕"}
+{"time": 1740996421, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“这下真要拿滑雪板打死侍了吗”"}
+{"time": 1740996438, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“呵，还真是有点奇怪”"}
+{"time": 1740996441, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……？”"}
+{"time": 1740996453, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“前人经验前人经验”"}
+{"time": 1740996460, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这种天气，这么新鲜的印记？”"}
+{"time": 1740996487, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*估算一下降雪量要多久就能掩盖滑雪的痕迹"}
+{"time": 1740996488, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*看看雪橇印从哪边过来的"}
+{"time": 1740996491, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra侦查"}
+{"time": 1740996491, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[侦查:80]检定: 1D100=81 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740996495, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1740996516, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "“这个雪，就是车碾过过了几分钟也看不出痕迹来的”"}
+{"time": 1740996524, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "“这个雪，就是车碾过有了几分钟也看不出痕迹来的”"}
+{"time": 1740996551, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“是又派新人来了，还是你们之前遇到的演员？”"}
+{"time": 1740996573, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "[CQ:reply,id=1034524217][CQ:at,qq=825734198] 新鲜的印记只需要半个小时左右就足够掩盖"}
+{"time": 1740996604, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“半小时内……”"}
+{"time": 1740996607, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "“不知道，至少我们继续往前走，说不准还能赶上人”"}
+{"time": 1740996609, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（确实该追踪一下）"}
+{"time": 1740996612, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra追踪"}
+{"time": 1740996612, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]进行技能[追踪:60]检定: 1D100=55 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740996618, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（因为我真的点了）"}
+{"time": 1740996624, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(等级不够)"}
+{"time": 1740996635, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...\"先进安全屋里坐一会"}
+{"time": 1740996639, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "。ra追踪"}
+{"time": 1740996639, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Accelerator]进行技能[追踪:10]检定: 1D100=50 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740996647, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra追踪"}
+{"time": 1740996647, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[追踪:10]检定: 1D100=76 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1740996647, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（试试看总不亏）"}
+{"time": 1740996652, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "面前滑雪板的痕迹已经很浅了，你能看到快到尽头的位置已经要消失不见"}
+{"time": 1740996658, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（没有大失败就赢"}
+{"time": 1740996669, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不行，雪太大了，暂时看不出”"}
+{"time": 1740996689, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“但是尼伯龙根里还有别的活人……？”"}
+{"time": 1740996693, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"雪太大了，姑且等在这里...等雪停吧。\""}
+{"time": 1740996732, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“我们就先休整一会吧”"}
+{"time": 1740996738, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“嗨嗨嗨红烧牛腩”"}
+{"time": 1740996744, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我不觉得雪会有停的那天，不过休整的确有必要”"}
+{"time": 1740996749, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那我们要被标记了怎么办）"}
+{"time": 1740996755, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不知道)"}
+{"time": 1740996770, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（现在几点，不过也已经过了最后期限了吧）"}
+{"time": 1740996775, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#“打算休整完再离开吗，至少填饱肚子什么的。那样的话，麻烦你们坐在我对面，应该都看过最后的晚餐？尽量按这个样子做就好”一边说着完成了剑的维护，反手将背上的画板取下来，拿出画笔，以及颜料放到壁炉前暖一下"}
+{"time": 1740996781, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（听一下天上的东西还在不在）"}
+{"time": 1740996787, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（可以吧）"}
+{"time": 1740996798, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(可以)"}
+{"time": 1740996800, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra42"}
+{"time": 1740996800, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[路夜白]进行技能[42]检定: 1D100=23 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740996824, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "天空只有暴风雪在不断肆虐，你看不见镰鼬也感觉不到任何元素乱流"}
+{"time": 1740996837, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“先生火加热食物吧，这天啃冷的罐头也啃不动吧”"}
+{"time": 1740996851, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我需要休息一下，呼....负担..重..\""}
+{"time": 1740996857, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "#拿些罐头下来，看一下房间里面有没有火炉"}
+{"time": 1740996863, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“大家先安心下来休息吧，至少现在外面还是普通的暴风雪”"}
+{"time": 1740996865, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（说起来，怎么没有）"}
+{"time": 1740996867, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（糖）"}
+{"time": 1740996876, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "“嗯，你休息吧，离开的时候我会带上你的”"}
+{"time": 1740996911, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（辣能驱寒，但是显然并不适合补充能量（）"}
+{"time": 1740996924, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "[CQ:reply,id=590928716][CQ:at,qq=961142868] （我过一个绘画）"}
+{"time": 1740996930, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": ".ra绘画 80"}
+{"time": 1740996931, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[不会在的人]进行技能[绘画:80]检定: 1D100=74 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1740996987, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(你真是无敌了)"}
+{"time": 1740996989, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(点这个)"}
+{"time": 1740997038, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那就阖眼，在角落里睡一会"}
+{"time": 1740997063, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“一路走来，是不是连野生动物都没见过”"}
+{"time": 1740997097, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……现在到安全屋了，但是好像和我们的任务也没什么关系”"}
+{"time": 1740997097, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*吃点东西，然后在床上端详贪婪"}
+{"time": 1740997163, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "#“要拿来当遗作还真是有欠火候，还是不要是好了”画完之后把画放在一旁等干"}
+{"time": 1740997185, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“最终还是要去那个教堂”"}
+{"time": 1740997277, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}

@@ -1669,6 +1669,7 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "手枪": 0
     }
 }
