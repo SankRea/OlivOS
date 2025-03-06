@@ -1,0 +1,5 @@
+{"time": 1741090183, "type": "reply", "dect": {"host_id": null, "group_id": "416084491", "user_id": "2483922115"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1741090184, "type": "recv", "dect": {"host_id": null, "group_id": "416084491", "user_id": "2086118349"}, "sender": {"id": "2086118349", "name": "S&G绪章如梦"}, "message": "等等，没录卡"}
+{"time": 1741090195, "type": "recv", "dect": {"host_id": null, "group_id": "416084491", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（现在录也行）"}
+{"time": 1741090195, "type": "recv", "dect": {"host_id": null, "group_id": "416084491", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（是不是上一个没end）"}
+{"time": 1741090205, "type": "recv", "dect": {"host_id": null, "group_id": "416084491", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "。log off"}

@@ -9,7 +9,8 @@
             "聆听",
             "摸鱼",
             "湖中女神",
-            "写不写"
+            "写不写",
+            "你去学习"
         ],
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"

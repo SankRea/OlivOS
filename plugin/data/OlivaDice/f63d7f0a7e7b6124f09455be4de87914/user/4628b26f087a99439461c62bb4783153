@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            25
+                            91
                         ],
                         [],
                         [
-                            25
+                            91
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 25,
-            "RDRecordSkillInt": 50
+            "RDRecordInt": 91,
+            "RDRecordSkillInt": 0
         },
         "userId": "2165308797",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1741055045
+        "lastHit": 1741191382
     }
 }

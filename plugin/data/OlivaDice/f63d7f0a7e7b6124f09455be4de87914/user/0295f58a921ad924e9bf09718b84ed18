@@ -3,37 +3,15 @@
         "configNote": {
             "userName": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            8
-                        ],
-                        [],
-                        [
-                            8
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                80
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 8,
-            "RDRecordSkillInt": 50
+            "RDRecordRaw": "80",
+            "RDRecordInt": 80,
+            "RDRecordSkillInt": null
         },
         "userId": "246376731",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740923894
+        "lastHit": 1741141402
     }
 }
