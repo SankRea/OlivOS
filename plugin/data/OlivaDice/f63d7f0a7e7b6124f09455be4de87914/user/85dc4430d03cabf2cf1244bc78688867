@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "小妈好味饺子",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            7
+                        ],
+                        [],
+                        [
+                            7
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 7,
+            "RDRecordSkillInt": 50
+        },
+        "userId": "3139047207",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1741317023
+    }
+}

@@ -52,6 +52,9 @@
     "星野游璃": {
         "enhanceList": [
             "聆听"
-        ]
+        ],
+        "mappingRecord": {
+            "先攻": "22"
+        }
     }
 }

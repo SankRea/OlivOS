@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "夜晚的ラキア不会游泳",
+            "userName": "あかねぴー",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            15
+                            39
                         ],
                         [],
                         [
-                            15
+                            39
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 15,
+            "RDRecordInt": 39,
             "RDRecordSkillInt": 50
         },
         "userId": "3350763001",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1741175684
+        "lastHit": 1741319151
     }
 }

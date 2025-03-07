@@ -3,16 +3,16 @@
         "userId": "979367137",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1730127425,
+        "lastHit": 1741281096,
         "configNote": {
             "logEnable": false,
-            "logNowName": null,
+            "logNowName": "log_c484b9bc-cb09-4691-a1cb-017e60e0822b",
             "groupEnable": true,
-            "groupObList": [
-                "5c5ba4969428218f4ec42552de8fddf9"
-            ],
+            "groupObList": [],
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "groupMainDice": null,
+            "groupMainDiceDRight": null
         }
     }
 }
