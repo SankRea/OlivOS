@@ -1,0 +1,8 @@
+官方 deepseek :    
+    "api_key": "sk-ac936ed1de834f6f8bb96960636d370d"
+    "api_url": "https://api.deepseek.com/v1/chat/completions"
+    "model": "deepseek-reasoner"
+火山 deepseek :
+    "api_key": "17aae363-d6b9-4a91-9ada-b5fcf4ac35ed"
+    "api_url": "https://ark.cn-beijing.volces.com/api/v3"
+    "model": "deepseek-r1-250120"
