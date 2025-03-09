@@ -62,5 +62,8 @@
         "mappingRecord": {
             "先攻": "1D20+33"
         }
+    },
+    "西琳": {
+        "enhanceList": []
     }
 }
