@@ -1262,6 +1262,10 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "HP": 16,
+        "生命值": 16,
+        "HITPOINTS": 16,
+        "牛HP": 22
     }
 }
