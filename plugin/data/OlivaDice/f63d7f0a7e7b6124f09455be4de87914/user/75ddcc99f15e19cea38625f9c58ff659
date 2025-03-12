@@ -1,11 +1,48 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "总大酱"
+            "userName": "总大酱",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            6,
+                            6,
+                            4,
+                            6,
+                            5,
+                            6
+                        ],
+                        [],
+                        [
+                            33
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 6,
+                        "r": 8,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                66
+            ],
+            "RDRecordRaw": "6d8+66",
+            "RDRecordInt": 99,
+            "RDRecordSkillInt": null
         },
         "userId": "244426189",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740233316
+        "lastHit": 1741736150
     }
 }

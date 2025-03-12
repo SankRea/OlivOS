@@ -67,6 +67,8 @@
         "enhanceList": []
     },
     "贝伦": {
-        "enhanceList": []
+        "enhanceList": [
+            "灵感"
+        ]
     }
 }

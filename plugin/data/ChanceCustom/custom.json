@@ -561,6 +561,14 @@
                 "matchPlace": "1",
                 "priority": 0,
                 "value": "[CQ:image,file=https://xiaobapi.top/api/xb/api/jojo.php?qq=【内容2】&qq2=【内容1】]"
+            },
+            "webui": {
+                "key": "webui",
+                "division": "1",
+                "matchType": "full",
+                "matchPlace": "3",
+                "priority": 0,
+                "value": "http://192.168.251.221:3000/"
             }
         },
         "f63d7f0a7e7b6124f09455be4de87914": {}

@@ -161,6 +161,7 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 10,
-        "ARTILLERY": 10
+        "ARTILLERY": 10,
+        "坐地鐵": 0
     }
 }
