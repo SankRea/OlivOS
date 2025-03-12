@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1741772659,
+        "lastHit": 1741792755,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -24,7 +24,7 @@
                 "云夜": "1D20+9",
                 "朝露": "1D20+11"
             },
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": "log_d965e9b6-7ee2-4179-865a-295bd501dd14"
         }
     }
