@@ -51,10 +51,14 @@
     },
     "星野游璃": {
         "enhanceList": [
-            "聆听"
+            "聆听",
+            "侦查"
         ],
         "mappingRecord": {
             "先攻": "22"
         }
+    },
+    "兰斯": {
+        "enhanceList": []
     }
 }

@@ -2737,3 +2737,181 @@
 {"time": 1741776459, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "守夜人越听脑袋越迷糊，他分不清你们到底在说些什么"}
 {"time": 1741776464, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“啊？”"}
 {"time": 1741792755, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
+{"time": 1741849134, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1741849151, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "火影，战队大失格，魔法少女环彩羽，天启末世录"}
+{"time": 1741849154, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（四个选吧）"}
+{"time": 1741849202, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我对shinobi没有兴趣（））"}
+{"time": 1741849233, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（天启末世录（）"}
+{"time": 1741849262, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那你们要拿这个守夜人做什么呢？)"}
+{"time": 1741849327, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "环彩羽吧"}
+{"time": 1741849357, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（昨天是不是没问出什么来）"}
+{"time": 1741849369, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“好好回答我们的问题，我们会放你走的”"}
+{"time": 1741849385, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“可你们要问什么啊？”"}
+{"time": 1741849428, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“这里常驻人口有多少，都聚集在哪里”"}
+{"time": 1741849437, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“？”"}
+{"time": 1741849460, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（总不能就他一个人吧）"}
+{"time": 1741849468, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我就是一个守夜的，我怎么知道，应该应该有几万？”"}
+{"time": 1741849485, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“现在暴风雪天气都不怎么出门”"}
+{"time": 1741849492, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我现在ti是，怎么个事）"}
+{"time": 1741849497, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（还能动吗）"}
+{"time": 1741849518, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(可以)"}
+{"time": 1741849524, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我只是不让你开枪而言)"}
+{"time": 1741849527, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（原来是正常的城市吗）"}
+{"time": 1741849529, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(没枪可以动)"}
+{"time": 1741849546, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 精神分析"}
+{"time": 1741849546, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]的[精神分析]: 1"}
+{"time": 1741849551, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（没点）"}
+{"time": 1741849627, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"不清楚这里是不是尼伯龙根\""}
+{"time": 1741849683, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(艾萨克已经去找分部联络点了)"}
+{"time": 1741849686, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(说明一下)"}
+{"time": 1741849727, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？）"}
+{"time": 1741849737, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（这要是尼伯龙根里面）"}
+{"time": 1741849744, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哪来的联络点）"}
+{"time": 1741849763, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（谁知道呢（））"}
+{"time": 1741849775, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（也许是奥丁同款镜像）"}
+{"time": 1741849782, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "[CQ:reply,id=1293728269][CQ:at,qq=1370316409] 1"}
+{"time": 1741849791, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（路明非还能在镜像里摸村雨（））"}
+{"time": 1741849803, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（虽然那个其实是，路鸣泽的）"}
+{"time": 1741849852, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我能走了吗？”"}
+{"time": 1741849871, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "守夜人有些喘不上来气"}
+{"time": 1741849874, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（一时间想不到问什么）"}
+{"time": 1741849875, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*死死把手压在枪套上，用力捏住。出一口气，调整好状态再开口“最近有什么奇怪的事吗”"}
+{"time": 1741849885, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“有，有，有”"}
+{"time": 1741849895, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“天气，奇怪的人，奇怪的动物。什么都行”"}
+{"time": 1741849903, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我们不就是）"}
+{"time": 1741849905, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（奇怪的人）"}
+{"time": 1741849924, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“最近说是来了好几批人，做科考调查的，去教堂那边的”"}
+{"time": 1741849931, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还有”"}
+{"time": 1741849934, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "他看了看你们"}
+{"time": 1741849937, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你们几个”"}
+{"time": 1741849940, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*小声"}
+{"time": 1741849977, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我知道我们很奇怪”*接个话“之后呢？”"}
+{"time": 1741850011, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“之后就暴风雪天气了”"}
+{"time": 1741850049, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“教堂那边最近不开放，好像神父们都在配合科考的人做研究”"}
+{"time": 1741850063, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“说是，证明耶稣真的存在过”"}
+{"time": 1741850079, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我们现在和诺玛断联了）"}
+{"time": 1741850085, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不知道实际我们在哪里）"}
+{"time": 1741850088, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（对吧）"}
+{"time": 1741850171, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“……耶稣没来过斯堪的纳维亚半岛。他们疯了，不用管。这个天气，先生还是赶快回去吧”*和埃里卡递个眼神“我没问题了”"}
+{"time": 1741850290, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“他们说是在圣奥拉夫节公布研究成果...”"}
+{"time": 1741850308, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "守夜人看了看你们，准备离开这里"}
+{"time": 1741850319, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有没有知识本地）"}
+{"time": 1741850360, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“抱歉了，因为你看到我们就跑，应激了。还请不要在意，也请不要把我们的事情告诉其他人”*给点钱给他"}
+{"time": 1741850381, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(可以过教育)"}
+{"time": 1741850390, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra教育"}
+{"time": 1741850390, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]进行技能[教育:70]检定: 1D100=53 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1741850393, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra教育"}
+{"time": 1741850393, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]进行技能[教育:75]检定: 1D100=32 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1741850560, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st set尤斯蒂娅"}
+{"time": 1741850560, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[尤斯蒂娅]"}
+{"time": 1741850567, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": ".ra教育"}
+{"time": 1741850567, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[尤斯蒂娅]进行技能[教育:70]检定: 1D100=25 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1741850603, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(问题来了)"}
+{"time": 1741850611, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你也不知道？）"}
+{"time": 1741850615, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（你们要的是卡塞尔版本的还是正常版本）"}
+{"time": 1741850627, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（卡塞尔版本喽）"}
+{"time": 1741850630, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我现在其实只想知道是哪一天（）"}
+{"time": 1741850637, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（但是原来有卡塞尔版本）"}
+{"time": 1741850654, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(就是正常版本的龙族解读)"}
+{"time": 1741850812, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(野史来咯)"}
+{"time": 1741851412, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "奥拉夫节起源于11世纪，它是为了纪念挪威王国的统治者圣奥拉夫，圣奥拉夫在统一国家和传播基督教方面做出了重要贡献，圣奥拉夫的故事讲述了他从国王到基督教殉道者的转变。在卡塞尔的龙族历史解读里，这是完全不同的意思，11世纪的奥拉夫二世宣传的基督教理念是偏向于解读耶和华的意念，通过圣子圣意尊崇圣命从而得到天命加持，进而获得上帝的庇佑，在龙族历史观中，奥拉夫集体祈祷、弥撒的活动更像是秘党早期利用少女与龙交媾诞生出第一代的混血种的说法，并且在宣扬里奥拉夫具有与神般的力量，能够掌控天空大地海洋和火焰，更像是秘党对于尼德霍格的准确记录，而从国王到殉道者的记录更像是混血种从掌握元素权柄到死侍的转变，秘党在上世纪时就有过对奥拉夫的事迹的追踪，但最后却没有得到任何结果"}
+{"time": 1741851537, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你的意思是）"}
+{"time": 1741851548, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（是黑王的，混血种？）"}
+{"time": 1741851576, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那么圣奥拉夫节是哪一天呢）"}
+{"time": 1741851690, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "上世纪，执行部曾从特隆赫姆大教堂地窖提取出三克骨质粉末，至今仍在冰窖的地库中，解读也限于当初的技术结论也没有准确的依靠，那些本该颠覆混血种编年史的奥拉夫遗骸血样，最终在液氮试管里蒸发成带盐渍的灰烬"}
+{"time": 1741851695, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（后天）"}
+{"time": 1741851797, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯....之后打算做什么\""}
+{"time": 1741851884, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（开了？）"}
+{"time": 1741851893, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（居然不at我好伤心呜呜呜）"}
+{"time": 1741852025, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "特隆赫姆大教堂的青铜钟舌冻结在冰棱里，本该穿透暴雪的弥撒钟鸣此刻蜷缩成风雪呼啸的某个频段。市政厅广场的鼓乐架早在三日前就被积雪吞没，那些绣着金十字的庆典帷幔，此刻不过更像是是裹在路灯柱上结冰的裹尸布，这里根本看不出有任何节日的气氛"}
+{"time": 1741852111, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“该去教堂看看了……有可能这周边都已经被拖入了……尼伯龙根”*小声"}
+{"time": 1741852894, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（人呢）"}
+{"time": 1741852921, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(希腊奶)"}
+{"time": 1741853043, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "961142868"}, "sender": {"id": "961142868", "name": "不会在的人"}, "message": "（在背后给你呐喊助威）"}
+{"time": 1741853211, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(一起吧)"}
+{"time": 1741853236, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*最后问问守夜人“附近有还在营业的餐厅吗”"}
+{"time": 1741853264, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“街角还有家家庭餐厅在营业，不过关门比较早”"}
+{"time": 1741853293, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（呃呃）"}
+{"time": 1741853297, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（当然是问现在还开着门的）"}
+{"time": 1741853332, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(打烊的时间比平常早)"}
+{"time": 1741853345, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(意思是，过会就要关了)"}
+{"time": 1741853486, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嗯，谢谢。have a peaceful night”*从包里掏一点欧元，并且避免漏出身份信息"}
+{"time": 1741853600, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“怎说，吃点？”"}
+{"time": 1741853655, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“也算是御寒。安全屋里那点东西对我们消耗的热量来说完全不够”"}
+{"time": 1741853665, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“后面可能就没有补充体力的机会了”"}
+{"time": 1741853713, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“好耶”"}
+{"time": 1741854341, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（others？）"}
+{"time": 1741854922, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "家庭餐厅的吊灯在空荡的卡座区投下重影，每张不锈钢餐桌都保持着昨夜打烊时的直角状态。收银台后的少年下巴每隔十秒就重重磕向胸口，惊醒瞬间指尖还机械性抽搐着去摸根本不存在的点餐票据。"}
+{"time": 1741854968, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*看看壁挂上钟的时间，和自己的手机时间比一下"}
+{"time": 1741854998, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "相差无几"}
+{"time": 1741855011, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(如果你提前调成挪威时间的话)"}
+{"time": 1741855060, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*去前台点点桌面“你好，这儿还没打烊吧？”"}
+{"time": 1741855075, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“啊”"}
+{"time": 1741855093, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "他看了看柜台上挂着的时钟"}
+{"time": 1741855097, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还没有，还没有”"}
+{"time": 1741855140, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“好，那点餐”*点点头，开始点热量炸弹"}
+{"time": 1741855453, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...\"靠在桌边，\"这里的东西...可以吃吗？\"问出没意义的问题"}
+{"time": 1741855454, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "于是少年带你们入座，并且带来了一份菜单"}
+{"time": 1741855456, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "特隆赫姆冬日特色菜单\n早餐\n挪威式燕麦粥\n熏三文鱼开放三明治\n挪威肉丸汤\n挪威奶酪吐司\n挪威式水果沙拉\n挪威Berry果酱三明治\n挪威式全麦面包配花生酱\n挪威传统蜂蜜蛋糕\n午餐\n特隆赫姆炖羊肉\n挪威海鲜意面\n挪威土豆饼\n挪威式肉桂卷\n特隆赫姆蔬菜汤\n挪威三文鱼沙拉\n挪威式烤鸡配蔬菜\n挪威豌豆汤配香肠\n晚餐\n特隆赫姆烤三文鱼\n挪威肉桂卷\n特隆赫姆杂菜汤\n挪威云尼拿布丁\n特隆赫姆烤驯鹿肉\n挪威式烤三文鱼配柠檬黄油酱\n挪威式炖鸡配土豆泥\n挪威式烤火腿配红菜头沙拉"}
+{"time": 1741855639, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（一眼ai（）"}
+{"time": 1741855655, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（非常正确）"}
+{"time": 1741855687, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(因为曾经真有人问过)"}
+{"time": 1741855696, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(书架上一层二层三层都是什么书)"}
+{"time": 1741855709, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*两锅驯鹿肉，两份三文鱼，三份肉桂卷，三份炖鸡土豆泥……总之在不腻人的前提下尽量补充热量和蛋白质"}
+{"time": 1741855870, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（开到哪里了）"}
+{"time": 1741855872, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（我还在上班）"}
+{"time": 1741855879, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1085444390"}, "sender": {"id": "1085444390", "name": "Accelerator"}, "message": "（给我全来一份[CQ:face,id=277]）"}
+{"time": 1741856059, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st 信用"}
+{"time": 1741856059, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]的[信用]: 0"}
+{"time": 1741856062, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1741856069, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st show"}
+{"time": 1741856069, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[卡门]:\n<属性>\n敏捷:80 力量:60 体质:60 外貌:60 意志:70 SAN:65 SANMAX:70 MP:14 MPMAX:14 智力:70 教育:70 体型:50 HP:11 HPMAX:11 幸运:75\n<技能>\n闪避:75 母语:70 [*]侦查:80 聆听:60 [*]追踪:60 急救:75 计算机使用:60 医学:60 会计:5 人类学:1 估价:5 考古学:1 取悦:15 攀爬:20 信用:0 克苏鲁神话:0 乔装:5 汽车驾驶:20 电气维修:10 电子学:1 话术:5 历史:5 恐吓:15 跳跃:20 法律:5 图书馆:20 锁匠:1 机械维修:10 博物:10 导航:10 神秘学:5 操作重型机械:1 说服:10 精神分析:1 心理学:10 骑乘:5 妙手:10 潜行:20 游泳:20 投掷:20 驯兽:5 潜水:1 爆破:1 读唇:1 催眠:1 炮术:1\n<其它>\n[*]手枪:80 驾驶:40 [*]血统:66"}
+{"time": 1741856083, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（原来车卡忘了点）"}
+{"time": 1741856091, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st 信用35"}
+{"time": 1741856091, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卡门]的人物卡已保存"}
+{"time": 1741856103, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我也不很饿。\"虽然肚子有点瘪，\"....\"看看菜单"}
+{"time": 1741857196, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（答案是）"}
+{"time": 1741857199, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（睡着了）"}
+{"time": 1741857739, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 信用"}
+{"time": 1741857739, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]的[信用]: 0"}
+{"time": 1741857757, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 信用35"}
+{"time": 1741857757, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[埃里卡]的人物卡已保存"}
+{"time": 1741857775, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*随便买点"}
+{"time": 1741857811, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=406920461][CQ:at,qq=825734198] （这个显然是，所有人加起来（））"}
+{"time": 1741857838, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（混血种吃得多（）"}
+{"time": 1741857863, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不管了就这样吧）"}
+{"time": 1741859949, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "少年推着餐车穿过空荡的卡座区时，餐车上的食物正蒸腾雾气，家庭餐厅外的暴风雪逐渐展现出它的肆意，雪越来越大了"}
+{"time": 1741859982, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我就在柜台那边，如果有什么需要可以叫我”"}
+{"time": 1741860006, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "他站在原地，虽然说完了话但并没有离开，而是眼巴巴地看着你们"}
+{"time": 1741860104, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（首先排除要小费）"}
+{"time": 1741860162, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（坑呢想和我们切磋武艺"}
+{"time": 1741860168, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（可能"}
+{"time": 1741860180, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你说想吃我我倒是信）"}
+{"time": 1741860195, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(唉)"}
+{"time": 1741860196, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“怎么了小弟”"}
+{"time": 1741860198, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(抠门)"}
+{"time": 1741860208, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd100"}
+{"time": 1741860210, "type": "reply", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[娜塔莎]演奏出: 1D100=24"}
+{"time": 1741860220, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（想要你就亲口说出来"}
+{"time": 1741860231, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“对我的服务满意吗？”"}
+{"time": 1741860316, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“一般吧”"}
+{"time": 1741860321, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哎，小费）"}
+{"time": 1741860324, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（贵族呢）"}
+{"time": 1741860345, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“要是能给我们讲讲城内的事就好了”"}
+{"time": 1741860355, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯...\"从口袋里随便摸一点美元递给他"}
+{"time": 1741860358, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“想听什么，我都知道的”"}
+{"time": 1741860444, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“前段时间是不是有一些科考人员来做研究”"}
+{"time": 1741860474, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“他们都长什么样啊，是不是给人很大压迫感”"}
+{"time": 1741860563, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“科考？感觉年龄还没有我爸爸大，都是带着好几个大黑箱子来的，陆陆续续来了好几批呢”"}
+{"time": 1741860598, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“有听说他们具体都干什么吗”"}
+{"time": 1741860736, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（怎么一转coc）"}
+{"time": 1741861053, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那座教堂的来头，听说可不小。作为旅游景点，有什么故事吗？”"}
+{"time": 1741861230, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“他们天天在教堂那边，神父们也不愿意和我们说，就只是说最近这段时间不要去朝拜，等教堂装修还是什么”"}
+{"time": 1741861249, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（朝拜都来了）"}
+{"time": 1741861269, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（教皇对吗（）"}
+{"time": 1741862286, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "2086118349"}, "sender": {"id": "2086118349", "name": "S&G绪章如梦"}, "message": "[CQ:reply,id=1866870171][CQ:at,qq=1370316409] （怕麻烦kp说是让我随便问，真随便问又觉得麻烦[CQ:face,id=344]）"}
+{"time": 1741862344, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=518513367][CQ:at,qq=825734198] （so）"}
+{"time": 1741862510, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(下班吃饭)"}
+{"time": 1741862516, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(Kp有自己的)"}
+{"time": 1741862519, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(生活)"}
+{"time": 1741862532, "type": "recv", "dect": {"host_id": null, "group_id": "1141869747", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
