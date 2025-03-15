@@ -1,0 +1,4 @@
+{"time": 1741976729, "type": "reply", "dect": {"host_id": null, "group_id": "946132717", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1741976739, "type": "recv", "dect": {"host_id": null, "group_id": "946132717", "user_id": "786848488"}, "sender": {"id": "786848488", "name": "回転・天使"}, "message": "小雅太全能了吧"}
+{"time": 1741976746, "type": "recv", "dect": {"host_id": null, "group_id": "946132717", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "嗯嗯"}
+{"time": 1741976756, "type": "recv", "dect": {"host_id": null, "group_id": "946132717", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".log off"}
