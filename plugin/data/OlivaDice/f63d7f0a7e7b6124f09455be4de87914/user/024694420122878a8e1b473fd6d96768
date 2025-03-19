@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            74
+                            15
                         ],
                         [],
                         [
-                            74
+                            15
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,15 +25,19 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                24
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 74,
-            "RDRecordSkillInt": 80
+            "RDRecordRaw": "d20+24",
+            "RDRecordInt": 39,
+            "RDRecordSkillInt": null
         },
         "userId": "961142868",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1740996930
+        "lastHit": 1742291574
     }
 }

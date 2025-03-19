@@ -327,6 +327,7 @@
         "会计": 5,
         "ACCOUNTING": 5,
         "驯兽": 5,
-        "BEAST_TRAINING": 5
+        "BEAST_TRAINING": 5,
+        "舌头": 0
     }
 }

@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "Ava",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            94
+                        ],
+                        [],
+                        [
+                            94
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 94,
+            "RDRecordSkillInt": 0
+        },
+        "userId": "2963988243",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1742292691
+    }
+}

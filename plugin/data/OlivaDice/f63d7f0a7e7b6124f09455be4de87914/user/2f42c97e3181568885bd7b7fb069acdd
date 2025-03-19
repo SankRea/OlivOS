@@ -6,34 +6,38 @@
                 {
                     "result": [
                         [
-                            80
+                            12
                         ],
+                        [],
                         [
-                            {
-                                "op": "mark01",
-                                "v": 1
-                            },
-                            10
-                        ],
-                        [
-                            10
+                            12
                         ]
                     ],
                     "key": {
-                        "op": "b",
+                        "op": "d",
                         "l": 1,
-                        "r": 2,
-                        "v": {}
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                1
             ],
-            "RDRecordRaw": "B2",
-            "RDRecordInt": 10,
-            "RDRecordSkillInt": 80
+            "RDRecordRaw": "d20+1",
+            "RDRecordInt": 13,
+            "RDRecordSkillInt": null
         },
         "userId": "1085444390",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1741252652
+        "lastHit": 1742291566
     }
 }
