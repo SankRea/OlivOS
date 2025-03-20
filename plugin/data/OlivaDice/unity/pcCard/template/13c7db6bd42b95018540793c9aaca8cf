@@ -71,6 +71,9 @@
     "黑塔": {
         "enhanceList": [
             "侦查"
-        ]
+        ],
+        "mappingRecord": {
+            "先攻": "1D20+2"
+        }
     }
 }

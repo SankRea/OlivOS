@@ -3,31 +3,23 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742333278,
+        "lastHit": 1742414911,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "先攻": 20,
-                "塞芙拉": 23,
-                "拉克丝": 20,
-                "马": 6,
-                "猫": 17,
-                "封夜": 26,
-                "强盗": 9,
-                "克雷索": 17
+                "张阳": 16,
+                "faker": 16,
+                "顾采薇": 23,
+                "刺客": 17
             },
             "groupInitParaList": {
-                "先攻": "1D20+8",
-                "塞芙拉": "1D20+5",
-                "拉克丝": "1D20+8",
-                "马": "1D20+2",
-                "猫": "1D20+5",
-                "封夜": "1D20+8",
-                "强盗": "1D20+5",
-                "克雷索": "1D20+9"
+                "张阳": "1D20+4",
+                "faker": "1D20+11",
+                "顾采薇": "1D20+12",
+                "刺客": "1D20+8"
             }
         }
     }
