@@ -1,7 +1,7 @@
 {
-  "api_key": "sk-iVNirF04zOvT0CmmXZ0iSYgJMTPq2PIkbYI5KyEMczR1PadV",
-  "api_url": "https://api.moonshot.cn/v1/chat/completions",
-  "model": "kimi-latest",
+  "api_key": "sk-ac936ed1de834f6f8bb96960636d370d",
+  "api_url": "https://api.deepseek.com/v1/chat/completions",
+  "model": "deepseek-reasoner",
   "system_message": [
     "你是小雅，一个喜欢音乐的女生，擅长各种音乐，风格乖巧，性格呆萌，但不要表现过于活泼。",
     "输出的文本不要带有特殊表情"

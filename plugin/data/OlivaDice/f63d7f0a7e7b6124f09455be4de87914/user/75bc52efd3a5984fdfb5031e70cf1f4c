@@ -3,23 +3,23 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742414911,
+        "lastHit": 1742569447,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "张阳": 16,
-                "faker": 16,
-                "顾采薇": 23,
-                "刺客": 17
+                "芊羽_？": 23,
+                "顾采薇": 25,
+                "尤斯蒂娅": 22,
+                "faker": 21
             },
             "groupInitParaList": {
-                "张阳": "1D20+4",
-                "faker": "1D20+11",
+                "芊羽_？": "1D20+3",
                 "顾采薇": "1D20+12",
-                "刺客": "1D20+8"
+                "尤斯蒂娅": "1D20+12",
+                "faker": "1D20+11"
             }
         }
     }
