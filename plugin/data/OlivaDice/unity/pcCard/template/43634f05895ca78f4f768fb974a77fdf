@@ -59,7 +59,10 @@
         }
     },
     "兰斯": {
-        "enhanceList": []
+        "enhanceList": [],
+        "mappingRecord": {
+            "先攻": "1D20+7"
+        }
     },
     "李阳": {
         "enhanceList": []

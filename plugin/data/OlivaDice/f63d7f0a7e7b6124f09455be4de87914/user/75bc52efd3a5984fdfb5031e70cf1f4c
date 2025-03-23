@@ -3,23 +3,29 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742569447,
+        "lastHit": 1742666769,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "芊羽_？": 23,
-                "顾采薇": 25,
-                "尤斯蒂娅": 22,
-                "faker": 21
+                "邪教徒战士": 25,
+                "faker": 25,
+                "邪教徒射手": 26,
+                "黄泉": 18,
+                "梅琳": 12,
+                "小纯": 21,
+                "顾采薇": 27
             },
             "groupInitParaList": {
-                "芊羽_？": "1D20+3",
-                "顾采薇": "1D20+12",
-                "尤斯蒂娅": "1D20+12",
-                "faker": "1D20+11"
+                "邪教徒战士": "1D20+5",
+                "faker": "1D20+11",
+                "邪教徒射手": "1D20+9",
+                "黄泉": "1D20+8",
+                "梅琳": "1D20+6",
+                "小纯": "1D20+12",
+                "顾采薇": "1D20+12"
             }
         }
     }
