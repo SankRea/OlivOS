@@ -137,6 +137,14 @@
                 "matchPlace": "1",
                 "priority": 0,
                 "value": "呼呼，再戳我就要生气啦￣へ￣"
+            },
+            "春日影": {
+                "key": "春日影",
+                "division": "1",
+                "matchType": "full",
+                "matchPlace": "1",
+                "priority": 0,
+                "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\春日影_东山奈央.wav]"
             }
         },
         "f63d7f0a7e7b6124f09455be4de87914": {}

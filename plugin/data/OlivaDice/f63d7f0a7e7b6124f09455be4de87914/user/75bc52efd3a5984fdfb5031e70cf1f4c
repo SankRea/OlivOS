@@ -3,29 +3,25 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742666769,
+        "lastHit": 1742843675,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "邪教徒战士": 25,
-                "faker": 25,
-                "邪教徒射手": 26,
-                "黄泉": 18,
-                "梅琳": 12,
-                "小纯": 21,
-                "顾采薇": 27
+                "黄月明": 27,
+                "faker": 18,
+                "武林红": 11,
+                "顾采薇": 21,
+                "小纯": 30
             },
             "groupInitParaList": {
-                "邪教徒战士": "1D20+5",
+                "黄月明": "1D20+11",
                 "faker": "1D20+11",
-                "邪教徒射手": "1D20+9",
-                "黄泉": "1D20+8",
-                "梅琳": "1D20+6",
-                "小纯": "1D20+12",
-                "顾采薇": "1D20+12"
+                "武林红": "1D20+0",
+                "顾采薇": "1D20+12",
+                "小纯": "1D20+12"
             }
         }
     }

@@ -6,18 +6,16 @@
                 {
                     "result": [
                         [
-                            5,
-                            7,
-                            8
+                            6
                         ],
                         [],
                         [
-                            20
+                            6
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 3,
+                        "l": 1,
                         "r": 8,
                         "v": {
                             "k": null,
@@ -31,24 +29,21 @@
                 {
                     "op": "+"
                 },
-                78,
-                {
-                    "op": "+"
-                },
                 {
                     "result": [
                         [
-                            1,
-                            6
+                            2,
+                            3,
+                            4
                         ],
                         [],
                         [
-                            7
+                            9
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 2,
+                        "l": 3,
                         "r": 6,
                         "v": {
                             "k": null,
@@ -58,15 +53,19 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                24
             ],
-            "RDRecordRaw": "3d8+78+2d6",
-            "RDRecordInt": 105,
+            "RDRecordRaw": "d8+3d6+24",
+            "RDRecordInt": 39,
             "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1742666639
+        "lastHit": 1742839421
     }
 }
