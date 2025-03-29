@@ -2,19 +2,107 @@
     "type": "ccpk",
     "dataVersion": 2,
     "info": {
-        "name": "网易云点歌",
-        "author": "滦浣春",
-        "version": "0.0.1",
-        "info": "网易云音乐点歌。空格是必要的。"
+        "name": "小雅",
+        "author": "折木",
+        "version": "1",
+        "info": "小雅的个性回复"
     },
     "data": {
-        "点歌 (.*)": {
-            "key": "点歌 (.*)",
+        "我爱你": {
+            "key": "我爱你",
             "division": "1",
-            "matchType": "reg",
+            "matchType": "full",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "是的，我也爱你"
+        },
+        "有没有富萝莉包养我": {
+            "key": "有没有富萝莉包养我",
+            "division": "1",
+            "matchType": "contain",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "我会努力演出的，请相信我"
+        },
+        "想和小雅贴贴": {
+            "key": "想和小雅贴贴",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "哼，真是拿你没办法呢"
+        },
+        "演奏春日影": {
+            "key": "演奏春日影",
+            "division": "1",
+            "matchType": "contain",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "为什么要演奏春日影"
+        },
+        "文件上传接口": {
+            "key": "文件上传接口",
+            "division": "1",
+            "matchType": "full",
             "matchPlace": "3",
             "priority": 0,
-            "value": "【赋值变量音乐搜索>=<\n【判空\n【访问https://api-music.imsyy.top/cloudsearch?keywords=【内容1】】>=<{}】】\n【文本-替换文本【正则\"id\":[0-9]+>=<【变量音乐搜索】>=<1】>=<0>=<5>=<[CQ:music,type=163,id=】]"
+            "value": "116.198.198.29:5200"
+        },
+        "ciallo": {
+            "key": "ciallo",
+            "division": "1",
+            "matchType": "contain",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "Ciallo～(∠・ω< )⌒☆"
+        },
+        "webui": {
+            "key": "webui",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "3",
+            "priority": 0,
+            "value": "http://192.168.251.221:3000/"
+        },
+        "说爱我": {
+            "key": "说爱我",
+            "division": "1",
+            "matchType": "contain",
+            "matchPlace": "3",
+            "priority": 0,
+            "value": "爱你哟"
+        },
+        "黑蜥蜴星球": {
+            "key": "黑蜥蜴星球",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "3",
+            "priority": 0,
+            "value": "www.drrrrrrrrrr.space"
+        },
+        "小雅": {
+            "key": "小雅",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "需要我演奏什么曲子吗？"
+        },
+        "[戳一戳]": {
+            "key": "[戳一戳]",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "呼呼，再戳我就要生气啦￣へ￣"
+        },
+        "春日影": {
+            "key": "春日影",
+            "division": "1",
+            "matchType": "full",
+            "matchPlace": "1",
+            "priority": 0,
+            "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\春日影_东山奈央.wav]"
         }
     }
 }

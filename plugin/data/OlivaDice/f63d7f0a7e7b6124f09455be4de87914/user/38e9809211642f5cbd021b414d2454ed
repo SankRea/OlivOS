@@ -3,7 +3,7 @@
         "userId": "979367137",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742796436,
+        "lastHit": 1743073825,
         "configNote": {
             "logEnable": false,
             "logNowName": "log_951005ef-0c7f-4097-9aa9-c494706d5673",
@@ -12,7 +12,31 @@
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": null,
-            "groupMainDiceDRight": null
+            "groupMainDiceDRight": null,
+            "groupInitParaList": {
+                "肖恩70": "0",
+                "伯纳德": "70",
+                "肖恩": "70",
+                "埃莉卡·伊尔兰": "65",
+                "neko": "80",
+                "保安": "50",
+                "水佳佳75": "0",
+                "水佳佳": "75",
+                "卡列尼娜": "80",
+                "心夏（侦探团）": "75"
+            },
+            "groupInitList": {
+                "肖恩70": 0,
+                "伯纳德": 70,
+                "肖恩": 70,
+                "埃莉卡·伊尔兰": 65,
+                "neko": 80,
+                "保安": 50,
+                "水佳佳75": 0,
+                "水佳佳": 75,
+                "卡列尼娜": 80,
+                "心夏（侦探团）": 75
+            }
         }
     }
 }

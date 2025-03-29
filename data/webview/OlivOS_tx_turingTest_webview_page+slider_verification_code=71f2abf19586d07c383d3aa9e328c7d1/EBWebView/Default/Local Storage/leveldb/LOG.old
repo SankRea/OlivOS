@@ -1,2 +1,5 @@
-2025/03/15-22:43:46.061 1fbc Creating DB C:\Users\Administrator\Desktop\dice\OlivaDice-OlivOS-Win\data\webview\OlivOS_tx_turingTest_webview_page+slider_verification_code=71f2abf19586d07c383d3aa9e328c7d1\EBWebView\Default\Local Storage\leveldb since it was missing.
-2025/03/15-22:43:46.187 1fbc Delete type=3 #1
+2025/03/25-16:45:39.160 1b70 Recovering log #9
+2025/03/25-16:45:39.177 1b70 Level-0 table #11: started
+2025/03/25-16:45:39.192 1b70 Level-0 table #11: 184 bytes OK
+2025/03/25-16:45:39.207 1b70 Delete type=0 #9
+2025/03/25-16:45:39.207 1b70 Delete type=3 #7

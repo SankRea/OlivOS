@@ -69,9 +69,7 @@
         }
     },
     "贝伦": {
-        "enhanceList": [
-            "灵感"
-        ]
+        "enhanceList": []
     },
     "黑塔": {
         "enhanceList": [
@@ -80,5 +78,11 @@
         "mappingRecord": {
             "先攻": "1D20+13"
         }
+    },
+    "天宫安": {
+        "enhanceList": [
+            "聆听",
+            "灵感"
+        ]
     }
 }

@@ -8,32 +8,32 @@
                         [
                             6
                         ],
-                        [
-                            5,
-                            {
-                                "op": "mark01",
-                                "v": 0
-                            }
-                        ],
+                        [],
                         [
                             6
                         ]
                     ],
                     "key": {
-                        "op": "b",
+                        "op": "d",
                         "l": 1,
-                        "r": 2,
-                        "v": {}
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
                     }
                 }
             ],
-            "RDRecordRaw": "B2",
+            "RDRecordRaw": "d9",
             "RDRecordInt": 6,
-            "RDRecordSkillInt": 8
+            "RDRecordSkillInt": null
         },
         "userId": "3362422751",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1742834991
+        "lastHit": 1743217807
     }
 }

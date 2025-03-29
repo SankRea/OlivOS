@@ -1,5 +1,13 @@
-2025/03/17-17:30:47.692 1680 Recovering log #3
-2025/03/17-17:30:47.693 1680 Level-0 table #5: started
-2025/03/17-17:30:47.697 1680 Level-0 table #5: 333 bytes OK
-2025/03/17-17:30:47.714 1680 Delete type=0 #3
-2025/03/17-17:30:47.714 1680 Delete type=3 #2
+2025/03/26-00:11:15.028 1eec Recovering log #12
+2025/03/26-00:11:15.028 1eec Level-0 table #14: started
+2025/03/26-00:11:15.030 1eec Level-0 table #14: 124 bytes OK
+2025/03/26-00:11:15.043 1eec Delete type=0 #12
+2025/03/26-00:11:15.043 1eec Delete type=3 #10
+2025/03/26-00:11:15.044 1eec Compacting 4@0 + 0@1 files
+2025/03/26-00:11:15.049 1eec Generated table #16@0: 13 keys, 245 bytes
+2025/03/26-00:11:15.049 1eec Compacted 4@0 + 0@1 files => 245 bytes
+2025/03/26-00:11:15.051 1eec compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/26-00:11:15.051 1eec Delete type=2 #5
+2025/03/26-00:11:15.051 1eec Delete type=2 #8
+2025/03/26-00:11:15.051 1eec Delete type=2 #11
+2025/03/26-00:11:15.051 1eec Delete type=2 #14

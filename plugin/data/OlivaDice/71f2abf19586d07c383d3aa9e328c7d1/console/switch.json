@@ -17,7 +17,16 @@
     "helpRecommendGate": 25,
     "censorMode": 1,
     "censorMatchMode": 1,
-    "masterList": [],
+    "masterList": [
+        [
+            "2422497068",
+            "qq"
+        ],
+        [
+            "1370316409",
+            "qq"
+        ]
+    ],
     "noticeGroupList": [],
     "pulseUrlList": [],
     "joyPokeMode": 0,
