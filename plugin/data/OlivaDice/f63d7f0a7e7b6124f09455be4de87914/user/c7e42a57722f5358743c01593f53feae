@@ -3,28 +3,12 @@
         "userId": "817482689",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742713022,
+        "lastHit": 1743320265,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
-            "groupInitList": {
-                "三月七": 22,
-                "兰斯": 14,
-                "非华": 21,
-                "摩亚": 11,
-                "狼地精": 13,
-                "食人魔": 16,
-                "地精杂兵": 5
-            },
-            "groupInitParaList": {
-                "三月七": "1D20+9",
-                "兰斯": "1D20+7",
-                "非华": "1D20+2",
-                "摩亚": "1D20+7",
-                "狼地精": "1D20+6",
-                "食人魔": "1D20-1",
-                "地精杂兵": "1D20+2"
-            }
+            "groupInitList": {},
+            "groupInitParaList": {}
         }
     }
 }
