@@ -3,6 +3,10 @@
         "userId": "996481098",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1743167496
+        "lastHit": 1743441108,
+        "configNote": {
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
+        }
     }
 }

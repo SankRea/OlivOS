@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            2
+                            1
                         ],
                         [],
                         [
-                            2
+                            1
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 2,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,16 +25,46 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            5
+                        ],
+                        [],
+                        [
+                            5
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                20
             ],
-            "RDRecordRaw": "d2",
-            "RDRecordInt": 2,
+            "RDRecordRaw": "d8+1d6+20",
+            "RDRecordInt": 26,
             "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743360300
+        "lastHit": 1743441407
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

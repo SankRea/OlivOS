@@ -205,6 +205,9 @@
         "enhanceList": [
             "侦查",
             "聆听"
-        ]
+        ],
+        "mappingRecord": {
+            "先攻": "1D20+12"
+        }
     }
 }
