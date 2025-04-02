@@ -29,15 +29,19 @@
                 {
                     "op": "+"
                 },
-                15
+                4,
+                {
+                    "op": "+"
+                },
+                4
             ],
-            "RDRecordRaw": "d+15",
-            "RDRecordInt": 16,
+            "RDRecordRaw": "d+4+4",
+            "RDRecordInt": 9,
             "RDRecordSkillInt": null
         },
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743441283
+        "lastHit": 1743532341
     }
 }
