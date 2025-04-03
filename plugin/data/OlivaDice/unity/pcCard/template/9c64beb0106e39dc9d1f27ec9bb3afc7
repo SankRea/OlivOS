@@ -17,6 +17,9 @@
         ],
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "mappingRecord": {
+            "自动手枪": "1d10+2"
         }
     },
     "塞尔提·史特尔路森": {

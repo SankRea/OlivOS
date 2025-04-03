@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            1
+                            8
                         ],
                         [],
                         [
-                            1
+                            8
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -29,19 +29,70 @@
                 {
                     "op": "+"
                 },
-                4,
                 {
-                    "op": "+"
-                },
-                4
+                    "result": [
+                        [
+                            1
+                        ],
+                        [],
+                        [
+                            1
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 4,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "d+4+4",
+            "RDRecordRaw": "1d8+1d4",
             "RDRecordInt": 9,
-            "RDRecordSkillInt": null
+            "RDRecordSkillInt": null,
+            "cnmodsTemp": {
+                "code": 1,
+                "timestamp": 1743590287873,
+                "data": {
+                    "list": [
+                        {
+                            "qq": "",
+                            "minAmount": 2,
+                            "minDuration": 5,
+                            "original": true,
+                            "moduleType": "COC",
+                            "releaseDate": "2024-09-15",
+                            "keyId": 3609,
+                            "sort": 0,
+                            "title": "异界门扉",
+                            "structure": "非线性",
+                            "article": "冷冷睡不够",
+                            "url": "https://wwvh.lanpv.com/iQ7Fk2a7f4cb",
+                            "moduleAge": "现代",
+                            "freeLevel": "高",
+                            "opinion": "<p>作为热门YouTube频道 &ldquo;揭秘者掩体&rdquo; 的顶级赞助人，您被邀请见证一场独特的事件。揭秘者们根据他们在暗网发现的设计图打造了一台机器。据附带的信息显示，这台机器据说能够打开通向另一个维度的窗口！</p>\n<p>与其他赞助人一起参与这一将载入史册的事件吧！即便什么都没发生，这也注定会成为一场网络热议的盛事！正如揭秘者们常说的那样：&ldquo;成功固然好，失败才有趣。&rdquo;而这台机器很可能会以一种壮观的方式失败！</p>\n<p>不过，话又说回来了，它不可能真的成功.....吧？</p>\n<p>&nbsp;</p>\n<p>模组注释：模组内含限制级内容，以及十分丰富的展示资料和音频线索，撕卡率以及对PL的现实推理要求较高，模组内超级多的房间和楼层（以及渣翻）也对KP的带团能力也有一定的考验。</p>",
+                            "updateLastWeek": false,
+                            "moduleVersion": "coc7th",
+                            "occurrencePlace": "美洲",
+                            "maxAmount": 5,
+                            "maxDuration": 20,
+                            "email": "alanzhengcn@gmail.com"
+                        }
+                    ],
+                    "totalElements": 1,
+                    "totalPages": 1
+                }
+            }
         },
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743532341
+        "lastHit": 1743601310
     }
 }

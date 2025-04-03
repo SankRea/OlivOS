@@ -117,5 +117,8 @@
         "mappingRecord": {
             "先攻": "75"
         }
+    },
+    "安德森": {
+        "enhanceList": []
     }
 }
