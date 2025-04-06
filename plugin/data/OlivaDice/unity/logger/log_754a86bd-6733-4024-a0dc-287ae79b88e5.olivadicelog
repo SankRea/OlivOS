@@ -95,3 +95,66 @@
 {"time": 1743601195, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我也没意见。亚撒西捏杀人鬼酱）"}
 {"time": 1743601261, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "临出门前给每个人带一杯咖啡（口味不重要 重要的是我带了 谁知道他们喜欢什么口味）"}
 {"time": 1743601284, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1743772611, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1743772612, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "由于kp的大手，现在你们又重新可以找匿名发信人私聊了"}
+{"time": 1743772618, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "？"}
+{"time": 1743772629, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我不是聊完了吗）"}
+{"time": 1743772639, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（说的是发信人）"}
+{"time": 1743772642, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我都带咖啡准备出发了）"}
+{"time": 1743772642, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不是阿尔忒弥斯）"}
+{"time": 1743772649, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（呃呃）"}
+{"time": 1743772653, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（总之是一个可选项）"}
+{"time": 1743772660, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不想聊也可以不聊）"}
+{"time": 1743772696, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "给匿名发信人发去礼貌的问候并且询问他是怎么得知消息的"}
+{"time": 1743772710, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（呃）"}
+{"time": 1743772718, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（还是写出内容吧）"}
+{"time": 1743772724, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（你好懒）"}
+{"time": 1743772729, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我在n12）"}
+{"time": 1743772748, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（那你等我扣字 会比较长）"}
+{"time": 1743772762, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我肯定只负责转述啊）"}
+{"time": 1743772854, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "“尊敬的发信人您好，作为被邀请者向您致以崇高的敬意，不知可否有幸得知您邀请我们前来的目的（知晓了您的目的能让我更好地满足您的需求），如果可能打扰到您，在此表示歉意”"}
+{"time": 1743772990, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“询问我的目的之前，更应该告诉我，你来这里的原因吧？”"}
+{"time": 1743773004, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“毕竟我只是邀请者，决定赴约的是你。”"}
+{"time": 1743773012, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（？神金啊不是你邀请我？）"}
+{"time": 1743773049, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（他是广撒网）"}
+{"time": 1743773061, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你是递了投名状）"}
+{"time": 1743773160, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "“坦诚地说，我想看看是什么地方借着我的名号在继续增加我的‘罪孽’，害得我被jc追捕我也很苦恼呢”"}
+{"time": 1743773173, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "[CQ:reply,id=-103089178][CQ:at,qq=825734198] （这tm铁折木）"}
+{"time": 1743773194, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（反正我队友不是折木就是yln）"}
+{"time": 1743773510, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“原来如此，但我只是一介作家，只是想查探这里一番，阁下的事情我不会干涉。”"}
+{"time": 1743773541, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（。。。这不是折神我一辈子打不过n12）"}
+{"time": 1743773564, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "阅读完不再回复了"}
+{"time": 1743774210, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你的pc会几点到呢）"}
+{"time": 1743774243, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（提前十分钟，如果到的时候现场没人再说）"}
+{"time": 1743780050, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "终于快到你了"}
+{"time": 1743780126, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（ok）"}
+{"time": 1743780417, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "宅子本体外有一个黑黢黢的院子，里面长满了杂草和野蔷薇。院子的栅栏门上没有挂锁。宅子是一栋哥特式尖顶建筑，一共两层。墙壁外面缀满了名贵的玛瑙，看上去似乎更像是一个小型的教堂。因为年久失修，墙上的花纹大多都剥落了，布满了青苔和鸟屎。"}
+{"time": 1743780424, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（补你一个宅子的描述）"}
+{"time": 1743780478, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "能看到院子的栅栏外站着三个人。其中一个人（折）披着黑色的风衣，头顶着一顶鸭舌帽，其貌不扬。另一个（伊）白发女子看起来在打扮上花了不少功夫，穿着哥特式的长裙，看起来不像来探险的，倒像是谁家大小姐。一个（233）是个背着背包，拿着手偶，戴着夸张兔耳兜帽的少女。最后一个是看起来有些心事重重的英俊健壮男性（lcy）"}
+{"time": 1743780945, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你收到了奈亚的消息“活动发起人需要注意，她提前很久到达了现场”"}
+{"time": 1743780986, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你的手机“嗡”了一下，应该是收到了消息"}
+{"time": 1743781010, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "打开手机看看消息"}
+{"time": 1743781013, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你收到了奈亚的消息“活动发起人需要注意，她提前很久到达了现场”"}
+{"time": 1743781102, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "可以过个侦查"}
+{"time": 1743781123, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "[CQ:reply,id=-1446491549][CQ:at,qq=825734198] “收到，不排除内有陷阱的可能性”"}
+{"time": 1743781134, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra侦查"}
+{"time": 1743781134, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[侦查:75]检定: 1D100=35 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1743781200, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那么你发现栅栏内的院子里，似乎浅浅的埋着一些骨头"}
+{"time": 1743781218, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "看起来有些时日了"}
+{"time": 1743781234, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（？）"}
+{"time": 1743781308, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "递咖啡的时候在奈亚手里敲一下"}
+{"time": 1743781312, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可以生物学/医学）"}
+{"time": 1743781335, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我没点啊）"}
+{"time": 1743781342, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我tm点的急救）"}
+{"time": 1743781349, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（反正还在门口）"}
+{"time": 1743781637, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=1591548430][CQ:at,qq=2039502134] 对方不做反应"}
+{"time": 1743781669, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我能不能进去的时候假装被骨头绊了一下）"}
+{"time": 1743781682, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可以）"}
+{"time": 1743781697, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "骨头离正经能走的路大概多远 我能被绊到吗"}
+{"time": 1743781710, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不远）"}
+{"time": 1743781726, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你需要的话到时候我播事件）"}
+{"time": 1743781740, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我在思考摔一下会不会暴露出我腿上的刀）"}
+{"time": 1743781753, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（这个如果我描述的好不用过幸运吧）"}
+{"time": 1743781755, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（……）"}
+{"time": 1743781758, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不卡）"}
+{"time": 1743781781, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（彳亍）"}

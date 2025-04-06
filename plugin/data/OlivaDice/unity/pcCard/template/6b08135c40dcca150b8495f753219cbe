@@ -119,6 +119,8 @@
         }
     },
     "安德森": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

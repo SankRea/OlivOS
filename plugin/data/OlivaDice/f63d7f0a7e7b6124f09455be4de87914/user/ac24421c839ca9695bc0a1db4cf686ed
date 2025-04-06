@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1743696584,
+        "lastHit": 1743866215,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -13,7 +13,23 @@
             "groupTemplateRule": "C3",
             "groupObList": [
                 "5c5ba4969428218f4ec42552de8fddf9"
-            ]
+            ],
+            "groupInitList": {
+                "纪凌人": 60,
+                "叶鹭": 45,
+                "鱼盛": 80,
+                "顾彩衣65": 0,
+                "顾彩衣": 65,
+                "王富贵": 70
+            },
+            "groupInitParaList": {
+                "纪凌人": "60",
+                "叶鹭": "45",
+                "鱼盛": "80",
+                "顾彩衣65": "0",
+                "顾彩衣": "65",
+                "王富贵": "70"
+            }
         }
     }
 }

@@ -67,3 +67,61 @@
 {"time": 1743601227, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（提前15min到）"}
 {"time": 1743601244, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（彳亍）"}
 {"time": 1743601261, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1743772631, "type": "reply", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1743772632, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "由于kp的大手，现在你们又重新可以找匿名发信人私聊了"}
+{"time": 1743772975, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有没有活）"}
+{"time": 1743772983, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我在想）"}
+{"time": 1743772989, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（刚打完）"}
+{"time": 1743773058, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*对匿名发信人:你是什么身份？这作古宅是你的吗？"}
+{"time": 1743773376, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我只是一个小说作家罢了，因为这件事着实有趣，所以打算牵头来调查一番。”"}
+{"time": 1743773525, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "“那我们这样私闯民宅没问题吗？”"}
+{"time": 1743773709, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这种废弃的地方...应该没什么影响吧？”"}
+{"time": 1743773973, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（没什么想法了）"}
+{"time": 1743774306, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你的pc是几点到）"}
+{"time": 1743774310, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（来着）"}
+{"time": 1743774318, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哦提前15min）"}
+{"time": 1743774322, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（行）"}
+{"time": 1743779313, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哈喽）"}
+{"time": 1743779316, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（还活着吗）"}
+{"time": 1743779320, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（该你登场了）"}
+{"time": 1743779326, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？）"}
+{"time": 1743779335, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（嗯）"}
+{"time": 1743779341, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（他们已经聊了好一会了.jpg）"}
+{"time": 1743779344, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（到得早）"}
+{"time": 1743779361, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？）"}
+{"time": 1743779368, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（我多嘴问一句"}
+{"time": 1743779373, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（他们提前多早"}
+{"time": 1743779381, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那么11:45，你顺着山路走到了这座林中古宅。你要光明正大走过去吗？"}
+{"time": 1743779389, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（呃，说了应该也没什么影响）"}
+{"time": 1743779393, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有人10点就到了）"}
+{"time": 1743779398, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（？"}
+{"time": 1743779414, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（在别人家门口干站两个小时吗"}
+{"time": 1743779416, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（那无敌了"}
+{"time": 1743779446, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*先看看周围环境"}
+{"time": 1743779480, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我的意思是，现在还在路上，离靠近古宅还有些距离）"}
+{"time": 1743779493, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（如果你问林中的环境）"}
+{"time": 1743779512, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "阴森森的，看起来就人迹罕至。不过或许正因如此才会有人感兴趣吧"}
+{"time": 1743779515, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（林中"}
+{"time": 1743779552, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*听一下附近的声音，是鸟叫一类的动物声音为主还是有人声一类城市的声音"}
+{"time": 1743779596, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "此处正是荒郊野岭。市政相关人员一百年后才会来吧。当然还是鸟兽声音居多"}
+{"time": 1743779612, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "*走过去"}
+{"time": 1743779753, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有个新群）"}
+{"time": 1743779756, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你看看呗）"}
+{"time": 1743779775, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（什么新群）"}
+{"time": 1743779775, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（什么新群）"}
+{"time": 1743779787, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（哦看到了）"}
+{"time": 1743779788, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "（哦看到了）"}
+{"time": 1743779805, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "宅子本体外有一个黑黢黢的院子，里面长满了杂草和野蔷薇。院子的栅栏门上没有挂锁。宅子是一栋哥特式尖顶建筑，一共两层。墙壁外面缀满了名贵的玛瑙，看上去似乎更像是一个小型的教堂。因为年久失修，墙上的花纹大多都剥落了，布满了青苔和鸟屎。"}
+{"time": 1743779870, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "能看到院子的栅栏外站着三个人。其中一个人（折）披着黑色的风衣，头顶着一顶鸭舌帽，其貌不扬。另一个（伊）白发女子看起来在打扮上花了不少功夫，穿着哥特式的长裙，看起来不像来探险的，倒像是谁家大小姐。最后一个是个背着背包，拿着手偶，戴着夸张兔耳兜帽的少女"}
+{"time": 1743781088, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "可以过个侦查"}
+{"time": 1743781235, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。ra侦查"}
+{"time": 1743781235, "type": "reply", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安德森]进行技能[侦查:80]检定: 1D100=37 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1743781325, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那么你发现栅栏内的院子里，似乎浅浅的埋着一些骨头。看起来有些时日了"}
+{"time": 1743781329, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可以生物学/医学）"}
+{"time": 1743782055, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。st show 生物学"}
+{"time": 1743782055, "type": "reply", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安德森]的[生物学]: 0"}
+{"time": 1743782061, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "。st show 医学"}
+{"time": 1743782062, "type": "reply", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[安德森]的[医学]: 1"}
+{"time": 1743782069, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": "[CQ:image,file=b973acb900afb40c7d610214b18a87b1.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSIxBdK04lj7oLAVZbRnrh--vv0qhjIFiD_Cij94pm23r6MAzIEcHJvZFCAvaMBWhAygMhBWk8Xk-YsTL6SCaUSegKf4A&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LMerVJ70xpMBtignY00AZaj5jWP0aWqlwYPDoQvWQ0Bcw]"}
+{"time": 1743782090, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "too late"}
+{"time": 1743782101, "type": "recv", "dect": {"host_id": null, "group_id": "1040792941", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
