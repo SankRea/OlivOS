@@ -66,6 +66,8 @@
         }
     },
     "李阳": {
-        "enhanceList": []
+        "enhanceList": [
+            "图书馆"
+        ]
     }
 }

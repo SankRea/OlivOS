@@ -6,43 +6,17 @@
                 {
                     "result": [
                         [
-                            4
+                            48
                         ],
                         [],
                         [
-                            4
+                            48
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 4,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            1
-                        ],
-                        [],
-                        [
-                            1
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 6,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -53,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1d4+1d6",
-            "RDRecordInt": 5,
-            "RDRecordSkillInt": null
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 48,
+            "RDRecordSkillInt": 60
         },
         "userId": "246376731",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743862178
+        "lastHit": 1743992929
     }
 }
