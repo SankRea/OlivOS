@@ -309,3 +309,48 @@
 {"time": 1743782292, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "不是入此门者？"}
 {"time": 1743782368, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "就是这句啊"}
 {"time": 1743782376, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "我说的就是这句"}
+{"time": 1744377035, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "左右可以看看其他人的反应"}
+{"time": 1744377037, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那就看看"}
+{"time": 1744377069, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你可以过一个侦查"}
+{"time": 1744377084, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。r"}
+{"time": 1744377084, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[黑塔]演奏出: 1D100=50"}
+{"time": 1744377110, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st set瑞依"}
+{"time": 1744377110, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[瑞依]"}
+{"time": 1744377114, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st show侦查"}
+{"time": 1744377114, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]的[侦查]: 80"}
+{"time": 1744377119, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "普通"}
+{"time": 1744377163, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那你发现Daniel其实是自己主动走过去被绊的"}
+{"time": 1744377189, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(我没意见)"}
+{"time": 1744378052, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra侦查"}
+{"time": 1744378052, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[侦查:80]检定: 1D100=10 极难成功，流水落花春去也，天上人间"}
+{"time": 1744378056, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st show size"}
+{"time": 1744378056, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]的[SIZE]: 0"}
+{"time": 1744378065, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st show体型"}
+{"time": 1744378065, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]的[体型]: 45"}
+{"time": 1744378132, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你已经知道是食尸鬼脚印了"}
+{"time": 1744378142, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "不太有所谓"}
+{"time": 1744379185, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra侦查"}
+{"time": 1744379185, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[侦查:80]检定: 1D100=37 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1744379270, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你？"}
+{"time": 1744379274, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你有什么，好侦查的"}
+{"time": 1744379286, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "不过你观察大门会发现门把手那里有一个长条形的凹槽一直延伸到门里面，看不清多长。"}
+{"time": 1744379288, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "可以灵感"}
+{"time": 1744379327, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra灵感"}
+{"time": 1744379327, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[灵感:80]检定: 1D100=56 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1744379355, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你感觉这个槽可能是血槽"}
+{"time": 1744379392, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "呃，原来是开门的"}
+{"time": 1744379965, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "诺登斯就"}
+{"time": 1744379968, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "不用再说了吧"}
+{"time": 1744380026, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "着重看看折神和翔哥的反应"}
+{"time": 1744380050, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "一笔略过也看看其他几人，至于自己，要表现出很好奇的样子"}
+{"time": 1744380061, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "翔哥在看其他人反应，你们的眼神对上了"}
+{"time": 1744380111, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "眨眨眼，移开"}
+{"time": 1744380130, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:image,file=3be3b5a9bbf94fd8eba123f60b6987af.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQGoBvAS4aRO1Q7I1HmnrFOxwECxxiHbyD_CijmlPGvktCMAzIEcHJvZFCAvaMBWhC5Xh1faqAenBGXZYxTgp15egLiFg&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LMFVXVOiIp7sBP2fm3bNQvp4fMRE-p18Pjqun0WfRK9yY]"}
+{"time": 1744380145, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "厉害"}
+{"time": 1744380179, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那阿尔忒弥斯小姐呢"}
+{"time": 1744380348, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（但是他小窗不给小动作）"}
+{"time": 1744380351, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我也，没什么办法）"}
+{"time": 1744380496, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=1272531969][CQ:at,qq=1252219916] [CQ:at,qq=1252219916] 在看其他人的反应"}
+{"time": 1744381877, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "怎么折神这么稳健"}
+{"time": 1744381889, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "不是说好了，一起谋大事吗"}
+{"time": 1744381891, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "唉"}

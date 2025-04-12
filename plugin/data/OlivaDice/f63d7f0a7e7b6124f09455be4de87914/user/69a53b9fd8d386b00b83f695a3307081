@@ -3,12 +3,17 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1743325557,
+        "lastHit": 1744428157,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "groupObList": [
+                "5c5ba4969428218f4ec42552de8fddf9",
+                "0295f58a921ad924e9bf09718b84ed18",
+                "2c46beab781cbafe6aa4b4458505086d"
+            ]
         }
     }
 }

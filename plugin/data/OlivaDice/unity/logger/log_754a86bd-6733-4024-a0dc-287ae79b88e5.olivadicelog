@@ -158,3 +158,66 @@
 {"time": 1743781755, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（……）"}
 {"time": 1743781758, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不卡）"}
 {"time": 1743781781, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（彳亍）"}
+{"time": 1744376473, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "[CQ:reply,id=1342607932][CQ:at,qq=2039502134] 记得"}
+{"time": 1744376492, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log on"}
+{"time": 1744376492, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "正在记录乐谱"}
+{"time": 1744376523, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（其实你可以直接发现的对吗（））"}
+{"time": 1744376554, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我不想）"}
+{"time": 1744376568, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（总之可以，你需要的话我就）"}
+{"time": 1744376571, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（拨cg）"}
+{"time": 1744376591, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（播吧 只是我想被绊一下那种）"}
+{"time": 1744377890, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（在这边过吗）"}
+{"time": 1744377898, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra侦查"}
+{"time": 1744377898, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[侦查:75]检定: 1D100=77 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1744377951, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那无事发生"}
+{"time": 1744379165, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra侦查"}
+{"time": 1744379165, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[侦查:75]检定: 1D100=63 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1744379230, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（所以 侦察到了什么）"}
+{"time": 1744379253, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "观察大门会发现门把手那里有一个长条形的凹槽一直延伸到门里面，看不清多长。此外屋子里的电源在大门旁边，似乎遭到了破坏"}
+{"time": 1744379259, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "可以追加灵感"}
+{"time": 1744379271, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra灵感"}
+{"time": 1744379271, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[灵感:60]检定: 1D100=95 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1744379279, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（？）"}
+{"time": 1744379293, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（呃这是大失败吗？"}
+{"time": 1744379295, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不是）"}
+{"time": 1744379306, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（那就行）"}
+{"time": 1744379467, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "观察一下四周环境有没有人类活动过的痕迹"}
+{"time": 1744379474, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（灰尘之类的）"}
+{"time": 1744379476, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "呃"}
+{"time": 1744379510, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（做不到？）"}
+{"time": 1744379516, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "我在想"}
+{"time": 1744379578, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（侦查吧）"}
+{"time": 1744379579, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（好困 我想洗澡昏迷）"}
+{"time": 1744379583, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra侦查"}
+{"time": 1744379583, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[侦查:75]检定: 1D100=31 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1744379639, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "有不少灰，但是有痕迹，看来荒废过很久，但近期有人活动过"}
+{"time": 1744379670, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（哦所以真有人）"}
+{"time": 1744379700, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（能看出来痕迹大多在哪里吗）"}
+{"time": 1744379706, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（集中在哪些地方）"}
+{"time": 1744379880, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "呃"}
+{"time": 1744379886, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "哪都有吧可能"}
+{"time": 1744379894, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "…"}
+{"time": 1744380092, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "非要说就是"}
+{"time": 1744380097, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "只有一个人的痕迹"}
+{"time": 1744380122, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "行吧"}
+{"time": 1744380174, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra侦查"}
+{"time": 1744380174, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[侦查:75]检定: 1D100=45 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1744380199, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那我问你）"}
+{"time": 1744380204, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你有神秘学吗）"}
+{"time": 1744380214, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".st show神秘学"}
+{"time": 1744380214, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]的[神秘学]: 5"}
+{"time": 1744380221, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（可以有）"}
+{"time": 1744380246, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你可以试试看）"}
+{"time": 1744380258, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": ".ra神秘学"}
+{"time": 1744380258, "type": "reply", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Daniel·Ramirez]进行技能[神秘学:5]检定: 1D100=94 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1744380314, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "那无事发生"}
+{"time": 1744380395, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你是不是少了个侦查）"}
+{"time": 1744380410, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "[CQ:reply,id=143113608][CQ:at,qq=2875548981] （）"}
+{"time": 1744380419, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（没有捏 是你没给）"}
+{"time": 1744380455, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "铜像伸出的左手掌心上有个小小的圆形凹槽"}
+{"time": 1744381221, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "sc0/1d3"}
+{"time": 1744381243, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（我不是 不用过吗）"}
+{"time": 1744381253, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（呃）"}
+{"time": 1744381256, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（好像是吧）"}
+{"time": 1744381262, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（杀人鬼）"}
+{"time": 1744381265, "type": "recv", "dect": {"host_id": null, "group_id": "1043955024", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（那行）"}

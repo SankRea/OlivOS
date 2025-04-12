@@ -70,7 +70,9 @@
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
         "enhanceList": [
-            "图书馆"
+            "图书馆",
+            "斗殴",
+            "聆听"
         ]
     }
 }
