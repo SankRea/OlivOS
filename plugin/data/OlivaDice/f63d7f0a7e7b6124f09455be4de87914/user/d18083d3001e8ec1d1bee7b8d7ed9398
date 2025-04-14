@@ -29,11 +29,14 @@
             ],
             "RDRecordRaw": "1D100",
             "RDRecordInt": 10,
-            "RDRecordSkillInt": null
+            "RDRecordSkillInt": null,
+            "userObList": [
+                "69a53b9fd8d386b00b83f695a3307081"
+            ]
         },
         "userId": "970417396",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1744424453
+        "lastHit": 1744436773
     }
 }

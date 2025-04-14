@@ -74,14 +74,14 @@
         ]
     },
     "鱼盛": {
-        "enhanceList": [
-            "聆听",
-            "斗殴",
-            "灵感",
-            "侦查"
-        ],
+        "enhanceList": [],
         "mappingRecord": {
             "先攻": "80"
         }
+    },
+    "郭襄": {
+        "enhanceList": [
+            "灵感"
+        ]
     }
 }

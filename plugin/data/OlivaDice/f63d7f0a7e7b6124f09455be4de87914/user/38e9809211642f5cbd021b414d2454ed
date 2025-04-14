@@ -3,10 +3,10 @@
         "userId": "979367137",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1744274792,
+        "lastHit": 1744550271,
         "configNote": {
-            "logEnable": true,
-            "logNowName": "log_951005ef-0c7f-4097-9aa9-c494706d5673",
+            "logEnable": false,
+            "logNowName": null,
             "groupEnable": true,
             "groupObList": [],
             "groupTemplate": "COC7",

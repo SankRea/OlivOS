@@ -3,7 +3,7 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1744176136,
+        "lastHit": 1744557850,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -20,7 +20,9 @@
                 "顾采薇": "1D20+12",
                 "黄泉": "1D20+11",
                 "芊羽_？": "1D20+12"
-            }
+            },
+            "logEnable": false,
+            "logNowName": "log_da33fd43-3413-4725-b069-cd01498f8d13"
         }
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {

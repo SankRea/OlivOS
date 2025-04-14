@@ -73,10 +73,7 @@
         "enhanceList": []
     },
     "黑塔": {
-        "enhanceList": [
-            "侦查",
-            "神秘学"
-        ],
+        "enhanceList": [],
         "mappingRecord": {
             "先攻": "1D20+13"
         }
@@ -90,25 +87,17 @@
         ]
     },
     "顾彩衣": {
-        "enhanceList": [
-            "侦查",
-            "神秘学",
-            "灵感",
-            "聆听",
-            "闪避",
-            "急救",
-            "手枪",
-            "射击"
-        ],
+        "enhanceList": [],
         "mappingRecord": {
             "先攻": "115"
         }
     },
     "瑞依": {
+        "enhanceList": []
+    },
+    "刘颐": {
         "enhanceList": [
-            "图书馆",
-            "侦查",
-            "灵感"
+            "志怪"
         ]
     }
 }

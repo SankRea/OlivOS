@@ -1,0 +1,2 @@
+{"time": 1744489591, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1744489732, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}
