@@ -992,3 +992,4 @@
 {"time": 1744568282, "type": "recv", "dect": {"host_id": null, "group_id": "728048958", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（直接做个风之翼飞下去也行）"}
 {"time": 1744568299, "type": "recv", "dect": {"host_id": null, "group_id": "728048958", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（梯子还能上去啊）"}
 {"time": 1744568403, "type": "recv", "dect": {"host_id": null, "group_id": "728048958", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "还真是"}
+{"time": 1744608227, "type": "recv", "dect": {"host_id": null, "group_id": "728048958", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}
