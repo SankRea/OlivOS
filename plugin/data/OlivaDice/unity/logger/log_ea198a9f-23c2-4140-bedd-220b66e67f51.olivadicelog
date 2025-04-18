@@ -450,3 +450,17 @@
 {"time": 1744382419, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（好像没活了）"}
 {"time": 1744382421, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（sv！）"}
 {"time": 1744382426, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1744874482, "type": "reply", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1744874486, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1744891020, "type": "reply", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1744891025, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "("}
+{"time": 1744891034, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（厉害"}
+{"time": 1744891037, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "?"}
+{"time": 1744891072, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(我只是想看有人上鸽子榜"}
+{"time": 1744891081, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（6）"}
+{"time": 1744891087, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（让lcy去吧）"}
+{"time": 1744891103, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2039502134"}, "sender": {"id": "2039502134", "name": "清词"}, "message": "（所以为什么不是群主也能log on"}
+{"time": 1744891119, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（因为不是群主也可以log on）"}
+{"time": 1744891163, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1744891171, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（为什么不是群主也可以log on的原因是因为不是群主也可以log on）"}
+{"time": 1744891177, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
