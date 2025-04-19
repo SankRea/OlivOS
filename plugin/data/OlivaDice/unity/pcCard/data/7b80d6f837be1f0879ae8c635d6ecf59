@@ -620,7 +620,8 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "SN": 0
     },
     "沈何": {
         "STR": 55,
