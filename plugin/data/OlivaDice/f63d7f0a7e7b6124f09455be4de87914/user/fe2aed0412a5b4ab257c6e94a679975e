@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Cr24٩(´ᵕ`๑)۶"
+            "userName": "Cr24٩(´ᵕ`๑)۶",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            1
+                        ],
+                        [],
+                        [
+                            1
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 3,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d3",
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": null
         },
         "userId": "1163108392",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1744127910
+        "lastHit": 1745060189
     }
 }

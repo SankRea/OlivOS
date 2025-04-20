@@ -2614,3 +2614,16 @@
 {"time": 1744806321, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "一面巨大的铜镜从一道裂隙里凭空出现在你们的面前。进入镜中，你们又回到了曾经熟悉的地方——蓬莱仙岛。"}
 {"time": 1744806328, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（save）"}
 {"time": 1744806335, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。log off"}
+{"time": 1745065801, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745065812, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "你来到了一个小型的空岛上，周围仅有你一人"}
+{"time": 1745065820, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“这又是要？”"}
+{"time": 1745065820, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "小遇不在你的身边"}
+{"time": 1745065825, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（这是？）"}
+{"time": 1745065830, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "你又听到了那庄严而神秘的声音“你做的很好，我会给你奖励”"}
+{"time": 1745065865, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*静观其变"}
+{"time": 1745065876, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "随后你看到一只红色圆滚滚、没有耳目口鼻的鸟，送来了一个蟠桃一样的东西"}
+{"time": 1745065889, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“吃下不死药，成为蓬莱仙人”"}
+{"time": 1745065911, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“如果我说不，你觉得怎样”"}
+{"time": 1745065926, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你只有一个选择，没有拒绝的选项”"}
+{"time": 1745066003, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“抛弃天下人于不顾，实非郭某人所愿”"}
+{"time": 1745066012, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“愚蠢的渺小之人，那便归于尘土吧。"}

@@ -1,0 +1,437 @@
+{"time": 1745079464, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1745079478, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(直接在这开？)"}
+{"time": 1745079483, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不干小群吗)"}
+{"time": 1745079485, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "(你们录卡吧"}
+{"time": 1745079496, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（帮我录录）"}
+{"time": 1745079496, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（感觉没有很需要小群"}
+{"time": 1745079515, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我发你了啊"}
+{"time": 1745079527, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（帮你录你怎么用"}
+{"time": 1745079547, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不用录)"}
+{"time": 1745079557, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(过鉴定我看着卡过都行)"}
+{"time": 1745079567, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（哦，我卡不在这台电脑上）"}
+{"time": 1745079576, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st set多米诺"}
+{"time": 1745079576, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[多米诺]"}
+{"time": 1745079586, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（夜鹿把卡发我一下）"}
+{"time": 1745079644, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那就你们改个名字吧"}
+{"time": 1745079651, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st lock"}
+{"time": 1745079651, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已在此成功锁定人物卡[多米诺]"}
+{"time": 1745079653, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。sn"}
+{"time": 1745079654, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已将群名片修改为[多米诺 hp10/10 san60/60 dex70]"}
+{"time": 1745079789, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（?）"}
+{"time": 1745079796, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不是中国吗)"}
+{"time": 1745079803, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（多米诺是什么意思呢）"}
+{"time": 1745079806, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（外国人啊）"}
+{"time": 1745079826, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不如啊米诺斯）"}
+{"time": 1745079885, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们带着不同的身份，怀着不同的心思，坐上了同一辆大巴，总之都抵达了孝乐镇。你们看了看时间，现在是 2024 年 4 月 1 日上午 10 点 24 分，天气略显阴霾，镇口的广场上聚集了各式各样的人群，看起来就是一个平平无奇的镇子。"}
+{"time": 1745079914, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "下车后，人群迅速散开，只剩五人留在原地"}
+{"time": 1745079935, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我还没录卡）"}
+{"time": 1745079937, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（别急）"}
+{"time": 1745079938, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "那么，要自我介绍一下？"}
+{"time": 1745079992, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*不熟"}
+{"time": 1745080005, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*但是我是白发猫娘"}
+{"time": 1745080019, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*打个哈欠伸个懒腰“nya~”"}
+{"time": 1745080093, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（？）"}
+{"time": 1745080137, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "可以看到的是这一位白色猫娘的身边有一个随从，这也是为什么你们有五个人"}
+{"time": 1745080161, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（折神怎么开csl "}
+{"time": 1745080167, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（折神怎么开cs了"}
+{"time": 1745080178, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st set 何汐研"}
+{"time": 1745080178, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[何汐研]"}
+{"time": 1745080182, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".sn"}
+{"time": 1745080182, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已将群名片修改为[何汐研 hp8/8 san55/55 dex55]"}
+{"time": 1745080183, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "抱着把油纸伞，身材比较小"}
+{"time": 1745080188, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（好变态的名字）"}
+{"time": 1745080194, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "穿着略有些古风"}
+{"time": 1745080232, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（又比较小）"}
+{"time": 1745080237, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（yln）"}
+{"time": 1745080242, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（size多少）"}
+{"time": 1745080254, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（30"}
+{"time": 1745080266, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（无敌了）"}
+{"time": 1745080270, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（死侏儒）"}
+{"time": 1745080270, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "\"米娜桑，你们好啊\""}
+{"time": 1745080283, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#一人发100块先"}
+{"time": 1745080293, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(这也是)"}
+{"time": 1745080296, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(情非得已)"}
+{"time": 1745080313, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(剩一个30你说分配到哪)"}
+{"time": 1745080320, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st siz"}
+{"time": 1745080320, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]的[SIZ]: 30"}
+{"time": 1745080458, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（好像，没人说话了"}
+{"time": 1745080459, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "\"我叫何汐研，米娜怎么称呼\""}
+{"time": 1745080522, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你是日本人?)"}
+{"time": 1745080543, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看一眼天气。"}
+{"time": 1745080558, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我？我叫多米诺。旅行家喵”"}
+{"time": 1745080574, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "有点乌云，没什么风"}
+{"time": 1745080608, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=-907622756][CQ:at,qq=1252219916] （意志）"}
+{"time": 1745080613, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（主打一个li）"}
+{"time": 1745080649, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "抱着油纸伞，开口盘铃声清脆，\"顾昭君。\""}
+{"time": 1745080660, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(不太行，我有不能低pow的理由)"}
+{"time": 1745080721, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1181994477][CQ:at,qq=1252219916] (因为我是程序员[CQ:at,qq=1252219916] "}
+{"time": 1745080726, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（所以我是二次元）"}
+{"time": 1745080794, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（折神好像在cs"}
+{"time": 1745080795, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(你没有觉得我的名字很变态吗（）"}
+{"time": 1745080808, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:at,qq=1370316409] logger"}
+{"time": 1745080823, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "。log off"}
+{"time": 1745080826, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745080846, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（那你steam敲他）"}
+{"time": 1745080854, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(是的)"}
+{"time": 1745080860, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "[CQ:reply,id=-1364511923][CQ:at,qq=1040972910] （如果我发表看法）"}
+{"time": 1745080864, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你就会很爽）"}
+{"time": 1745080925, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:image,file=d8b895fe42a4476d5387b3898e36ea6f.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS3HVyPgVapRElv9C8cAjMQ0ef4BhiV11og_woo1OL2g8XkjAMyBHByb2RQgL2jAVoQPp-_iCSB4alrA8w-CX2YI3oC6-M&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LMmlDSD2HskMMMN4W_GTCwZ6HV3FAqEC9ZDDx0H_WTris]"}
+{"time": 1745080929, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "这个是小镇的地图"}
+{"time": 1745080935, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（什么rpgmaker）"}
+{"time": 1745080944, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(打完这把不打了)"}
+{"time": 1745081001, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那就等会"}
+{"time": 1745081050, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我的问题)"}
+{"time": 1745081116, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "总之你们现在是在A7的旁边，A7是本地的消防局，通过围栏可以看见里面停着4辆消防车。"}
+{"time": 1745081148, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=1768643392][CQ:at,qq=2468514664] （6）"}
+{"time": 1745081269, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这是我家的女仆妮芙喵”"}
+{"time": 1745081288, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "妮芙不语，只是一味拎包"}
+{"time": 1745081388, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（有人发钱给你们，你们收不收呢"}
+{"time": 1745081395, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1745081403, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。st信用"}
+{"time": 1745081403, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[多米诺]的[信用]: 40"}
+{"time": 1745081410, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=1194274389][CQ:at,qq=1040972910] （"}
+{"time": 1745081433, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“袜，谢谢老板~”"}
+{"time": 1745081438, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*接"}
+{"time": 1745081471, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "\"不用谢，我太有钱了\""}
+{"time": 1745081488, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“老板豪人”"}
+{"time": 1745081525, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“感谢，但一啄一饮皆是天定，若未能为你平事端，我受之有愧，也不利于修行。”"}
+{"time": 1745081543, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（不要可以给我）"}
+{"time": 1745081544, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "\"没关系\""}
+{"time": 1745081549, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（虽然我不在）"}
+{"time": 1745081550, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我用了你们的东西）"}
+{"time": 1745081552, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（给钱也对）"}
+{"time": 1745081631, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "摇摇头，“我听闻此间有祸患，不知几位是为何事而来？若是路过，不宜歇息在此。”"}
+{"time": 1745081731, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不知道，但是还没有能拦住猫猫的事呢”"}
+{"time": 1745081816, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"斩妖除魔是吾辈本职，我来此只为荡除邪祟。诸位可有他议?\""}
+{"time": 1745081829, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "\"那我用钱雇佣你保护我可以吗\""}
+{"time": 1745081843, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#给顾昭君1w块"}
+{"time": 1745081880, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你是真的变态)"}
+{"time": 1745081906, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃...所以何小姐到底是来干什么?\""}
+{"time": 1745081932, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“咳咳……猫猫也不是不可以当保镖的哦？”"}
+{"time": 1745081996, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*姗姗来迟"}
+{"time": 1745082020, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“看来你们已经提前抵达了”"}
+{"time": 1745082025, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我还以为我是最早的”"}
+{"time": 1745082073, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(我是干嘛来得呢"}
+{"time": 1745082116, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“那还用说，我是来赚钱的”"}
+{"time": 1745082212, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（太变态了）"}
+{"time": 1745082231, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃，这里有妖怪哦\""}
+{"time": 1745082252, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"看上去就是大小姐，何小姐还是趁着没人受伤的时候尽早离开吧\""}
+{"time": 1745082263, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(大伙聊天这方式)"}
+{"time": 1745082268, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(还是2013吗)"}
+{"time": 1745082283, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“唯物主义者应当信仰科学的力量”"}
+{"time": 1745082380, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "(其实是2024)"}
+{"time": 1745082394, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（大概是你记错了时间了）"}
+{"time": 1745082494, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“哎，不管了。我和妮芙先走咯”"}
+{"time": 1745082498, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*进城！"}
+{"time": 1745082509, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你要去哪里呢）"}
+{"time": 1745082511, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯，只有斩妖除魔我没说谎。\""}
+{"time": 1745082526, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"所以诸位，我先把奉告放在这里了\""}
+{"time": 1745082556, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“总之就拜托二位保护我了”"}
+{"time": 1745082575, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"哦不对，我就没说过谎。\""}
+{"time": 1745082624, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"唉，你要是真想进去，那就跟着我吧。\""}
+{"time": 1745082731, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那么，目的地！"}
+{"time": 1745082731, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“哎，怎么个风景秀丽的地方能有什么危险”"}
+{"time": 1745082741, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（风景秀丽吗）"}
+{"time": 1745082750, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“可能是穷山恶水出刁民吧”"}
+{"time": 1745082791, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(之前说闹鬼的地方是哪)"}
+{"time": 1745082838, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "(我看看"}
+{"time": 1745082882, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（就是这个小镇"}
+{"time": 1745082899, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“话说，你们找好了住的地方了吗”"}
+{"time": 1745082904, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那还有什么好说的，先去宾馆"}
+{"time": 1745082924, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（消息是从学校传出来的"}
+{"time": 1745082992, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们找啊找，终于找到了A17"}
+{"time": 1745083014, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "牌匾上写着”川普大酒店“"}
+{"time": 1745083024, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“不赖，我会请大家的”"}
+{"time": 1745083035, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“大酒店，不会非常贵吧”"}
+{"time": 1745083036, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这，这对喵？”"}
+{"time": 1745083042, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"川普是?\""}
+{"time": 1745083044, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们看到眼前是一栋 18 层的建筑，通体白色，一层门口上方写着“川普国际大酒店”几个土味烫金大字。你们进入酒店后，看到前台附近的人不是很多，一张大立牌贴着各个房间的价格和配置，边上还有一个“本酒店客房电脑已经全部更换为 4090 显卡”的广告。一个穿着黑白制服的职业女性在前台招待一个女顾客，那位顾客看起来情绪好像有点激动，也不知道是发生了什么事。"}
+{"time": 1745083073, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“好像，不算是穷山”"}
+{"time": 1745083080, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“看起来再金贵的地方也总会有人不满意喵”"}
+{"time": 1745083097, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"看上去，还不错\""}
+{"time": 1745083193, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我都说了，告诉我他在哪！”"}
+{"time": 1745083204, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "那位女顾客一直在嚷嚷"}
+{"time": 1745083222, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1588237979][CQ:at,qq=1370316409] [CQ:at,qq=1370316409] “没事，我会请大家的”"}
+{"time": 1745083243, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“那是极好”"}
+{"time": 1745083254, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "只见这是一个稍微有一点胖、相貌普通的女性，留着垂肩蓝发"}
+{"time": 1745083264, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(现在是几月份)"}
+{"time": 1745083270, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（蓝发是？）"}
+{"time": 1745083273, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"老实说，我不怎么擅长用电器。\""}
+{"time": 1745083278, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"请多包涵\""}
+{"time": 1745083296, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "而她面前的前台，是一个头发染成白色，半边刘海挡着眼睛，穿着黑色的地雷风连衣裙和黑色的长筒靴的女生"}
+{"time": 1745083315, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=1609987363][CQ:at,qq=1370316409] （4"}
+{"time": 1745083335, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（好煞笔的团）"}
+{"time": 1745083337, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（草）"}
+{"time": 1745083342, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "前台弱气地回应“我们不能泄露客人隐私的”"}
+{"time": 1745083343, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（煞笔在哪）"}
+{"time": 1745083365, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:reply,id=951812338][CQ:at,qq=2468514664] （为什么肖欣瑶在这里）"}
+{"time": 1745083369, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（这还不傻逼吗）"}
+{"time": 1745083389, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“东雪莲？”"}
+{"time": 1745083394, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（怎么不喝粉色魔爪）"}
+{"time": 1745083401, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（好感度激增怎么说）"}
+{"time": 1745083412, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"这是?\"理解不了这种装扮"}
+{"time": 1745083423, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“cosplay？”"}
+{"time": 1745083446, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“这是我的爱好”前台回应道"}
+{"time": 1745083474, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“不是！看着我！你在给我服务呢！”那位女顾客大吼"}
+{"time": 1745083498, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“客人要开房吗”前台没有理会女顾客"}
+{"time": 1745083526, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看着何小姐"}
+{"time": 1745083555, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“应该要开四间房吧”"}
+{"time": 1745083560, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还是双人间？”"}
+{"time": 1745083586, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我和妮芙要一件单人房就可以了喵~”"}
+{"time": 1745083729, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我都说了！你凭什么不告诉我他在哪个房间！那个臭郭楠肯定是出轨了”"}
+{"time": 1745083750, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（厉害）"}
+{"time": 1745083757, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“快点告诉我他在哪？不然我找你们经理了！”"}
+{"time": 1745083796, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“那你就去找吧，找经理也不会告诉你的”"}
+{"time": 1745083818, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你找谁啊”"}
+{"time": 1745083850, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“哈？”*她回头上下打量一下你，眯了一下眼睛"}
+{"time": 1745083852, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“怎么感觉很麻烦的说”"}
+{"time": 1745083871, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“找我男朋友夏投南”"}
+{"time": 1745083886, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“他背着我来酒店开房，我要逮捕他”"}
+{"time": 1745083923, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*悄悄说"}
+{"time": 1745083931, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“如果你真想找到你出轨的男朋友”"}
+{"time": 1745083934, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“但是这前台就是不告诉我，真是气死我了”"}
+{"time": 1745083940, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“可以报警”"}
+{"time": 1745083954, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“说他想自杀，但是不告诉你位置，你只知道他在这个酒店”"}
+{"time": 1745084007, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“哈？报假警会被抓的”"}
+{"time": 1745084032, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你什么都不愿意付出却像得到真相”"}
+{"time": 1745084036, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“而且等警察来了床单都干了”"}
+{"time": 1745084036, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“那祝你好运”"}
+{"time": 1745084055, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“总不能一间一间房找过去吧”"}
+{"time": 1745084057, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我要的是抓奸啊抓奸！”"}
+{"time": 1745084059, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“你在这里等也一样嘛，他们总得下楼的不是？”"}
+{"time": 1745084059, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“姐妹消消气”"}
+{"time": 1745084068, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“大不了分手就是了”"}
+{"time": 1745084071, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“我们女孩子要自强”"}
+{"time": 1745084079, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃...这似乎不是我要管的事。\""}
+{"time": 1745084121, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“唉，姐妹你说的有道理”"}
+{"time": 1745084134, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“但是不抓住他的把柄我咽不下这口气”"}
+{"time": 1745084140, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-832181412][CQ:at,qq=1252219916] [CQ:at,qq=1252219916] “我们住一起吧，我想要你时刻保护我”"}
+{"time": 1745084175, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...何小姐，呃，虽然我们都是女生，但是...这不好吧。\""}
+{"time": 1745084248, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“有什么不好的？女生怎么了，我们要反抗男权社会的压迫”"}
+{"time": 1745084260, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“男女平等懂吗”"}
+{"time": 1745084294, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=1042120488][CQ:at,qq=1252219916] [CQ:at,qq=1252219916] “不好吗，我们可以开双人间，我只是有点缺乏安全感”"}
+{"time": 1745084301, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“所以你快点把他的房间告诉我，我要把他卸了”"}
+{"time": 1745084326, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "前台无奈地看着你们，似乎想让你们帮她伸张正义"}
+{"time": 1745084350, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（前台app85）"}
+{"time": 1745084352, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（）"}
+{"time": 1745084357, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（才85）"}
+{"time": 1745084357, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃...行...\""}
+{"time": 1745084374, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"如果何小姐不介意的话，我会保护你的。\""}
+{"time": 1745084384, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“多谢你了顾小姐”"}
+{"time": 1745084389, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不如吞影c++的110）"}
+{"time": 1745084394, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "[CQ:image,file=0381ac2af498d4e8e07ce1992fdd0994.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQSTYiPWsg2SkoGXzmazcM0mGrKURj36Rog_wooqcOa-9HkjAMyBHByb2RQgL2jAVoQIpABbKlKR4-PvynbpAXocHoCMng&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LM5dJ7dmnu7TN5B5guCR0J-imRp2NYE3tzCWfj15KpOwM]"}
+{"time": 1745084394, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不如吞影c++的110）"}
+{"time": 1745084457, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1602622837][CQ:at,qq=2468514664] [CQ:at,qq=2468514664] #爱莫能助"}
+{"time": 1745084461, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...\"感觉自己的观念还是太古板了，插手不了前台的话，于是一言不发"}
+{"time": 1745084489, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "前台小姐摆出一副楚楚可怜的样子，眼中似有水波流转"}
+{"time": 1745084491, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你男朋友进来多久了”"}
+{"time": 1745084538, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra80取悦"}
+{"time": 1745084538, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[夜鹿夜游真夜中]进行技能[80]检定: 1D100=8 极难成功，流水落花春去也，天上人间"}
+{"time": 1745084579, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们内心被她狠狠地打动，想要帮助她"}
+{"time": 1745084606, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=2139578845][CQ:at,qq=1370316409] “我是听我闺蜜说他来开房了我就匆匆赶过来”"}
+{"time": 1745084619, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“那你闺蜜是怎么知道的”"}
+{"time": 1745084652, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“她逛街看到了”"}
+{"time": 1745084666, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“那个死鬼走进这个酒店就没出来”"}
+{"time": 1745084763, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那这……我怎么帮你呢？把前台小姐放倒？”"}
+{"time": 1745084794, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（其实是前台小姐魅惑你们）"}
+{"time": 1745084815, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你们帮我说服她不就好了”"}
+{"time": 1745084840, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（前台小姐过个取悦）"}
+{"time": 1745084857, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没什么反应"}
+{"time": 1745084882, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“什么时候看到的，这个时候不会都洗洗睡了吧”"}
+{"time": 1745084902, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“一个半小时前？”"}
+{"time": 1745084953, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“你和你丈夫联系过了吗？”"}
+{"time": 1745084985, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“他手机关机了”"}
+{"time": 1745084994, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“联系不上他”"}
+{"time": 1745085060, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(请求过话术)"}
+{"time": 1745085110, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（过）"}
+{"time": 1745085146, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还是帮帮这位小姐吧，被戴绿帽子不是什么光彩的事情”"}
+{"time": 1745085159, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯，我不参与。\""}
+{"time": 1745085166, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我对这些事情本身也不感兴趣。\""}
+{"time": 1745085171, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（话术好像是骗人吧）"}
+{"time": 1745085179, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你这个应该是说服）"}
+{"time": 1745085184, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你这个应该是说服）"}
+{"time": 1745085191, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 说服"}
+{"time": 1745085191, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]的[说服]: 10"}
+{"time": 1745085198, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 话术"}
+{"time": 1745085198, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]的[话术]: 25"}
+{"time": 1745085203, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（虽然好像没人在意取悦成功的前台）"}
+{"time": 1745085206, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 取悦"}
+{"time": 1745085206, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]的[取悦]: 15"}
+{"time": 1745085225, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra意志"}
+{"time": 1745085225, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]进行技能[意志:55]检定: 1D100=3 大成功！众里寻他千百度，蓦然回首，那人却在灯火阑珊处"}
+{"time": 1745085230, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(如果你想快速的说服某人，应当使用话术)"}
+{"time": 1745085241, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "[CQ:image,file=d847c44c7f3c17acbed5ac3b66e846b7.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS6Iy45soJPzDrSJPPGvAqXebc8BhjrqgEg_woo__PqjtXkjAMyBHByb2RQgL2jAVoQ3Qm3fUXY5IpJ-jsPCq0lpHoCNvI&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LM5dJ7dmnu7TN5B5guCR0J-imRp2NYE3tzCWfj15KpOwM]"}
+{"time": 1745085249, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "那我忽略了前台的取悦"}
+{"time": 1745085252, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（还有这种）"}
+{"time": 1745085264, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“抱歉 我觉得这位女士的要求很合理”"}
+{"time": 1745085267, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“你说的对，但是怎么帮喵？”"}
+{"time": 1745085283, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*前台被你说的要哭出来了“可是……唉算了”"}
+{"time": 1745085304, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我就破一次例”"}
+{"time": 1745085316, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“千万不能让经理知道了”"}
+{"time": 1745085355, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“放心，大家也不是什么过河拆桥的人”"}
+{"time": 1745085356, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“那个夏投南先生在520房间”"}
+{"time": 1745085391, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“还有另外两名女性一起”"}
+{"time": 1745085435, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“玩的还，挺花的”"}
+{"time": 1745085441, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“原来是夏头男先生，还真下头啊”"}
+{"time": 1745085441, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "这时，一旁的酒店清洁工也凑过来八卦“520房啊，我之前路过那里”"}
+{"time": 1745085460, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”里面似乎传来什么“射手上”“要高潮了”“继续撸不要停”之类的话\""}
+{"time": 1745085485, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1745085506, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“这是我能听的喵？”"}
+{"time": 1745085507, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“好家伙，这位小姐，能陪我一起去抓奸吗？！”"}
+{"time": 1745085524, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃...\""}
+{"time": 1745085536, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "捂住耳朵，面红耳赤"}
+{"time": 1745085560, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“太变态了”"}
+{"time": 1745085567, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“别恶心我”"}
+{"time": 1745085576, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我不想进去他一激动，对着我”"}
+{"time": 1745085581, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*恶心"}
+{"time": 1745085588, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“不好意思，有点恶心”"}
+{"time": 1745085591, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（折木这张卡叫啥啊）"}
+{"time": 1745085599, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(满慕)"}
+{"time": 1745085605, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(小雅随机的)"}
+{"time": 1745085606, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“我可以去帮你人道毁灭喵？”"}
+{"time": 1745085615, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“那真是太好了”"}
+{"time": 1745085639, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“事不宜迟，我们去猎杀奸夫淫妇”"}
+{"time": 1745085667, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"..呃，何小姐，我帮你看着点，你不要掺和了\""}
+{"time": 1745085680, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "然后她便率着你们前往520房"}
+{"time": 1745085688, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哪些人要一起去？）"}
+{"time": 1745085700, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我要在门外)"}
+{"time": 1745085724, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（就是一起跟到520门口）"}
+{"time": 1745085732, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "在门口看着"}
+{"time": 1745085748, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "到门口的过个聆听"}
+{"time": 1745085761, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra聆听"}
+{"time": 1745085761, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[多米诺]进行技能[聆听:80]检定: 1D100=21 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745085786, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "。ra聆听"}
+{"time": 1745085786, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[满慕]进行技能[聆听:60]检定: 1D100=57 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745085798, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra聆听80"}
+{"time": 1745085798, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾彩衣]进行技能[聆听:80]检定: 1D100=100 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1745085805, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "聆听成功的人听到屋内传出“快上快上”“我好了”之类的声音"}
+{"time": 1745085826, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（这个大失败怎么办呢）"}
+{"time": 1745085883, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哈哈)"}
+{"time": 1745085987, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(哈哈)"}
+{"time": 1745086007, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "(哈哈)"}
+{"time": 1745086009, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "眼前的这位女朋友显然已经愤怒到极点，用力敲响了眼前的门"}
+{"time": 1745086012, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"停！\""}
+{"time": 1745086020, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"这个酒店有古怪\""}
+{"time": 1745086050, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“有什么情况吗”"}
+{"time": 1745086052, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "她回头疑惑地看着你"}
+{"time": 1745086076, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "然后，一个看起来平平无奇的男性打开了酒店门"}
+{"time": 1745086103, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你们谁啊......啊！筱仙缕！”"}
+{"time": 1745086109, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你怎么来了”"}
+{"time": 1745086115, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（难绷）"}
+{"time": 1745086144, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "男子被吓得往后一跳，你们因此看见屋内还有另外两名女性打扮的人"}
+{"time": 1745086156, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "过个侦查"}
+{"time": 1745086160, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这也算是难得一见的场面了”"}
+{"time": 1745086164, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra侦查"}
+{"time": 1745086164, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[满慕]进行技能[侦查:60]检定: 1D100=73 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745086169, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。ra侦查"}
+{"time": 1745086169, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[多米诺]进行技能[侦查:80]检定: 1D100=48 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745086201, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "侦察成功的人会注意到那两名女性的打扮与行为举止更像是情侣，极有可能是一对女同，并且她们和男性都保持微妙的距离感"}
+{"time": 1745086212, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
+{"time": 1745086225, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你个夏投南！背着我来酒店开房，还他妈的找两个！”"}
+{"time": 1745086252, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“什么找两个？这都啥跟啥啊？”"}
+{"time": 1745086254, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“你们不会一个叫泷奈一个叫千束吧”"}
+{"time": 1745086274, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“老子他妈在这里参加LOL水友赛”"}
+{"time": 1745086277, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“橘势不妙”"}
+{"time": 1745086279, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"咦...?\""}
+{"time": 1745086290, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "里面的两个女性点点头"}
+{"time": 1745086294, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“有些时候，感觉我才是想报警的那个”"}
+{"time": 1745086305, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯...难道我看错了?\""}
+{"time": 1745086309, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "揉揉眼睛"}
+{"time": 1745086334, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“参加水友赛？谁信你啊？为什么不在家里参加！！！”"}
+{"time": 1745086349, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "气得跺脚脚"}
+{"time": 1745086416, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“原来射手上的断句是……射手……上？”"}
+{"time": 1745086433, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "夏投南叱喝筱仙缕“还不是因为你宁肯去李佳琦直播间进货也不肯给我钱换掉老旧的 GTX980ti显卡！那他只好跑到酒店用这里的电竞设备来参加比赛了“"}
+{"time": 1745086452, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "里面的两个女性解释道”我们是他的队友“"}
+{"time": 1745086453, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“虽然但是，980是可以打101的”"}
+{"time": 1745086474, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“三个人打英雄联盟吗”"}
+{"time": 1745086490, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“三个人打英雄联盟吗”"}
+{"time": 1745086500, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你还不如说打王者荣耀”"}
+{"time": 1745086502, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“因为我们都是本地的，就一起了”"}
+{"time": 1745086509, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“毕竟王者荣耀真的有3v3”"}
+{"time": 1745086546, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你看！这些人也是不信你”小仙女嘲笑道"}
+{"time": 1745086576, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“爱信不信，老子身正不怕影子斜”"}
+{"time": 1745086587, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“看看比赛记录？”"}
+{"time": 1745086627, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你随意”他让开一条路，给你们看他们的电脑"}
+{"time": 1745086656, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“如果你玩慎的话，我就相信你，因为玩慎的都是好男人”"}
+{"time": 1745086736, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们看到他的战绩0/4/5，反而两个女生的战绩都是正的"}
+{"time": 1745086759, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃，这个东西倒是很神奇\""}
+{"time": 1745086762, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*拍拍男生，一切尽在不言中"}
+{"time": 1745086788, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“...我很少评价别人的游戏水平”"}
+{"time": 1745086813, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃。\"上前碰碰键盘"}
+{"time": 1745086836, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "一旁的小仙女开始用小仙女句式怒骂虾头男，甚至开始动手"}
+{"time": 1745086856, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“哥们，要不你……分了吧，我支持你”"}
+{"time": 1745086895, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我都给出证据了，你怎么就是不信呢……唉，几个大妹子，帮我拉开她好吗”"}
+{"time": 1745086931, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你不玩慎，所以我不想帮你说话”"}
+{"time": 1745086948, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”你敢跟我分手？你敢跟老娘分手？“"}
+{"time": 1745086981, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "可以过个交涉技能吧"}
+{"time": 1745087005, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我已经不知道该说什么了”"}
+{"time": 1745087018, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“cpu确实处理不过来了”"}
+{"time": 1745087040, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃..冷静一点，我总觉得这酒店没看上去那么安全。\"手里掐着诀，抱着油纸伞"}
+{"time": 1745087127, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”我不信这家伙只是单纯的在这里打游戏“"}
+{"time": 1745087150, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”退一万步，抛开事实不谈“"}
+{"time": 1745087161, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”这家伙就没有错吗？“"}
+{"time": 1745087193, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”你这死婆娘要不要听听自己在说什么？“"}
+{"time": 1745087197, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“姐妹是对的，哪怕你有99%的错，他难道就没有1%的错吗”"}
+{"time": 1745087236, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”我怎么可能有错？真是好笑“"}
+{"time": 1745087262, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...\"翻个白眼，\"我不参与了。\""}
+{"time": 1745087277, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"何小姐，既然你定了房间?先回房间看看?\""}
+{"time": 1745087303, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“再在这里待下去对脑子不好喵”"}
+{"time": 1745087304, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你们可以就这样放他们在这里扭打，或者过个交涉"}
+{"time": 1745087320, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "两名队友在房间角落瑟瑟发抖"}
+{"time": 1745087360, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我不想取悦她（）"}
+{"time": 1745087365, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“就这样吧，只是一场误会，没必要这么争锋相对”"}
+{"time": 1745087372, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“大家未来也是要共度一生的”"}
+{"time": 1745087375, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra"}
+{"time": 1745087382, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra话术"}
+{"time": 1745087382, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[满慕]进行技能[话术:60]检定: 1D100=51 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745087417, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（可惜了，要困难成功"}
+{"time": 1745087454, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "显然这位小仙女没有这么容易被说服，她又和下头男吵了起来"}
+{"time": 1745087483, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我rp不出小仙女啊，还是看少了"}
+{"time": 1745087511, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"这样吧，我给你们吹个曲子\""}
+{"time": 1745087519, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"此事就算了?\""}
+{"time": 1745087613, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "拿出笛子吹"}
+{"time": 1745087615, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”气死我了！我要起诉你！你等着吃官司吧！“小仙女大吼着跑了"}
+{"time": 1745087616, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra乐理60"}
+{"time": 1745087616, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾彩衣]进行技能[乐理:60]检定: 1D100=86 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745087653, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”真是个不可理喻的婆娘“下头男整理了一下自己的着装"}
+{"time": 1745087671, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“谁立论谁举证喵”"}
+{"time": 1745087714, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”多谢各位刚才的相助，我觉得分手确实是一个好主意“"}
+{"time": 1745087736, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”你们以后要是有什么计算机方面的不懂的问题，可以问我“"}
+{"time": 1745087780, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”电器方面的我也会“"}
+{"time": 1745087780, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“无所谓，我是计算机高手”"}
+{"time": 1745087787, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 电子学"}
+{"time": 1745087787, "type": "reply", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何汐研]的[电子学]: 80"}
+{"time": 1745087795, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“我也是电子学高手”"}
+{"time": 1745087824, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这种组合是不是有点乱套了”"}
+{"time": 1745087850, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”看得出来“显然何和夏身上都有着游戏宅的气质"}
+{"time": 1745087914, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"呃...我呢？\""}
+{"time": 1745087984, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“唉，不聊这么多，下一场比赛要开了”他匆忙地拿张卫生纸写了自己的电话号码递给你们，然后就回房间打游戏了"}
+{"time": 1745088013, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"诶诶?别跑\""}
+{"time": 1745088016, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我呢?\""}
+{"time": 1745088037, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你们是一起的吧？我会帮忙的”"}
+{"time": 1745088088, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"难道我看上去不像很会用电脑的人吗？\""}
+{"time": 1745088095, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "等到房门被关上，你们才想起来你们还没订房间"}
+{"time": 1745088098, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看他打游戏，指点江山"}
+{"time": 1745088104, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“怎么不让我看看啊”"}
+{"time": 1745088108, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#生气😠"}
+{"time": 1745088304, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这种事情，有种在游戏里接了支线任务的感觉”"}
+{"time": 1745088315, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们还是去看看我们的房间吧”"}
+{"time": 1745088322, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "你们又回到前台，前台小姐的胸牌上写着“狄蕾媚”三个字，她问你们到底怎么订房间"}
+{"time": 1745088445, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯?似乎变好了一点\""}
+{"time": 1745088494, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“我和顾小姐订一间双人间”"}
+{"time": 1745088568, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“好的，那就1024房”前台把房卡给你"}
+{"time": 1745088575, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“那我呢”"}
+{"time": 1745088584, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“另外两位呢？”"}
+{"time": 1745088593, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "舒展一下筋骨，\"何小姐，我不擅长使用电器，如果爆炸了，请你小心一些。\""}
+{"time": 1745088621, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“那我呢”"}
+{"time": 1745088650, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“不是老板报销嘛喵？”"}
+{"time": 1745088851, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你们都在nf吗）"}
+{"time": 1745088855, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(不在啊)"}
+{"time": 1745088893, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（过完这一段off吧"}
+{"time": 1745088942, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯...\"总对酒店的环境感觉很奇怪"}
+{"time": 1745088954, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "上楼在各层仔细看看"}
+{"time": 1745088979, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(要睡了)"}
+{"time": 1745088984, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(开团到三点)"}
+{"time": 1745088992, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(打字手都在抖)"}
+{"time": 1745088992, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "在何小姐的报销下，多米诺和女仆和满慕住进了一间房"}
+{"time": 1745088996, "type": "recv", "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".log off"}
