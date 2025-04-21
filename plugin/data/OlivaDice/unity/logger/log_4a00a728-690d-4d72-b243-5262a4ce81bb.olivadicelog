@@ -2627,3 +2627,4 @@
 {"time": 1745065926, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你只有一个选择，没有拒绝的选项”"}
 {"time": 1745066003, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“抛弃天下人于不顾，实非郭某人所愿”"}
 {"time": 1745066012, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“愚蠢的渺小之人，那便归于尘土吧。"}
+{"time": 1745131275, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log end"}

@@ -1,2 +1,209 @@
 {"time": 1744489591, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1744489732, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}
+{"time": 1745163819, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745163840, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（开）"}
+{"time": 1745164095, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "作为孤儿，你其实并没有自己的住所，以前住的是孤儿院，院长给你安排好之后，你一直住在殡仪馆"}
+{"time": 1745164113, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那我姑父是？）"}
+{"time": 1745164133, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "私密马赛"}
+{"time": 1745164134, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "砍错了"}
+{"time": 1745164257, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你并没有自己的住所，殡仪馆发的钱只够你勉强温饱，这份差事本就是你姑父给你谋求的，但是三年前随着你的姑父去世，你就只能一直住在殡仪馆里"}
+{"time": 1745164290, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那我确实挺惨的）"}
+{"time": 1745164307, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这个房间不大，位置上靠近停尸房，也许是为了让你起到半夜看守尸体的作用"}
+{"time": 1745164345, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这个房间里摆着你所有珍视的东西"}
+{"time": 1745164428, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（可以动了吗）"}
+{"time": 1745164511, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "半张泛黄的照片，几个眼球标本，除此之外，也没有什么别的东西了"}
+{"time": 1745164533, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这天，殡仪馆里罕见地忙碌起来"}
+{"time": 1745164535, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#回忆一下眼球标本是什么"}
+{"time": 1745164612, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你很喜欢眼球，因此收集了一些其他动物的眼球标本，有些是以前你的姑父张凌远送给你的，其中有一个人体眼球标本，你最喜欢这个"}
+{"time": 1745164653, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=115855248][CQ:at,qq=1252219916] 三具尸体一同从警局的法医那里送了过来"}
+{"time": 1745164709, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你注意到你的上司罕见地有些紧张"}
+{"time": 1745164747, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他正在和警方交涉，此外一大群人乌泱泱地聚在门口，被警察拦住，似乎是记者。"}
+{"time": 1745164750, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（可以动了）"}
+{"time": 1745164763, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（让我想想）"}
+{"time": 1745164796, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看三具尸体先"}
+{"time": 1745164825, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "目前都装在裹尸袋里"}
+{"time": 1745164838, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "被一群人挡得严严实实"}
+{"time": 1745164849, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#那我听一下领导在和警察聊什么"}
+{"time": 1745164928, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "聆听"}
+{"time": 1745164934, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra聆听"}
+{"time": 1745164934, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[聆听:60]检定: 1D100=97 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745164942, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（大失败说是）"}
+{"time": 1745165015, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。set coc3"}
+{"time": 1745165015, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已清除本群套用主骰"}
+{"time": 1745165071, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你努力凑过去想听清他们在说什么，但奈何人群嘈杂，什么也没听清。突然你的背后传来小女孩的声音"}
+{"time": 1745165091, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#回头"}
+{"time": 1745165109, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(妈的)"}
+{"time": 1745165112, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(我还没说话呢)"}
+{"time": 1745165115, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你回头干嘛)"}
+{"time": 1745165207, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那你先说）"}
+{"time": 1745165217, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"阿姊...\"一声淡淡的带着哀愁的童音"}
+{"time": 1745165227, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（还真是遐蝶啊）"}
+{"time": 1745165233, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "里san检定"}
+{"time": 1745165242, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "0/1d3"}
+{"time": 1745165253, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 里san50"}
+{"time": 1745165253, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的人物卡已保存"}
+{"time": 1745165283, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你用1d100)"}
+{"time": 1745165295, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra50"}
+{"time": 1745165295, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[50]检定: 1D100=93 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745165306, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 里san-1d3"}
+{"time": 1745165306, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的人物卡已更新:\n[里SAN]: 50-1d3=50-{2}(2)=48"}
+{"time": 1745165314, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 业力50"}
+{"time": 1745165314, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的人物卡已保存"}
+{"time": 1745165324, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(动吧)"}
+{"time": 1745165338, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我问你，我是不是入殓师，然后还有个妹妹）"}
+{"time": 1745165343, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那不就是遐蝶么）"}
+{"time": 1745165354, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-824574539][CQ:at,qq=1040972910] #回头看看是谁"}
+{"time": 1745165464, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "什么人都没有，只有空荡荡的走廊"}
+{"time": 1745165489, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“难道最近太累了？”"}
+{"time": 1745165584, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（职业一样啊，霞蝶也是入殓师）"}
+{"time": 1745165629, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#先站在一边的角落，等待工作安排"}
+{"time": 1745165632, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "人流开始移动"}
+{"time": 1745165694, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "三个裹尸袋依次被送进了停尸房，人群出来时你只看见一群人全部面色凝重，现场的氛围很压抑"}
+{"time": 1745165783, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#不敢说话，等待领导安排任务"}
+{"time": 1745165966, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你的上司看了你一眼，摇了摇头"}
+{"time": 1745165990, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不堪大用？不能升职加薪了？）"}
+{"time": 1745166001, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "随后走了过来，\"小楚，你来殡仪馆几个年头了。\""}
+{"time": 1745166013, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“嗯....嗯”"}
+{"time": 1745166049, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"回话。\"他看你神游天外，重重拍了拍你的肩膀"}
+{"time": 1745166055, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(咦，你几岁)"}
+{"time": 1745166063, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（19吧）"}
+{"time": 1745166086, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(彳亍)"}
+{"time": 1745166101, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“两...三年了吧”"}
+{"time": 1745166162, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"这件事不要乱传，现在外面舆论很不好。\"你看他叹气又叹气"}
+{"time": 1745166178, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“我什么都不知道....”"}
+{"time": 1745166190, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我知道你不怕尸体，待会你进去给他们好好上个妆。\""}
+{"time": 1745166216, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"太惨了...\"摇头，\"真的太惨了..你什么也不要问，知道吗？看见了也不要瞎想。\""}
+{"time": 1745166259, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我怎么称呼这个人，老板？）"}
+{"time": 1745166271, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“嗯嗯”乖乖的点头"}
+{"time": 1745166285, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(他姓刘)"}
+{"time": 1745166291, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(叫刘宇翔)"}
+{"time": 1745166358, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（煞笔）"}
+{"time": 1745166373, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（我都没叫除夕）"}
+{"time": 1745166411, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他转身离开，临了想了想给你递了句话，\"市局的白警官约了你晚上见面，可能是对这个案子有什么想法。\""}
+{"time": 1745166422, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你背景那个和你合作的警官有印象吧)"}
+{"time": 1745166428, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（嗯）"}
+{"time": 1745166437, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“好的，刘叔”"}
+{"time": 1745166594, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "可以继续动了"}
+{"time": 1745166597, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#去停尸房"}
+{"time": 1745166859, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（小楚？）"}
+{"time": 1745166884, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(别急)"}
+{"time": 1745166889, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(在双开导入)"}
+{"time": 1745166915, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你进了停尸间"}
+{"time": 1745166938, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（龙神还是夜鹿）"}
+{"time": 1745166945, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(夜露西苦)"}
+{"time": 1745166985, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "三具尸体整整齐齐地摆在停尸房里"}
+{"time": 1745167005, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看一眼是什么样子的"}
+{"time": 1745167023, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#如果被裹尸袋裹着就打开袋子"}
+{"time": 1745167182, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你打开裹尸袋"}
+{"time": 1745167194, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "即使是你这样不惧怕尸体的人"}
+{"time": 1745167219, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "久为尸体入殓的人都不由得感叹，到底是什么情况才能造成这样的尸体"}
+{"time": 1745167410, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "其中一具尸体，似乎是被冻的，整个人已经发红，脸上有着一层层的紫色小晶粒，嵌在了皮肤里，同时你发现他下半身和上半身已经分开，在腿上手上刺着一些鱼鳞。\n此外，你发现他的眼球已经晶体化，虹膜呈现双同心圆纹路  \n "}
+{"time": 1745167450, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“好漂亮的眼睛....”"}
+{"time": 1745167540, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你好喜欢"}
+{"time": 1745167544, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那双眼睛"}
+{"time": 1745167589, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#想扣下来做标本，但还是算了"}
+{"time": 1745167621, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#给尸体化妆"}
+{"time": 1745167634, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“安息吧，黄泉路上一路走好”"}
+{"time": 1745167636, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个灵感"}
+{"time": 1745167657, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra灵感"}
+{"time": 1745167657, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[灵感:50]检定: 1D100=94 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745167738, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你又听到了女孩的声音"}
+{"time": 1745167758, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"阿姊...喜欢我送你的...眼睛吗\""}
+{"time": 1745167813, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“？”"}
+{"time": 1745167818, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“谁....”"}
+{"time": 1745167861, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"咯咯..阿姊好喜欢..对不对\""}
+{"time": 1745167925, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#试图寻找声音来源"}
+{"time": 1745167937, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“小妹妹，你在....哪”"}
+{"time": 1745167965, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"阿姊...找不到我..我..伤心...\""}
+{"time": 1745168023, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（感觉我的角色是不是有点邪恶（）"}
+{"time": 1745168048, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#环绕四周"}
+{"time": 1745168119, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "什么也没看见"}
+{"time": 1745168133, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"阿姊..坏..我不要..送阿姊..礼物\""}
+{"time": 1745168149, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“别....生气，我会找到你的”"}
+{"time": 1745168192, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "话音刚落，那对晶体眼球一同破裂"}
+{"time": 1745168212, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "一股香樟味弥漫整个停尸房"}
+{"time": 1745168229, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“对不起.....”"}
+{"time": 1745168264, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没有回应"}
+{"time": 1745168336, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#对尸体道个歉先，然后继续帮忙化妆"}
+{"time": 1745168397, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(我突然在想，让你过个绘画)"}
+{"time": 1745168420, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你根本没有推荐我点这个）"}
+{"time": 1745168428, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(因为我也忘了)"}
+{"time": 1745168434, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（殡仪员本身的技能组烂的发昏）"}
+{"time": 1745168435, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(虽然按道理要过的)"}
+{"time": 1745168484, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "尸体此前已经被法医打理过一遍"}
+{"time": 1745168490, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你并没有花费什么力气"}
+{"time": 1745168560, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(继续动)"}
+{"time": 1745168638, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#处理好三具尸体后，就去找刘叔复命"}
+{"time": 1745168692, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（还有两具没看）"}
+{"time": 1745168730, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看剩下两个"}
+{"time": 1745168746, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "一个大一些，一个很小"}
+{"time": 1745168794, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#打开裹尸袋"}
+{"time": 1745168804, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“不会是小孩子吧....”"}
+{"time": 1745168930, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "里面是一具被烧焦的骸骨"}
+{"time": 1745168961, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "只有婴儿的大小，为了方便辨识才进行了分开装"}
+{"time": 1745168983, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“啊....这也需要我来化妆吗”"}
+{"time": 1745169008, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#先去看另一具大的"}
+{"time": 1745169026, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你注意到这具尸体已经被焚烧得看不清原样。"}
+{"time": 1745169039, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "大的里面是一具女性的尸体"}
+{"time": 1745169058, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "和另外两具不同"}
+{"time": 1745169067, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这具女尸的皮肤呈现出病态的光滑"}
+{"time": 1745169118, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看眼睛"}
+{"time": 1745169125, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "小腿上有轻微的灼烧痕迹，但其余的皮肤都细嫩无比，仿佛新生儿一般，同时你注意到她的嘴角挂着一丝若有若无的微笑"}
+{"time": 1745169134, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "腹部却被破开一个大口"}
+{"time": 1745169198, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "但就连破面处都是光滑异常，透过腹部的口子，你可以清晰地看见脏器，在灯光下呈现泛着光的平滑"}
+{"time": 1745169229, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“好诡异....”"}
+{"time": 1745169274, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "但就连破面处都是光滑异常，透过腹部的口子，你可以清晰地看见脏器，在灯光下已经碳化"}
+{"time": 1745169334, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=81997151][CQ:at,qq=1040972910] ()"}
+{"time": 1745169396, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=81997151][CQ:at,qq=1040972910] 晶状体驳杂，瞳孔像是蒙着一层灰"}
+{"time": 1745169406, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“可惜”"}
+{"time": 1745169422, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "此外，法医曾解刨了这具尸体的背部，你可以看见有几块脊椎空着"}
+{"time": 1745169426, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“安息吧”#帮她合上双眼"}
+{"time": 1745169454, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个灵感"}
+{"time": 1745169473, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra灵感"}
+{"time": 1745169473, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[灵感:50]检定: 1D100=7 极难成功，流水落花春去也，天上人间"}
+{"time": 1745169496, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（终于成功了一次）"}
+{"time": 1745169517, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你刚合上尸体的眼睛"}
+{"time": 1745169524, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "她的眼睛又骤然睁开"}
+{"time": 1745169532, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“？”"}
+{"time": 1745169547, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你还有什么冤屈吗...”"}
+{"time": 1745169563, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "原本灰蒙蒙的瞳孔呈现出诡异的双环纹路"}
+{"time": 1745169598, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#后退两步"}
+{"time": 1745169700, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "尸体的嘴巴微微张开，小女孩的声音从你身后出现，似乎是在哼唱一首童谣"}
+{"time": 1745169736, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "六月割菜（割啊割），\r\n菜叶滴红汤（红啊红），\r\n阿姊提刀问阿妹——\r\n“目睭要藏哪一丛？”\r\n\r\n七月晒菜（晒啊晒），\r\n菜干挂竹竿（挂啊挂），\r\n一只目睭照月光，\r\n一只目睭看无间......\r\n\r\n八月腌菜（腌啊腌），\r\n瓮底结霜花（结啊结），\r\n双瞳开天门，\r\n仙人骑马拖棺材——\r\n！"}
+{"time": 1745169773, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "随后声音凑到了你的耳边，“囝仔乖乖勿出声，\r\n黄衫老爷来收尸！"}
+{"time": 1745169785, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "轻柔又带着些说不清的怪异"}
+{"time": 1745169855, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#害怕的后退，靠在墙上"}
+{"time": 1745169878, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "声音依然从你的背后传来，\"阿姊...是在怕我吗？\""}
+{"time": 1745169893, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "里san检定 1/1d3"}
+{"time": 1745169912, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "sc1/1d6"}
+{"time": 1745169991, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra47"}
+{"time": 1745169991, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[47]检定: 1D100=21 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745170004, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 里san-1"}
+{"time": 1745170004, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的人物卡已更新:\n[里SAN]: 48-1=47"}
+{"time": 1745170015, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".sc1/1d6"}
+{"time": 1745170015, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行理智检定[55]:\n1D100=58 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d6=6点,当前剩余[49]点"}
+{"time": 1745170025, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ti"}
+{"time": 1745170025, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[划船不靠桨の233]疯狂发作-临时症状:\n你抽到了:\n3) 暴力倾向 ：调查员陷入了六亲不认的暴力行为中，对周围的敌人与友方进行着无差别的攻击，持续1D10=7轮。"}
+{"time": 1745170041, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（怎么办）"}
+{"time": 1745170042, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(周围没人)"}
+{"time": 1745170051, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你跟垃圾桶solo吧)"}
+{"time": 1745170064, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（好的，小楚和垃圾桶solo）"}
+{"time": 1745170085, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "“嘻嘻...阿姊就是阿姊...但是阿姊让我伤心...”"}
+{"time": 1745170094, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“为什么叫我阿姊，你是我妹妹吗”"}
+{"time": 1745170101, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#拿头撞墙"}
+{"time": 1745170111, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "在你对着墙壁发泄暴力的时候，那个声音一直哼着童谣在你耳边"}
+{"time": 1745170122, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“肯定是我太累了，晕过去就好了”"}
+{"time": 1745170136, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"阿姊..要学会这首歌哦...学会...哦\""}
+{"time": 1745170182, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"...六月割菜...\"你发现你不自觉跟着那个声音一起哼起了歌词"}
+{"time": 1745170276, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“六月割菜（割啊割），\n菜叶滴红汤（红啊红），\n阿姊提刀问阿妹——\n“目睭要藏哪一丛？”\n\n七月晒菜（晒啊晒），\n菜干挂竹竿（挂啊挂），\n一只目睭照月光，\n一只目睭看无间......\n\n八月腌菜（腌啊腌），\n瓮底结霜花（结啊结），\n双瞳开天门，\n仙人骑马拖棺材——\n！”"}
+{"time": 1745170341, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(也行吧)"}
+{"time": 1745170375, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "似乎是听你哼完了，\"嗯..我很满意哦，阿姊...我要走啦...\""}
+{"time": 1745170406, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你也恢复了正常，没有在跟墙过意不去"}
+{"time": 1745170415, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“再见....”虚弱的坐在地上"}
+{"time": 1745170433, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“见鬼，到底发生了什么，我也没23岁啊”"}
+{"time": 1745170490, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\".这次的坏了..我..会给阿姊礼物的...咯咯...\""}
+{"time": 1745170501, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "声音似乎在远去，离你越来越远"}
+{"time": 1745170597, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#赶紧把两个尸体处理完，离开这诡异的地方"}
+{"time": 1745170656, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你很快处理完了两具尸体，也没有再出什么岔子"}
+{"time": 1745170695, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "等你从停尸房出来，一封短信发到你手机上，白警官已经在等你了。"}
+{"time": 1745170699, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
