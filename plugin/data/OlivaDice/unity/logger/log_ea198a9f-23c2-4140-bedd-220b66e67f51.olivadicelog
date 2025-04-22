@@ -464,3 +464,5 @@
 {"time": 1744891163, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（？）"}
 {"time": 1744891171, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（为什么不是群主也可以log on的原因是因为不是群主也可以log on）"}
 {"time": 1744891177, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1745242244, "type": "reply", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745242249, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}

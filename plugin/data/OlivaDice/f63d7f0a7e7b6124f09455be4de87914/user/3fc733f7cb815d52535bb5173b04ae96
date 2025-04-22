@@ -3,33 +3,11 @@
         "configNote": {
             "userName": "草食龙",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            98
-                        ],
-                        [],
-                        [
-                            98
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                71
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 98,
-            "RDRecordSkillInt": 80,
+            "RDRecordRaw": "71",
+            "RDRecordInt": 71,
+            "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -67,6 +45,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1745163012
+        "lastHit": 1745260535
     }
 }
