@@ -466,3 +466,5 @@
 {"time": 1744891177, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
 {"time": 1745242244, "type": "reply", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
 {"time": 1745242249, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}
+{"time": 1745322435, "type": "reply", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745322439, "type": "recv", "dect": {"host_id": null, "group_id": "1040778971", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".log off"}

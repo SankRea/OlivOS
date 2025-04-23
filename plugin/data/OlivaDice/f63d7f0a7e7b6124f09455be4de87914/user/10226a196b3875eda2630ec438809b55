@@ -3,15 +3,37 @@
         "configNote": {
             "userName": "划船不靠桨の233",
             "RDRecord": [
-                60
+                {
+                    "result": [
+                        [
+                            25
+                        ],
+                        [],
+                        [
+                            25
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "60",
-            "RDRecordInt": 60,
-            "RDRecordSkillInt": null
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 25,
+            "RDRecordSkillInt": 46
         },
         "userId": "1040972910",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1745260650
+        "lastHit": 1745342520
     }
 }
