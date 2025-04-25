@@ -3,23 +3,31 @@
         "userId": "932113569",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1745030885,
+        "lastHit": 1745412963,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "喻文波": 18,
-                "顾采薇": 23,
-                "黄泉": 29,
-                "芊羽_？": 32
+                "宵宫": 18,
+                "塞芙拉": 14,
+                "灵砂": 22,
+                "封夜": 20,
+                "哈集美": 12,
+                "术士": 6,
+                "狗头人": 11,
+                "何小龙": 22
             },
             "groupInitParaList": {
-                "喻文波": "1D20+12",
-                "顾采薇": "1D20+12",
-                "黄泉": "1D20+11",
-                "芊羽_？": "1D20+12"
+                "宵宫": "1D20+8",
+                "塞芙拉": "1D20+5",
+                "灵砂": "1D20+8",
+                "封夜": "1D20+10",
+                "哈集美": "1D20+6",
+                "术士": "1D20+5",
+                "狗头人": "1D20+3",
+                "何小龙": "1D20+7"
             },
             "logEnable": false,
             "logNowName": "log_da33fd43-3413-4725-b069-cd01498f8d13"

@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "残阳亦旭.宇宙艾蕾ver",
+            "userName": "残阳亦旭.艾蕾王ver",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            37
+                            48
                         ],
                         [],
                         [
-                            37
+                            48
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 37,
-            "RDRecordSkillInt": 60
+            "RDRecordInt": 48,
+            "RDRecordSkillInt": 70
         },
         "userId": "2739405262",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743675783
+        "lastHit": 1745424555
     }
 }

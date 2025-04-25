@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1745343418,
+        "lastHit": 1745509348,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -15,14 +15,16 @@
                 "5c5ba4969428218f4ec42552de8fddf9"
             ],
             "groupInitList": {
-                "不知名怪物": 120,
-                "何汐研": 55,
-                "顾彩衣": 70
+                "怪": 110,
+                "保安": 75,
+                "顾": 70,
+                "何": 55
             },
             "groupInitParaList": {
-                "不知名怪物": "120",
-                "何汐研": "55",
-                "顾彩衣": "70"
+                "怪": "110",
+                "保安": "75",
+                "顾": "70",
+                "何": "55"
             }
         }
     }
