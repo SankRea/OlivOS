@@ -76,5 +76,14 @@
             "灵感",
             "侦查"
         ]
+    },
+    "塞德斯": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "图书馆",
+            "医学"
+        ]
     }
 }

@@ -74,7 +74,10 @@
         ]
     },
     "鱼盛": {
-        "enhanceList": [],
+        "enhanceList": [
+            "灵感",
+            "聆听"
+        ],
         "mappingRecord": {
             "先攻": "80"
         }

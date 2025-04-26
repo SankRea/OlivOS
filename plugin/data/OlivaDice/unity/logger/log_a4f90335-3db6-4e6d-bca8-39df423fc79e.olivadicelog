@@ -1,2 +1,18 @@
 {"time": 1745135548, "type": "reply", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1745135553, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": ".log off\n"}
+{"time": 1745585981, "type": "reply", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745585989, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（难绷）"}
+{"time": 1745585992, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（6）"}
+{"time": 1745585994, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（小雅在干嘛）"}
+{"time": 1745585995, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（怎么清空logger呢）"}
+{"time": 1745585995, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（无）"}
+{"time": 1745586007, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "logger"}
+{"time": 1745586017, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（[CQ:at,qq=2483922115] [CQ:at,qq=2468514664] ）"}
+{"time": 1745586030, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(？)"}
+{"time": 1745586036, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（小雅干的）"}
+{"time": 1745586042, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（折啊）"}
+{"time": 1745586044, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你当没看见吧（））"}
+{"time": 1745586045, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（？）"}
+{"time": 1745586046, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(清空logger直接end)"}
+{"time": 1745586046, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（怎么清空logger）"}
+{"time": 1745586062, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log end"}
