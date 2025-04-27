@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            77
+                            15
                         ],
                         [],
                         [
-                            77
+                            15
                         ]
                     ],
                     "key": {
@@ -28,14 +28,14 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 77,
-            "RDRecordSkillInt": 80,
+            "RDRecordInt": 15,
+            "RDRecordSkillInt": 60,
             "trustLevel": 1000
         },
         "userId": "1370316409",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1745586062
+        "lastHit": 1745682407
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

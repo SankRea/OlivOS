@@ -813,3 +813,572 @@
 {"time": 1745507146, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（额）"}
 {"time": 1745507148, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（也行）"}
 {"time": 1745507154, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".log off"}
+{"time": 1745651296, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1745651306, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（"}
+{"time": 1745651320, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，）"}
+{"time": 1745651337, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=352856500][CQ:at,qq=3362422751]  "}
+{"time": 1745651355, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*进"}
+{"time": 1745651359, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*进屋"}
+{"time": 1745651488, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "你们发现前门上了一把被四颗螺栓加固了的锁，但这把锁现在已经被解开了，前门是虚掩着的"}
+{"time": 1745651509, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（侦察）"}
+{"time": 1745651514, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra侦查"}
+{"time": 1745651514, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[侦查:70]检定: 1D100=89 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745651519, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra侦查"}
+{"time": 1745651519, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[侦查:80]检定: 1D100=95 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745651520, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra侦查"}
+{"time": 1745651520, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[侦查:80]检定: 1D100=62 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745651538, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，，）"}
+{"time": 1745651558, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（95）"}
+{"time": 1745651565, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（居然开了）"}
+{"time": 1745651574, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我下次教育的时候能不能给95）"}
+{"time": 1745651699, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "你们注意到锁上的灰尘并不厚，进门后地上也隐约有几个脚印，看起来在近期有人来过这栋房子"}
+{"time": 1745651717, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*小心地进去，枪械准备"}
+{"time": 1745651729, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“东家除了我们还找了其他人？”"}
+{"time": 1745651740, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:image,file=88de0cb40917784da45c955e9e96eb1f.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQhAczIY7VAxGXKRAWu-ygsXXqSYRiM7GEg_wooouHhvZP1jAMyBHByb2RQgL2jAVoQpyGsWnA1YnPIJms1ffAvKHoCXJo&amp;spec=0&amp;rkey=CAMSKMa3OFokB_TlcjRYFgx3CrqZxJ8e744_FCC_YfVxrOzKmyxmbBX2xuI]"}
+{"time": 1745651749, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "，？"}
+{"time": 1745651753, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（？）"}
+{"time": 1745651757, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我们在哪"}
+{"time": 1745651761, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（何意味"}
+{"time": 1745651779, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:image,file=3663438c444d77b4541970c4c8c83c2d.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSAaI9KedaF1xaqHDO7_t5kIhK-FhjrmAwg_woo8cWc0ZP1jAMyBHByb2RQgL2jAVoQtjOuV1-Wu2sTdmHaEZBbcnoCxe4&amp;spec=0&amp;rkey=CAMSKMa3OFokB_TlcjRYFgx3CrqZxJ8e744_FCC_YfVxrOzKmyxmbBX2xuI]"}
+{"time": 1745651825, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd6"}
+{"time": 1745651825, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]演奏出: 1D6=5"}
+{"time": 1745651847, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*做好应对突发事件的心理准备，前往五号房间"}
+{"time": 1745651881, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*一起"}
+{"time": 1745652005, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "餐厅显得崭新而堂皇，像任何一个好人家新房子里的餐厅一样，橱柜里餐巾整齐地叠放着，壁炉里摇曳着温暖的火光，四角餐桌上整齐摆放着三副餐具，对应着餐桌旁的三把椅子，一个瓷盘子孤零零地在餐桌的最后一条边上。三副餐具上盛有热腾腾、香气满溢的牛排，旁边是冒着热气的咖啡，中间的汤碗里还有看起来很美味的土豆浓汤。"}
+{"time": 1745652029, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（5号是餐厅）"}
+{"time": 1745652036, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“打扰了，有人在么？”"}
+{"time": 1745652075, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“Anybody is here？”"}
+{"time": 1745652083, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“热的？”"}
+{"time": 1745652088, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "没人回答李二凤的疑问，只有火光的闪动回应了他"}
+{"time": 1745652161, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托跟在你们队伍后面，也掏出了枪，看起来有些兴奋"}
+{"time": 1745652177, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "[CQ:reply,id=582583353][CQ:at,qq=3362422751] （你好）"}
+{"time": 1745652179, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（这谁"}
+{"time": 1745652185, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*打开手电筒照四周"}
+{"time": 1745652185, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1389588662][CQ:at,qq=2628755988] （？）"}
+{"time": 1745652202, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "[CQ:reply,id=-1146038909][CQ:at,qq=3362422751] （"}
+{"time": 1745652226, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=634667040][CQ:at,qq=2468514664] 就像任何一间正常人家里的餐厅一样（"}
+{"time": 1745652260, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-1763917385][CQ:at,qq=3362422751] （[CQ:at,qq=2628755988] ）"}
+{"time": 1745652273, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*把咖啡倒进土豆汤里面"}
+{"time": 1745652276, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（记起来了"}
+{"time": 1745652387, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "当安德森移动食物时，他发现一旁洁白的餐巾逐渐被水打湿，并逐渐浮现一串字迹“leave，please，leave！”"}
+{"time": 1745652401, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（怪有礼貌的"}
+{"time": 1745652435, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（tell me babe，why？"}
+{"time": 1745652448, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你是？鬼魂？”"}
+{"time": 1745652466, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "而就在他注意到这串字迹时，你们发现整个餐厅突然变成了一副破败不堪的样子，腐烂食物的味道冲进你们的鼻腔"}
+{"time": 1745652474, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（全员sc1/1d3）"}
+{"time": 1745652491, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".sc1/1d3"}
+{"time": 1745652491, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行理智检定[65]:\n1D100=24 成功，春风得意马蹄急，一日看尽长安花\n理智减少1=1点,当前剩余[64]点"}
+{"time": 1745652495, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。sc1/1d3"}
+{"time": 1745652495, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行理智检定[65]:\n1D100=49 成功，春风得意马蹄急，一日看尽长安花\n理智减少1=1点,当前剩余[64]点"}
+{"time": 1745652495, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（原来是"}
+{"time": 1745652498, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（鬼婆"}
+{"time": 1745652503, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".sc1/1d3"}
+{"time": 1745652503, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行理智检定[0]:\n1D100=33 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=2点,当前剩余[0]点"}
+{"time": 1745652534, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st 意志50"}
+{"time": 1745652534, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]的人物卡已保存"}
+{"time": 1745652542, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".sc1/1d3"}
+{"time": 1745652542, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行理智检定[0]:\n1D100=64 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=1点,当前剩余[0]点"}
+{"time": 1745652555, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st san50"}
+{"time": 1745652555, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]的人物卡已保存"}
+{"time": 1745652563, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".sc1/"}
+{"time": 1745652563, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行理智检定[50]:\n1D100=71 失败，人面不知何处去，桃花依旧笑春风\n掷骰表达式[]存在错误"}
+{"time": 1745652571, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".sc1/1d3"}
+{"time": 1745652571, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行理智检定[50]:\n1D100=57 失败，人面不知何处去，桃花依旧笑春风\n理智减少1d3=2点,当前剩余[48]点"}
+{"time": 1745652573, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（唐"}
+{"time": 1745652621, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1020227937][CQ:at,qq=2468514664] [CQ:at,qq=2468514664] 没人回应你，但你听见头顶的木板传来一阵阵的窃笑声"}
+{"time": 1745652622, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（绷"}
+{"time": 1745652627, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（白警官）"}
+{"time": 1745652631, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你人呢）"}
+{"time": 1745652634, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（死了？）"}
+{"time": 1745652639, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1745652643, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（？"}
+{"time": 1745652644, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你不知道我在哪"}
+{"time": 1745652653, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（唉）"}
+{"time": 1745652656, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（因为出事了"}
+{"time": 1745652656, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（爽我约）"}
+{"time": 1745652665, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（呃呃"}
+{"time": 1745652665, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（交换联系方式没"}
+{"time": 1745652678, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*我手上的东西呢"}
+{"time": 1745652680, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（[CQ:at,qq=2639331679] 你人呢）"}
+{"time": 1745652684, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（还真有 打个电话给你晚点）"}
+{"time": 1745652684, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（sc）"}
+{"time": 1745652703, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（02年我都忘了手机了，一直想座机）"}
+{"time": 1745652760, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-535770398][CQ:at,qq=2468514664] 你手上的咖啡杯已经结了蜘蛛网，而土豆汤里的食品已经黏稠得无法辨认，你依稀看出其中有一颗老鼠头"}
+{"time": 1745652772, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（哇还有鸭头"}
+{"time": 1745652781, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*倒进去"}
+{"time": 1745652802, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*把杯子丢进去"}
+{"time": 1745652835, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "[CQ:reply,id=-759099315][CQ:at,qq=3362422751] （忘了 现在过）"}
+{"time": 1745652837, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".sc1/1d3"}
+{"time": 1745652837, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行理智检定[60]:\n1D100=58 成功，春风得意马蹄急，一日看尽长安花\n理智减少1=1点,当前剩余[59]点"}
+{"time": 1745652866, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "你听见一点硬物撞击的声音，接着杯子开始极其缓慢地下沉，似乎就像是被溶解了一样"}
+{"time": 1745653054, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（接着呢？（）"}
+{"time": 1745653068, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*去其他房间"}
+{"time": 1745653077, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "从1号开始搜"}
+{"time": 1745653095, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“邪门”"}
+{"time": 1745653120, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（在想要不我去2号房间给wiz整活"}
+{"time": 1745653128, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*跟着前往一号房间"}
+{"time": 1745653144, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "1号房间看起来是个储藏室，房间里堆满了盒子和诸如生锈的水桶，老自行车一类的垃圾。在房间右侧的深处放着一个橱柜，柜门关着。"}
+{"time": 1745653153, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "*看看橱柜"}
+{"time": 1745653181, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*翻翻杂物"}
+{"time": 1745653223, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "橱柜门因为变形而卡死了，你需要撬棍之类的工具，否则只能尝试强行打开（力量）"}
+{"time": 1745653229, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra力量"}
+{"time": 1745653229, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[力量:60]检定: 1D100=39 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745653242, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（怎么你力量这么高）"}
+{"time": 1745653250, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1577851467][CQ:at,qq=2628755988] （你这里稍等）"}
+{"time": 1745653257, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（歧视光神）"}
+{"time": 1745653261, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "[CQ:reply,id=1499586130][CQ:at,qq=3362422751] （墨缇斯）"}
+{"time": 1745653286, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（60还高？"}
+{"time": 1745653312, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我说wiz歧视光神（）"}
+{"time": 1745653316, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（60还高）"}
+{"time": 1745653357, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "ann使用淑女之力强行打开了橱柜，发现其中存放着三本装订好的老式手写本"}
+{"time": 1745653367, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我以为森月那种淑女大小姐那样的卡（）"}
+{"time": 1745653445, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（翻找杂物过侦察）"}
+{"time": 1745653464, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra侦查"}
+{"time": 1745653464, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[侦查:80]检定: 1D100=33 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745653486, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我记得没错的话，李二凤没手枪来着）"}
+{"time": 1745653497, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。st show"}
+{"time": 1745653497, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[李二凤]:\n<属性>\n力量:60 敏捷:50 意志:65 SAN:64 SANMAX:65 MP:13 MPMAX:13 体质:60 外貌:65 教育:55 体型:50 HP:11 HPMAX:11 智力:75 幸运:65\n<技能>\n闪避:25 母语:55 会计:5 人类学:1 估价:5 考古学:1 [*]取悦:70 攀爬:20 计算机使用:5 信用:30 克苏鲁神话:2 乔装:5 汽车驾驶:20 电气维修:10 电子学:1 话术:5 急救:30 历史:5 恐吓:15 跳跃:20 [*]法律:80 [*]图书馆:20 聆听:20 锁匠:1 机械维修:10 医学:1 博物:10 导航:10 神秘学:5 操作重型机械:1 [*]说服:50 精神分析:1 心理学:80 骑乘:5 妙手:10 [*]侦查:80 潜行:20 游泳:20 投掷:20 追踪:10 驯兽:5 潜水:1 爆破:1 读唇:1 催眠:1 炮术:1\n<其它>\n[*]灵感:75 SAN值:65 理智值:65 运气:65 体力:11 汽车:20 驾驶:20 斗殴:80 [*]手枪:20 开锁:1 撬锁:1 重型操作:1 重型机械:1 重型:1 生存:10 SN:0"}
+{"time": 1745653504, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（确实没有）"}
+{"time": 1745653537, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "杂物堆里到处散落着各种垃圾堆，包含着螺丝钉、破木头、垃圾桶盖、管子等等各种各样的东西，甚至有一根撬棍"}
+{"time": 1745653548, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（笑）"}
+{"time": 1745653553, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "。ra侦查"}
+{"time": 1745653553, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[侦查:80]检定: 1D100=86 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745653560, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra侦查"}
+{"time": 1745653560, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[侦查:70]检定: 1D100=15 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745653564, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*拿上物理学圣剑"}
+{"time": 1745653570, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "而就在ann打开橱柜的同时，李二凤也发现垃圾堆里有点什么东西突然冲了出来"}
+{"time": 1745653628, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "而就在ann打开橱柜的同时，李二凤也发现了垃圾堆里有点什么值得注意的东西"}
+{"time": 1745653645, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“？”"}
+{"time": 1745653677, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那是一把异常精美华丽的宝石匕首，但是刀刃上则有一层奇怪的厚厚的锈迹"}
+{"time": 1745653722, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（COC有鉴定吗）"}
+{"time": 1745653747, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "就在李二凤还在犹豫不决的时候，这把刀突然浮空并捅向了他"}
+{"time": 1745653770, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "“好帅”"}
+{"time": 1745653771, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".r"}
+{"time": 1745653771, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D100=58"}
+{"time": 1745653773, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra敏捷"}
+{"time": 1745653773, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[敏捷:50]检定: 1D100=47 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745653836, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么李二凤成功躲开了这一击"}
+{"time": 1745653842, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“娘希匹”"}
+{"time": 1745653857, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（还在动吗）"}
+{"time": 1745653881, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*朝着匕首的下面踢一脚"}
+{"time": 1745653892, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（战斗轮）"}
+{"time": 1745653932, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（好久没coc战斗了，有roll先攻吗）"}
+{"time": 1745653994, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（没有"}
+{"time": 1745653998, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st dex"}
+{"time": 1745653998, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的[DEX]: 45"}
+{"time": 1745654008, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（按照敏捷顺序"}
+{"time": 1745654050, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".st dex"}
+{"time": 1745654050, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]的[DEX]: 60"}
+{"time": 1745654063, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。st dex"}
+{"time": 1745654063, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]的[DEX]: 50"}
+{"time": 1745654087, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（拿枪+50是吧）"}
+{"time": 1745654097, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（对"}
+{"time": 1745654112, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra手枪"}
+{"time": 1745654112, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[手枪:60]检定: 1D100=14 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745654119, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那就1刀2维克托3安德森4安5李二凤）"}
+{"time": 1745654125, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（没到你（）"}
+{"time": 1745654127, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（？）"}
+{"time": 1745654130, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rd4"}
+{"time": 1745654130, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D4=1"}
+{"time": 1745654172, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么浮空匕首看着没刺中李二凤，于是转而刺向了维克托"}
+{"time": 1745654179, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你没拿手枪动作（）"}
+{"time": 1745654179, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（有一说一，刚才那下不算？）"}
+{"time": 1745654195, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我手枪一直在手上啊）"}
+{"time": 1745654212, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（大抵不算，因为除了被攻击的李二凤都没反应过来吧（）"}
+{"time": 1745654217, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（emmmmm我想想）"}
+{"time": 1745654232, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（维克托没动作，夜鹿有侦查）"}
+{"time": 1745654239, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我不觉得你能偷这第二打）"}
+{"time": 1745654243, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（没道理的）"}
+{"time": 1745654252, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那就1刀2安德森3维克托4安5李二凤）"}
+{"time": 1745654263, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（直接安德森动）"}
+{"time": 1745654303, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 斗殴"}
+{"time": 1745654303, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的[斗殴]: 60"}
+{"time": 1745654321, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*用力踢一脚匕首下面看看有没有实体"}
+{"time": 1745654324, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你要抓取还是？）"}
+{"time": 1745654329, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（ok）"}
+{"time": 1745654331, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra斗殴"}
+{"time": 1745654331, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[斗殴:60]检定: 1D100=17 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745654404, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么安德森进行了一个踢的空，与此同时他听见周围传来了肆意且猖狂的笑声"}
+{"time": 1745654426, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那就是抢刀）"}
+{"time": 1745654428, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st 斗殴25"}
+{"time": 1745654428, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]的人物卡已保存"}
+{"time": 1745654497, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托自觉不善争斗，于是冲到一旁拿起了杂物堆里的垃圾桶盖"}
+{"time": 1745654509, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（安动）"}
+{"time": 1745654515, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".st 斗殴"}
+{"time": 1745654515, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]的[斗殴]: 55"}
+{"time": 1745654520, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra斗殴"}
+{"time": 1745654520, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[斗殴:55]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745654543, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你这个斗殴是要夺刀还是干嘛）"}
+{"time": 1745654562, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（夺刀）"}
+{"time": 1745654565, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（算了无所谓反正你没成功）"}
+{"time": 1745654570, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（李二凤动）"}
+{"time": 1745654588, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*夺刀"}
+{"time": 1745654591, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。st斗殴"}
+{"time": 1745654591, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]的[斗殴]: 80"}
+{"time": 1745654597, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，，）"}
+{"time": 1745654601, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra斗殴"}
+{"time": 1745654601, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[斗殴:80]检定: 1D100=32 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745654614, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".r"}
+{"time": 1745654614, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D100=26"}
+{"time": 1745654625, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，"}
+{"time": 1745654634, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（无助）"}
+{"time": 1745654713, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "很可惜李二凤虽然成功碰到了匕首的边，但刀子很快又从中溜走"}
+{"time": 1745654718, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rd4"}
+{"time": 1745654718, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D4=1"}
+{"time": 1745654724, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（唉卧槽）"}
+{"time": 1745654724, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（笑）"}
+{"time": 1745654753, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（不对）"}
+{"time": 1745654763, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（现在的1是夜鹿）"}
+{"time": 1745654776, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么匕首紧接着又刺向了夜鹿"}
+{"time": 1745654785, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".r"}
+{"time": 1745654785, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D100=69"}
+{"time": 1745654788, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（困难成功也没抓住？）"}
+{"time": 1745654797, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（这是对抗）"}
+{"time": 1745654804, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（刀roll了27"}
+{"time": 1745654811, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（很神奇吧"}
+{"time": 1745654822, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（嘛，虽然挺想告诉你刀那个属性值的，但还是算了）"}
+{"time": 1745654825, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（屋檐了"}
+{"time": 1745654828, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（好智慧的刀）"}
+{"time": 1745654832, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那很厉害了"}
+{"time": 1745654838, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（我是地雷妹，给我来一把）"}
+{"time": 1745654849, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1113486745][CQ:at,qq=2639331679] （6）"}
+{"time": 1745654854, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（夜鹿闪）"}
+{"time": 1745654864, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（当然你也可以斗殴对抗）"}
+{"time": 1745654882, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 闪避"}
+{"time": 1745654882, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的[闪避]: 22"}
+{"time": 1745654895, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*反击"}
+{"time": 1745654898, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra斗殴"}
+{"time": 1745654898, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[斗殴:60]检定: 1D100=46 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745654904, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "反击失败"}
+{"time": 1745654965, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么恼人的是刀刺向了安德森，安德森试图反击却没抓住刀，双方谁也没伤到谁（"}
+{"time": 1745654971, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（夜鹿动）"}
+{"time": 1745654974, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？）"}
+{"time": 1745654981, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你什么成功？）"}
+{"time": 1745654988, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他普通成功（）"}
+{"time": 1745655003, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（普通成功的话就是中了）"}
+{"time": 1745655022, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（你什么冠军（）"}
+{"time": 1745655024, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（唉不对）"}
+{"time": 1745655038, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他这个唉好抽象）"}
+{"time": 1745655053, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（闪避要同级，反击要高一级"}
+{"time": 1745655073, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（等会）"}
+{"time": 1745655106, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他这个按模组说明来的话，刚刚李二凤抓取和刀子闪避都是困难成功）"}
+{"time": 1745655129, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（then？"}
+{"time": 1745655135, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（但是直接按技能值和我们平常跑团的话，刀子闪避是极难成功（）"}
+{"time": 1745655141, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（什么鬼？）"}
+{"time": 1745655151, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（村规优先"}
+{"time": 1745655162, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哪来的村规）"}
+{"time": 1745655166, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我们平常是技能值二分之一困难四分之一极难是吧）"}
+{"time": 1745655171, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（五分之一）"}
+{"time": 1745655188, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（什么情况这是"}
+{"time": 1745655189, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（（五分之一的话那倒也是困难）"}
+{"time": 1745655193, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（主要是）"}
+{"time": 1745655201, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他的技能值是115（）"}
+{"time": 1745655207, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（？"}
+{"time": 1745655212, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（哈哈"}
+{"time": 1745655220, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（但是模组里面给我们看的是90（）"}
+{"time": 1745655230, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（两个技能值？）"}
+{"time": 1745655239, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（模组里按90算，但是实际是115）"}
+{"time": 1745655245, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？）"}
+{"time": 1745655249, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（何意味？"}
+{"time": 1745655255, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（所以我现在在想用哪个算了（）"}
+{"time": 1745655269, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（什么叫模组里和实际"}
+{"time": 1745655309, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（晕了"}
+{"time": 1745655310, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你就说怪物表给的到底哪个）"}
+{"time": 1745655319, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（别看怪物表了）"}
+{"time": 1745655319, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（模组里让我roll它的技能，它的技能是115，但是他罗列的情况是90以下普通成功（）"}
+{"time": 1745655326, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（你喜欢哪个就哪个）"}
+{"time": 1745655335, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（怪物表的话就是115基础）"}
+{"time": 1745655344, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（OK那就按115算了（）"}
+{"time": 1745655345, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（而且一把刀拖得有点久了）"}
+{"time": 1745655358, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（这才第二回合（）"}
+{"time": 1745655363, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（是嘛）"}
+{"time": 1745655368, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我看你们打了好久）"}
+{"time": 1745655385, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么夜鹿被匕首插伤了"}
+{"time": 1745655397, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么夜鹿被匕首捅伤了（1d4+2）"}
+{"time": 1745655422, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么安德森被匕首捅伤了（1d4+2）"}
+{"time": 1745655447, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你r伤啊你在干嘛）"}
+{"time": 1745655454, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你roll啊）"}
+{"time": 1745655462, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（乐"}
+{"time": 1745655472, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？）"}
+{"time": 1745655473, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他捅你不是你反击失败？）"}
+{"time": 1745655477, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我被打我r伤？）"}
+{"time": 1745655482, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你无敌了）"}
+{"time": 1745655484, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（刀打了伤害"}
+{"time": 1745655490, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（应该刀roll"}
+{"time": 1745655493, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rd4+2"}
+{"time": 1745655493, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D4+2={2}+2=4"}
+{"time": 1745655498, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（也行（）"}
+{"time": 1745655543, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（扣血之后夜鹿动）"}
+{"time": 1745655545, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（还有我问你，之前李二凤抓刀你过的什么）"}
+{"time": 1745655550, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st hp-4"}
+{"time": 1745655550, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的人物卡已更新:\n[HP]: 11-4=7"}
+{"time": 1745655567, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-239591977][CQ:at,qq=2468514664] （115，困难）"}
+{"time": 1745655603, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我只能说，刀的闪避、攻击，都是115（）"}
+{"time": 1745655612, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（onp）"}
+{"time": 1745655627, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（具体情况你猜吧（）"}
+{"time": 1745655628, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（那很折磨了）"}
+{"time": 1745655636, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（coc可以延后回合吗）"}
+{"time": 1745655651, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*你给路打油"}
+{"time": 1745655653, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（先让别人动然后帮忙协助之类的）"}
+{"time": 1745655660, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“咱们先出去！”"}
+{"time": 1745655662, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（哦没事）"}
+{"time": 1745655669, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？真出去吗）"}
+{"time": 1745655690, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*出鬼屋"}
+{"time": 1745655702, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（为什么不行，离门又不远）"}
+{"time": 1745655703, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么安德森向外跑了，但是维克托却抓着垃圾桶盖冲了上去"}
+{"time": 1745655725, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rab斗殴"}
+{"time": 1745655725, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[斗殴:25]检定: B={1D100=49 bonus:[7]}(49)=49 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745655745, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托打空了（"}
+{"time": 1745655761, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（李二凤和ann都润出去吗）"}
+{"time": 1745655793, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（115"}
+{"time": 1745655799, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我先润"}
+{"time": 1745655809, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（走了）"}
+{"time": 1745655826, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（机制怪，不知道怎么打，风紧扯呼"}
+{"time": 1745655843, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "那么匕首看着你们离开后便从你们身后接近，而维克托也趁机逃了出来"}
+{"time": 1745655855, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（没搞错的话"}
+{"time": 1745655863, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（时间是？"}
+{"time": 1745655875, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "你们离开鬼屋后，看见匕首在门前打转，最后慢慢地又落回了1号房间"}
+{"time": 1745655880, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（第五天下午）"}
+{"time": 1745655904, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*走进去勾引一下"}
+{"time": 1745655923, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托逃出来后看着手中的垃圾桶盖意犹未尽"}
+{"time": 1745655945, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "你看见匕首躺在杂物堆中，对你没有反应"}
+{"time": 1745655951, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（等会）"}
+{"time": 1745655957, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*射击"}
+{"time": 1745655966, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "[CQ:reply,id=-332916686][CQ:at,qq=3362422751] （我还没看这个）"}
+{"time": 1745656029, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你还没来得及看就被袭击了（）"}
+{"time": 1745656060, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（过手枪）"}
+{"time": 1745656102, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra手枪"}
+{"time": 1745656102, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[手枪:80]检定: 1D100=81 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745656105, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1745656138, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*匕首动了就跑"}
+{"time": 1745656158, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "可能是因为紧张与匕首狭小的体型，安德森并没有击中它，反而好像激怒了什么，导致匕首又冲向了他"}
+{"time": 1745656172, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra手枪"}
+{"time": 1745656172, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[手枪:60]检定: 1D100=26 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745656175, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".r"}
+{"time": 1745656175, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D100=81"}
+{"time": 1745656183, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-440521636][CQ:at,qq=2639331679] （你在门外）"}
+{"time": 1745656188, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（😡）"}
+{"time": 1745656228, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（闪？）"}
+{"time": 1745656246, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你这刀这么快？"}
+{"time": 1745656262, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（开完枪就跑你这腿这么快？）"}
+{"time": 1745656276, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我总不能是走近去开枪吧"}
+{"time": 1745656308, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "。ra斗殴"}
+{"time": 1745656308, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[斗殴:60]检定: 1D100=97 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1745656312, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=882585400][CQ:at,qq=3362422751] （刀在杂物堆你在1号房门口，你寻思下你们之间有多远）"}
+{"time": 1745656313, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（厉害"}
+{"time": 1745656358, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（但是反击失败"}
+{"time": 1745656362, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（到顺德了）"}
+{"time": 1745656367, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（只比较等级"}
+{"time": 1745656368, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（顺德人推荐点吃的）"}
+{"time": 1745656379, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-790263097][CQ:at,qq=2468514664] （也行吧）"}
+{"time": 1745656383, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rd4+2"}
+{"time": 1745656383, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]演奏出: 1D4+2={4}+2=6"}
+{"time": 1745656388, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（昨天刚判过"}
+{"time": 1745656405, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（另外反击的极难也没有穿刺"}
+{"time": 1745656409, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "门外的维克托见势不妙赶忙冲了上来把安德森扛走"}
+{"time": 1745656414, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1745656421, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我几把还活着"}
+{"time": 1745656433, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（感觉快亖了（）"}
+{"time": 1745656439, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st hp-6"}
+{"time": 1745656439, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的人物卡已更新:\n[HP]: 7-6=1"}
+{"time": 1745656442, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-1478313391][CQ:at,qq=2639331679] （顺德哪嘞）"}
+{"time": 1745656450, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（大良钟楼）"}
+{"time": 1745656453, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*跑"}
+{"time": 1745656465, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那不是清晖园那）"}
+{"time": 1745656470, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（对）"}
+{"time": 1745656472, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra急救"}
+{"time": 1745656472, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]进行技能[急救:30]检定: 1D100=65 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745656481, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（附近感觉纯宰客（）"}
+{"time": 1745656487, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（我能急救吗）"}
+{"time": 1745656490, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（就图南冰室听说ok）"}
+{"time": 1745656507, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st急救74"}
+{"time": 1745656507, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]的人物卡已保存"}
+{"time": 1745656518, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（太艮堡如何）"}
+{"time": 1745656521, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托“来个人搭把手”"}
+{"time": 1745656530, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra急救"}
+{"time": 1745656530, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[急救:30]检定: 1D100=96 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1745656537, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（布什戈门）"}
+{"time": 1745656537, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（死了"}
+{"time": 1745656548, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（🙇🏻‍♂️）"}
+{"time": 1745656548, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我都做好rab急救准备了）"}
+{"time": 1745656551, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（笑得"}
+{"time": 1745656552, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你急什么（）"}
+{"time": 1745656558, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（你当没看见）"}
+{"time": 1745656583, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*握住队友的手“你们......一定要找到那个鬼......帮我报仇！”"}
+{"time": 1745656591, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*咽气归西"}
+{"time": 1745656593, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（夜鹿：机关算尽太聪明，反误了卿卿性命！（）"}
+{"time": 1745656607, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（布什戈门（）"}
+{"time": 1745656608, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我玩一下"}
+{"time": 1745656613, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ra急救"}
+{"time": 1745656613, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[急救:30]检定: 1D100=88 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745656613, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1040995270][CQ:at,qq=2639331679] （不知道）"}
+{"time": 1745656619, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你玩nm）"}
+{"time": 1745656619, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（你死吧"}
+{"time": 1745656625, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我只能说"}
+{"time": 1745656634, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（这个机制怪给的很奇怪"}
+{"time": 1745656636, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（复活吧我的爱人）"}
+{"time": 1745656641, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-1492843908][CQ:at,qq=3362422751] （74急救在这里没人协助偏要roll你们那b30是吧）"}
+{"time": 1745656644, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（如果是书上有解法"}
+{"time": 1745656652, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（？"}
+{"time": 1745656658, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（应该给时间看书的"}
+{"time": 1745656664, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那你看维克托怎么做的（）"}
+{"time": 1745656665, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（烤我作甚？"}
+{"time": 1745656671, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我都npc下场帮忙了（¥"}
+{"time": 1745656676, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我都npc下场帮忙了（）"}
+{"time": 1745656677, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（夜鹿都死了我才roll来着"}
+{"time": 1745656689, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（所以rp呢）"}
+{"time": 1745656697, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（没协助就没奖励了）"}
+{"time": 1745656707, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（能不能反方向的钟）"}
+{"time": 1745656711, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（协助个啥啊"}
+{"time": 1745656715, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（这一次我一定要夺回属于我的一切）"}
+{"time": 1745656716, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1944896373][CQ:at,qq=2468514664] （我负责任的告诉你其实是没有的（）"}
+{"time": 1745656723, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*帮手"}
+{"time": 1745656726, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（帮忙急救）"}
+{"time": 1745656732, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（死了都"}
+{"time": 1745656734, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（搭手给奖励咯）"}
+{"time": 1745656736, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（急救大失败"}
+{"time": 1745656747, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".rd复活"}
+{"time": 1745656747, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]使用[复活]演奏出:[1D100=50]"}
+{"time": 1745656748, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（鉴于你们所有人都没rp）"}
+{"time": 1745656750, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（急救也不是协助有奖励的啊"}
+{"time": 1745656753, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": ".ra复活 50"}
+{"time": 1745656753, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[Ann]进行技能[复活:50]检定: 1D100=67 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745656759, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（算了死吧）"}
+{"time": 1745656762, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那随便吧"}
+{"time": 1745656767, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我决定只看唯一有rp的维克托的骰子（）"}
+{"time": 1745656784, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我想死了"}
+{"time": 1745656787, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我都rp了"}
+{"time": 1745656790, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（别拦我"}
+{"time": 1745656805, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=1104847351][CQ:at,qq=2468514664] （那记岔成dnd了（）"}
+{"time": 1745656820, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你一上来就roll，我不认同！）"}
+{"time": 1745656846, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托掏出随身携带的各类急救用品，发动冥土追魂！"}
+{"time": 1745656853, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rab急救"}
+{"time": 1745656853, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[急救:74]检定: B={1D100=96 bonus:[0]}(6)=6 极难成功，流水落花春去也，天上人间"}
+{"time": 1745656863, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（好的你活了）"}
+{"time": 1745656872, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，，"}
+{"time": 1745656876, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（憋笑"}
+{"time": 1745656886, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st hp+1"}
+{"time": 1745656886, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[史蒂文·安德森]的人物卡已更新:\n[HP]: 1+1=2"}
+{"time": 1745656900, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“好吧刚才我是骗你们的”"}
+{"time": 1745656911, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托骄傲“在下独身行走江湖多年，倒也是练就了一身临时急救因对突发状况的本领”"}
+{"time": 1745656921, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“不过我现在受重伤，可能需要你们去探索了”"}
+{"time": 1745656939, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“加油！我会在外面支援你们的”"}
+{"time": 1745656977, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "维克托关切地看着“先去找个医院治疗一下再来吧”"}
+{"time": 1745656988, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（你把枪给我吧"}
+{"time": 1745656992, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（嘻嘻"}
+{"time": 1745657084, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（要不然放点水给你们roll90技能值吧（）"}
+{"time": 1745657105, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“我这么重的伤，养伤也得好几天了”"}
+{"time": 1745657117, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（如果不是什么机制怪的话"}
+{"time": 1745657129, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（这么高的数值没道理的"}
+{"time": 1745657156, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（因为这个数值不是刀的数值（）"}
+{"time": 1745657166, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（这是鬼屋主人的意志（）"}
+{"time": 1745657186, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（唉超游给完了（）"}
+{"time": 1745657189, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（管你意志不意志"}
+{"time": 1745657207, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（一把刀杀穿了）"}
+{"time": 1745657213, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（设计模组总得是能打的吧"}
+{"time": 1745657213, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（解法也给完了，随便拿点道具rp就有奖励骰（）"}
+{"time": 1745657231, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（只是维克托斗殴太低不然早抓住了（）"}
+{"time": 1745657254, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我没搞懂"}
+{"time": 1745657273, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（按我的理解的话，抓刀应该是过力量对抗"}
+{"time": 1745657301, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（因为鬼屋主人是马猴烧酒）"}
+{"time": 1745657312, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你的力量对抗的是他的magic）"}
+{"time": 1745657316, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（杀软二尺圆"}
+{"time": 1745657321, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（D区"}
+{"time": 1745657328, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1745657343, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（对抗的是他的power）"}
+{"time": 1745657363, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（不然按理对抗力量，浮空匕首哪来的力量我请问了）"}
+{"time": 1745657369, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那不就是他的意志）"}
+{"time": 1745657387, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我怎么知道（"}
+{"time": 1745657499, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我没懂你说道具齐了什么意思"}
+{"time": 1745657500, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（yysy夜鹿这个血量进去的话估计真亖里面了（）"}
+{"time": 1745657515, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（什么道具齐了）"}
+{"time": 1745657526, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*事已至此，去房间2"}
+{"time": 1745657540, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "*跟"}
+{"time": 1745657581, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（你不是说解法给全了"}
+{"time": 1745657599, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（拿个垃圾桶盖就能奖励骰又是什么鬼？"}
+{"time": 1745657649, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=-1853909966][CQ:at,qq=3362422751] （这个"}
+{"time": 1745657651, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（rp啊）"}
+{"time": 1745657683, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那我斗殴忘记跟你要奖励骰了"}
+{"time": 1745657685, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（空手抓肯定容易受伤，你拿点东西给它来一下再抓或者刺你的时候挡一下不都可以？）"}
+{"time": 1745657697, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（这个刀的设定原来是爱听rp吗）"}
+{"time": 1745657700, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（撬棍的话应该没有奖励骰因为面积太小（）"}
+{"time": 1745657710, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（那我要给它讲故事了）"}
+{"time": 1745657715, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（当然这应该是模组作者的理解（）"}
+{"time": 1745657723, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（是这样吗"}
+{"time": 1745657747, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那很开放世界了赫赫"}
+{"time": 1745657781, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:image,file=fc2465a22290203ee958482e796f84e3.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTvCCIE0dnXqidrnbHQAc7uj_3gMhigjQgg_woog5Od_6n1jAMyBHByb2RQgL2jAVoQHi0VUvsFjmerzZAOM18pXnoCCbk&amp;spec=0&amp;rkey=CAQSKAB6JWENi5LMkQRK4yQni7DyfP0kEnPkhohxK1j_FsoGquIHLracauk]"}
+{"time": 1745657790, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（原模组都给你看了如何呢？）"}
+{"time": 1745657817, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我的理解应该是要以此锻炼新手pl的创造性之类的（）"}
+{"time": 1745657848, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（模组问题到此为止吧）"}
+{"time": 1745657854, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（呃"}
+{"time": 1745657855, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "[CQ:reply,id=1263394057][CQ:at,qq=2628755988]  "}
+{"time": 1745657889, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你为什么觉得刀不会突然袭击你（）"}
+{"time": 1745657896, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，，）"}
+{"time": 1745657908, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那你直接roll伤害吧）"}
+{"time": 1745657918, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（唉改成90吧）"}
+{"time": 1745657926, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我慷慨挨刀和夜鹿一块躺着了）"}
+{"time": 1745657943, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（115的话感觉可以提前结团了（）"}
+{"time": 1745657954, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st65"}
+{"time": 1745657960, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".st 力量65"}
+{"time": 1745657960, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]的人物卡已保存"}
+{"time": 1745657967, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不可以一枪打烂吗）"}
+{"time": 1745657975, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（没打中）"}
+{"time": 1745657977, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（失败了"}
+{"time": 1745657987, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那还真是）"}
+{"time": 1745657995, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*拿起撬棍试图干碎这个破刀"}
+{"time": 1745658130, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（等会）"}
+{"time": 1745658171, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（115的全属性啊）"}
+{"time": 1745658175, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（哦"}
+{"time": 1745658179, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（不对"}
+{"time": 1745658183, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（意志90）"}
+{"time": 1745658186, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（比我神人团的boss还叼）"}
+{"time": 1745658189, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我看错属性了（）"}
+{"time": 1745658201, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那现在咋搞，又不让去别的房间"}
+{"time": 1745658209, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（重大失误了（）"}
+{"time": 1745658213, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，"}
+{"time": 1745658216, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（重新战斗轮吧wc（）"}
+{"time": 1745658220, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？"}
+{"time": 1745658229, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（丁真"}
+{"time": 1745658233, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不回卷了，好麻烦"}
+{"time": 1745658235, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我把另一项属性看成意志了（）"}
+{"time": 1745658250, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（虽然还是90但总不至于115了（）"}
+{"time": 1745658277, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-653157766][CQ:at,qq=2468514664] （那？）"}
+{"time": 1745658292, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我先躺了）"}
+{"time": 1745658303, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1745658304, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（反正不进1号房就问题不大）"}
+{"time": 1745658325, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1745658345, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2639331679"}, "sender": {"id": "2639331679", "name": "ひかり"}, "message": "（？）"}
+{"time": 1745658350, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你的意思是重置到进1号房之前直接去其他房间？）"}
+{"time": 1745658353, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（说词啊"}
+{"time": 1745658373, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不重置）"}
+{"time": 1745658378, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我躺板板了）"}
+{"time": 1745658390, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那你怎么解决匕首？）"}
+{"time": 1745658394, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1745658398, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（躺板板是？）"}
+{"time": 1745658409, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（匕首不是靠近才会动？）"}
+{"time": 1745658427, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（反正匕首动就跑不就好）"}
+{"time": 1745658437, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我笑了）"}
+{"time": 1745658454, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（拿走垃圾桶试着抓住匕首，有奖励骰我就动"}
+{"time": 1745658457, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你会袭击一个一直盯着你的人吗）"}
+{"time": 1745658469, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-129233558][CQ:at,qq=2628755988] （我一直不都是给的？）"}
+{"time": 1745658481, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "，，，，，"}
+{"time": 1745658489, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（这个团的奖励骰我应该已经宽松到了有点rp就给的程度了吧（）"}
+{"time": 1745658497, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rab斗殴"}
+{"time": 1745658497, "type": "reply", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[李二凤]进行技能[斗殴:80]检定: B={1D100=18 bonus:[8]}(18)=18 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745658502, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1745658522, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（？"}
+{"time": 1745658523, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（你进房间之前的所有流程全跳到了直接这个骰子？）"}
+{"time": 1745658523, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（有奖励骰其实也"}
+{"time": 1745658527, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（难打"}
+{"time": 1745658536, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（tmd夜鹿说了不重置啊"}
+{"time": 1745658545, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（何意味？"}
+{"time": 1745658547, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那你们在房门外啊）"}
+{"time": 1745658555, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（90意志只要45就能困难了"}
+{"time": 1745658587, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "拿走垃圾桶，进门，试着抓住匕首"}
+{"time": 1745658588, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（半点rp没有上来一个斗殴奖励骰？）"}
+{"time": 1745658602, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（真无敌了）"}
+{"time": 1745658611, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（，，，"}
+{"time": 1745658625, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（可以，不赖"}
+{"time": 1745658631, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（就这样吧"}
+{"time": 1745658698, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（夜鹿就待在房子外？）"}
+{"time": 1745658723, "type": "recv", "dect": {"host_id": null, "group_id": "938830904", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".log off"}

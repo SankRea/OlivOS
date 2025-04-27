@@ -694,3 +694,142 @@
 {"time": 1745405579, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（我感觉我要真通宵）"}
 {"time": 1745405584, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（就是神来之笔了）"}
 {"time": 1745405591, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(确实)"}
+{"time": 1745649094, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "那么我"}
+{"time": 1745649097, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "前往医院"}
+{"time": 1745649158, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你"}
+{"time": 1745649160, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "前往医院"}
+{"time": 1745649168, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "门诊很快就到了"}
+{"time": 1745649392, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你要做什么)"}
+{"time": 1745649397, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(在医院)"}
+{"time": 1745649413, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "那肯定是找他们"}
+{"time": 1745649532, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么医生给你指了两间房"}
+{"time": 1745649565, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".rd2"}
+{"time": 1745649565, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[塞寇帕斯]演奏出: 1D2=1"}
+{"time": 1745649587, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（居然不是在一个病房"}
+{"time": 1745649596, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st set 白勺确"}
+{"time": 1745649596, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[白勺确]"}
+{"time": 1745649601, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st lock\n"}
+{"time": 1745649601, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]的[LOCK]: 0"}
+{"time": 1745649624, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st lock"}
+{"time": 1745649624, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已在此成功锁定人物卡[白勺确]"}
+{"time": 1745649660, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "一间是重症监护室"}
+{"time": 1745649663, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "里面是楚灵儿"}
+{"time": 1745649669, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "另一间写着钟灵"}
+{"time": 1745649685, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（钟灵毓秀？"}
+{"time": 1745649709, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "先去看看楚灵儿"}
+{"time": 1745649960, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "他现在什么情况"}
+{"time": 1745649963, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "她"}
+{"time": 1745649967, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "躺在床上"}
+{"time": 1745649977, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "全身除了脖子以上都遮住"}
+{"time": 1745649981, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "气色还行"}
+{"time": 1745650104, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "我之前看到监控里她进房间了对吧"}
+{"time": 1745650200, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "对"}
+{"time": 1745650412, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*走进那个钟灵的房间"}
+{"time": 1745650616, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "看看怎么个事"}
+{"time": 1745650752, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "病床上躺着一个女孩，眉眼和钟尽善有几分相像"}
+{"time": 1745650771, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看上去面色很好，正在静静看着手上的书"}
+{"time": 1745651039, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(?)"}
+{"time": 1745653578, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".rab侦查"}
+{"time": 1745653578, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[侦查:80]检定: B={1D100=38 bonus:[3]}(38)=38 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1745653671, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你看看楚灵儿在病房外冲你们招手"}
+{"time": 1745653680, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "她被护士搀扶着"}
+{"time": 1745653769, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*先不理会，大人在聊正事.jpg"}
+{"time": 1745658027, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*看看楚灵儿在干嘛"}
+{"time": 1745658049, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你看见楚灵儿在钟灵病房里"}
+{"time": 1745658086, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "两人在说着什么，但是病房门隔音很好，你听不清"}
+{"time": 1745658102, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*钟教授在吗？"}
+{"time": 1745658122, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "在"}
+{"time": 1745658130, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他跟钟教授说话"}
+{"time": 1745658143, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(哦，原来两人在病房外)"}
+{"time": 1745658149, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(那他们说的话你听得见)"}
+{"time": 1745658150, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（呃，笑）"}
+{"time": 1745658175, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:json,data={\"app\":\"com.tencent.multimsg\"&#44;\"config\":{\"autosize\":1&#44;\"forward\":1&#44;\"round\":1&#44;\"type\":\"normal\"&#44;\"width\":300}&#44;\"desc\":\"&#91;聊天记录&#93;\"&#44;\"extra\":\"{\\\"filename\\\":\\\"e3414ff4-6eff-4ba8-bb02-c952f35d2b9a\\\"&#44;\\\"tsum\\\":5}\\n\"&#44;\"meta\":{\"detail\":{\"news\":&#91;{\"text\":\"划船不靠桨の233: “所以您的女儿？”\"}&#44;{\"text\":\"草食龙: “说来有些复杂……我挑关键的讲吧。昨晚我在殡仪馆的家属等待区睡着，这时有人来敲门”\"}&#44;{\"text\":\"草食龙: “我以为是你，没多想就开了门。谁知门外是个黑衣人……我没看监控，不知道是不是白警官所说的那个。”\"}&#44;{\"text\":\"草食龙: “他力气很大，我看清之后想关门已经来不及了。随后不知道怎么的……他制住了我，然后不知道从哪把我的女儿揪了出来，手上还有一道伤口”\"}&#93;&#44;\"resid\":\"IOHKDePjfTaGEaoWUaZWxgjkW3VKVePgdyXWkJS2+1oPLyRZqeVFHIqwYxLa4DSL\"&#44;\"source\":\"群聊的聊天记录\"&#44;\"summary\":\"查看5条转发消息\"&#44;\"uniseq\":\"e3414ff4-6eff-4ba8-bb02-c952f35d2b9a\"}}&#44;\"prompt\":\"&#91;聊天记录&#93;\"&#44;\"ver\":\"0.0.0.5\"&#44;\"view\":\"contact\"}\n]"}
+{"time": 1745658314, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*走过去"}
+{"time": 1745678876, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "她神秘兮兮地拉着你走远"}
+{"time": 1745678881, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "然后递给了你一份报告"}
+{"time": 1745678913, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“这是....”*看看"}
+{"time": 1745679003, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "钟尽善确诊精神病的医单"}
+{"time": 1745679029, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“呃？”*看看日期"}
+{"time": 1745679035, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "就是今天"}
+{"time": 1745679051, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "上面有医生签名"}
+{"time": 1745679082, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“这位医生在哪？我能去找他了解一下情况吗？”"}
+{"time": 1745679112, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"精神科的张医生。\""}
+{"time": 1745679116, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你可以过个教育"}
+{"time": 1745679124, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra教育"}
+{"time": 1745679124, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[教育:56]检定: 1D100=55 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1745679132, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(厉害)"}
+{"time": 1745679160, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这位医生在新港医院精神科任职不久，但你还是听说过他的名字。"}
+{"time": 1745679356, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "去找找他"}
+{"time": 1745679498, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么，你去了精神科"}
+{"time": 1745679501, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "路上可以过侦查"}
+{"time": 1745679527, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你在准备动身的时候被楚灵儿叫住了"}
+{"time": 1745680074, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你很快到了精神科"}
+{"time": 1745680079, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "找到了张医生"}
+{"time": 1745680094, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "我要绕路前进"}
+{"time": 1745680104, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "行"}
+{"time": 1745680106, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "总之你到了"}
+{"time": 1745680151, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“张医生，我想问问关于钟尽善的病情”"}
+{"time": 1745680184, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"钟尽善，哦，早上那个。\""}
+{"time": 1745680205, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"你想问哪方面?\"张医生看上去比较年轻，待人很随和。"}
+{"time": 1745680248, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“他的精神病是什么时候确诊的？”"}
+{"time": 1745680258, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“是他自己来看病的吗？”"}
+{"time": 1745680330, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"是护士拉过来的\""}
+{"time": 1745680341, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"看他还不想看病，这是早期征兆。\""}
+{"time": 1745680543, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“也就是说单纯靠不想看病来推断出的？”"}
+{"time": 1745680588, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"并不是，前后言辞不一致，对话时精神紧张。\""}
+{"time": 1745680606, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"我用专业的眼光，可以开这个单子。\""}
+{"time": 1745680657, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"钟尽善，有极高的心理压力，我认为开具具有精神疾病的单据，不会误判。\""}
+{"time": 1745680882, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“你是什么时候开始观察他的疾病的？”"}
+{"time": 1745680899, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“仅凭一天的接触也难以判断吧”"}
+{"time": 1745680952, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"作为精神科的医生，这点判断我还是有的。\""}
+{"time": 1745680966, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "张医生摇摇头 对你摆摆手，\"材料我已经给你了。\""}
+{"time": 1745681033, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*看看具体诊断？"}
+{"time": 1745681071, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "疑似精神分裂，明显躁狂，有被害倾向。"}
+{"time": 1745681226, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“需要强制就医吗？”"}
+{"time": 1745681252, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"需要留意观察，至少不怎么安全。\""}
+{"time": 1745681267, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"而且...\"张医生犹豫了一下"}
+{"time": 1745681272, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”而且？“"}
+{"time": 1745681294, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"她送来的女孩...嗯...伤口的痊愈速度不正常。\""}
+{"time": 1745681310, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”楚灵儿？“"}
+{"time": 1745681346, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"钟灵。\""}
+{"time": 1745681384, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”我看她好好的也没受什么伤啊“"}
+{"time": 1745681503, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"早上来的时候，大失血...嗯...还有脏器的一些衰竭。\""}
+{"time": 1745681523, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"这些我们都没跟钟尽善说，因为复查的时候，症状就消失了\""}
+{"time": 1745681542, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"而且，钟灵有心脏病史，这次却没有查到。\""}
+{"time": 1745681942, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "()"}
+{"time": 1745682005, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”嗯，那确实是很诡异，听钟教授说钟灵被放血了，是真的吗“"}
+{"time": 1745682057, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"早上来的时候确实是有贫血。\""}
+{"time": 1745682065, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"早上来的时候确实是有大失血。\""}
+{"time": 1745682281, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”嗯，我会再留意一下的“"}
+{"time": 1745682302, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "”先留个联系方式？“"}
+{"time": 1745682324, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你们留了"}
+{"time": 1745682331, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "出去"}
+{"time": 1745682347, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他们等在大厅，你回去吗"}
+{"time": 1745682354, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "对"}
+{"time": 1745684705, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你看得出钟灵的气色很好，只是对外人都是一副拒绝的样子。"}
+{"time": 1745684729, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "很疏远其他人，你注意到她的眼睛看着你的时候并没有聚焦。"}
+{"time": 1745718918, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 潜行"}
+{"time": 1745718918, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]的[潜行]: 20"}
+{"time": 1745718931, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".st 斗殴"}
+{"time": 1745718931, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]的[斗殴]: 60"}
+{"time": 1745723730, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "[CQ:reply,id=1694538363][CQ:at,qq=1252219916] [CQ:at,qq=1252219916]还有其他信息吗"}
+{"time": 1745723769, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "感觉这个教育给了和没给差不多"}
+{"time": 1745723939, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这教育就是然后你知道"}
+{"time": 1745723946, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "原来还有这号人"}
+{"time": 1745724482, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "昨天我还在疑神疑鬼，突然来个这个货色"}
+{"time": 1745724498, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "突然来一个不知道怎么判断的精神病"}
+{"time": 1745724536, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "还以为是借我的手除掉他"}
+{"time": 1745724597, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:image,file=52d469f7d4f855418ad528ac1ce4be83.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRHucTbCnDHTxOtMeRq_qHAtaNJKRiQcSD_Cijwo-TzoveMAzIEcHJvZFCAvaMBWhAqPr8XygwJUew_vyb5s96regKC0w&amp;spec=0&amp;rkey=CAISKKSBekjVG1fM-kl0rqIYMWnWWqSIdOKSp2Dftuo8_MRO0qinA9KyEac]"}
+{"time": 1745724604, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "正规医生判断"}
+{"time": 1745725033, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*感觉去小巷聊天很诡异，先口袋里抓住手枪，慢慢地向目的地移动，然后时刻戒备周围"}
+{"time": 1745725275, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "现在她是什么情况"}
+{"time": 1745725371, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你捂着口袋向小巷子靠近"}
+{"time": 1745725410, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（其实应该是揣在兜里吧）"}
+{"time": 1745725417, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看见她，变年轻了很多，样子也变得很漂亮，身高变矮了一些"}
+{"time": 1745725423, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（捂着口袋好像是在外面）"}
+{"time": 1745725437, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个灵感"}
+{"time": 1745725467, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra灵感"}
+{"time": 1745725467, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[灵感:50]检定: 1D100=91 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745725481, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（哇，好高的出目）"}
+{"time": 1745725511, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你除此之外没感觉到特别的"}
+{"time": 1745725534, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "眉眼弯弯，总之app80"}

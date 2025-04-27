@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Cr24٩(´ᵕ`๑)۶",
+            "userName": "薇",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            1
+                            20
                         ],
                         [],
                         [
-                            1
+                            20
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 3,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d3",
-            "RDRecordInt": 1,
+            "RDRecordRaw": "d20",
+            "RDRecordInt": 20,
             "RDRecordSkillInt": null
         },
-        "userId": "1163108392",
+        "userId": "2198716781",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1745648900
+        "lastHit": 1745663793
     }
 }
