@@ -737,3 +737,42 @@
 {"time": 1745683995, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "据你所知没有"}
 {"time": 1745684662, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra侦查"}
 {"time": 1745684662, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[侦查:60]检定: 1D100=73 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745728159, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "看看教授的研究室"}
+{"time": 1745728194, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "书架上全是道家典籍"}
+{"time": 1745728203, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "一排排仪器"}
+{"time": 1745728217, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看上去像是个现代实验室"}
+{"time": 1745728276, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "看看都有哪些书"}
+{"time": 1745728315, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(呃)"}
+{"time": 1745728398, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "黄庭坚，云笈七签，宋元外丹术考据等等"}
+{"time": 1745728406, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "桌面上有一本摊开的新港地方志"}
+{"time": 1745728421, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看"}
+{"time": 1745729188, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "摊开的一页记载着1945年周家庄的“离奇瘟疫”——数十名村民在一夜之间暴毙，尸体表面结霜，内脏却呈现烧焦状态。更诡异的是，所有死者的眼睛都变成了“双瞳”。书页边缘，有人用红笔批注了一行小字：“非瘟疫，乃五狱渡劫之始。”\n笔迹……和你的一模一样。"}
+{"time": 1745729197, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "摊开的一页记载着1945年周家庄的“离奇瘟疫”——数十名村民在一夜之间暴毙，尸体表面结霜，内脏却呈现烧焦状态。更诡异的是，所有死者的眼睛都变成了“双瞳”。书页边缘，有人用红笔批注了一行小字：“非瘟疫，乃五狱渡劫之始。”"}
+{"time": 1745729484, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#记住页码，翻一翻其他有批注的页"}
+{"time": 1745729637, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "钟尽善似乎已经处理好了紫色晶体"}
+{"time": 1745730952, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看有没有钟教授自己写的东西，对比一下字迹"}
+{"time": 1745731058, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你在那个群翻"}
+{"time": 1745731278, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 取悦"}
+{"time": 1745731278, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的[取悦]: 15"}
+{"time": 1745731286, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 恐吓"}
+{"time": 1745731286, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的[恐吓]: 15"}
+{"time": 1745731292, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 话术"}
+{"time": 1745731292, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的[话术]: 5"}
+{"time": 1745731299, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 说服"}
+{"time": 1745731299, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的[说服]: 40"}
+{"time": 1745731341, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看字迹"}
+{"time": 1745731350, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "不太一样"}
+{"time": 1745733046, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "我有翻到什么吗"}
+{"time": 1745733414, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "趁龙神背身研究的时候翻书"}
+{"time": 1745733864, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（1）"}
+{"time": 1745734010, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（[CQ:at,qq=1252219916] ）"}
+{"time": 1745738264, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=2043327943][CQ:at,qq=1040972910] [CQ:at,qq=1252219916] "}
+{"time": 1745738278, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(他不是去看显微镜了么，我偷偷翻书"}
+{"time": 1745738357, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你在桌上另一本宋元外丹术汇总上看见了他遗留的字迹"}
+{"time": 1745738373, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "大致和那本书上相同"}
+{"time": 1745748590, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "总之给蒋玥羽打电话"}
+{"time": 1745748976, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没有接电话，"}
+{"time": 1745750998, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看那本杂志出版日期"}
+{"time": 1745751450, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "什么杂志"}
+{"time": 1745751530, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "地方志"}
+{"time": 1745751699, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没有这回事"}
