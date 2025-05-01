@@ -1256,3 +1256,62 @@
 {"time": 1745957268, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(有点冷)"}
 {"time": 1745957271, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(换一个)"}
 {"time": 1745957487, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（伊神，我爱你[CQ:face,id=318][CQ:face,id=318][CQ:face,id=318]）"}
+{"time": 1745990002, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "说话"}
+{"time": 1745990005, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "灵➗"}
+{"time": 1745990017, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "1"}
+{"time": 1745990226, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你动"}
+{"time": 1745990328, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#给蒋玥羽打电话"}
+{"time": 1745990377, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你发现你的手机不见了"}
+{"time": 1745990393, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你才想起手机被谢亚理拿走了"}
+{"time": 1745990631, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（byd怎么不还给我...）"}
+{"time": 1745990655, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#那我回会所门口吧，只需等待"}
+{"time": 1745990704, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你在顶楼天台上"}
+{"time": 1745990717, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#下楼"}
+{"time": 1745990747, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“里世界吗....”"}
+{"time": 1745991149, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "尽管天台的门没有锁"}
+{"time": 1745991162, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "但是20191817都是锁门的"}
+{"time": 1745991184, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#那我就到16出来，然后在上楼"}
+{"time": 1745991237, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你过个幸运吧"}
+{"time": 1745991266, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra幸运"}
+{"time": 1745991266, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[幸运:45]检定: 1D100=87 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745991292, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "也锁着"}
+{"time": 1745991334, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#去15楼"}
+{"time": 1745991338, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra幸运"}
+{"time": 1745991338, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[幸运:45]检定: 1D100=76 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1745991345, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#去14楼"}
+{"time": 1745991347, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra幸运"}
+{"time": 1745991347, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[幸运:45]检定: 1D100=8 极难成功，流水落花春去也，天上人间"}
+{"time": 1745991526, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你从14楼钻了出来"}
+{"time": 1745991567, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“运气这么不好啊....”"}
+{"time": 1745991573, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#回17楼"}
+{"time": 1745991688, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "小熊在你出了楼梯间后就自然地摔在地上"}
+{"time": 1745991693, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没动静了"}
+{"time": 1745991704, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#捡起来，好好收好"}
+{"time": 1745991721, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“谢谢你，小熊...”"}
+{"time": 1745992289, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你来到十七层"}
+{"time": 1745992294, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这里大门紧闭"}
+{"time": 1745992905, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#等"}
+{"time": 1745994746, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他们出来了"}
+{"time": 1745994749, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你发现"}
+{"time": 1745994768, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "蒋玥羽此刻几乎和谢亚理长得一模一样"}
+{"time": 1746000238, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你感觉那个匕首你有些熟悉"}
+{"time": 1746000251, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "应该曾经，见过，或是持有过"}
+{"time": 1746001270, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra斗殴"}
+{"time": 1746001270, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[斗殴:25]检定: 1D100=76 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746001302, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra力量"}
+{"time": 1746001302, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[力量:20]检定: 1D100=65 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746001361, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra斗殴"}
+{"time": 1746001361, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[斗殴:25]检定: 1D100=21 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1746001382, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".r1d4-1"}
+{"time": 1746001382, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]演奏出: 1D4-1={3}-1=2"}
+{"time": 1746003284, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra敏捷"}
+{"time": 1746003284, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]进行技能[敏捷:55]检定: 1D100=7 极难成功，流水落花春去也，天上人间"}
+{"time": 1746009549, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（感觉我业力值什么的好久没变过了 都快忘了这个设定"}
+{"time": 1746009553, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（[CQ:at,qq=1252219916] ）"}
+{"time": 1746009837, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(因为我过完事件会忘了给检定)"}
+{"time": 1746009899, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那我最近有变化吗）"}
+{"time": 1746009906, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（合起来检定一次算了）"}
+{"time": 1746009983, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(感觉也没什么好变动的)"}
+{"time": 1746009995, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "真要说的话，业力-d6吧"}
+{"time": 1746019089, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 业力-1d6"}
+{"time": 1746019089, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[楚灵儿]的人物卡已更新:\n[业力]: 53-1d6=53-{1}(1)=52"}
