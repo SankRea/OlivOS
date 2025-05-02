@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            427
+                            83
                         ],
                         [],
                         [
-                            427
+                            83
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 437,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,9 +27,9 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d437",
-            "RDRecordInt": 427,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 83,
+            "RDRecordSkillInt": 80,
             "userObList": [
                 "69a53b9fd8d386b00b83f695a3307081"
             ]
@@ -37,6 +37,6 @@
         "userId": "1985245608",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1746011749
+        "lastHit": 1746113524
     }
 }

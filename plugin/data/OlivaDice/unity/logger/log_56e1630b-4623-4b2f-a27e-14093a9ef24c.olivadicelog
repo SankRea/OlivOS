@@ -282,3 +282,45 @@
 {"time": 1744381886, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你发现角落里的小小脚印，像是某种犬科生物的肉垫，脚印从暗处一直延伸到窗台上，似乎是从窗户逃走了。"}
 {"time": 1744381889, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "还是食尸鬼"}
 {"time": 1744381905, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(多个神话生物了那就是)"}
+{"time": 1746106950, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*看得出来是什么肉吗"}
+{"time": 1746107094, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（医学）"}
+{"time": 1746107097, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（或者生物学）"}
+{"time": 1746107258, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st 医学"}
+{"time": 1746107258, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的[医学]: 1"}
+{"time": 1746109142, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st dec"}
+{"time": 1746109143, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的[DEC]: 0"}
+{"time": 1746109146, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "st dex"}
+{"time": 1746109151, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st dex"}
+{"time": 1746109151, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的[DEX]: 85"}
+{"time": 1746109218, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra 手枪"}
+{"time": 1746109218, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[手枪:80]检定: 1D100=19 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1746109246, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd10+2"}
+{"time": 1746109246, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]演奏出: 1D10+2={6}+2=8"}
+{"time": 1746109261, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(反正怪也没我快)"}
+{"time": 1746109572, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你应该知道，这是食尸鬼吧"}
+{"time": 1746109720, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我就不过sc了)"}
+{"time": 1746109738, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(但是你要告诉我scj的数值吧)"}
+{"time": 1746109754, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "1/1d6"}
+{"time": 1746110081, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*戳他，示意继续开枪，佯装疯了"}
+{"time": 1746110361, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra闪避"}
+{"time": 1746110361, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[闪避:60]检定: 1D100=59 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1746110367, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra闪避"}
+{"time": 1746110367, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[闪避:60]检定: 1D100=70 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746110471, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你多少血"}
+{"time": 1746110479, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st hp"}
+{"time": 1746110479, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的[HP]: 14"}
+{"time": 1746110486, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "已经结束了"}
+{"time": 1746110490, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "奈亚降临！"}
+{"time": 1746110494, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我可以村一下）"}
+{"time": 1746110504, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（对，对面）"}
+{"time": 1746110506, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（这样也太节目效果了）"}
+{"time": 1746110587, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra体质"}
+{"time": 1746110587, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[体质:70]检定: 1D100=71 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746113726, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可以再过个体质了）"}
+{"time": 1746113928, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（2）"}
+{"time": 1746113940, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra体质"}
+{"time": 1746113940, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[体质:70]检定: 1D100=8 极难成功，流水落花春去也，天上人间"}
+{"time": 1746113944, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(笑了)"}
+{"time": 1746114069, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（hp+1吧先）"}
+{"time": 1746114108, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st hp-11"}
+{"time": 1746114108, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的人物卡已更新:\n[HP]: 14-11=3"}

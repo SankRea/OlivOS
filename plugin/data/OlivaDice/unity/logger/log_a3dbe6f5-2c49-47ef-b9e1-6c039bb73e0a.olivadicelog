@@ -303,3 +303,44 @@
 {"time": 1744389498, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "还是其实大家都各怀本事"}
 {"time": 1744389551, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1728774674][CQ:at,qq=825734198] [CQ:at,qq=825734198] 直接去问伊神（bushu）"}
 {"time": 1744389557, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1728774674][CQ:at,qq=825734198] [CQ:at,qq=825734198] 直接去问伊神（bushi）"}
+{"time": 1746107212, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "显然，你知道这些应该是人肉"}
+{"time": 1746109171, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st set 水佳佳（林中古宅）"}
+{"time": 1746109171, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "试图切入的人物卡不存在"}
+{"time": 1746109178, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "。st list"}
+{"time": 1746109178, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[划船不靠桨の233]的人物卡:\n隋佳佳\n加瓦·哲帝克\n艾迪尔\n艾薇儿·格林\n水佳佳（诗人）\n艾米丽\n水佳佳（校园诡谈）\n水佳佳（侦探）\n水佳佳（格温）\n水佳佳（一等星）\n宙斯\n水佳佳（异界门扉）\njkl\n彦卿\n水佳佳（糖果）\n水佳佳（灵前）\n水佳佳（灵前一杯酒）\n喻文波\n水佳佳_古宅_\n水佳佳（古宅）\n何汐研\n楚灵儿\n当前选择:楚灵儿"}
+{"time": 1746109189, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st set 水佳佳（古宅）"}
+{"time": 1746109189, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[水佳佳（古宅）]"}
+{"time": 1746109193, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st siz"}
+{"time": 1746109193, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[SIZ]: 40"}
+{"time": 1746109268, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "总之，你知道，眼前的这几只就是食尸鬼，可能是你未来的同类"}
+{"time": 1746109286, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（你的意思是我未来会脱发？）"}
+{"time": 1746109293, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st dex"}
+{"time": 1746109293, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[DEX]: 70"}
+{"time": 1746109296, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 手枪"}
+{"time": 1746109296, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[手枪]: 80"}
+{"time": 1746109628, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#我要射歪，反正后面的墙之类的"}
+{"time": 1746109634, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（奖励骰？）"}
+{"time": 1746109644, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（射歪就射歪呗）"}
+{"time": 1746109652, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（目标大啊）"}
+{"time": 1746109660, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不用roll了）"}
+{"time": 1746109664, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（好的）"}
+{"time": 1746109884, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra精神分析"}
+{"time": 1746109884, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]进行技能[精神分析:61]检定: 1D100=30 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1746109924, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（[CQ:at,qq=825734198] 精神分析过了）"}
+{"time": 1746109960, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（你哪来的动作精神分析）"}
+{"time": 1746109970, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（不是自由动作吗？）"}
+{"time": 1746109980, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（精神分析自由动作都来了）"}
+{"time": 1746110027, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那我下回合精神分析）"}
+{"time": 1746110031, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（检定先留着）"}
+{"time": 1746111632, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=-1167072762][CQ:at,qq=2875548981] （过了[CQ:at,qq=2875548981] "}
+{"time": 1746111856, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#射歪"}
+{"time": 1746112219, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "打你2"}
+{"time": 1746112271, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（好）"}
+{"time": 1746113068, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra力量"}
+{"time": 1746113068, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]进行技能[力量:45]检定: 1D100=69 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746113762, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st hp-2"}
+{"time": 1746113762, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的人物卡已更新:\n[HP]: 10-2=8"}
+{"time": 1746113770, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st 急救"}
+{"time": 1746113770, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[急救]: 30"}
+{"time": 1746113775, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra急救"}
+{"time": 1746113775, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]进行技能[急救:30]检定: 1D100=40 失败，人面不知何处去，桃花依旧笑春风"}
