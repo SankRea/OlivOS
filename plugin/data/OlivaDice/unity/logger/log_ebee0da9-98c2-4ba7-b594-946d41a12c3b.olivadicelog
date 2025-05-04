@@ -1118,3 +1118,25 @@
 {"time": 1746010332, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没了"}
 {"time": 1746010423, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "回复吗"}
 {"time": 1746010455, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "“一定要今晚？”"}
+{"time": 1746272726, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那你其实有点印象"}
+{"time": 1746272746, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "三年前协助破获周家庄一案的张凌远教授"}
+{"time": 1746272754, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "是新港大学的医学教授"}
+{"time": 1746272917, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "周家庄一案其实并不复杂，教授得出了谋杀的结论后很快你们就从周家庄逮走了一批潜逃的罪犯。也就是那时起"}
+{"time": 1746272937, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "周家庄一案其实并不复杂，教授得出了谋杀的结论后很快你们就从周家庄逮走了一批潜逃的罪犯。你也就是那时才知道，周家庄很早之前就废弃了"}
+{"time": 1746272971, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你可以过个灵感"}
+{"time": 1746272977, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".ra灵感"}
+{"time": 1746272977, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[灵感:50]检定: 1D100=29 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1746273010, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你想起那段时间，张教授整个人都有点怪怪的，尤其是你们深入周家庄的几天"}
+{"time": 1746273020, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "他一直瞻前顾后，精神高度紧张"}
+{"time": 1746273030, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "这一案结束不久，张教授就去世了"}
+{"time": 1746276197, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".rab侦查"}
+{"time": 1746276197, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[侦查:80]检定: B={1D100=52 bonus:[1]}(12)=12 极难成功，流水落花春去也，天上人间"}
+{"time": 1746278381, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".rab侦查"}
+{"time": 1746278381, "type": "reply", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[白勺确]进行技能[侦查:80]检定: B={1D100=25 bonus:[1]}(15)=15 极难成功，流水落花春去也，天上人间"}
+{"time": 1746278457, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你看见井中并不是普通的水，井水漆黑如墨，而且好像还被什么重物砸凹陷了一片"}
+{"time": 1746278478, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（？）"}
+{"time": 1746278482, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "此外，你还看见井底有一处有一些微光，像是火光"}
+{"time": 1746278487, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不是流体吗）"}
+{"time": 1746278522, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你能看见明显的凹陷"}
+{"time": 1746280498, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "*那么我还是枪在兜"}
+{"time": 1746297759, "type": "recv", "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

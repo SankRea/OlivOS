@@ -1660,3 +1660,54 @@
 {"time": 1746216274, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "这个是楚灵儿的信息？"}
 {"time": 1746216281, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "对的"}
 {"time": 1746216285, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "楚灵儿独有"}
+{"time": 1746273108, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（[CQ:at,qq=1252219916] 有没有同心圆）"}
+{"time": 1746273116, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "没出现"}
+{"time": 1746273157, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（是不是也没有）"}
+{"time": 1746273162, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "也没有"}
+{"time": 1746276801, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你顺着血迹走过去"}
+{"time": 1746276815, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "在草堆里看见了一具尸体"}
+{"time": 1746276853, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你觉得尸体有些眼熟"}
+{"time": 1746276924, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*看看尸体的情况"}
+{"time": 1746276927, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（女尸吗）"}
+{"time": 1746276947, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "男尸，你看见了"}
+{"time": 1746277051, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看上去不像女尸"}
+{"time": 1746277080, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*蹲下摸索尸体，看看有没有什么东西和伤口"}
+{"time": 1746277132, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你翻开草堆，看见了你熟悉的人"}
+{"time": 1746277173, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那是王主编的尸体，浑身上下布满了紫色的结晶"}
+{"time": 1746277192, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“怎么....在这里”"}
+{"time": 1746277204, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "“我会为你报仇的”"}
+{"time": 1746277211, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "*回去"}
+{"time": 1746278335, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "黄庭经"}
+{"time": 1746281833, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我要开技能了）"}
+{"time": 1746281834, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（怎么做）"}
+{"time": 1746281844, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（划一下手就可以了吗）"}
+{"time": 1746281957, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（可以）"}
+{"time": 1746282198, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（开了 所以呢）"}
+{"time": 1746282202, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "随着你划开自己的手心"}
+{"time": 1746282207, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "hp-d4"}
+{"time": 1746282209, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（原来是手心（））"}
+{"time": 1746282220, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（在这扣还是大群）"}
+{"time": 1746282225, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（随便吧，总之划一下就行）"}
+{"time": 1746282226, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（随你）"}
+{"time": 1746282229, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".hp-d4"}
+{"time": 1746282236, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": ".st hp-d4"}
+{"time": 1746282236, "type": "reply", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[蒋玥羽]的人物卡已更新:\n[HP]: 10-d4=10-{3}(3)=7"}
+{"time": 1746282316, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你看见了不远的未来，一个陌生的男人取下楚灵儿的左眼吞咽了下去"}
+{"time": 1746282337, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（原来不是战斗预知嘛（））"}
+{"time": 1746282337, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "随后从天空降下一道螺旋的阶梯，一个穿着黄衣的人影从上而下漫步"}
+{"time": 1746282348, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（6）"}
+{"time": 1746282358, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（记得你预知的时间点啊）"}
+{"time": 1746282363, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（陌生的男人）"}
+{"time": 1746282366, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（是在战斗开始前）"}
+{"time": 1746282384, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（那确实（））"}
+{"time": 1746282395, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（我一躲开就划了）"}
+{"time": 1746282976, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你注意到伤口在肉眼可见愈合"}
+{"time": 1746282987, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "但是不怎么快"}
+{"time": 1746283005, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "流出的血泛着荧荧的紫光"}
+{"time": 1746295407, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你要看什么"}
+{"time": 1746295491, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "我要看楚灵儿抱住谢亚理的行动轨迹"}
+{"time": 1746295537, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "直接刺过去把眼睛挖出来"}
+{"time": 1746295673, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你确实看清了楚灵儿是如何抱着谢亚理行动的"}
+{"time": 1746295682, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "可惜"}
+{"time": 1746295684, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "但是你没有料到旁边白勺确的横加干预"}
+{"time": 1746297771, "type": "recv", "dect": {"host_id": null, "group_id": "972136174", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

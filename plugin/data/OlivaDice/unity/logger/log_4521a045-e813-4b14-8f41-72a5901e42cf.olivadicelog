@@ -1048,3 +1048,4 @@
 {"time": 1746216597, "type": "recv", "dect": {"host_id": null, "group_id": "1043543950", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "可以变娃了"}
 {"time": 1746216600, "type": "recv", "dect": {"host_id": null, "group_id": "1043543950", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "到时候拍给你看"}
 {"time": 1746216603, "type": "recv", "dect": {"host_id": null, "group_id": "1043543950", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你是对的"}
+{"time": 1746296954, "type": "recv", "dect": {"host_id": null, "group_id": "1043543950", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

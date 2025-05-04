@@ -3,6 +3,9 @@
         "userId": "390435021",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1745988131
+        "lastHit": 1746296969,
+        "configNote": {
+            "logEnable": false
+        }
     }
 }

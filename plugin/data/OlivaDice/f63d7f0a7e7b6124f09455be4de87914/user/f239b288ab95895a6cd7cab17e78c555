@@ -3,7 +3,7 @@
         "userId": "124565322",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1745748870,
+        "lastHit": 1746303458,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,18 +12,10 @@
             ],
             "groupMainDice": null,
             "groupMainDiceDRight": null,
-            "logEnable": true,
-            "logNowName": "log_fdd7350d-807f-485c-9930-44eebace1b3f",
-            "groupInitParaList": {
-                "比阳德·帕克": "100",
-                "evan": "120",
-                "水佳佳（异界门扉）": "125"
-            },
-            "groupInitList": {
-                "比阳德·帕克": 100,
-                "evan": 120,
-                "水佳佳（异界门扉）": 125
-            }
+            "logEnable": false,
+            "logNowName": null,
+            "groupInitParaList": {},
+            "groupInitList": {}
         }
     }
 }
