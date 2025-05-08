@@ -64,6 +64,8 @@
         ]
     },
     "叶鹭": {
-        "enhanceList": []
+        "enhanceList": [
+            "灵感"
+        ]
     }
 }
