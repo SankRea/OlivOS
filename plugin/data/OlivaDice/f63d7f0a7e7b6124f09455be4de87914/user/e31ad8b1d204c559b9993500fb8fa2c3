@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "自逆悖企鹅",
+            "userName": "怎会这",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            62
+                            2
                         ],
                         [],
                         [
-                            62
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 2,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 62,
+            "RDRecordRaw": "d2",
+            "RDRecordInt": 2,
             "RDRecordSkillInt": null
         },
         "userId": "3520936834",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1746512137
+        "lastHit": 1747013549
     }
 }

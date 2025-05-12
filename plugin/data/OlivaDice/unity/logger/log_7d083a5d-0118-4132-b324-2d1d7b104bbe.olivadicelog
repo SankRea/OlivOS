@@ -1,0 +1,111 @@
+{"time": 1746879233, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1746879244, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（可以动了，聊天不用喊我，有动作喊我）"}
+{"time": 1746879301, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "“先去沙滩看看？”"}
+{"time": 1746879318, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "“还是去那个听起来有点奇怪的未来预知事务所？”"}
+{"time": 1746879319, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“好”"}
+{"time": 1746879363, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“贫僧生前沙滩见得有点太多了”"}
+{"time": 1746880168, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你们不动吗？）"}
+{"time": 1746880172, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（好安静）"}
+{"time": 1746880252, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“还是先去事务所吧”"}
+{"time": 1746880322, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "“行”"}
+{"time": 1746880332, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#前往事务所"}
+{"time": 1746880343, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "#+1"}
+{"time": 1746880360, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#路上侦查一下"}
+{"time": 1746880379, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "*尝试寻找周围有没有魔力的痕迹"}
+{"time": 1746880405, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（[CQ:at,qq=2483922115] 过吗？"}
+{"time": 1746880406, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*尝试感知路上的魔力"}
+{"time": 1746880447, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=535124926][CQ:at,qq=2739405262] （你们行动力不够）"}
+{"time": 1746880457, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（最多走到海鲜市场）"}
+{"time": 1746880480, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（海鲜市场不是更远吗）"}
+{"time": 1746880488, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（江之岛居民区啊"}
+{"time": 1746880521, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你们在七里滨居民区啊）"}
+{"time": 1746880526, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（哦我超"}
+{"time": 1746880533, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-985552942][CQ:at,qq=2483922115]  "}
+{"time": 1746880546, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（我想说的是去江之岛那个来着）"}
+{"time": 1746880566, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-1611187387][CQ:at,qq=2739405262] （那你上个回合就做不到）"}
+{"time": 1746880568, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（算了七里滨就七里滨吧"}
+{"time": 1746880568, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（太远了）"}
+{"time": 1746880594, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#先抵达海鲜市场，中途检查路上魔力"}
+{"time": 1746880626, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（不对，那这样得先去医院或者高效了"}
+{"time": 1746880666, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#去事务所路上先去看看医院"}
+{"time": 1746880708, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（[CQ:at,qq=2628755988] 先这样？"}
+{"time": 1746880722, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（ok）"}
+{"time": 1746880776, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=2132988507][CQ:at,qq=2739405262] 你们赶到了医院，这里只有一些普通的病人来寻求治疗"}
+{"time": 1746880850, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "“那先在这里布置阵地吧，我侦查一下周围”"}
+{"time": 1746880866, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#侦查周围是否有魔力的痕迹"}
+{"time": 1746880882, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#或者可疑的人"}
+{"time": 1746880929, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "#找到一处合适的地点，像上次一样设置阵地"}
+{"time": 1746880939, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-995058679][CQ:at,qq=2628755988] （在医院内？医院外？）"}
+{"time": 1746880977, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（医院外吧"}
+{"time": 1746880998, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（内可能会被灵什么的干扰"}
+{"time": 1746881023, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-995058679][CQ:at,qq=2628755988] 你在医院外打坐，设置好了阵地"}
+{"time": 1746881033, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你们没有行动力了）"}
+{"time": 1746881044, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（那我的侦查不能动作吗"}
+{"time": 1746881082, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=717159717][CQ:at,qq=2739405262] （过侦查）"}
+{"time": 1746881088, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（没看见（）"}
+{"time": 1746881093, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": ".r60"}
+{"time": 1746881093, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[岸波白野]演奏出: 60=60"}
+{"time": 1746881100, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": ".rd69"}
+{"time": 1746881100, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[岸波白野]演奏出: 1D69=16"}
+{"time": 1746881105, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": ".rd60"}
+{"time": 1746881105, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[岸波白野]演奏出: 1D60=5"}
+{"time": 1746881118, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（大成功？"}
+{"time": 1746881123, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（第一个打错了"}
+{"time": 1746881142, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你这是全都打错了）"}
+{"time": 1746881147, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（。rc60）"}
+{"time": 1746881156, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": ".rc60"}
+{"time": 1746881156, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[岸波白野]进行技能[60]检定: 1D100=33 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1746881166, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rc55"}
+{"time": 1746881166, "type": "reply", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[叶鹭]进行技能[55]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746881175, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "(眼瞎"}
+{"time": 1746881190, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "堂堂从者魔力比御主低"}
+{"time": 1746881194, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "堂堂从者魔力比御主低）"}
+{"time": 1746881214, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（点数紧缺我有什么办法）"}
+{"time": 1746881294, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（我的大成功。。。"}
+{"time": 1746881318, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:at,qq=2739405262] 你感知到，医院内的监控都有着奇怪的魔力波动"}
+{"time": 1746881369, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "*光头，你现在听得见我说话吧，医院里面有奇怪的魔力波动"}
+{"time": 1746881408, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "*你是准备进去医院侦查还是在医院外面监视"}
+{"time": 1746881480, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（[CQ:at,qq=2628755988] "}
+{"time": 1746881480, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*如果对方也是参与者的话，作为从者，我的魔力波段太容易被发觉了"}
+{"time": 1746881525, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "*好，那你在外面准备接应我"}
+{"time": 1746881570, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "#战备"}
+{"time": 1746881613, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#进入医院挂号，同时感应魔力的流向"}
+{"time": 1746881626, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（要再过一遍侦查吗？"}
+{"time": 1746881689, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=1052298414][CQ:at,qq=2739405262] 你感知到，医院的监控似乎都被魔力联系，最后魔力链条结成一根，向医院的西南方蔓延"}
+{"time": 1746881753, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-1481532140][CQ:at,qq=2739405262] （过了一遍不需要了）"}
+{"time": 1746881754, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "*和尚，魔力的源头在西南方，要去看看吗"}
+{"time": 1746881824, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我找找地图）"}
+{"time": 1746881833, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（警局"}
+{"time": 1746881858, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*那就假装路过吧"}
+{"time": 1746881859, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（至少最近的西南方大概是那）"}
+{"time": 1746881968, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "#小心屏蔽自身魔力，在战备状态下路过警局"}
+{"time": 1746881983, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（[CQ:at,qq=2483922115] 那我们这回合结束了"}
+{"time": 1746881988, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=1352977785][CQ:at,qq=2739405262] （是的，结束了）"}
+{"time": 1746882031, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（你这话说出来感觉要死了"}
+{"time": 1746882046, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（没有啦，是指行动结束了）"}
+{"time": 1746882127, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（现在的时间是？[CQ:at,qq=2483922115] "}
+{"time": 1746882135, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（下午）"}
+{"time": 1746882148, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（等你们赶到警局就是傍晚）"}
+{"time": 1746882159, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（OK"}
+{"time": 1746884155, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（话说"}
+{"time": 1746884166, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（阵地节点被破坏之后"}
+{"time": 1746884176, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（能感知到吧"}
+{"time": 1746884187, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（不能）"}
+{"time": 1746884196, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（除非节点就在你身边）"}
+{"time": 1746884261, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（不是，我布置的一串节点，能开启的，然后被破坏了一个我不能感知吗"}
+{"time": 1746884278, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（是的，不能）"}
+{"time": 1746884284, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（因为规则书就是这么写的）"}
+{"time": 1746884307, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（[CQ:at,qq=2628755988] 你选的什么狗屎职介"}
+{"time": 1746884316, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（要死了。。。"}
+{"time": 1746884730, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（赫赫）"}
+{"time": 1746885255, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（我已经能想象到"}
+{"time": 1746885260, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（到时候自信满满"}
+{"time": 1746885264, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（阵地，开！"}
+{"time": 1746885267, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（然后什么都没有"}
+{"time": 1746885270, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（哈哈哈哈"}
+{"time": 1746885274, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（傻逼"}
+{"time": 1746885286, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭.艾蕾王ver"}, "message": "（脑残规则"}
+{"time": 1746885287, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（那咋办）"}
+{"time": 1746885298, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我看更新日志，C一直在被削）"}
+{"time": 1746886976, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（那SV吧）"}
+{"time": 1746886980, "type": "recv", "dect": {"host_id": null, "group_id": "1045840039", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "。log end"}

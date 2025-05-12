@@ -1,0 +1,35 @@
+{"time": 1746883315, "type": "reply", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1746883331, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那就离开去魔力波动的方向"}
+{"time": 1746883376, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#去魔力波动的东西"}
+{"time": 1746883433, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:at,qq=2483922115] "}
+{"time": 1746883440, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（OK）"}
+{"time": 1746883444, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（地方）"}
+{"time": 1746883446, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-589439166][CQ:at,qq=1040972910] （东西是什么？）"}
+{"time": 1746883452, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（打错了）"}
+{"time": 1746883464, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "你们两人来到居民区内，沿着魔力波动的方向寻找"}
+{"time": 1746883469, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（roll感知）"}
+{"time": 1746883496, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ra40"}
+{"time": 1746883496, "type": "reply", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[洁萝露尔]进行技能[40]检定: 1D100=75 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746883519, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。rc60"}
+{"time": 1746883519, "type": "reply", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[60]检定: 1D100=82 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1746883535, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（那怎么办）"}
+{"time": 1746883543, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（能多侦查几次吗）"}
+{"time": 1746883550, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(有点吓)"}
+{"time": 1746883555, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(可以问他们)"}
+{"time": 1746883570, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-1247012212][CQ:at,qq=1040972910] （我之前给你说的话，那张图还有吗？）"}
+{"time": 1746883582, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（什么失败了，再过几次都不会成功的（）"}
+{"time": 1746884136, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那就四处转转"}
+{"time": 1746884346, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“似乎只能逛街了，或者等对面找我们”"}
+{"time": 1746884480, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"嗯。\""}
+{"time": 1746884693, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:at,qq=2483922115] (有判定喊我)"}
+{"time": 1746884702, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“要不继续去算命吧”"}
+{"time": 1746884771, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你是对的)"}
+{"time": 1746884787, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "\"找不到什么的话，我们就走吧。\""}
+{"time": 1746884885, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:at,qq=2483922115] #去算命"}
+{"time": 1746884902, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-2121256293][CQ:at,qq=1040972910] （好的（）"}
+{"time": 1746884987, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "你们的位置离事务所非常近，没多久你们就赶到了事务所"}
+{"time": 1746885043, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "你们来到事务所前，事务所外只是立了块简单的招牌，里面坐着一个带着软帽的紫发女性，正在给一位坐在轮椅上的诺艾儿算命，三姐就站在她身边"}
+{"time": 1746885054, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你们其实大可不必分开的（）"}
+{"time": 1746885060, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（还真是）"}
+{"time": 1746885061, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你是对的)"}
+{"time": 1746885912, "type": "recv", "dect": {"host_id": null, "group_id": "1037369254", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "。log end"}

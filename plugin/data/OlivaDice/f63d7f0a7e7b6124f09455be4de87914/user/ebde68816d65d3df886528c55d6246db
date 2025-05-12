@@ -3,29 +3,20 @@
         "configNote": {
             "userName": "残阳亦旭.艾蕾王ver",
             "RDRecord": [
-                12,
-                {
-                    "op": "+"
-                },
                 {
                     "result": [
                         [
-                            3,
-                            1,
-                            1,
-                            3,
-                            3,
-                            3
+                            48
                         ],
                         [],
                         [
-                            14
+                            48
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 6,
-                        "r": 3,
+                        "l": 1,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -36,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "12+6d3",
-            "RDRecordInt": 26,
-            "RDRecordSkillInt": null
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 48,
+            "RDRecordSkillInt": 60
         },
         "userId": "2739405262",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1746527096
+        "lastHit": 1747013287
     }
 }

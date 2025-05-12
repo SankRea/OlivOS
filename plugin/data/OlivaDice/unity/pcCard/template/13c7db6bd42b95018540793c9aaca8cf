@@ -89,7 +89,9 @@
         }
     },
     "瑞依": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     },
     "刘颐": {
         "enhanceList": [
