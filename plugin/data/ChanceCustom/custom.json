@@ -34,14 +34,6 @@
                 "priority": 0,
                 "value": "【赋值变量接口数据>=<【判空【访问http://api.bilibili.com/x/web-interface/view?bvid=【内容3】】>=<{}】】[CQ:image,file=【Json读【变量接口数据】>=<检索失败>=<data>=<pic】]【换行】【Json读【变量接口数据】>=<检索失败>=<data>=<title】【换行】【Json读【变量接口数据】>=<检索失败>=<data>=<owner>=<name】【换行】播放【Json读【变量接口数据】>=<检索失败>=<data>=<stat>=<view】，评论【Json读【变量接口数据】>=<检索失败>=<data>=<stat>=<reply】【换行】点赞【Json读【变量接口数据】>=<检索失败>=<data>=<stat>=<like】，投币【Json读【变量接口数据】>=<检索失败>=<data>=<stat>=<coin】，收藏【Json读【变量接口数据】>=<检索失败>=<data>=<stat>=<favorite】【换行】【Json读【变量接口数据】>=<检索失败>=<data>=<desc】【换行】https://www.bilibili.com/video/【内容3】"
             },
-            "搜索(.*)": {
-                "key": "搜索(.*)",
-                "division": "1",
-                "matchType": "reg",
-                "matchPlace": "1",
-                "priority": 0,
-                "value": "【赋值变量接口数据>=<【判空【访问http://baike.baidu.com/api/openapi/BaikeLemmaCardApi?appid=379020&bk_length=600&bk_key=【内容1】】>=<{}】】[CQ:image,file=【Json读【变量接口数据】>=<检索失败>=<image】]【换行】【Json读【变量接口数据】>=<检索失败>=<abstract】【换行】【Json读【变量接口数据】>=<检索失败>=<url】"
-            },
             "(.*?)[,， +和](.*?)[Cc][Pp]": {
                 "key": "(.*?)[,， +和](.*?)[Cc][Pp]",
                 "division": "1",
