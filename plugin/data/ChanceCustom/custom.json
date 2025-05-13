@@ -155,6 +155,22 @@
                 "matchPlace": "1",
                 "priority": 0,
                 "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\春日影_东山奈央.wav]"
+            },
+            "英灵召唤": {
+                "key": "英灵召唤",
+                "division": "1",
+                "matchType": "full",
+                "matchPlace": "1",
+                "priority": 0,
+                "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\saber召唤.wav]"
+            },
+            "早见沙织": {
+                "key": "早见沙织",
+                "division": "1",
+                "matchType": "full",
+                "matchPlace": "1",
+                "priority": 0,
+                "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\早见沙织的宣泄怒吼.mp3]"
             }
         },
         "71f2abf19586d07c383d3aa9e328c7d1": {

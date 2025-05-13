@@ -135,7 +135,9 @@
         }
     },
     "水佳佳（异界门扉）": {
-        "enhanceList": [],
+        "enhanceList": [
+            "精神分析"
+        ],
         "mappingRecord": {
             "先攻": "125"
         }

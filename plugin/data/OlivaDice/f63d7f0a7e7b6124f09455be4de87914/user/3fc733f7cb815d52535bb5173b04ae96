@@ -6,55 +6,17 @@
                 {
                     "result": [
                         [
-                            4,
-                            2,
-                            5,
-                            4,
-                            4,
-                            5,
-                            5
+                            18
                         ],
                         [],
                         [
-                            29
+                            18
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 7,
-                        "r": 5,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            4,
-                            5,
-                            1,
-                            3,
-                            5,
-                            2,
-                            1
-                        ],
-                        [],
-                        [
-                            21
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 7,
-                        "r": 5,
+                        "l": 1,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -65,9 +27,9 @@
                     }
                 }
             ],
-            "RDRecordRaw": "7d5+7d5",
-            "RDRecordInt": 50,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 18,
+            "RDRecordSkillInt": 60,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -105,6 +67,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747013219
+        "lastHit": 1747065002
     }
 }
