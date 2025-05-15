@@ -6,17 +6,21 @@
                 {
                     "result": [
                         [
-                            18
+                            5,
+                            4,
+                            5,
+                            4,
+                            1
                         ],
                         [],
                         [
-                            18
+                            19
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 5,
+                        "r": 5,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,11 +29,45 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3
+                        ],
+                        [],
+                        [
+                            3
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 4,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                4,
+                {
+                    "op": "-"
+                },
+                5
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 18,
-            "RDRecordSkillInt": 60,
+            "RDRecordRaw": "5d5+1d4+4-5",
+            "RDRecordInt": 21,
+            "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -67,6 +105,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747065002
+        "lastHit": 1747218163
     }
 }

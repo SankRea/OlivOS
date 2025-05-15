@@ -1,0 +1,8 @@
+{
+    "伊万·诺夫": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": []
+    }
+}

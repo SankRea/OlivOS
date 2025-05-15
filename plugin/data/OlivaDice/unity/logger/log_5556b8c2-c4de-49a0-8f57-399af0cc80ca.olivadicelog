@@ -1,0 +1,9 @@
+{"time": 1747205845, "type": "reply", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1747205850, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "这里是测试内容"}
+{"time": 1747205857, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "折木是天下第一"}
+{"time": 1747205861, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "这里是测试内容"}
+{"time": 1747205864, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra90"}
+{"time": 1747205864, "type": "reply", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]进行技能[90]检定: 1D100=50 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747205877, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra 手枪 90"}
+{"time": 1747205877, "type": "reply", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]进行技能[手枪:90]检定: 1D100=75 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747205882, "type": "recv", "dect": {"host_id": null, "group_id": "1040023806", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log end"}

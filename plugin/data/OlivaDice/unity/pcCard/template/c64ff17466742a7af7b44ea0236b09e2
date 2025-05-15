@@ -1,0 +1,10 @@
+{
+    "晋江文学审核Promax": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "骰运"
+        ]
+    }
+}

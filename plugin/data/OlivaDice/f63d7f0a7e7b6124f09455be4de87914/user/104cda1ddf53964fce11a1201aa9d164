@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "魂泪无狱",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            13
+                        ],
+                        [],
+                        [
+                            13
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 13,
+            "RDRecordSkillInt": 80
+        },
+        "userId": "3138979752",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1747236486
+    }
+}

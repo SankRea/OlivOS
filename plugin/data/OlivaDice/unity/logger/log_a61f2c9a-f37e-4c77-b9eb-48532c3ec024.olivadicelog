@@ -1,0 +1,187 @@
+{"time": 1747135114, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1747135135, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "深夜，刚送别一高一矮的二人组"}
+{"time": 1747135136, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（感知）"}
+{"time": 1747135194, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1747135202, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（侦查吗）"}
+{"time": 1747135208, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（是的）"}
+{"time": 1747135216, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rc45"}
+{"time": 1747135216, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[45]检定: 1D100=54 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1747135226, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rc60"}
+{"time": 1747135226, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]进行技能[60]检定: 1D100=93 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1747135237, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（尬住了）"}
+{"time": 1747135237, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（呃）"}
+{"time": 1747135252, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（总之继续动吧）"}
+{"time": 1747135309, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（打算怎么动？）"}
+{"time": 1747135326, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“虽然不太理解蕾娜塔你的用意……但总之以后要多加小心哦”"}
+{"time": 1747135381, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“没有危险顺风顺水的圣杯战争是不可能的”"}
+{"time": 1747135388, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*往神社外走"}
+{"time": 1747135399, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我们身上"}
+{"time": 1747135411, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（神社剩下的地方探查不了是吧）"}
+{"time": 1747135416, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（接下来去哪？）"}
+{"time": 1747135421, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不是锁着吗)"}
+{"time": 1747135422, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-949656236][CQ:at,qq=3362422751] （你们可以撬锁）"}
+{"time": 1747135432, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(撬锁过什么)"}
+{"time": 1747135449, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那这些东西不应该之前那个回合就能搞吗（）"}
+{"time": 1747135465, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（能不能别占用我们现在这个回合时间（）"}
+{"time": 1747135474, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（现在还是深夜）"}
+{"time": 1747135492, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那行）"}
+{"time": 1747135510, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“那两人之前好像在北侧鸟居？需要去看看吗”"}
+{"time": 1747135521, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（我感觉过精力或者幸运了）"}
+{"time": 1747135531, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（这是什么）"}
+{"time": 1747135539, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（还有不休息惩罚？）"}
+{"time": 1747135544, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（筋力）"}
+{"time": 1747135554, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=969308434][CQ:at,qq=3362422751] （这个肯定有的）"}
+{"time": 1747135559, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（御主要睡觉的）"}
+{"time": 1747135565, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（哦）"}
+{"time": 1747135572, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(精力是什么)"}
+{"time": 1747135576, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那这样需要消耗一个游戏回合？）"}
+{"time": 1747135580, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（力量）"}
+{"time": 1747135585, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(？)"}
+{"time": 1747135595, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我有这个数值吗我请问了)"}
+{"time": 1747135597, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“要撬锁吗？我可以试试”"}
+{"time": 1747135600, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我的）"}
+{"time": 1747135610, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=697089109][CQ:at,qq=2483922115] （一个游戏回合？）"}
+{"time": 1747135626, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-1449206610][CQ:at,qq=3362422751] （一至二吧）"}
+{"time": 1747135634, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（告诉我你休息了就行）"}
+{"time": 1747135641, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（行）"}
+{"time": 1747135652, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（他睡觉我可以外出行动是吧）"}
+{"time": 1747135654, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-916892341][CQ:at,qq=1370316409] （她没过再看你的）"}
+{"time": 1747135655, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“试一试吧，他们太不小心了”"}
+{"time": 1747135659, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（只是没法保护她）"}
+{"time": 1747135668, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rc70"}
+{"time": 1747135668, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[70]检定: 1D100=48 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747135670, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“怎么可以不对神社严加看管呢”"}
+{"time": 1747135686, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们来帮助神社检查一下”"}
+{"time": 1747135690, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*用牙签对锁挥出一剑"}
+{"time": 1747135691, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“有没有物品丢失吧”"}
+{"time": 1747135718, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*引导剑气游走锁的内部再加以破坏"}
+{"time": 1747135792, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=2129906121][CQ:at,qq=3362422751] 神社大门的门锁就这样被你敲开了"}
+{"time": 1747135842, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*看看周围有没有人过来"}
+{"time": 1747135866, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*警惕再侦查神社内部"}
+{"time": 1747135897, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*警惕周围再侦查神社内部"}
+{"time": 1747135902, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rc45"}
+{"time": 1747135902, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[45]检定: 1D100=44 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747135926, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(？)"}
+{"time": 1747135932, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我的回复呢)"}
+{"time": 1747135948, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（应该是在多开罢）"}
+{"time": 1747135956, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不会有人吧)"}
+{"time": 1747135965, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那队白紫没走可能)"}
+{"time": 1747136029, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=-1862424347][CQ:at,qq=1370316409] 你回头一看，看见两个巫女，身后站着一位骑马的男人，正看着你们"}
+{"time": 1747136040, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(？)"}
+{"time": 1747136044, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(新的一队吗)"}
+{"time": 1747136050, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“小青！”"}
+{"time": 1747136054, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "“你们两位是否光明正大了一点”其中一位绿发巫女向你开口"}
+{"time": 1747136060, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（要拉群吗？）"}
+{"time": 1747136064, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "都行"}
+{"time": 1747136073, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*投影竹杖"}
+{"time": 1747136098, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*将蕾娜塔护至身后"}
+{"time": 1747137136, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(笑了)"}
+{"time": 1747137140, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那就是说)"}
+{"time": 1747137144, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(灵脉真在这)"}
+{"time": 1747137146, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（byd那几个纸条）"}
+{"time": 1747137153, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（感觉挺搞的）"}
+{"time": 1747137161, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(还没开始发挥作用)"}
+{"time": 1747137168, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(要不你悄悄收起来)"}
+{"time": 1747137173, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（？）"}
+{"time": 1747137178, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（怎么悄悄收）"}
+{"time": 1747139137, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*心灵对话"}
+{"time": 1747139149, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“蕾娜塔，要结盟吗？”"}
+{"time": 1747139161, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“看起来对方好像有这样的意愿”"}
+{"time": 1747139177, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“但是如果他们知道了你那些假话……”"}
+{"time": 1747141329, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": ".rc45"}
+{"time": 1747141329, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[kp]进行技能[45]检定: 1D100=44 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747141345, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（哦这里也没rp）"}
+{"time": 1747141351, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "你没感知到魔力波动"}
+{"time": 1747141467, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "*心灵通话"}
+{"time": 1747141478, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“蕾娜塔又要乱说了吗”"}
+{"time": 1747141938, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“什么叫做乱说，这叫合理推测”"}
+{"time": 1747141947, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=728753847][CQ:at,qq=3362422751]  "}
+{"time": 1747142002, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“不会的，他们要是胸有成竹，就不会被我唬骗了”"}
+{"time": 1747142085, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“我的意思是，若是结盟后他们发现您谎话连篇，我担心他们会找机会袭击您之类的”"}
+{"time": 1747142213, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“华夏的古话”"}
+{"time": 1747142221, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“不入虎穴焉得虎子”"}
+{"time": 1747142279, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“您是想找机会结盟？还是想袭杀她二人再占据此地灵脉？”"}
+{"time": 1747142301, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "“若是前者，某些地方或许还是坦诚相待更为上策些”"}
+{"time": 1747142660, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“再议，要看后续怎么发展了”"}
+{"time": 1747142982, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（[CQ:at,qq=2483922115] 如果拿到别人立绘可以发出去给其他组吗）"}
+{"time": 1747142993, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（不可以）"}
+{"time": 1747142994, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（经过描述rp之类的）"}
+{"time": 1747143005, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（除非有rp拍照）"}
+{"time": 1747144905, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:image,file=b911d6f5dd8d10d3324da957b4924c85.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS8Kn_UfzjSLhlTSGuUOqbkNDLWSBj4mUog_woo2PrO-s2gjQMyBHByb2RQgL2jAVoQhuU6jTbmRSSVlFc5tFcAZXoCu64&amp;spec=0&amp;rkey=CAISMNhGQ6zyWX2eRaFp6GgOHcQQOWDzmtTbbe0RvmQCHtc1vTJa0yUxcwRzgloG78k7og]"}
+{"time": 1747144911, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（[CQ:at,qq=1370316409] 我能rp这个吗）"}
+{"time": 1747145887, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "([CQ:at,qq=2483922115] 我可以失重得到同样的移动情况吗)"}
+{"time": 1747145892, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(直接飞起来)"}
+{"time": 1747145897, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（不可以的）"}
+{"time": 1747145904, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（为啥（）"}
+{"time": 1747145908, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你的失重不能长时间持续）"}
+{"time": 1747145919, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(能飞，但是只能飞一小段)"}
+{"time": 1747145925, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(也就是只能脱战)"}
+{"time": 1747145934, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不能用来去下一个地点)"}
+{"time": 1747145951, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（失重理论上获得的加速度我觉得是可以超过rider之类的（）"}
+{"time": 1747145954, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（哦不对）"}
+{"time": 1747145955, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（是的）"}
+{"time": 1747145970, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=1444418290][CQ:at,qq=3362422751] （不要和我扯理论了，维兹（）"}
+{"time": 1747145978, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（要是不止失重还能减少空气摩擦）"}
+{"time": 1747145984, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（我现在看见你和我扯理论我就头疼（）"}
+{"time": 1747145985, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（然后不考虑master身体强度）"}
+{"time": 1747145993, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我觉得天下大可去得（）"}
+{"time": 1747145999, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "[CQ:reply,id=-657327557][CQ:at,qq=2483922115] （怎么了（）"}
+{"time": 1747146006, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我感觉我也没和你扯很多啊（）"}
+{"time": 1747146255, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "([CQ:at,qq=2483922115] 要求魔力感知灵脉状态)"}
+{"time": 1747146261, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(感觉不太对劲)"}
+{"time": 1747146269, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（不急，你们还没到地方）"}
+{"time": 1747146270, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不会是枯竭的吧)"}
+{"time": 1747146280, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（另外感知一下吧）"}
+{"time": 1747146281, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那tm完蛋了)"}
+{"time": 1747146291, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（主动侦查）"}
+{"time": 1747146304, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rc60"}
+{"time": 1747146304, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]进行技能[60]检定: 1D100=93 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1747146308, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(？)"}
+{"time": 1747146312, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(小雅你tm)"}
+{"time": 1747146387, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我能感知吗）"}
+{"time": 1747147740, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*要是回神社顺手把便利贴撕了"}
+{"time": 1747147847, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rc60"}
+{"time": 1747147847, "type": "reply", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[顾尘南]进行技能[60]检定: 1D100=49 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1747148063, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:at,qq=1370316409] 你没感知到灵脉有什么问题"}
+{"time": 1747148127, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（那个技能）"}
+{"time": 1747148137, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（开启耗三蓝）"}
+{"time": 1747148142, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（然后还持续开启的）"}
+{"time": 1747148150, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我真不知道有cd啊我淦）"}
+{"time": 1747148157, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（有的话我不可能开的）"}
+{"time": 1747148163, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（本来晚上还要去守夜）"}
+{"time": 1747148179, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（碰敌人没有那个技能我战斗能力下百分之八十）"}
+{"time": 1747148185, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（下次可以更认真地看规则书）"}
+{"time": 1747148192, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（或者不要随便开技能（）"}
+{"time": 1747148226, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（不能吧（）"}
+{"time": 1747148234, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（之前没提出也没写进我卡）"}
+{"time": 1747148276, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（一下三个回合除了宝具基本失去战斗能力）"}
+{"time": 1747148282, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（你的意思是，你真的要无CD吗？（）"}
+{"time": 1747148321, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我觉得这个基本作为我唯一输出能力而且ex的话，我觉得这个就是无cd的）"}
+{"time": 1747148344, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（驳回）"}
+{"time": 1747148358, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（如果一定要有cd的话，我真是要撤回那个rp的啊）"}
+{"time": 1747148368, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（突然少三回合行动能力）"}
+{"time": 1747148379, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(主力输出ex那cd是不是应该短一点)"}
+{"time": 1747148385, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（没有那个技能我连单人对敌宝具都开不了了）"}
+{"time": 1747148395, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "[CQ:reply,id=1656980168][CQ:at,qq=1370316409] （不会的，他那个技能很超模）"}
+{"time": 1747148413, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（几乎不是说主力输出了，我没有那个技能就只剩平a白板卡了）"}
+{"time": 1747148431, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（没那个技能我连宝具都不敢放）"}
+{"time": 1747148435, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（放了我就死）"}
+{"time": 1747148445, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（除非敌人超过五个才敢放）"}
+{"time": 1747148486, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那你就不该开)"}
+{"time": 1747148489, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(没事)"}
+{"time": 1747148494, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(什么时候刷新cd)"}
+{"time": 1747148504, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "（3游戏回合）"}
+{"time": 1747148504, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我一直以为没cd啊）"}
+{"time": 1747148510, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（三个游戏回合）"}
+{"time": 1747148515, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（半天丧失战斗能力）"}
+{"time": 1747148526, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（我现在去守夜）"}
+{"time": 1747148530, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（遇上敌人就死）"}
+{"time": 1747148556, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（本来我是除了输出端一无所有的卡）"}
+{"time": 1747148589, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（输出端几乎百分之九十集中于这个技能和这个技能之后才敢开的宝具）"}
+{"time": 1747148608, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（如果有人能禁止我这个技能我差不多直接废卡）"}
+{"time": 1747148726, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(怪不得)"}
+{"time": 1747148729, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(你说我克制)"}
+{"time": 1747148749, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（本来我以为你克制是这样的）"}
+{"time": 1747148768, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（但是后来好像说我那个提前开启的话是不受戒律影响的）"}
+{"time": 1747148776, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "Arcadia"}, "message": "（而且本身也与魔术无关）"}
+{"time": 1747148806, "type": "recv", "dect": {"host_id": null, "group_id": "1042040063", "user_id": "2483922115"}, "sender": {"id": "2483922115", "name": "湘江August"}, "message": "。log end"}

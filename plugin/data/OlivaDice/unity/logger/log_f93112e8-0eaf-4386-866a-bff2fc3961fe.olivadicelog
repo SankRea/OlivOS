@@ -1,0 +1,2 @@
+{"time": 1747221326, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1747221333, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
