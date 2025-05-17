@@ -1,22 +1,25 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "泠氵沢漄 彡",
+            "userName": "阿姆斯特朗炮",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            5
+                            266,
+                            375,
+                            522,
+                            356
                         ],
                         [],
                         [
-                            5
+                            1519
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 15,
+                        "l": 4,
+                        "r": 700,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +30,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d15",
-            "RDRecordInt": 5,
+            "RDRecordRaw": "4d700",
+            "RDRecordInt": 1519,
             "RDRecordSkillInt": null
         },
         "userId": "2101652899",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1731748110
+        "lastHit": 1747447115
     }
 }

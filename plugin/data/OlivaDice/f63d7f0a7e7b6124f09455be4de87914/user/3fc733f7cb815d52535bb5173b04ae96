@@ -6,47 +6,17 @@
                 {
                     "result": [
                         [
-                            5,
-                            4,
-                            5,
-                            4,
-                            1
+                            60
                         ],
                         [],
                         [
-                            19
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 5,
-                        "r": 5,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            3
-                        ],
-                        [],
-                        [
-                            3
+                            60
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 4,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -55,18 +25,10 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                4,
-                {
-                    "op": "-"
-                },
-                5
+                }
             ],
-            "RDRecordRaw": "5d5+1d4+4-5",
-            "RDRecordInt": 21,
+            "RDRecordRaw": "d100",
+            "RDRecordInt": 60,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -105,6 +67,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747218163
+        "lastHit": 1747400313
     }
 }

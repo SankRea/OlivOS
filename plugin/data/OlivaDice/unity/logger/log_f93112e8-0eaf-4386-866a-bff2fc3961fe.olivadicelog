@@ -1,2 +1,13 @@
 {"time": 1747221326, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1747221333, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
+{"time": 1747283342, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1747283349, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（）"}
+{"time": 1747283350, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "什么情况"}
+{"time": 1747283352, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（还有鸽子系统）"}
+{"time": 1747283364, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(是的)"}
+{"time": 1747283368, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（沉思"}
+{"time": 1747283368, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我删了吧)"}
+{"time": 1747283371, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（这个鸽子我感觉应该先关）"}
+{"time": 1747283373, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "这玩意怎么开的"}
+{"time": 1747283376, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（有ob）"}
+{"time": 1747283380, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log end"}
