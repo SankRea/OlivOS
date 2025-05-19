@@ -3,15 +3,17 @@
         "userId": "140815332",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1747385374,
+        "lastHit": 1747649142,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": "log_7e82a8fa-ff25-4f7c-aeaa-a141f3e8a437",
             "groupObList": [
                 "fb59617e7f721a24ebf8abc87a492cb0",
                 "3df6163e82887700307df774876a21c5",
                 "9c6568244a793d56ec057080163490f0"
-            ]
+            ],
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
         }
     }
 }

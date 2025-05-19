@@ -540,3 +540,7 @@
 {"time": 1747400305, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（希腊奶 感觉开不起来）"}
 {"time": 1747400309, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "(因为我在写作业"}
 {"time": 1747400313, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1747465135, "type": "reply", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1747465138, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1747465749, "type": "reply", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1747465755, "type": "recv", "dect": {"host_id": null, "group_id": "979367137", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".log off"}
