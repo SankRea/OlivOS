@@ -29,10 +29,10 @@
                 {
                     "op": "+"
                 },
-                160
+                1
             ],
-            "RDRecordRaw": "d+160",
-            "RDRecordInt": 178,
+            "RDRecordRaw": "d+1",
+            "RDRecordInt": 19,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -71,6 +71,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747729461
+        "lastHit": 1747732422
     }
 }
