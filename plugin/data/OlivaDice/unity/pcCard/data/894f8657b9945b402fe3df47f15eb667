@@ -3866,7 +3866,10 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "HP": 11,
+        "生命值": 11,
+        "HITPOINTS": 11
     },
     "郝茂": {
         "STR": 45,

@@ -3,20 +3,54 @@
         "configNote": {
             "userName": "残阳亦旭.艾蕾王ver",
             "RDRecord": [
+                10,
+                {
+                    "op": "+"
+                },
                 {
                     "result": [
                         [
-                            69
+                            1,
+                            1
                         ],
                         [],
                         [
-                            69
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 2,
+                        "r": 3,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            2,
+                            3,
+                            1,
+                            4
+                        ],
+                        [],
+                        [
+                            10
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 4,
+                        "r": 4,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +61,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 69,
-            "RDRecordSkillInt": 60
+            "RDRecordRaw": "10+2d3+4d4",
+            "RDRecordInt": 22,
+            "RDRecordSkillInt": null
         },
         "userId": "2739405262",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747751075
+        "lastHit": 1747838975
     }
 }
