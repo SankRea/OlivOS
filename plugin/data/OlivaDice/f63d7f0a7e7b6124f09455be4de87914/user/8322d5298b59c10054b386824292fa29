@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "菲菲",
+            "userName": "残阳亦旭.艾蕾王ver",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            60
+                            54
                         ],
                         [],
                         [
-                            60
+                            54
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 60,
-            "RDRecordSkillInt": 80
+            "RDRecordInt": 54,
+            "RDRecordSkillInt": 40
         },
-        "userId": "778644670",
+        "userId": "1769531556",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1747904475
+        "lastHit": 1747918142
     }
 }
