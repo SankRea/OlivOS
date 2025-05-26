@@ -1871,3 +1871,6 @@
 {"time": 1745769152, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(因为我要睡觉了)"}
 {"time": 1745769159, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哎我讨厌你）"}
 {"time": 1745769163, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}
+{"time": 1747998259, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1747998259, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1558524070"}, "sender": {"id": "1558524070", "name": "诗铃"}, "message": "开始记录日志"}
+{"time": 1747998266, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

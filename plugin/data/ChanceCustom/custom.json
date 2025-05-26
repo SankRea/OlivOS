@@ -171,6 +171,14 @@
                 "matchPlace": "1",
                 "priority": 0,
                 "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\fate\\saber\\宝具咏唱.wav]"
+            },
+            "ex咖喱棒": {
+                "key": "ex咖喱棒",
+                "division": "1",
+                "matchType": "full",
+                "matchPlace": "1",
+                "priority": 0,
+                "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\fate\\saber\\ex咖喱棒.mp3]\n"
             }
         },
         "71f2abf19586d07c383d3aa9e328c7d1": {

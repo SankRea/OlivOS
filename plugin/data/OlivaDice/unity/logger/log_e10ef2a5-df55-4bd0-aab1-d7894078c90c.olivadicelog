@@ -425,3 +425,25 @@
 {"time": 1746115110, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "？"}
 {"time": 1746115116, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "没什么loot"}
 {"time": 1746115124, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "血"}
+{"time": 1748004285, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。r"}
+{"time": 1748004285, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]演奏出: 1D100=92"}
+{"time": 1748004289, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra侦查"}
+{"time": 1748004289, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[侦查:83]检定: 1D100=39 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1748004350, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你发现画是可以拿下来的，画框是可以拆卸的"}
+{"time": 1748004665, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "拿下来了"}
+{"time": 1748004666, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "然后呢"}
+{"time": 1748004670, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（别急）"}
+{"time": 1748004675, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（有东西要处理）"}
+{"time": 1748004748, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra聆听"}
+{"time": 1748004748, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[聆听:70]检定: 1D100=91 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1748005498, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "？"}
+{"time": 1748005501, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "小龙女何意"}
+{"time": 1748005530, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "别问我"}
+{"time": 1748008768, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。ra聆听"}
+{"time": 1748008768, "type": "reply", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[瑞依]进行技能[聆听:70]检定: 1D100=10 极难成功，流水落花春去也，天上人间"}
+{"time": 1748008832, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你听到书房方向传来脚步"}
+{"time": 1748012821, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "向lcy发难咯"}
+{"time": 1748012823, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "吞！"}
+{"time": 1748012852, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（这么吞？）"}
+{"time": 1748012861, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "（没所谓吧）"}
+{"time": 1748012861, "type": "recv", "dect": {"host_id": null, "group_id": "1043963922", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（也行）"}

@@ -324,3 +324,59 @@
 {"time": 1746114069, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（hp+1吧先）"}
 {"time": 1746114108, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st hp-11"}
 {"time": 1746114108, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]的人物卡已更新:\n[HP]: 14-11=3"}
+{"time": 1748004199, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra侦查"}
+{"time": 1748004199, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[侦查:80]检定: 1D100=41 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1748004361, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你发现画是可以拿下来的，画框是可以拆卸的"}
+{"time": 1748004710, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra聆听"}
+{"time": 1748004710, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[聆听:60]检定: 1D100=18 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1748004846, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你听到了丹尼尔所在的地方有什么东西轻微的落地声，并不明显"}
+{"time": 1748004943, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "大概，也许，是裙下"}
+{"time": 1748004974, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(他不会是)"}
+{"time": 1748004977, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(大失败吧)"}
+{"time": 1748004980, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那真的)"}
+{"time": 1748004983, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(超级厉害了)"}
+{"time": 1748005612, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "([CQ:at,qq=825734198] )"}
+{"time": 1748005616, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我说实话)"}
+{"time": 1748005623, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我已经忘了我的推论了)"}
+{"time": 1748005631, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（好的）"}
+{"time": 1748005638, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(但是我翻了翻我的聊天记录)"}
+{"time": 1748005642, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(伊拉诺应该是)"}
+{"time": 1748005646, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(修格斯吧)"}
+{"time": 1748005665, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这一屋子里，好像只有小龙女最低...)"}
+{"time": 1748008680, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra聆听"}
+{"time": 1748008680, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[聆听:60]检定: 1D100=19 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1748008705, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "你听到书房方向传来脚步"}
+{"time": 1748010777, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*摸索着起身"}
+{"time": 1748010792, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我是要干大事的人)"}
+{"time": 1748010802, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*检查二楼是否有窗户"}
+{"time": 1748011030, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "有"}
+{"time": 1748011061, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那我现在还能开枪吗）"}
+{"time": 1748011068, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我要朝着窗户开枪）"}
+{"time": 1748011077, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（不能丢了乐子人的本分）"}
+{"time": 1748011078, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（可以）"}
+{"time": 1748011087, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra手枪80"}
+{"time": 1748011087, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[亚纳·斯沃]进行技能[手枪:80]检定: 1D100=14 极难成功，流水落花春去也，天上人间"}
+{"time": 1748011105, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*朝着窗户外的树枝射击"}
+{"time": 1748011130, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“啊啊啊啊，好多丧尸啊！”"}
+{"time": 1748011165, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "慢慢往次卧移动，顺便看看这里面有没有什么值得注意的东西"}
+{"time": 1748011222, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（慢慢是怎么个慢慢）"}
+{"time": 1748011242, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（因为我快不了，尽可能走过去）"}
+{"time": 1748011243, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "这个卧室里全是诺登斯的痕迹"}
+{"time": 1748011260, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“真是臭傻逼，整这么一出臭地方”"}
+{"time": 1748011278, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(侦察？)"}
+{"time": 1748011355, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（没有什么好注意的）"}
+{"time": 1748011380, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“他们应该在欢乐的追逐战”"}
+{"time": 1748011384, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“真羡慕”"}
+{"time": 1748011535, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*去其他卧室看看"}
+{"time": 1748011546, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*客卧有没有什么值得注意的"}
+{"time": 1748011585, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（不急）"}
+{"time": 1748011587, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（wait）"}
+{"time": 1748011636, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*如果没有什么注意的就准备下楼看看是什么事"}
+{"time": 1748012159, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（是不是，没有我什么事了）"}
+{"time": 1748012183, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（因为我觉得你们肯定会撞上）"}
+{"time": 1748012789, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "响枪了"}
+{"time": 1748012793, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "书房方向"}
+{"time": 1748012806, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*往书房走"}
+{"time": 1748012814, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*持枪"}
+{"time": 1748014031, "type": "recv", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st show"}
+{"time": 1748014031, "type": "reply", "dect": {"host_id": null, "group_id": "1043962789", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡[亚纳·斯沃]:\n<技能>\n会计:5 人类学:1 估价:5 考古学:1 取悦:65 攀爬:20 计算机使用:5 信用:40 克苏鲁神话:0 乔装:5 汽车驾驶:20 电气维修:10 电子学:1 话术:5 急救:30 历史:5 恐吓:15 跳跃:20 法律:5 图书馆:20 [*]聆听:60 锁匠:1 [*]机械维修:60 医学:1 博物:10 导航:10 神秘学:5 操作重型机械:1 说服:10 精神分析:71 心理学:10 骑乘:5 妙手:10 [*]侦查:80 潜行:60 游泳:20 投掷:20 追踪:10 驯兽:5 潜水:1 爆破:1 读唇:1 催眠:1 炮术:1 [*]闪避:60 母语:80\n<属性>\n力量:75 敏捷:85 意志:45 SAN:45 SANMAX:45 MP:9 MPMAX:9 体质:70 外貌:20 教育:80 体型:75 HP:3 HPMAX:14 智力:75 幸运:80\n<其它>\n灵感:75 SAN值:45 理智值:45 运气:80 体力:14 汽车:20 驾驶:20 斗殴:72 [*]手枪:80 开锁:1 撬锁:1 重型操作:1 重型机械:1 重型:1 生存:10 DEC:0"}

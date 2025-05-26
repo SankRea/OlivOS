@@ -3830,3 +3830,749 @@
 {"time": 1747913294, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(感觉这个格子游戏应该很不赖)"}
 {"time": 1747913296, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（好啊）"}
 {"time": 1747913297, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".log off"}
+{"time": 1748160377, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1748160389, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（go）"}
+{"time": 1748160396, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（gogogo出发咯"}
+{"time": 1748160423, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（主持人先投吧毕竟是奈亚先走的）"}
+{"time": 1748160429, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（有道理）"}
+{"time": 1748160439, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=-668174052][CQ:at,qq=2308147361]  "}
+{"time": 1748160450, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748160450, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=1"}
+{"time": 1748160463, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:image,file=5f5f1e9b83268dc1c3d16c0d5a5dcb70.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhT9e0hrMMX8Mz1-n4eOCyuLoydbjRj-vQQg_woo-cOJm5W-jQMyBHByb2RQgL2jAVoQ_rOcL7lMbUtUbE5g67JvAXoCE9w&amp;spec=0&amp;rkey=CAESMHRVSGpjtuhEOVpsuow8MQnA9nZeov3FrO4GU6lFOjNkjHz8lZfzYttWnjF3_z8zwA]"}
+{"time": 1748160471, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚走到了1，现在轮ho1了）"}
+{"time": 1748160482, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "奈雅浩浩荡荡地跑出了一小段距离"}
+{"time": 1748160519, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你们的最终目标就是比他快一步到终点）"}
+{"time": 1748160531, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:at,qq=778644670] "}
+{"time": 1748160541, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（来个d6）"}
+{"time": 1748160544, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "!"}
+{"time": 1748160558, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".1d6"}
+{"time": 1748160571, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748160571, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=4"}
+{"time": 1748160581, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（ho1来到了4）"}
+{"time": 1748160596, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（然后是22？）"}
+{"time": 1748160611, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748160611, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=3"}
+{"time": 1748160613, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你说的按ho顺序来）"}
+{"time": 1748160625, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "奖励格"}
+{"time": 1748160626, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（好，ho3然后骰奖励事件）"}
+{"time": 1748160646, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（骰1d7？）"}
+{"time": 1748160655, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（d5"}
+{"time": 1748160673, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（草他怎么4接着7）"}
+{"time": 1748160676, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d5"}
+{"time": 1748160676, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D5=5"}
+{"time": 1748160697, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:image,file=24a150631c1ef710d8b31e874c438977.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQCkr8GZ1856gggcj61PWQXA9k2WxiYdCD_CijylKeKlr6NAzIEcHJvZFCAvaMBWhBtT9hSXLpx2ozkbAZD3K2TegLXRw&amp;spec=0&amp;rkey=CAESMHRVSGpjtuhEOVpsuow8MQnA9nZeov3FrO4GU6lFOjNkjHz8lZfzYttWnjF3_z8zwA]"}
+{"time": 1748160699, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（投掷教育鼓励你的一个队友过来和你进行一次成语接龙）"}
+{"time": 1748160713, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你把三或四拉过来都行）"}
+{"time": 1748160739, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。ra教育"}
+{"time": 1748160739, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]进行技能[教育:80]检定: 1D100=74 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1748160741, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（也可以把ho1从4拉到3（））"}
+{"time": 1748160759, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（！！！）"}
+{"time": 1748160803, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那我把卧槽拉过来吧）"}
+{"time": 1748160872, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（ho3来到了3，现在轮到ho3投掷？话说这种会不会触发奖励卡）"}
+{"time": 1748160881, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（应该不会吧）"}
+{"time": 1748160999, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（不会）"}
+{"time": 1748161020, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我在想那个最后一名可以额外前进五格）"}
+{"time": 1748161026, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748161026, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=2"}
+{"time": 1748161033, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那现在ho3掷投）"}
+{"time": 1748161036, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（好吧，不前进）"}
+{"time": 1748161050, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（是的，一个D6）"}
+{"time": 1748161054, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:at,qq=1370316409] "}
+{"time": 1748161062, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd6"}
+{"time": 1748161062, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=2"}
+{"time": 1748161076, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(可惜)"}
+{"time": 1748161079, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（到了第二格，然后是伊万"}
+{"time": 1748161087, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（现在奈亚1，卧槽5，郝总4，铃兰3）"}
+{"time": 1748161091, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748161091, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=3"}
+{"time": 1748161099, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d5"}
+{"time": 1748161099, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D5=2"}
+{"time": 1748161112, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。ra幸运"}
+{"time": 1748161112, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]进行技能[幸运:35]检定: 1D100=78 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1748161138, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（话说第五格好像是惩罚事件）"}
+{"time": 1748161147, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我是第二格吧)"}
+{"time": 1748161151, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我还没来得及看呢，你就过了）"}
+{"time": 1748161165, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（铃兰把你拉到3了）"}
+{"time": 1748161168, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=1372195162][CQ:at,qq=1370316409] [CQ:at,qq=1370316409] （你不是第二格，刚刚林兰过了一个技能，把你拉到了他同等的第三格"}
+{"time": 1748161176, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（抱歉，我急了）"}
+{"time": 1748161178, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那惩罚我看看是什么来着)"}
+{"time": 1748161180, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（第三格是奖励，但是由于你是被拉过去的，不触发，所以你现在应该丢惩罚"}
+{"time": 1748161189, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:image,file=f53759bfcb5817d37532fc114b0607b3.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQGQrkdjK2qYjfBHKCcbPGaJIUZPRjrkhAg_woohou89Ze-jQMyBHByb2RQgL2jAVoQ6uMx5MJQ-yOmKerQ9BVja3oC-9U&amp;spec=0&amp;rkey=CAESMHRVSGpjtuhEOVpsuow8MQnA9nZeov3FrO4GU6lFOjNkjHz8lZfzYttWnjF3_z8zwA]"}
+{"time": 1748161193, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（rd5"}
+{"time": 1748161196, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你丢"}
+{"time": 1748161199, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd5"}
+{"time": 1748161199, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D5=3"}
+{"time": 1748161212, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你要用你的技能吗？"}
+{"time": 1748161214, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st show 心理学"}
+{"time": 1748161214, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]的[心理学]: 55"}
+{"time": 1748161231, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（3号惩罚卡是黑道，你可以抵消"}
+{"time": 1748161232, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我直接明骰吧？)"}
+{"time": 1748161236, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（欧克"}
+{"time": 1748161237, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不用)"}
+{"time": 1748161241, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你技能可以抵消的）"}
+{"time": 1748161241, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra心理学"}
+{"time": 1748161241, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]进行技能[心理学:55]检定: 1D100=51 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1748161246, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(自信)"}
+{"time": 1748161249, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(即巅峰)"}
+{"time": 1748161267, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(其实是想试试)"}
+{"time": 1748161268, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你看破了谜语人的谜语谜语人讪讪的离去了"}
+{"time": 1748161275, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那现在轮奈亚了？）"}
+{"time": 1748161298, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（伊万你不走吗？）"}
+{"time": 1748161352, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（已经走了（））"}
+{"time": 1748161358, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我急匆匆的走了）"}
+{"time": 1748161463, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（又要到郝总我啦）"}
+{"time": 1748161551, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748161551, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=2"}
+{"time": 1748161569, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（第三格，欧克郝总）"}
+{"time": 1748161580, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（奈雅不触发奖励和惩罚，只触发他自己的专属事件）"}
+{"time": 1748161650, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748161650, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=2"}
+{"time": 1748161670, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（第六格）"}
+{"time": 1748161689, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（对！）"}
+{"time": 1748161707, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（22"}
+{"time": 1748161710, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（轮ho2了）"}
+{"time": 1748161712, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748161712, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=3"}
+{"time": 1748161720, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（也是第六格）"}
+{"time": 1748161725, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".r1d6"}
+{"time": 1748161725, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=2"}
+{"time": 1748161729, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（还凑上了）"}
+{"time": 1748161735, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（第七格）"}
+{"time": 1748161741, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(没有触发)"}
+{"time": 1748161742, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748161742, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=1"}
+{"time": 1748161771, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（伊万刚刚到第几格来着？好像是3）"}
+{"time": 1748161783, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（现在我是第四格）"}
+{"time": 1748161793, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（平和的议论"}
+{"time": 1748161797, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（一轮"}
+{"time": 1748161804, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748161804, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=6"}
+{"time": 1748161811, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（哇）"}
+{"time": 1748161821, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（现在直接第九格了）"}
+{"time": 1748161830, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（好快）"}
+{"time": 1748161838, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d3"}
+{"time": 1748161838, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D3=2"}
+{"time": 1748161866, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "摧毁外援帮助，郝世嘉下一次行动时减少两点移动"}
+{"time": 1748161872, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哈哈)"}
+{"time": 1748161873, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "唔！"}
+{"time": 1748161899, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748161899, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=6"}
+{"time": 1748161904, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（哇）"}
+{"time": 1748161911, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（移动4那就是10？）"}
+{"time": 1748161923, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(刚好)"}
+{"time": 1748161928, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(错过惩罚)"}
+{"time": 1748161933, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（对，刚好避开惩罚）"}
+{"time": 1748161973, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那到我了）"}
+{"time": 1748161988, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚9，ho1是10，ho2现在6，ho3是7，ho4是4）"}
+{"time": 1748161999, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748161999, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=2"}
+{"time": 1748162025, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（八是事件（））"}
+{"time": 1748162028, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（事件）"}
+{"time": 1748162054, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（d5"}
+{"time": 1748162060, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d5"}
+{"time": 1748162060, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D5=2"}
+{"time": 1748162078, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（所有人包括奈亚吗？）"}
+{"time": 1748162098, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（好问题"}
+{"time": 1748162103, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748162103, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=2"}
+{"time": 1748162108, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（不包括"}
+{"time": 1748162121, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".r1d6"}
+{"time": 1748162121, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=6"}
+{"time": 1748162127, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那我现在是10开始)"}
+{"time": 1748162129, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚9，ho1是13，ho2现在11，ho3是16，ho4是7）"}
+{"time": 1748162131, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那我到16了)"}
+{"time": 1748162161, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748162161, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=3"}
+{"time": 1748162169, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（哇哦16了）"}
+{"time": 1748162174, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我来到了10）"}
+{"time": 1748162207, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（刚刚重新看了一下，好像我数错了九号格应该是奖励）"}
+{"time": 1748162214, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（）"}
+{"time": 1748162216, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那郝世嘉+2进度）"}
+{"time": 1748162228, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748162228, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=1"}
+{"time": 1748162235, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748162235, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=6"}
+{"time": 1748162238, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那他还需要有个惩罚事件啊（））"}
+{"time": 1748162262, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（15"}
+{"time": 1748162264, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（补充还是略过啊）"}
+{"time": 1748162274, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（补充？看看"}
+{"time": 1748162277, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（嘿嘿"}
+{"time": 1748162287, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚15，ho1是15，ho2现在11，ho3是16，ho4是10）"}
+{"time": 1748162291, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（嗯嗯？惩罚？）"}
+{"time": 1748162293, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（好快啊）"}
+{"time": 1748162300, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（5"}
+{"time": 1748162303, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（d5"}
+{"time": 1748162303, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（郝总过惩罚事件吧？1d5）"}
+{"time": 1748162314, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d5"}
+{"time": 1748162314, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D5=3"}
+{"time": 1748162326, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（笑死了，看不透的黑道"}
+{"time": 1748162329, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（骰心理学）"}
+{"time": 1748162333, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".ra心理学"}
+{"time": 1748162333, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]进行技能[心理学:10]检定: 1D100=46 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1748162342, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（这玩意过了和没过似的"}
+{"time": 1748162345, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（怎么偏偏是这个……）"}
+{"time": 1748162346, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（失败减2（））"}
+{"time": 1748162347, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（-2"}
+{"time": 1748162353, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那没有变化了）"}
+{"time": 1748162360, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（那不呆原地）"}
+{"time": 1748162372, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（兜兜转转又是10）"}
+{"time": 1748162375, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(总裁累了休息一下怎么你了)"}
+{"time": 1748162376, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚15，ho1是13，ho2现在11，ho3是16，ho4是10）"}
+{"time": 1748162383, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你现在还没骰骰子）"}
+{"time": 1748162386, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你还能动）"}
+{"time": 1748162400, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（哈哈哈哈）"}
+{"time": 1748162430, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（这个惩罚是补充之前的（））"}
+{"time": 1748162481, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748162481, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=5"}
+{"time": 1748162506, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（完美！）"}
+{"time": 1748162526, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（18"}
+{"time": 1748162537, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（22上"}
+{"time": 1748162546, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748162546, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=6"}
+{"time": 1748162562, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚15，ho1是18，ho2现在17，ho3是16，ho4是10）"}
+{"time": 1748162569, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（现在轮到事件了）"}
+{"time": 1748162569, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（又是事件）"}
+{"time": 1748162576, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d5"}
+{"time": 1748162576, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D5=5"}
+{"time": 1748162588, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（笑死我了"}
+{"time": 1748162597, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（所有人后退一格"}
+{"time": 1748162606, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那这个所有人包括奈亚吗）"}
+{"time": 1748162610, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（陆氏豆腐渣工程"}
+{"time": 1748162616, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748162616, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=1"}
+{"time": 1748162621, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（包括"}
+{"time": 1748162623, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（陆氏你怎么施工的）"}
+{"time": 1748162629, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（很平等啊哈）"}
+{"time": 1748162635, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我还是没触发任何东西)"}
+{"time": 1748162637, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(乐)"}
+{"time": 1748162638, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（难怪破产）"}
+{"time": 1748162661, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚14，ho1是17，ho2现在16，ho3是15，ho4是9）"}
+{"time": 1748162675, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（来33）"}
+{"time": 1748162681, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".r1d6"}
+{"time": 1748162681, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=4"}
+{"time": 1748162699, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（无事发生）"}
+{"time": 1748162704, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748162704, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=1"}
+{"time": 1748162711, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(卧槽的含金量)"}
+{"time": 1748162711, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(依旧平稳落地)"}
+{"time": 1748162726, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚14，ho1是17，ho2现在16，ho3是19，ho4是10）"}
+{"time": 1748162739, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（麻木了）"}
+{"time": 1748162746, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748162746, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=4"}
+{"time": 1748162755, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（加油啊，扫地的大哥哥）"}
+{"time": 1748162756, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（下一个11"}
+{"time": 1748162766, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748162766, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=1"}
+{"time": 1748162766, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（话说没人用技能吗？）"}
+{"time": 1748162771, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你们有专属技能的"}
+{"time": 1748162773, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（暂时还找不到用的地方）"}
+{"time": 1748162777, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（可能是我带着的郝多遇和华姨太重了吧）"}
+{"time": 1748162803, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚18，ho1是18，ho2现在16，ho3是19，ho4是10）"}
+{"time": 1748162806, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（诶，那我用个试试）"}
+{"time": 1748162825, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你用的话就立刻前进三格"}
+{"time": 1748162837, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（刚好奖励格"}
+{"time": 1748162846, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（用！好像落奖励格）"}
+{"time": 1748162849, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（伊万也是一个主动技能，他可以追加一个d6"}
+{"time": 1748162859, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（现在不想用）"}
+{"time": 1748162860, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "(+3+3）"}
+{"time": 1748162863, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那你奖励d五吧"}
+{"time": 1748162876, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d5"}
+{"time": 1748162876, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D5=5"}
+{"time": 1748162882, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:reply,id=1937188577][CQ:at,qq=1048159267] （我才10前面差不多啥都没有）"}
+{"time": 1748162893, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（过教育，然后成功的话成语接龙"}
+{"time": 1748162898, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:image,file=b0822727a7531ed949fdbe412a91be06.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTdV_slGCY9SVkKSnc9O1mmT-8iXhi5uwog_woo56r1o56-jQMyBHByb2RQgL2jAVoQswdfzmiYB0I44K8sssoyJHoC5Lw&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748162919, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".ra教育"}
+{"time": 1748162919, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]进行技能[教育:85]检定: 1D100=96 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1748162924, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（哈哈哈）"}
+{"time": 1748162930, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "[CQ:image,file=961b77f59edf5d3deaa97cd740ff935b.image,subType=7,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSXPxjXQh9SodbI7bMShfyv-Eis0RiruAIg_woo06LBs56-jQMyBHByb2RQgL2jAVoQg088VNjRp1mYcxZ1o0owEnoC3do&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748162932, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（这就很难崩了）"}
+{"time": 1748162960, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（郝总从迷药中醒来，发现之前的学业什么都想不起来了——）"}
+{"time": 1748162961, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（"}
+{"time": 1748162980, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(符合总裁文的教育水平)"}
+{"time": 1748162985, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（笑死我了）"}
+{"time": 1748163001, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那顺利的，下一个22"}
+{"time": 1748163004, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（搓手"}
+{"time": 1748163010, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748163010, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=1"}
+{"time": 1748163030, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚18，ho1是21，ho2现在17，ho3是19，ho4是10）"}
+{"time": 1748163038, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（事件"}
+{"time": 1748163040, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那我又是事件）"}
+{"time": 1748163047, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（抽d5吧"}
+{"time": 1748163048, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（别前进一步再退一步）"}
+{"time": 1748163050, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（刚才退了一现在又进1唉）"}
+{"time": 1748163055, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（求求了）"}
+{"time": 1748163060, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d5"}
+{"time": 1748163060, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D5=1"}
+{"time": 1748163091, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（发现了隐藏路线（））"}
+{"time": 1748163095, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那这个算踩惩罚吗？）"}
+{"time": 1748163100, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（前进三格！）"}
+{"time": 1748163102, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（立刻前进三格"}
+{"time": 1748163120, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（落到惩罚，但是不触发"}
+{"time": 1748163131, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚18，ho1是21，ho2现在20，ho3是19，ho4是10）"}
+{"time": 1748163139, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（33"}
+{"time": 1748163154, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd6"}
+{"time": 1748163154, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=2"}
+{"time": 1748163183, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd5"}
+{"time": 1748163183, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D5=3"}
+{"time": 1748163192, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra侦查"}
+{"time": 1748163192, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]进行技能[侦查:80]检定: 1D100=99 大失败！拟歌先敛，欲笑还颦，最断人肠"}
+{"time": 1748163197, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（？）"}
+{"time": 1748163204, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（原来黑道是）"}
+{"time": 1748163205, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（蚌埠"}
+{"time": 1748163206, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（瞎子）"}
+{"time": 1748163213, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我感觉小雅就是邪恶）"}
+{"time": 1748163224, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（今天的小雅很邪恶）"}
+{"time": 1748163241, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（轮到我了？）"}
+{"time": 1748163243, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（44"}
+{"time": 1748163251, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748163251, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=4"}
+{"time": 1748163265, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（事件卡）"}
+{"time": 1748163274, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（抽吧"}
+{"time": 1748163281, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d5"}
+{"time": 1748163281, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D5=2"}
+{"time": 1748163298, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（又是所有人前进三格"}
+{"time": 1748163302, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748163302, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=1"}
+{"time": 1748163316, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（诶，那这个）"}
+{"time": 1748163318, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那我是不是踩到惩罚了）"}
+{"time": 1748163329, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚21，ho1是24，ho2现在23，ho3是22，ho4是17）"}
+{"time": 1748163345, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（33抽一下看看）"}
+{"time": 1748163351, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（那我也）"}
+{"time": 1748163363, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd5"}
+{"time": 1748163363, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D5=1"}
+{"time": 1748163364, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（24惩罚"}
+{"time": 1748163374, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我还是事件（））"}
+{"time": 1748163379, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我身后是谁）"}
+{"time": 1748163382, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我继续抽吗）"}
+{"time": 1748163391, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你身后是我）"}
+{"time": 1748163400, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（不对我身后没人）"}
+{"time": 1748163405, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（所以我退后三格）"}
+{"time": 1748163410, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（1万不是比你慢吗？"}
+{"time": 1748163415, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那我现在又到奖励格了）"}
+{"time": 1748163420, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我要身后一格吧）"}
+{"time": 1748163421, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（是我啊）"}
+{"time": 1748163436, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（这个身后是指你是不是末尾吧）"}
+{"time": 1748163438, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那你在哪）"}
+{"time": 1748163443, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我看看）"}
+{"time": 1748163446, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（17）"}
+{"time": 1748163462, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那我从24到16了）"}
+{"time": 1748163465, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我们好像）"}
+{"time": 1748163467, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（先看一下他的事件抽到什么东西先）"}
+{"time": 1748163469, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（完蛋了）"}
+{"time": 1748163475, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（伊万上"}
+{"time": 1748163475, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d5"}
+{"time": 1748163475, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D5=5"}
+{"time": 1748163486, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（倒退）"}
+{"time": 1748163490, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "豆腐渣工程所有人后退一格啊"}
+{"time": 1748163504, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（有奈亚吗）"}
+{"time": 1748163507, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我到15了）"}
+{"time": 1748163511, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（没绷住）"}
+{"time": 1748163511, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d2"}
+{"time": 1748163511, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D2=2"}
+{"time": 1748163515, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（"}
+{"time": 1748163516, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（啧，这建了多少豆腐渣工程啊）"}
+{"time": 1748163519, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没有"}
+{"time": 1748163541, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚21，ho1是23，ho2现在22，ho3是16，ho4是16（这样吗））"}
+{"time": 1748163546, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（23是奖励22可以抽一下奖励"}
+{"time": 1748163553, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（卧槽为啥要后退啊）"}
+{"time": 1748163569, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（嘶，有点混乱了）"}
+{"time": 1748163587, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（是有点……）"}
+{"time": 1748163595, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d5"}
+{"time": 1748163595, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D5=3"}
+{"time": 1748163598, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你原本23是因为我的事件所以变成了22，你的23那个格子还没有触发）"}
+{"time": 1748163638, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。ra侦查"}
+{"time": 1748163638, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]进行技能[侦查:80]检定: 1D100=19 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1748163643, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我原本是24)"}
+{"time": 1748163645, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（22的优先级是在你们行动的同一轮）"}
+{"time": 1748163647, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我比你前)"}
+{"time": 1748163656, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(所以我的惩罚触发了)"}
+{"time": 1748163669, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(直接退到我身后那个人的身后)"}
+{"time": 1748163672, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你惩罚到了和我同一个格子，身后有人到他身边）"}
+{"time": 1748163691, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:image,file=45a2d1ca6839d345f68eb8b542f4edbb.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQ7OD7APTSb3i8JMBiu3jemLTw6eRiofCD_CiiVoLaeob6NAzIEcHJvZFCAvaMBWhDJzyVfV26YW0LJwAGx9_90egIjKw&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748163694, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（22加个1d6"}
+{"time": 1748163700, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（后一个人的身边）"}
+{"time": 1748163701, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哦哦)"}
+{"time": 1748163702, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748163702, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=5"}
+{"time": 1748163702, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(身边)"}
+{"time": 1748163704, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(没事了)"}
+{"time": 1748163712, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（前进五格"}
+{"time": 1748163726, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（事件）"}
+{"time": 1748163729, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（但是由于下一次事件后退了一格"}
+{"time": 1748163741, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（奈亚21，ho1是23，ho2现在27，ho3是16，ho4是16）"}
+{"time": 1748163746, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我现在用我的技能）"}
+{"time": 1748163757, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（22应该是+4"}
+{"time": 1748163766, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那就26）"}
+{"time": 1748163772, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（哈哈腰子我来啦）"}
+{"time": 1748163781, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "&#91;闹腾&#93;"}
+{"time": 1748163799, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:reply,id=-738542787][CQ:at,qq=2308147361] （22是我已经算了后退的）"}
+{"time": 1748163802, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（23+4=27"}
+{"time": 1748163824, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（啊你的22是指铃兰啊（））"}
+{"time": 1748163828, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（对啊"}
+{"time": 1748163840, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我以为是22格）"}
+{"time": 1748163873, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "[CQ:image,file=961b77f59edf5d3deaa97cd740ff935b.image,subType=7,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSXPxjXQh9SodbI7bMShfyv-Eis0RiruAIg_woouYuC9aG-jQMyBHByb2RQgL2jAVoQYrldSYRm27CMffpsX0nB5noCC6E&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748163903, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没事，33骰）"}
+{"time": 1748163907, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（下一个）"}
+{"time": 1748163924, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（额？）"}
+{"time": 1748163925, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd6"}
+{"time": 1748163925, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D6=1"}
+{"time": 1748163930, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（"}
+{"time": 1748163935, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd5"}
+{"time": 1748163935, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D5=1"}
+{"time": 1748163948, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（算了我不说话了）"}
+{"time": 1748163953, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（到20了）"}
+{"time": 1748163953, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（前进到20"}
+{"time": 1748163958, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（惩罚了）"}
+{"time": 1748163961, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=145718410][CQ:at,qq=1048159267] （[CQ:at,qq=1048159267] 没事啊"}
+{"time": 1748163962, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（难绷）"}
+{"time": 1748163964, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd5"}
+{"time": 1748163964, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[卧槽]演奏出: 1D5=2"}
+{"time": 1748163973, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（没事没事）"}
+{"time": 1748163973, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没这一次不触发）"}
+{"time": 1748163979, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*使用技能"}
+{"time": 1748163983, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（还行）"}
+{"time": 1748164081, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（因为你是事件格子落过去的好像…他这个规则好像写的是重复触发，但是我们刚才算的是落地之后也不触发了）"}
+{"time": 1748164108, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（所以这一轮就算他不触发，然后44来？）"}
+{"time": 1748164125, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那我投了？）"}
+{"time": 1748164134, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（点头"}
+{"time": 1748164140, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748164140, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=4"}
+{"time": 1748164175, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（16+4是20）"}
+{"time": 1748164186, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（惩罚骰）"}
+{"time": 1748164199, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（惩罚事件）"}
+{"time": 1748164205, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（d5）"}
+{"time": 1748164211, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d5"}
+{"time": 1748164211, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D5=5"}
+{"time": 1748164222, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。ra体质"}
+{"time": 1748164222, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]进行技能[体质:50]检定: 1D100=3 大成功！众里寻他千百度，蓦然回首，那人却在灯火阑珊处"}
+{"time": 1748164240, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:image,file=054e0a0703185946cfd1d206a211a584.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSzrOjJC6jKZeb_0vwpR2kQrESVqxiQCiD_Cijzu_2jo76NAzIEcHJvZFCAvaMBWhADIF2j1ZtVk7DhdQyBdtrNegJHHA&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748164246, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（在奇怪的地方大成功了）"}
+{"time": 1748164260, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（喜欢吗，小雅）"}
+{"time": 1748164284, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（好啊小雅！）"}
+{"time": 1748164317, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（话说我现在想用我的技能也就是额外前进）"}
+{"time": 1748164338, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（话说我现在想用我的技能也就是额外追加前进1d6）"}
+{"time": 1748164347, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（是的（竖手指）"}
+{"time": 1748164356, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那我用了？）"}
+{"time": 1748164416, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d6"}
+{"time": 1748164416, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D6=6"}
+{"time": 1748164433, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（26还是惩罚）"}
+{"time": 1748164444, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。r1d5"}
+{"time": 1748164444, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]演奏出: 1D5=4"}
+{"time": 1748164463, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。ra意志"}
+{"time": 1748164463, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]进行技能[意志:65]检定: 1D100=42 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1748164496, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:reply,id=-977652497][CQ:at,qq=1048159267] （因为好饿还没吃饭投掷的）"}
+{"time": 1748164535, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我刚装了晚饭）"}
+{"time": 1748164545, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（确实有点饿ingg"}
+{"time": 1748164558, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我也饿了）"}
+{"time": 1748164561, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".r1d6"}
+{"time": 1748164561, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[晋江文学审核Promax]演奏出: 1D6=3"}
+{"time": 1748164564, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（今天还没吃饭）"}
+{"time": 1748164587, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（普通的24格"}
+{"time": 1748164603, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（然后是郝总啦"}
+{"time": 1748164620, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": ".r1d6"}
+{"time": 1748164620, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[郝世嘉]演奏出: 1D6=1"}
+{"time": 1748164636, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（啧"}
+{"time": 1748164750, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（同样，24和奈亚到同一格了"}
+{"time": 1748164757, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（上，22"}
+{"time": 1748164759, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（哈哈，腰子我来啦）"}
+{"time": 1748164761, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "&#91;闹腾&#93;"}
+{"time": 1748164766, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "。r1d6"}
+{"time": 1748164766, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[臻缕祝]演奏出: 1D6=4"}
+{"time": 1748164778, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "27+4=31"}
+{"time": 1748164781, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我的腰子！)"}
+{"time": 1748164782, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（24不是惩罚吗）"}
+{"time": 1748164796, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（虽然游戏已经结束了）"}
+{"time": 1748164805, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那补个惩罚看看（）"}
+{"time": 1748164819, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（刚刚奈亚没触发我就忘了24是惩罚了）"}
+{"time": 1748164838, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（目移，没事来d5？）"}
+{"time": 1748165012, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（ww）"}
+{"time": 1748165026, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:image,file=9651b631ac900646ff976abb54a36472.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRTIxQnhXm4XGfDhGjHFvzoZ8r22xi5CyD_Cij0tvOapr6NAzIEcHJvZFCAvaMBWhDfM5w_mRg1dH2xpRevy0LXegI7eg&amp;spec=0&amp;rkey=CAESMDOVQJzXBC0_g1zCiXAkZWrE7mI_DEZ5t-bGlGyOcWiw85x_BjD8RkoaWmA5r9SocA]"}
+{"time": 1748165041, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(原本我是第一)"}
+{"time": 1748165041, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "&#91;偷看&#93;"}
+{"time": 1748165044, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(难道)"}
+{"time": 1748165046, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这就是)"}
+{"time": 1748165052, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(恶毒女配的宿命吗)"}
+{"time": 1748165057, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（悲伤）"}
+{"time": 1748165061, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（悲伤）"}
+{"time": 1748165065, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（悲伤）"}
+{"time": 1748165073, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没事，往好处想，起码你们算是一伙的）"}
+{"time": 1748165089, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那我们得加载结局了）"}
+{"time": 1748165090, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（悲伤）"}
+{"time": 1748165100, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你们需要做出一个选择啊）"}
+{"time": 1748165116, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（什么选择）"}
+{"time": 1748165123, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（什么？）"}
+{"time": 1748165141, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（什么？）"}
+{"time": 1748165162, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我先播一下CG"}
+{"time": 1748165183, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "随着臻缕祝一个飞扑抓住乱飞的天山雪莲肾宝，奈雅的结界也在一点点消失。而另一边匆匆赶到的奈雅看着这一切，沉默了许久，才把小木棒缓缓收进怀里。"}
+{"time": 1748165200, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "她看着臻缕祝，突然有点委屈地擦了擦眼睛：“我真的很想先你一步夺得秘宝带回去证明自己，那群长老整天就知道责备我修歪门邪道，还将我逐出门派，我只是和蛇说话喂猫头鹰吃灵石和师弟妹切磋的时候喊阿瓦达啃大瓜而已！”"}
+{"time": 1748165230, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“罢了，之后有的是机会证明这一点，你凭实力得到了天山雪莲肾宝，我也无话可说，这次是你们赢了，臻缕祝，你这个有趣的对手，我记住你了！从今天起你不再是我的师妹，而是我的宿敌，宿敌是不可以变成师妹的，宿敌就是宿敌，我们来日方长！”"}
+{"time": 1748165232, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(真是太悲惨了)"}
+{"time": 1748165237, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(要不然给我吧)"}
+{"time": 1748165242, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(别破坏友谊了)"}
+{"time": 1748165251, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "奈雅说着一挥袖子，陆氏集团旧址的墙壁瞬间轰然倒塌。你们看向外面，天色已经完全暗了下来，而奈雅挥手而过后，天空中突然出现了微弱的光芒。一开始只是几个亮点，聚集的越来越多，到最后变成了壮阔的流星雨，一道道划破漆黑的夜空，十分美丽。"}
+{"time": 1748165254, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（hhh"}
+{"time": 1748165270, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（喵喵喵？）"}
+{"time": 1748165289, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "随着流星雨的划过，在你们面前也出现了一些大大小小的光圈，里面显示着不同的景象。"}
+{"time": 1748165293, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（然后发现流星雨其实在向我们砸来？）"}
+{"time": 1748165298, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没哦"}
+{"time": 1748165300, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "其中最大的光圈俨然是一处秘境，山峰高耸入云，仙气飘飘，时不时有人喊着“阿哒！哼哈！”在天上飞来飞去，而在最顶峰赫然伫立一副大大的牌匾，写着《蛋黄派》。"}
+{"time": 1748165317, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（蛋黄派——）"}
+{"time": 1748165318, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（怪）"}
+{"time": 1748165320, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "臻缕祝，在看到这光圈的瞬间，你便意识到这是你们的那个世界"}
+{"time": 1748165327, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "只要踏入其中，你就可以回家了"}
+{"time": 1748165339, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那师妹怎么办）"}
+{"time": 1748165345, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "当然，你也可以选择继续留在这里，当白家的女儿，无论你做出什么选择，白雅都会跟着你"}
+{"time": 1748165348, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（她怎么回去？）"}
+{"time": 1748165353, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我能动吗）"}
+{"time": 1748165357, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "她握住了你的手，灵动的眼睛如是说道"}
+{"time": 1748165360, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我要动！）"}
+{"time": 1748165364, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（可以说话）"}
+{"time": 1748165374, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我想进那个光圈）"}
+{"time": 1748165376, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（哈哈）"}
+{"time": 1748165390, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（谦让只会让我得逞）"}
+{"time": 1748165397, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你有灵根吗你就去）"}
+{"time": 1748165421, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（我要给谦让的人一个教训）"}
+{"time": 1748165432, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（其实你有自己的结局啦（）"}
+{"time": 1748165448, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你可以和22打个商量让他把那个肾宝给你重塑肉身什么的）"}
+{"time": 1748165461, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（黑道要靠自己）"}
+{"time": 1748165463, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那没有他的腰子我怎么回去？）"}
+{"time": 1748165469, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（现在门已经开了啊）"}
+{"time": 1748165480, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（这个腰子给谁你们都是回的去的）"}
+{"time": 1748165484, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（重生：黑道大佬转生剑道修仙）"}
+{"time": 1748165488, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（原来不用腰子也能回去吗）"}
+{"time": 1748165506, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（只要拿到腰子而已（目移）"}
+{"time": 1748165518, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“虽然不知道这个肾宝有什么用，但看样子你们好像不是很需要”"}
+{"time": 1748165518, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=224640743][CQ:at,qq=1370316409] （[CQ:at,qq=1370316409] 主要是不一定有灵根）"}
+{"time": 1748165525, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“原来，原来如此！你竟是传说中的蛋黄派，当世唯一下山的传人……”#郝世嘉颤抖着手，用做梦一样迷糊的语调说道，“但，那也不至于拿走我的腰子啊……”"}
+{"time": 1748165535, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（要不把腰子爆炒了吧然后吃了吧）"}
+{"time": 1748165536, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（搓，笑死我了蛋黄派）"}
+{"time": 1748165544, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这样吧，我认识一个大厨”"}
+{"time": 1748165553, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=-469754926][CQ:at,qq=1048159267] （[CQ:at,qq=1048159267] 你们要是想的话，也不是不行）"}
+{"time": 1748165558, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“我也略通厨艺”"}
+{"time": 1748165565, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "。st show 厨艺"}
+{"time": 1748165565, "type": "reply", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[伊万·诺夫]的[厨艺]: 40"}
+{"time": 1748165566, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“早些年犯了事，我后面捞出来的，欠我一个人情”"}
+{"time": 1748165580, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们吃一顿顶级爆炒腰花也不是不可以”"}
+{"time": 1748165625, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "“世嘉，你觉得呢？”"}
+{"time": 1748165664, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "“这是你的腰子你来决定吧。”"}
+{"time": 1748165678, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“听起来也未尝不可……”#霸总显然陷入了沉思"}
+{"time": 1748165705, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（所以霸总喵呢）"}
+{"time": 1748165711, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（对哦）"}
+{"time": 1748165713, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（不应该是它的腰子吗）"}
+{"time": 1748165736, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（这个只是一个灵物叫做雪莲肾宝而已）"}
+{"time": 1748165760, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那它是莲花还是腰子）"}
+{"time": 1748165763, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（其实不算是他本身的腰子吧）"}
+{"time": 1748165773, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（不知道当他是腰子吧）"}
+{"time": 1748165777, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（所以他本身就少一个腰子，是吗？）"}
+{"time": 1748165785, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（差不多呗）"}
+{"time": 1748165791, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（宛若每个霸总都有胃病"}
+{"time": 1748165797, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我继续播CG了"}
+{"time": 1748165805, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我没意见）"}
+{"time": 1748165813, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（可以！）"}
+{"time": 1748165820, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（行）"}
+{"time": 1748165842, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（想想就觉得香）"}
+{"time": 1748165855, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（这可是灵宝大补）"}
+{"time": 1748165893, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "谈论间，其他的光圈也接连闪动光芒，你们抬眼看去。"}
+{"time": 1748165897, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "第一个光圈是学校食堂，一个口吐白沫的人躺在地上一动不动，旁边的人尖叫：“世嘉，你怎么被冲进来打饭的同学创晕了！快醒醒，你的七科期末作业三篇调查报告两份你组员拖着所以你还要去催的小组作业和小组期末报告和七十页全彩ppt和毕业论文和你副主修的毕业设计下午就要交了！”"}
+{"time": 1748165920, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（那命很苦了）"}
+{"time": 1748165926, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "郝世嘉，你一眼辨认出，这就是你的那个世界"}
+{"time": 1748165932, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（太苦了吧）"}
+{"time": 1748165936, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "只要踏入其中，你就可以回去当苦命大学牲"}
+{"time": 1748165949, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你是要留在这里当总裁，还是要回去当苦命大学牲呢？"}
+{"time": 1748165967, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "(啊——！）"}
+{"time": 1748165976, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（把霸总喵给送过去（））"}
+{"time": 1748165991, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（好啊！伊万总是这么深得我心！）"}
+{"time": 1748165995, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "那只优雅的黑猫不知何时来到了你的身侧，他看起来跃跃欲试"}
+{"time": 1748166023, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "这时候你突然发现自己能听得懂猫说话了——"}
+{"time": 1748166050, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不会是)"}
+{"time": 1748166056, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我要体验平民的生活吧)"}
+{"time": 1748166063, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“霸总也想尝试一下普通大学生的生活吗我现在就把你送过去——”"}
+{"time": 1748166075, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "总裁喵表示他无论在哪里都是高贵而不可一世的霸道总裁，如果你选择留在这里，那么他就会代替你去你原本的世界体验一下平民生活。"}
+{"time": 1748166083, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（猜对了（）"}
+{"time": 1748166105, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "随后你们看向第二个光圈，里面淅淅沥沥下着小雨，站着一排魁梧的男人。"}
+{"time": 1748166107, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（感觉它应该可以做出一番很高的成就）"}
+{"time": 1748166116, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "所有人都撑着伞，站在摆满花圈写着“飞鹰帮老大之墓”的碑前，穿的一身漆黑。而其中一个男人悲痛地抱着一个罐子，在雨中失声痛哭：“老大，你怎么就成罐了啊老大，你死的好惨啊老大——”"}
+{"time": 1748166141, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“好人呐，霸总大人！”#双手合十，热泪盈眶，“我一定会遵从你的意志，好好当一个霸总的……”"}
+{"time": 1748166174, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "卧槽，你自然明白这幅景象意味着什么。是要用天山雪莲恢复身体离开卧家回帮派，还是用卧小姐的身体保留卧家人脉的同时带领飞鹰帮，还是就此和帮派断绝关系留在卧家享受荣华富贵？"}
+{"time": 1748166199, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（啊？所以这个光圈是过去？）"}
+{"time": 1748166201, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你的前路该由现在决定"}
+{"time": 1748166211, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（差不多）"}
+{"time": 1748166214, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那穿过去不是还有肾宝）"}
+{"time": 1748166215, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*果断当牢大"}
+{"time": 1748166227, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（继续抢肾宝（））"}
+{"time": 1748166265, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“兄弟们，我是不会贪图荣华富贵的”"}
+{"time": 1748166280, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "最后是第三个光圈，眼前是一片金碧辉煌的郝氏豪宅，上面用彩带装饰着“恭迎少爷回家”。"}
+{"time": 1748166287, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "桌上工整地摆着金箔鱼子酱海鲜焗饭，82年陈酿葡萄酒和五十个去皮加工切割成58面椭圆梨形再抛光磨砂贴金箔的苹果，一百个女仆在旁边左右站着，还有五十个保洁在用纯金扫把旋转着拖地，无一不彰显着郝家的财力与地位。"}
+{"time": 1748166287, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“社会主义就在我们脚下，有更崇高的理想在催促着我们前进”"}
+{"time": 1748166320, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "伊万·诺夫，或许该叫陈…郝二小？总之，回到郝家加入继承人之争，还是远离豪门争斗远走高飞？"}
+{"time": 1748166337, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你的未来也将由此决定"}
+{"time": 1748166374, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那肯定加入啊，就是我该怎么r啊，有点不会）"}
+{"time": 1748166391, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:image,file=3aa0a145686000c742cc14927e8a7a4e.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhQD0QQ_D0hPZ744FtQEhhfJBXdoZhifbCD_Cij38ealq76NAzIEcHJvZFCAvaMBWhAL8SLGm9rH8mEYVYzd_kvcegJ83g&amp;spec=0&amp;rkey=CAQSMIyqaW6rY0zgosmZfhL5_jJIe4YzpVxJoJI9nhm2YBJx6OozD8cLVElZ_BQ6W5Ol3w]"}
+{"time": 1748166393, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（我手里还提溜着郝多遇和华姨吗）"}
+{"time": 1748166435, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "江言，或者说陆景深从你怀里抬起脑袋，他看起来还有些虚弱，扯了扯你的领口，言辞诚恳地哀求你和他离开晋江市。"}
+{"time": 1748166470, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（提着呢）"}
+{"time": 1748166478, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没事该在的都在啊）"}
+{"time": 1748166516, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（最后确认一遍，大家）"}
+{"time": 1748166522, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（都选了什么？）"}
+{"time": 1748166525, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "#看着宛如小猫的江言，感觉到了头大。荣华富贵和贵人所托应该如何抉择呢"}
+{"time": 1748166529, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（回去）"}
+{"time": 1748166542, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（可以拿点钱然后再和江言走吗）"}
+{"time": 1748166562, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那你问郝世嘉嘛）"}
+{"time": 1748166569, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（回去）"}
+{"time": 1748166583, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（三个都是回去是吧okok"}
+{"time": 1748166593, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（伊万呢）"}
+{"time": 1748166606, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（不回去）"}
+{"time": 1748166612, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（我不！！！）"}
+{"time": 1748166630, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（因为没事没事，不让你回去当大学生啊）"}
+{"time": 1748166637, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（哎哟没事没事，不让你回去当大学生啊）"}
+{"time": 1748166639, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（我不要再写一次论文了我不回去——）"}
+{"time": 1748166644, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（）"}
+{"time": 1748166665, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（哎呦，好惨啊）"}
+{"time": 1748166686, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你们做好了决定，有的踏入光圈，有的则选择停在原地，静静注视着流星雨，光圈中的人则消失在光芒中……"}
+{"time": 1748166694, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "在冥冥光点之中，你们眼前浮现了一片模模糊糊的浅绿色口口景象……"}
+{"time": 1748166712, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "【腹黑小奶狗面瘫心机攻 x 年上高冷邪魅总裁受】【1vn 强制爱】【追妻火葬场，不看虐的宝子们\r\n慎入哦~】"}
+{"time": 1748166718, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（所以踏入光圈相当于是另一条时间线对吧）"}
+{"time": 1748166735, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "他，是没有名分的私生子，他们，是高贵的集团总裁，冷酷无情，掌控着整个家族的命脉，却唯独看不见他眼里的阴暗。每一次的靠近，都是他的步步为营；每一个微笑背后，都隐藏着深不可测的算计，他，要亲手把高高在上的兄长们拽下，囚禁在只属于他的牢笼中……\r\n权力与情感交织，复仇与爱恨相缠，无法停息的纠葛，永无止境的纠缠。一段旷世虐恋，血色华丽的幕布即将拉开，等待着他们的，将是怎样的结局？点击阅读全文《血色豪门 2：总裁哥哥哪里逃》……"}
+{"time": 1748166748, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（意思是还有一个团，是吗？）"}
+{"time": 1748166779, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "[CQ:reply,id=316088712][CQ:at,qq=2308147361] （郝世多？）"}
+{"time": 1748166786, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(总裁哥哥哪里逃)"}
+{"time": 1748166789, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(怎么感觉)"}
+{"time": 1748166789, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（没，他的意思是你们现在跑的这个团其实是这一本文）"}
+{"time": 1748166803, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（其实还有后续来着）"}
+{"time": 1748166811, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(像是郝世多的文)"}
+{"time": 1748166826, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（话说这个总裁是谁，现在的郝总吗还是我这个正版）"}
+{"time": 1748166828, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（啊这！）"}
+{"time": 1748166863, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（这个总裁，这个私生子分别是谁？）"}
+{"time": 1748166869, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（点烟）"}
+{"time": 1748166884, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（郝世多，郝世嘉，和郝二小）"}
+{"time": 1748166889, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你们三个的旷世绝恋"}
+{"time": 1748166902, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（郝世嘉的体检报告写的是私生子）"}
+{"time": 1748166906, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（……来吧伊万！）"}
+{"time": 1748166913, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（其实你们三个挺复杂）"}
+{"time": 1748166921, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（真正的私生子是郝世多"}
+{"time": 1748166929, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（？）"}
+{"time": 1748166944, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（？！！）"}
+{"time": 1748166962, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（而真正的总裁是郝二小）"}
+{"time": 1748166973, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（？！！）"}
+{"time": 1748166979, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那世嘉呢）"}
+{"time": 1748166986, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（那我呢）"}
+{"time": 1748166993, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（郝多遇的儿子二号？）"}
+{"time": 1748167003, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(...)"}
+{"time": 1748167004, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（郝世嘉是哪里来的这个我也记得有点混了，待会我们再盘一下吧）"}
+{"time": 1748167008, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(真是混乱了)"}
+{"time": 1748167021, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（那么我开始加载你们各自的后续了）"}
+{"time": 1748167025, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（最后只剩我身份不明……）"}
+{"time": 1748167031, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（来吧）"}
+{"time": 1748167034, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（先继续！）"}
+{"time": 1748167044, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（你是苦逼大学生）"}
+{"time": 1748167045, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（行）"}
+{"time": 1748167051, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "今天的郝世嘉也从五百平米的大床上醒了过来，面对着两百多个保洁在地上旋转打扫和女仆给你穿上水晶丝绒奢华西装，然后喝着一杯82年的咖啡，坐在红丝绒沙发上准备享用早餐。\n啊，这种脑袋空空没有七科期末作业三篇调查报告两份你组员拖着所以你还要去催的小组作业和小组期末报告和七十页全彩ppt和毕业论文和你副主修的毕业设计的感觉真是太好了。"}
+{"time": 1748167059, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（让我想到了我已经画了一个多月的期末作业了）"}
+{"time": 1748167062, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（悲）"}
+{"time": 1748167065, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "然后你脑袋里响起系统的声音。\r\n系统：宿主亲，你什么时候打算回你原先的世界啊亲，我等你等的快长毛了亲。\r\n系统：宿主亲，你再不回去就要出大事了亲。"}
+{"time": 1748167074, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（加油啊）"}
+{"time": 1748167084, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（我的论文不久前才写完改完呢……）"}
+{"time": 1748167089, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你看见系统在你眼前播放了一段新闻影像"}
+{"time": 1748167107, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "《一校园猫短短几月内建立商业帝国，震惊全世界！》\r\n据新闻报道，某大学学园一黑猫不仅尾随学生随堂听课，更在一夜之间考取等多达十几国语言证书，连夜跳级博士，用震惊科学家的方式通过猫叫和肢体语言与人类沟通，精准传达指令建立商业计划，并利用可爱外表赢得了大批投资人的青睐和合作。它所创立的公司喵氏集团涉足医学科技等多个领域，迅速在全球市场占据一席之地，如今公司市值已超过百亿……"}
+{"time": 1748167121, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“出什么事了？”#一挑眉毛，熟练的说出了熟悉的语录，“这也是你勾引我的手段……啊？”"}
+{"time": 1748167134, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（真的强）"}
+{"time": 1748167149, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这是真霸总)"}
+{"time": 1748167167, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（你回去不）"}
+{"time": 1748167178, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(已经回了)"}
+{"time": 1748167190, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（我是说郝世嘉）"}
+{"time": 1748167218, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（这里还有一个小小分支）"}
+{"time": 1748167247, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "“不过，如果是他的话，的确小事一桩……”#放松的躺了下来，继续看着天花板上美丽的水晶顶，捂着嘴巴打了个哈欠，“鬼才要回去！猫回去没关系，但我回去岂不是还要补交作业？没门！”"}
+{"time": 1748167268, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你无视了系统有点咬牙切齿的声音，继续摇晃着红酒杯。真是惬意的总裁生活啊……"}
+{"time": 1748167273, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "等等，酒杯里是不是有个旺仔小馒头？"}
+{"time": 1748167284, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（嗯？！！）"}
+{"time": 1748167286, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（好了，下一个）"}
+{"time": 1748167328, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（下一个！）"}
+{"time": 1748167329, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(小馒头没绷住)"}
+{"time": 1748167345, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "臻缕祝缓缓睁开眼，发现自己已经回到了门派所处的山峰上，四周云雾缭绕，一片祥和，时不时有门派弟子在天上飞来飞去，其中不免多了几个生面孔。"}
+{"time": 1748167352, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "见你睁眼，在旁边像是等候多时的掌门走上前，面露欣慰之色：“缕祝，你终于回来了！”\r\n旁边路过的弟子看见你也欣喜喊：“大师姐？真的是大师姐回来了！”"}
+{"time": 1748167373, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "掌门拍了拍你的肩膀，感慨道：“回来就好，当日雷劫危机重重，今日你能安然归来，实在是不幸中的万幸，也多亏你师妹奋不顾身前去帮助啊！”"}
+{"time": 1748167382, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "白雅吹着口哨目移：“怎么会，都是我们这些后辈应该做的，应该做的。”"}
+{"time": 1748167390, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（难道是郝世多郝二小给我下的……#阴暗地猜测）"}
+{"time": 1748167419, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "掌门正要接话，你们突然听见远处一片骚动，一个弟子喊道：“不好了掌门，大师姐，有师妹偷偷修魔啊！”"}
+{"time": 1748167435, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=-1254217287][CQ:at,qq=778644670] [CQ:at,qq=778644670] （猜对了是郝世多）"}
+{"time": 1748167449, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（魔是魔法的魔啊）"}
+{"time": 1748167508, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "“走白雅，我们去看看。”"}
+{"time": 1748167523, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你们闻声赶去，看见几个弟子压制着一个穿的黑里带紫的少女。"}
+{"time": 1748167527, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "其中一个弟子严肃道：“掌门，大师姐，这位师妹在角落掩人耳目偷偷修炼魔道，喊着什么古娜拉黑暗神什么的踩着自行车就准备往天上飞，被我们当场发现制止住了，该如何处置？”"}
+{"time": 1748167544, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "见你们来，少女面露委屈大喊：“为什么说我修魔，这玩意明明比符纸好用多了！”"}
+{"time": 1748167575, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（古娜拉黑暗之神，呜呼拉呼，黑魔变身！）"}
+{"time": 1748167611, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "“你是，小月？”"}
+{"time": 1748167646, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（这里可以支持或者劝阻他）"}
+{"time": 1748167660, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（支持的话就是送去霍格沃尔玛留学啊）"}
+{"time": 1748167678, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（支持的话就是送去海外留学啊）"}
+{"time": 1748167678, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "（这个不应该送去魔仙堡吗？）"}
+{"time": 1748167684, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（是的，顺口了）"}
+{"time": 1748167702, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（送去魔仙堡留学（）"}
+{"time": 1748167761, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "3138979752"}, "sender": {"id": "3138979752", "name": "魂泪无狱"}, "message": "“哈哈，放开她吧，既然你决定好了，我们也不便过多阻拦，只不过日后惹出事端不要供出宗门就好。”"}
+{"time": 1748167799, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那是不是应该先学会变身无敌（））"}
+{"time": 1748167808, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（菩提老祖行为啊）"}
+{"time": 1748167811, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "旁边的掌门欲言又止，但似乎是想起另外一位同样修魔的少女，叹息一句，终究没说什么。"}
+{"time": 1748167856, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "那穿着黑里带紫的少女擦了擦眼泪，被弟子放开之后珍重地向你道谢，然后骑着自行车"}
+{"time": 1748167860, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "飞走了"}
+{"time": 1748167880, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（所以为啥不是扫把）"}
+{"time": 1748167908, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（扫帚是霍格沃茨的）"}
+{"time": 1748167935, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "真好啊她奔赴了属于她自己的道路白雅捏了捏你的手，又盘算起什么时候下山去，偷吃人间的酒楼"}
+{"time": 1748167947, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(希望她别沉迷魁地奇了)"}
+{"time": 1748167948, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（来33"}
+{"time": 1748167954, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（笑死我了）"}
+{"time": 1748167985, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "尼格麻睁开眼，耳边是淅淅沥沥的雨声，眼前是一片棺材板，隔着棺材你还听见旁边你手下哀怨的痛哭：“老大啊你怎么就走了啊留下我们一帮老小往后的日子可怎么办啊~~~~”"}
+{"time": 1748167995, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你一脚踹开棺材板站起来，四周一片哗然，手下震惊地抱着罐子看着你：“什么人怎么在老大的棺材板里！”"}
+{"time": 1748168005, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "[CQ:image,file=33ab94a369a79d49f77fbf68713fa8c4.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhS_rAWSik5vPva0Fb3a53eff3cSGRjixgIg_woo-b6Wp7G-jQMyBHByb2RQgL2jAVoQsoqCZ_UlyRLzvO91_MyV4HoCD20&amp;spec=0&amp;rkey=CAQSMIyqaW6rY0zgosmZfhL5_jJIe4YzpVxJoJI9nhm2YBJx6OozD8cLVElZ_BQ6W5Ol3w]"}
+{"time": 1748168022, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你猜老大的棺材里装的不是老大是谁？”"}
+{"time": 1748168031, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“老，老大……？你，你真的是老大！？”周围所有的猛男全都震惊了，“老大你不是在罐里吗！”"}
+{"time": 1748168034, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我都说了一个俩个的回去把义务教育完成”"}
+{"time": 1748168038, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“怎么都不听”"}
+{"time": 1748168062, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "另一个黑道犹犹豫豫道：“虽然难以置信，但这粗狂的口音野蛮的动作和这，这熟悉的行为举止，的确是老大……”"}
+{"time": 1748168067, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我梦里遇到佐助了他说他觉得我活着能造福社会，于是给我使用了轮回天生之术”"}
+{"time": 1748168074, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我不能辜负他啊”"}
+{"time": 1748168101, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“起开，我们要重新制定一下帮规，重新建设我们的飞鹰帮责任有限公司了”"}
+{"time": 1748168129, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "手下还在抱着你的骨灰罐子目瞪口呆，但想来，这事儿勉强算是解决了……"}
+{"time": 1748168173, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "一众猛男擦了擦眼泪，最先开口的那个郑重地将你的骨灰罐子交还给你"}
+{"time": 1748168199, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你打开一看，震怒的发现守遐二居然往你的骨灰里掺香飘飘奶茶"}
+{"time": 1748168212, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你们真tm”"}
+{"time": 1748168224, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我都说了我不爱喝香芋味”"}
+{"time": 1748168231, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我要原味懂吗”"}
+{"time": 1748168242, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（惊恐）"}
+{"time": 1748168298, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（好！）"}
+{"time": 1748168303, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（所以原味香飘飘奶茶是什么味）"}
+{"time": 1748168318, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "看来在你们飞鹰帮责任有限公司建立之前，得找个时间好好跟守遐二算一算这笔账了"}
+{"time": 1748168320, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（奶茶粉味）"}
+{"time": 1748168325, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（来44"}
+{"time": 1748168334, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（）"}
+{"time": 1748168409, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你收拾着准备离市的行李，一旁的陆景深也拖着一个大行李缓缓拖到你身边，神色严峻地递给你手机，“你看这个。”"}
+{"time": 1748168432, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“什么”#接过手机"}
+{"time": 1748168435, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "你拿起手机，看见一条最新推送的新闻。"}
+{"time": 1748168459, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "【郝家再掀风波：隐世多年郝夫人突然现身！】\r\n惊人消息：去世多年的郝夫人再度复出，竟是提出离婚！郝氏集团创始人郝多遇与妻子尚青华的婚姻走到了尽头，曾经恩爱夫妻如今决裂不复往日……"}
+{"time": 1748168466, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "据可靠消息，青华原来并未去世，只是因身体原因一直低调生活，如今却突然做此决定，郝老总对此事表示深感遗憾，但并未做出正面回应。一时间郝氏集团内部人心惶惶，郝多遇的儿女们也陷入内斗，究竟有何隐情？郝氏集团的继承权之争愈演愈烈，郝氏家族的未来将何去何从……"}
+{"time": 1748168481, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "文章还附了一张华姨高速旋转抡着一个灭火器敲在郝多遇脑袋上的模糊照片。"}
+{"time": 1748168490, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（看不懂，我捋捋）"}
+{"time": 1748168517, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（指的是郝世多和郝世嘉）"}
+{"time": 1748168521, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（那奈亚呢）"}
+{"time": 1748168523, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "（郝世多还没放弃）"}
+{"time": 1748168529, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（也就是奈亚消失了？）"}
+{"time": 1748168545, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "[CQ:reply,id=-795834742][CQ:at,qq=1048159267] [CQ:at,qq=1048159267] （回去了，她是修仙世界的人）"}
+{"time": 1748168590, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“嘛，管我什么事。这么长时间了也没人过来看看我。我还回去做什么”"}
+{"time": 1748168626, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“没，只是告诉你一声。”"}
+{"time": 1748168628, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "778644670"}, "sender": {"id": "778644670", "name": "菲菲"}, "message": "（内斗：指在红酒里下旺仔小馒头）"}
+{"time": 1748168631, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“二小啊，如今郝氏老总已然倒台，我的复仇计划也算完成。离开这里之后，我准备好给你找了一份新工作和身份，也是把我的一生心血交付给你。”陆景深郑重地看着你。"}
+{"time": 1748168658, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“什么工作？”一股不详的预感"}
+{"time": 1748168683, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "他对着你打开了手机：“这是我的抖音账号，这是给你的小红薯账号，从今天起你就负责小红薯的有声复仇小说经营吧。”"}
+{"time": 1748168703, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "《我叫陆金身，是陆家长子，身为集团第一继承人，却被豪氏集团陷害。那一年豪氏集团盗取了我家的专利技术，还给我家发财树浇开水，气得母亲心病住院，父亲也因此郁郁而终。这些人贪婪笑着夺走我的全部，却看不见我眼底的阴暗。如今我逆袭归来，带着无尽的仇恨和精心策划的复仇计划。我站在废弃大楼，目光锐利，仿佛猎鹰般盯着远方。我的复仇故事才刚刚开始。点击评论链接阅读全文。》"}
+{"time": 1748168734, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "#满脸问号“所以你实际上是个网文写手？我不干，大不了我去当雇佣兵”"}
+{"time": 1748168746, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“在网上还要成天受气”"}
+{"time": 1748168840, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“还有，你把这些交给了我。那你呢”"}
+{"time": 1748168844, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "陆景深震惊地看着你，眼中逐渐浮现出些许委屈。“我陆家这么多年，都破产寄了，但我还是有钱养你，还不是网上写有声小说写的？”"}
+{"time": 1748168879, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“没事，你我父子齐心，我经营抖音你经营小红薯。”"}
+{"time": 1748168890, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "“发家致富指日可待啊。”"}
+{"time": 1748168894, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“那又怎么样，你不养我我又不是活不了”"}
+{"time": 1748168927, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“而且发家致富那我回郝家不是立马有了”"}
+{"time": 1748168948, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "“我这些年当杀手的经验还不怕被暗杀，大不了当富家翁”"}
+{"time": 1748168975, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "陆景深捏了捏眉心，他看向你的目光带上了谴责，仿佛在注视着不懂老父亲一片苦心的不孝子。"}
+{"time": 1748168988, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": "但想来关于这些的东西，也是日后再议了……"}
+{"time": 1748169011, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "1048159267"}, "sender": {"id": "1048159267", "name": "你是谁"}, "message": "（为什么感觉我应该回郝家，有点后悔了（））"}
+{"time": 1748169013, "type": "recv", "dect": {"host_id": null, "group_id": "140815332", "user_id": "2308147361"}, "sender": {"id": "2308147361", "name": "秦篆"}, "message": ".log end"}
