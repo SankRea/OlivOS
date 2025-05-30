@@ -3,13 +3,13 @@
         "userId": "1040778971",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1748315575,
+        "lastHit": 1748496399,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "welcomeMsg": "\n【ZACA跑团组迎新公告✨】\n\n🎉叮！侦测到新晋调查员/勇者/替身使者/魔法少女加入公会！🎉\n\n这里是ZACA跑团组的奇幻茶水间，既是克苏鲁神话的san值恢复区，也是异世界酒馆的冒险者驿站~无论你是手握二十面骰的老油条，还是刚拆规则书塑封的萌新，请放心在这里：\n\n🐱👤 用【唬骗】检定收获表情包弹药库\n🎭 在【表演】检定中解锁精分小剧场\n📖 用【知识】检定破译模组里的死亡flag\n🎲 偶尔投出大失败...那正好承包今日笑点！\n\n重要守则：本群禁止使用【侦测思想】，请新调查员主动分享你的角色卡（二次元浓度/中二病史/奇怪性癖），茶水间已备好🍵和掉san小蛋糕，请roll点决定先吃哪块~\n\n👉🏻查看群公告获取《守秘人特别行动手册》\n🗝️愿您的灵感检定永远骰出大成功！",
-            "logEnable": true,
-            "logNowName": "log_ea198a9f-23c2-4140-bedd-220b66e67f51",
+            "logEnable": false,
+            "logNowName": "log_61111fd2-bbff-4d48-9796-dbf92aa4291d",
             "groupInitParaList": {
                 "怪物": "65"
             },
