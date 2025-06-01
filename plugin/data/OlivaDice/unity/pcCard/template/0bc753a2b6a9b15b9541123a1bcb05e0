@@ -189,5 +189,10 @@
     },
     "master": {
         "enhanceList": []
+    },
+    "卧布诗韧": {
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

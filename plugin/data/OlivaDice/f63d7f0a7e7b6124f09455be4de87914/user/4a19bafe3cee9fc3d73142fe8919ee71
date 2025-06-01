@@ -3,12 +3,13 @@
         "userId": "972136174",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1746297771,
+        "lastHit": 1748709100,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "groupEnable": false
         }
     }
 }

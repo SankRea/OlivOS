@@ -1,14 +1,12 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
-        "userId": "588162808",
+        "userId": "589351221",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1748585600,
+        "lastHit": 1748632667,
         "configNote": {
-            "groupMainDice": null,
-            "groupMainDiceDRight": null,
             "logEnable": false,
-            "logNowName": null
+            "logNowName": "log_a85cafb0-e570-406b-a723-3d553baab271"
         }
     }
 }

@@ -1294,3 +1294,4 @@
 {"time": 1748514258, "type": "recv", "dect": {"host_id": null, "group_id": "588162808", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（哎反正是你自己车能不能自己搓（）"}
 {"time": 1748514265, "type": "recv", "dect": {"host_id": null, "group_id": "588162808", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（别找我要了）"}
 {"time": 1748514297, "type": "recv", "dect": {"host_id": null, "group_id": "588162808", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(没想到他怎么拿礼装，只能找人要了)"}
+{"time": 1748585599, "type": "recv", "dect": {"host_id": null, "group_id": "588162808", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}
