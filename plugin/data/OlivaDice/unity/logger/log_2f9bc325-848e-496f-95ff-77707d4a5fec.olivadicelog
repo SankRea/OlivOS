@@ -13249,3 +13249,5 @@
 {"time": 1748966020, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“每场任务都是前人未曾完成的事宜。这样的诅咒未免也有些好笑了”"}
 {"time": 1748966023, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "save！"}
 {"time": 1748966027, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。log off"}
+{"time": 1749043072, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1749043090, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
