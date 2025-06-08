@@ -228,3 +228,32 @@
 {"time": 1749037532, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*回去睡觉！"}
 {"time": 1749037620, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "那么你们两人就此分开"}
 {"time": 1749037623, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
+{"time": 1749109623, "type": "reply", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1749109685, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（怎么又是你）"}
+{"time": 1749109695, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（有人要开始害怕了）"}
+{"time": 1749109700, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你推开旅馆的门"}
+{"time": 1749109707, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看见芙坐在前台"}
+{"time": 1749109747, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（我是旅馆的职员不在旅馆在哪）"}
+{"time": 1749109749, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你好？”"}
+{"time": 1749109770, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“您好，医生小姐”"}
+{"time": 1749109787, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "伊升的背后探出一个脑袋"}
+{"time": 1749109795, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "里面的人正在享用餐点"}
+{"time": 1749109808, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“希望这一次不要乱来了”"}
+{"time": 1749109820, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们还是怀着沉痛的心情进食吧”"}
+{"time": 1749110020, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=-983371469][CQ:at,qq=1252219916] 看见芙的瞬间缩了缩"}
+{"time": 1749110080, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“请便”*带着两人去空位就坐"}
+{"time": 1749110168, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这种活动很常有？”"}
+{"time": 1749110171, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*询问"}
+{"time": 1749110251, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“嗯，岛上的人总能找到些理由纪念什么”"}
+{"time": 1749110291, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这么多人默哀，也算是幸终吧”"}
+{"time": 1749110337, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“或许吧，我到现在还不知道今天是为了纪念谁”"}
+{"time": 1749110361, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“其实我也不知道”"}
+{"time": 1749110368, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*尴尬地笑"}
+{"time": 1749110369, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "*走进后厨，端着菜出来“果木薰煎鱼排佐白灼脆芦笋，青口海带汤，香茅慢煎羊排，海陆风味番茄意面。请慢用”"}
+{"time": 1749110385, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "梅洛一直捏着医生的衣袖，目光扫向别处"}
+{"time": 1749110407, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "似乎是餐点格外可口，用餐的人都没怎么说话"}
+{"time": 1749110423, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*梅洛在看哪？"}
+{"time": 1749110565, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "似乎在看角落里一个用餐的高大男子"}
+{"time": 1749110599, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*端着酒礼貌地走过去"}
+{"time": 1749110631, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你好，我是镇上新来的医生，沃斯”"}
+{"time": 1749110719, "type": "recv", "dect": {"host_id": null, "group_id": "996355900", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(回小群)"}

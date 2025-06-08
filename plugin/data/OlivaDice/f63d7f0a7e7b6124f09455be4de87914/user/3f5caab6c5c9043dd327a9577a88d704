@@ -3,37 +3,15 @@
         "configNote": {
             "userName": "冰黎曦",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            64
-                        ],
-                        [],
-                        [
-                            64
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                6
             ],
-            "RDRecordRaw": "d100",
-            "RDRecordInt": 64,
+            "RDRecordRaw": "6",
+            "RDRecordInt": 6,
             "RDRecordSkillInt": null
         },
         "userId": "2275904091",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1748746282
+        "lastHit": 1749350021
     }
 }

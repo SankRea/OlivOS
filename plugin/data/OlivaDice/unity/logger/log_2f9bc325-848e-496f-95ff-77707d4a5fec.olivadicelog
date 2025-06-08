@@ -13251,3 +13251,382 @@
 {"time": 1748966027, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。log off"}
 {"time": 1749043072, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
 {"time": 1749043090, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
+{"time": 1749215633, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1749215737, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你们在木乃伊身下的盒子里找出了一把强大的长剑"}
+{"time": 1749215749, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "以及一张写着可怖信息的纸条"}
+{"time": 1749215776, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“啧，这是什么恐吓信？”"}
+{"time": 1749215810, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“诅咒这种东西真是恶毒啊、”"}
+{"time": 1749215824, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（我们不是处理过诅咒了吗"}
+{"time": 1749215893, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*沿着河流往下走"}
+{"time": 1749215900, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=da710118cca97ec00d1e04072ea5010d.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRcBG3KE9GiR4ffPCwM-9mUFZPRnxix1zcg_woon6CzgvHcjQMyBHByb2RQgL2jAVoQrwJc8Rk-BVXQkD_ySwIWo3oCh3I&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749215922, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*跟着往下游走"}
+{"time": 1749215943, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#跟着"}
+{"time": 1749215947, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "头顶上，两岸的树伸出的枝桠相互纠缠，形成了一片天幕。流水的声音稍稍大了些，并回荡在树林之间。芦苇丛水底下似乎潜藏着什么生物。四周是蛙鸣，仿佛在迎接你进入。蛙类沙哑的歌声愈发响亮，盖过了旁的声响，然后，突然之间，这些蛙鸣停止了。"}
+{"time": 1749215995, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd20+9"}
+{"time": 1749215995, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]演奏出: 1D20+9={17}+9=26"}
+{"time": 1749216002, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*聆听"}
+{"time": 1749216057, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你听到了芦苇中什么物事正快速靠近你们"}
+{"time": 1749216070, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“全员注意！”"}
+{"time": 1749216076, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*备战"}
+{"time": 1749216081, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“有什么东西正在向我们靠近！”"}
+{"time": 1749216118, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#护盾术魔杖"}
+{"time": 1749216144, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*掏出武器，准备战斗"}
+{"time": 1749216148, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。init clear"}
+{"time": 1749216148, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "已清空先攻列表"}
+{"time": 1749216170, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "从草丛中，跳出了三个巨大的青蛙"}
+{"time": 1749216176, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "包围了你们"}
+{"time": 1749216196, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:image,file=c20fa255982ceecaee5772e96fa31559.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSrv3-qSRezOeBhY-XgIWZLUsbQLhiUxAMg_woo6ODMj_LcjQMyBHByb2RQgL2jAVoQ5yV3BlNFqDRVlxbMyWZvmHoCLuA&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749216253, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ri+7"}
+{"time": 1749216253, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "先攻列表已设置:\n1. [艾丝蒂尔]: 1D20+7=9"}
+{"time": 1749216267, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".ri+6"}
+{"time": 1749216267, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "先攻列表已设置:\n1. [莫德里]: 1D20+6=13"}
+{"time": 1749216274, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".ri+6 炎帝"}
+{"time": 1749216274, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "先攻列表已设置:\n1. [炎帝]: 1D20+6=16"}
+{"time": 1749216291, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=f48b4164889a90d4b1d8201deb1f2d07.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTQBBD2KWYox0J8DR1kj1ngC6DsShiV4yMg_woojaX1vPLcjQMyBHByb2RQgL2jAVoQBc7zNcQQIlDA8gisYHCaB3oClgs&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749216307, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。ri+2"}
+{"time": 1749216307, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "先攻列表已设置:\n1. [沈何]: 1D20+2=14"}
+{"time": 1749216380, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "四人组惊险遇蛙，圣武士大意失马"}
+{"time": 1749216401, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*知识自然"}
+{"time": 1749216415, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "。rd+10"}
+{"time": 1749216415, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+10={2}+10=12"}
+{"time": 1749216424, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".rd+7自然"}
+{"time": 1749216424, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何炎]使用[自然]演奏出:[1D20+7={10}+7=17]"}
+{"time": 1749216478, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "巨蟾是一种动物，他们可以用舌头把敌人整个吞下"}
+{"time": 1749216501, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。ri+1巨蟾"}
+{"time": 1749216501, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "先攻列表已设置:\n1. [巨蟾]: 1D20+1=18"}
+{"time": 1749216516, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。init"}
+{"time": 1749216516, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "当前先攻列表:\n1. [巨蟾]: 18\n2. [炎帝]: 16\n3. [沈何]: 14\n4. [莫德里]: 13\n5. [艾丝蒂尔]: 9"}
+{"time": 1749216520, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "巨蟾的回合！"}
+{"time": 1749216560, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "五尺右移，攻击莫得里"}
+{"time": 1749216583, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749216583, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={9}+6=15"}
+{"time": 1749216615, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "中"}
+{"time": 1749216630, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd4+6"}
+{"time": 1749216630, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D4+6={3}+6=9"}
+{"time": 1749216649, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*擒抱！"}
+{"time": 1749216656, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+10"}
+{"time": 1749216656, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+10={15}+10=25"}
+{"time": 1749216680, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "。rd+10"}
+{"time": 1749216680, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+10={3}+10=13"}
+{"time": 1749216712, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "擒抱成功"}
+{"time": 1749216735, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "那么你被他吞到了胃里"}
+{"time": 1749216771, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "每回合遭受1d4的强酸伤害。他可以尝试使用非钝击伤害武器对胃部造成5点伤害"}
+{"time": 1749216822, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "巨蟾2 左移五尺"}
+{"time": 1749216830, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "攻击 诗人"}
+{"time": 1749216832, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749216832, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={18}+6=24"}
+{"time": 1749216841, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中？"}
+{"time": 1749216857, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "AC 17"}
+{"time": 1749216859, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "中"}
+{"time": 1749216861, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd4+6"}
+{"time": 1749216861, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D4+6={4}+6=10"}
+{"time": 1749216883, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*擒抱"}
+{"time": 1749216883, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st hp 30"}
+{"time": 1749216883, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]的人物卡已保存"}
+{"time": 1749216891, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+10"}
+{"time": 1749216891, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+10={20}+10=30"}
+{"time": 1749216892, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "。st hp-10"}
+{"time": 1749216892, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]的人物卡已更新:\n[HP]: 30-10=20"}
+{"time": 1749216903, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "擒抱成功！"}
+{"time": 1749216908, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*被丸吞了"}
+{"time": 1749216923, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "上面的巨蟾攻击何炎"}
+{"time": 1749216926, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749216926, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={15}+6=21"}
+{"time": 1749216931, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中？"}
+{"time": 1749216940, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "中"}
+{"time": 1749216940, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd4+6"}
+{"time": 1749216940, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D4+6={3}+6=9"}
+{"time": 1749216955, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+10 擒抱"}
+{"time": 1749216955, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]使用[擒抱]演奏出:[1D20+10={20}+10=30]"}
+{"time": 1749216964, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "擒抱成功！"}
+{"time": 1749216967, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".rd"}
+{"time": 1749216967, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[何炎]演奏出: 1D20=7"}
+{"time": 1749216978, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=d7f5dd1dd5302336c700a39aa2bc6516.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTL-l2zbs_04yggez55OvQblxxIGxj5ih8g_woo-JTchPXcjQMyBHByb2RQgL2jAVoQC66q8hGJQCT-wUtq-vHranoCoZE&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749216980, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。init"}
+{"time": 1749216980, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "当前先攻列表:\n1. [巨蟾]: 18\n2. [炎帝]: 16\n3. [沈何]: 14\n4. [莫德里]: 13\n5. [艾丝蒂尔]: 9"}
+{"time": 1749216988, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*炎帝的回合！"}
+{"time": 1749216992, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "(? "}
+{"time": 1749217044, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#直觉传送br40"}
+{"time": 1749217091, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#塑形油腻术"}
+{"time": 1749217093, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "dc18"}
+{"time": 1749217130, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。r3#d+2"}
+{"time": 1749217130, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+2= \n{7}+2=9\n{12}+2=14\n{6}+2=8"}
+{"time": 1749217140, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "三只巨蟾全部摔倒了"}
+{"time": 1749217172, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*圣武士的回合"}
+{"time": 1749217260, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd20+8"}
+{"time": 1749217260, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沈何]演奏出: 1D20+8={2}+8=10"}
+{"time": 1749217287, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=cf23c6bc63822b7a934a0ad5f8c0c137.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSBC4kURQJvEcDO7EISSmckSR6bYxjtTyD_Cij6-qKY9tyNAzIEcHJvZFCAvaMBWhAXZhmkUtn57U-gdyo68EjNegIy2w&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749217302, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "miss"}
+{"time": 1749217399, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*幕刃"}
+{"time": 1749217440, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*使用位移脚镯移动到BW38，五尺到BW37"}
+{"time": 1749217458, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd4"}
+{"time": 1749217459, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D4=3"}
+{"time": 1749217505, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "使用奥术引导一个寒冷之触，攻击面前的青蛙"}
+{"time": 1749217510, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".rd+11"}
+{"time": 1749217510, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+11={18}+11=29"}
+{"time": 1749217519, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749217593, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".3d6+2"}
+{"time": 1749217614, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".r3d6+8"}
+{"time": 1749217614, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 3D6+8={3+5+2}(10)+8=18"}
+{"time": 1749217648, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "强韧豁免,dc14"}
+{"time": 1749217661, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+5"}
+{"time": 1749217661, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+5={10}+5=15"}
+{"time": 1749217678, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*诗人"}
+{"time": 1749217766, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*使用位移脚镯移动到Bu39，移动Bu36"}
+{"time": 1749217800, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*英勇徽章，启发之音，重振号角"}
+{"time": 1749217900, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*使用英勇徽章，使用精致号角唱英勇之歌"}
+{"time": 1749217911, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "+2/+3\\"}
+{"time": 1749217928, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "+2/+3"}
+{"time": 1749217934, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*巨蟾的回合"}
+{"time": 1749217960, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。r3#d+0"}
+{"time": 1749217960, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+0= \n{14}+0=14\n{12}+0=12\n{6}+0=6"}
+{"time": 1749217964, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "\"虽陷敌阵之中，吾等亦可破敌如龙！\""}
+{"time": 1749218011, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "幕刃何圣武士可以借机攻击"}
+{"time": 1749218017, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "ao面前的巨蟾"}
+{"time": 1749218067, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".rd+13"}
+{"time": 1749218067, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+13={3}+13=16"}
+{"time": 1749218077, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749218103, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".r3d6+11"}
+{"time": 1749218103, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 3D6+11={2+4+5}(11)+11=22"}
+{"time": 1749218135, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd20+12"}
+{"time": 1749218135, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沈何]演奏出: 1D20+12={18}+12=30"}
+{"time": 1749218143, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749218165, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "强韧豁免,dc14"}
+{"time": 1749218167, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+5"}
+{"time": 1749218167, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+5={17}+5=22"}
+{"time": 1749218167, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd8+8"}
+{"time": 1749218167, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沈何]演奏出: 1D8+8={1}+8=9"}
+{"time": 1749218219, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。init"}
+{"time": 1749218219, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "当前先攻列表:\n1. [巨蟾]: 18\n2. [炎帝]: 16\n3. [沈何]: 14\n4. [莫德里]: 13\n5. [艾丝蒂尔]: 9"}
+{"time": 1749218234, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "攻击圣武士"}
+{"time": 1749218244, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=e0917c302d3517b60039fd9fdb4fd8a3.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRKKbhfdluAnVsudx9DRNx3ESdVPxiQtCMg_woo1or33_ncjQMyBHByb2RQgL2jAVoQX98ihgCREZmuB8pbtVSnpnoC3ew&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749218251, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749218251, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={9}+6=15"}
+{"time": 1749218259, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "miss"}
+{"time": 1749218270, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "巨蟾攻击炎帝"}
+{"time": 1749218273, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749218273, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={10}+6=16"}
+{"time": 1749218374, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=5d3b629e71995f35b7353702e0a9d19c.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSNyYzoTD6N9mmvKnm9NdKx9W85wxjyKyD_Cii-waOe-tyNAzIEcHJvZFCAvaMBWhCoR3SvysHNxqPn7mQ5SZ5BegJluQ&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749218375, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#直觉跳走"}
+{"time": 1749218413, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=9fa973540407febbecc4ce237e396e7a.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSOrSG8qR7WWoTGfiSLw_eg_l7gyxj6zyEg_woo0YHQsPrcjQMyBHByb2RQgL2jAVoQagIc086MWvvyYYbtysLzEnoCGXo&amp;spec=0&amp;rkey=CAQSMKYIM8QBVuCFxmFehBq6a8z2VD-PXiLtz-rpVAftaOHVlXRfA8lIF7v7s6Ag0BKfEw]"}
+{"time": 1749218422, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。init"}
+{"time": 1749218422, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "当前先攻列表:\n1. [巨蟾]: 18\n2. [炎帝]: 16\n3. [沈何]: 14\n4. [莫德里]: 13\n5. [艾丝蒂尔]: 9"}
+{"time": 1749218427, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*炎帝的回合"}
+{"time": 1749218433, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#pass"}
+{"time": 1749218444, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*圣武士的回合"}
+{"time": 1749218539, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“举起长剑”"}
+{"time": 1749218544, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（用错符号了）"}
+{"time": 1749218574, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*劈开"}
+{"time": 1749218578, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd20+10"}
+{"time": 1749218578, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沈何]演奏出: 1D20+10={10}+10=20"}
+{"time": 1749218587, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749218596, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "。rd8+8"}
+{"time": 1749218596, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沈何]演奏出: 1D8+8={2}+8=10"}
+{"time": 1749218691, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*幕刃的回合"}
+{"time": 1749218787, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "移动到BW40"}
+{"time": 1749218877, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "引导一个电爪，攻击巨蟾"}
+{"time": 1749218889, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "。rd+13"}
+{"time": 1749218889, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+13={15}+13=28"}
+{"time": 1749218895, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749218925, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "。r7d6+11"}
+{"time": 1749218925, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 7D6+11={2+5+3+4+6+4+1}(25)+11=36"}
+{"time": 1749218939, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "四"}
+{"time": 1749218941, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "死"}
+{"time": 1749218948, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*诗人"}
+{"time": 1749218973, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*射箭！"}
+{"time": 1749219016, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".rd20+6"}
+{"time": 1749219016, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]演奏出: 1D20+6={17}+6=23"}
+{"time": 1749219021, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749219044, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".r1d8+3"}
+{"time": 1749219044, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]演奏出: 1D8+3={7}+3=10"}
+{"time": 1749219068, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "巨蟾"}
+{"time": 1749219071, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "攻击诗人！"}
+{"time": 1749219079, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+6"}
+{"time": 1749219079, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+6={12}+6=18"}
+{"time": 1749219111, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd4+6"}
+{"time": 1749219111, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D4+6={3}+6=9"}
+{"time": 1749219112, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "中"}
+{"time": 1749219126, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。rd+10"}
+{"time": 1749219126, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[芊羽_？]演奏出: 1D20+10={18}+10=28"}
+{"time": 1749219130, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".st hp-9"}
+{"time": 1749219130, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[艾丝蒂尔]的人物卡已更新:\n[HP]: 20-9=11"}
+{"time": 1749219137, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你被吞了"}
+{"time": 1749219138, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*又被吞了"}
+{"time": 1749219143, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*炎帝"}
+{"time": 1749219161, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#往上走15尺"}
+{"time": 1749219181, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*圣武士"}
+{"time": 1749219249, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*幕刃"}
+{"time": 1749219300, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "移动到BU39，猛力拉满攻击巨蟾"}
+{"time": 1749219312, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".rd+8"}
+{"time": 1749219312, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 1D20+8={13}+8=21"}
+{"time": 1749219333, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "中"}
+{"time": 1749219350, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": ".r2d6+21"}
+{"time": 1749219350, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[莫德里]演奏出: 2D6+21={4+5}(9)+21=30"}
+{"time": 1749219427, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "在你们击败了青蛙之后"}
+{"time": 1749219431, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你们一路向南"}
+{"time": 1749219489, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“还要走多久呢”"}
+{"time": 1749219500, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "终于，你们在迟滞的河水中有那么一小个岛屿"}
+{"time": 1749219514, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们还是先简要治疗一下吧”"}
+{"time": 1749219519, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“你还有个马？之前还没见过你召唤过“"}
+{"time": 1749219522, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我感觉我现在的状态非常不好”"}
+{"time": 1749219560, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*弹奏琴，安抚受伤的心灵"}
+{"time": 1749219568, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "亮光从一个营地中间透出。在晃动的火光中，你们能清楚看到一辆斑斓的吉普赛马车"}
+{"time": 1749219577, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“太好了，终于有人了”"}
+{"time": 1749219584, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "两匹老牝马，三个衣着光鲜的小孩，还有一位老妇人。稍顷，两个人类也步入你们的视线内，一个年迈瘦削，一个年轻强壮。"}
+{"time": 1749219595, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“再不来人我都要质疑神的指示了”"}
+{"time": 1749219603, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”我去，走这么久了，第一次见到人“"}
+{"time": 1749219643, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*上去询问"}
+{"time": 1749219654, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“你好，我们这边是迷路的旅人”"}
+{"time": 1749219665, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“这里是何处，能和我说说吗”"}
+{"time": 1749219668, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“这里是哪里”"}
+{"time": 1749219680, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "为首的人对你们说“哦，迷途的旅者啊”"}
+{"time": 1749219693, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“我叫瑟伦吉”"}
+{"time": 1749219704, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“是一位维斯塔尼亚人”"}
+{"time": 1749219768, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“这里离一个叫做塔拉冈泽地的地方很近”"}
+{"time": 1749219790, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“那个村庄就在这片沼泽的边上”"}
+{"time": 1749219802, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“是这一带唯一的人类聚集地”"}
+{"time": 1749219823, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“如果你们想要寻求帮助的话，可以去那里”"}
+{"time": 1749219847, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“实在是感谢您的指路，这片沼泽真是危机四伏，你们也要多加小心”"}
+{"time": 1749219893, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“好的，现在天色也不早了，你们可以在我的营地休息一晚”"}
+{"time": 1749219902, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“等明天一大早，再出发去村落”"}
+{"time": 1749219904, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“实在是麻烦你们了”"}
+{"time": 1749219905, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”我们居然走了这么远？这地方我从来没听过“一个人嘀咕着"}
+{"time": 1749219907, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“非常感谢您的慷慨”"}
+{"time": 1749219920, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们估计是横穿了整个沼泽”"}
+{"time": 1749219928, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“幸运的是我们遇到你们”"}
+{"time": 1749219936, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*跟着走"}
+{"time": 1749219949, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“谢谢你们”"}
+{"time": 1749219951, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“你们可以与我们一起共享晚餐，在晚餐之后，可能还会有”"}
+{"time": 1749219960, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“揭示命运之时”"}
+{"time": 1749219971, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“命运？”"}
+{"time": 1749219978, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“是什么仪式吗”"}
+{"time": 1749219990, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（fate）"}
+{"time": 1749220000, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“是的，维斯塔尼亚人自古以来就承担着预言的职责”"}
+{"time": 1749220017, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "他指向一旁的女子“就是我美丽的女儿瓦拉娜。她将揭示你们的命运。”"}
+{"time": 1749220023, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“未来吗”"}
+{"time": 1749220038, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*敬礼"}
+{"time": 1749220048, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“向占卜师致意”"}
+{"time": 1749220066, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（app多少）"}
+{"time": 1749220123, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”总算有热乎饭吃了“大喜过望"}
+{"time": 1749220130, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "在酒足饭饱之后，你们围在了火堆边"}
+{"time": 1749220138, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "瓦拉娜逐个注视你们一会儿，跃动的焰火在她黑亮的大眼睛中闪亮。"}
+{"time": 1749220148, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "悲剧从我向那位安静失落的年轻人预示命运时展开，”她悲伤地说道：“也许再一次的预言，能结束这一切吧。”她在膝盖上放了一个小圆盘，手里握着一些石片。她又看了你们一眼，从手中掷下了那些小石片。"}
+{"time": 1749220165, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“迷失者在召唤你们！”瓦拉娜急速地喘气。每个家庭成员都过来扶着她。“死者们将行走于下一次暴雨降下之时，要让他们获得真正的安息。如果你们失败了，雨滴将会变成鲜血，将你们，以及塔冈村的所有人淹没。”瑟伦吉连忙领着妻子和女儿回到马车。“算命免费，”他慌忙补充：“现在是休息的时间了，请随意使用我们的营火。”"}
+{"time": 1749220188, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "他们回到了自己的马车内，把火堆留给了你们"}
+{"time": 1749220201, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“虽然但是”"}
+{"time": 1749220208, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“总感觉不是什么好消息啊”"}
+{"time": 1749220233, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”什么？怎么有这么晦气的事，我才刚出来没几天“"}
+{"time": 1749220245, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“那很恐怖了”"}
+{"time": 1749220251, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“那么，现在我们便是与命运对峙了”"}
+{"time": 1749220280, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我们也没干什么吧”"}
+{"time": 1749220284, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“不能是没洗澡吧”"}
+{"time": 1749220309, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“至于战马，我需要向各位道歉：之前出于想要磨砺自己我隐藏了他。直到刚才才发觉本次任务难度并非常态。”"}
+{"time": 1749220324, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”你要是想用泥水洗，我也没什么意见“"}
+{"time": 1749220331, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还是先睡觉吧”"}
+{"time": 1749220333, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”事已至此，先休息吧“"}
+{"time": 1749220340, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“要有人守夜吗”"}
+{"time": 1749220344, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "正当你们休息之前。你们再次看到瓦拉娜的身形在马车旁出现。她压低声音，"}
+{"time": 1749220353, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“须防嗔癫者”"}
+{"time": 1749220359, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“亦须防彼血之血……”"}
+{"time": 1749220388, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“听不懂”"}
+{"time": 1749220395, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“吸血鬼吗？”"}
+{"time": 1749220408, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“Beware the madman；Beware his blood”"}
+{"time": 1749220473, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”什么意思？下次暴雨又是在什么时候“"}
+{"time": 1749220478, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“这下懂了”"}
+{"time": 1749220481, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“我明白了，躲着点疯子，别被他的血溅上？”"}
+{"time": 1749220495, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "*长休！"}
+{"time": 1749220498, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "次日"}
+{"time": 1749220504, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "也就是第三天"}
+{"time": 1749220529, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "维斯塔尼亚人已经全部不见了，恋童他们的马车一起"}
+{"time": 1749220538, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "维斯塔尼亚人已经全部不见了，连同他们的马车一起"}
+{"time": 1749220571, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你们要顺着维斯塔尼亚人给的村庄方向前进"}
+{"time": 1749220575, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "还是有别的路线"}
+{"time": 1749220608, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“好像预言真的很不妙啊”"}
+{"time": 1749220614, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“昨天还态度很好”"}
+{"time": 1749220621, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“怎么突然走了”"}
+{"time": 1749220629, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”真是咄咄怪事，就算那边没有城镇，也只有这个线索可以找了“"}
+{"time": 1749220648, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“真神秘啊”"}
+{"time": 1749220649, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“也许他们有着自己的习俗吧”"}
+{"time": 1749220678, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“还是按照原定计划找其他住民才是对的”"}
+{"time": 1749220685, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*往昨天计划好的方向走"}
+{"time": 1749220686, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“总之，既然他们给我们指明了聚落所在地，我们就先过去看看信息寻找补给吧”"}
+{"time": 1749220712, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "顺着他们指出的方向，四周的树变得更加厚密。顶上树枝互相纠缠盘结，下方树根暴露，行进开始变得困难。枝桠尖细的末梢不断擦滑过你的臂膀与腿，而风吹过枝叶间，发出一种诡异，空洞的声音。当你们拨开一丛植物时，你们忽然看到不远处的亮光。仿佛在沼泽湿冷的空气中微微向你们招手。亮光并不在靠近的地方，那是一座小木屋，比一般的窝棚大不了多少。光线从前面的两扇窗户和敞开的门中流出。房屋就像被悬挂着般离开水面，它的倒影在黑冷的水面闪烁着光芒。"}
+{"time": 1749220740, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*侦测魔法"}
+{"time": 1749220749, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*侦测混乱"}
+{"time": 1749220781, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "在那个屋子里没有魔法灵光和混乱灵光"}
+{"time": 1749220801, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“感觉应该挺安全？”"}
+{"time": 1749220808, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“谁去探探路？”"}
+{"time": 1749220839, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“我来吧”"}
+{"time": 1749220852, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*于是转身向屋内走去"}
+{"time": 1749220863, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#上法师护甲"}
+{"time": 1749220895, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "突然一卷绳梯从门前落下。"}
+{"time": 1749220904, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#再来一发护盾术魔杖"}
+{"time": 1749220907, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "当圣武士走到房屋前时"}
+{"time": 1749220918, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "这道由粗绳和木块做成的绳梯，轻轻摇摆扣击着发出轻微的咔嗒声。最后一阶悬在发臭的水面上，似乎在欢迎你爬上去，进入温暖的灯光中。"}
+{"time": 1749220922, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*站在远处看着"}
+{"time": 1749220941, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“我先去探探路；一有动静我就告知大家”"}
+{"time": 1749220957, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“等你凯旋而归！”"}
+{"time": 1749220960, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "那么你上去了"}
+{"time": 1749220962, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“也请在外面的各位做好警戒”"}
+{"time": 1749220972, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "这间小屋只有一个房间。超过两打的提灯或挂着或放在地上，让屋内充满亮光。在门的右边，一个闭着的木箱靠墙放着。一个上方开着的木桶在箱子旁边。"}
+{"time": 1749220979, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "正对门口，一个年轻人坐在房间中央。"}
+{"time": 1749220995, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "[CQ:image,file=d98210c113d175be2afb14a9b0d4bf75.image,subType=0,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhSpyrtdJQq4Upflfgw2H30jccXSOhi99x8g_wooqIHk_4PdjQMyBHByb2RQgL2jAVoQbYaFk9aIX2CZFfYFEdDh3noCCBs&amp;spec=0&amp;rkey=CAESMDE3g1gTcaxQ6xKClwdjuUJGiTG63AHzgvGXnmOnpAQGVq8PW_4PmN_2N7XviAxaqQ]"}
+{"time": 1749220995, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“您好，抱歉叨扰”"}
+{"time": 1749221022, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "五盏提灯环绕他，他空洞失神的大眼睛看向空气中。年轻人出奇地瘦且苍白。他长长的金发柔软地垂到肩上。他弯着身子，身上穿着干净清洁，样式简单的衬衣和短裤。他手中拿着一本小书，放在膝上"}
+{"time": 1749221022, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*试着侦测混乱"}
+{"time": 1749221030, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "没有混乱灵光"}
+{"time": 1749221037, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“降临夜之邪恶之大地，可近魔兆当触。”"}
+{"time": 1749221044, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "然后他又复归平静，不说话也不动。在他旁边，趴着一只黑色的猫猫，正在打盹。"}
+{"time": 1749221049, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（说英文吧）"}
+{"time": 1749221054, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "随后，他便不再言语"}
+{"time": 1749221122, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“那能否借用您的住所，给我的同伴们一片落脚之地暂供歇息”"}
+{"time": 1749221145, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "他没有理你"}
+{"time": 1749221147, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“如果您不说话的话，我就默认您同意了？”"}
+{"time": 1749221172, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "他没有理你"}
+{"time": 1749221178, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“好的”"}
+{"time": 1749221186, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "“降临夜之邪恶之大地，可近魔兆当触。”"}
+{"time": 1749221188, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*退出屋外"}
+{"time": 1749221202, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“里面有什么”"}
+{"time": 1749221204, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“屋内只有一名男子”"}
+{"time": 1749221211, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“看起来格外地”"}
+{"time": 1749221218, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（得）"}
+{"time": 1749221229, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“平静”"}
+{"time": 1749221242, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“或者是，死寂”"}
+{"time": 1749221256, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“不过我并没有察觉到任何异样，大家可以先歇一歇了”"}
+{"time": 1749221272, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "#看看天色"}
+{"time": 1749221293, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "在这里你们已经可以看到附近村子的炊烟"}
+{"time": 1749221304, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你们也可以在小屋中过夜"}
+{"time": 1749221306, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“要不然，先进去村子看看，感觉这个小屋确实有点拥挤了”"}
+{"time": 1749221310, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "现在的时间是中午"}
+{"time": 1749221321, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”什么意思？“*看看里面有什么能用的"}
+{"time": 1749221352, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“继续往村子走吧”"}
+{"time": 1749221356, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "[CQ:reply,id=-470196761][CQ:at,qq=246376731] （？）"}
+{"time": 1749221360, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "（别搞）"}
+{"time": 1749221372, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "”要看里面吗？“"}
+{"time": 1749221378, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*问幕刃大人"}
+{"time": 1749221437, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“非礼勿取，非礼勿用...”"}
+{"time": 1749221473, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "”唉，这里东西还用的上吗？让我们拿去发挥作用也不算浪费”"}
+{"time": 1749221494, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“先问问屋主吧”"}
+{"time": 1749221527, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“那我就拿去了？”*在屋主面前挥挥手"}
+{"time": 1749221541, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "“先问问屋主吧。”"}
+{"time": 1749221544, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "看看他手上的书"}
+{"time": 1749221552, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "不理你"}
+{"time": 1749221557, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*不阻拦也不帮助"}
+{"time": 1749221601, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "他没有反抗"}
+{"time": 1749221605, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "你拿到了他的书"}
+{"time": 1749221614, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "那是一本儿童诗集"}
+{"time": 1749221614, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（隐秘力检定）"}
+{"time": 1749221615, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2628755988"}, "sender": {"id": "2628755988", "name": "柒乔阪"}, "message": "*叹气"}
+{"time": 1749221623, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "扉页上有题字：“赠最亲爱的弟弟，路克。”署名是马赛尔。"}
+{"time": 1749221665, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“看来是弟弟的遗物，还是不要这么做吧”"}
+{"time": 1749221691, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“好像用不上”重新放回去"}
+{"time": 1749221735, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*看看剩下的箱子和木桶"}
+{"time": 1749221752, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "紧闭的箱子中有新鲜食物。这些食物非常充足，"}
+{"time": 1749221755, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*丢个侦测魔法"}
+{"time": 1749221764, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "木桶里装的是清洁的水。"}
+{"time": 1749221788, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "“那，我们走了？”*谨慎的后退"}
+{"time": 1749221799, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "”好像是一个物资丰富的地方，但是我们自取实在是不太好“"}
+{"time": 1749221805, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "”我们还是进村子问问吧“"}
+{"time": 1749221861, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*继续往村子方向走"}
+{"time": 1749221881, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "save"}
+{"time": 1749221884, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "。log off"}
