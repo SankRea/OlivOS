@@ -847,3 +847,34 @@
 {"time": 1749322195, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(233不知道能这么用吗...)"}
 {"time": 1749322200, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(那确实是很厉害了)"}
 {"time": 1749322234, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(那你下次可以问他)"}
+{"time": 1749484310, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过灵感"}
+{"time": 1749484387, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:at,qq=1370316409] "}
+{"time": 1749484404, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra int"}
+{"time": 1749484404, "type": "reply", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沃斯·伊升]进行技能[INT:75]检定: 1D100=20 困难成功，且将新火试新茶，诗酒趁年华"}
+{"time": 1749485248, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "[CQ:at,qq=1252219916] "}
+{"time": 1749485256, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（请求医术，看病人情况）"}
+{"time": 1749485292, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过"}
+{"time": 1749485305, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra医学"}
+{"time": 1749485305, "type": "reply", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沃斯·伊升]进行技能[医学:81]检定: 1D100=91 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1749485351, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你看见有大片的白痕从胸口一直蔓延到脖颈和背部"}
+{"time": 1749485372, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "看上去岌岌可危"}
+{"time": 1749485386, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(什么药物)"}
+{"time": 1749485418, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（那个解毒药）"}
+{"time": 1749487073, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra医学"}
+{"time": 1749487073, "type": "reply", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沃斯·伊升]进行技能[医学:81]检定: 1D100=68 成功，春风得意马蹄急，一日看尽长安花"}
+{"time": 1749487348, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "此时松节油的味道盖住了蜡烛味，但是被上过药贴上绷带的地方，你显然不能现在就看见。"}
+{"time": 1749487358, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "只是莉兹的表情舒缓了一些。"}
+{"time": 1749488100, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*回忆"}
+{"time": 1749563267, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": ".ra侦查"}
+{"time": 1749563267, "type": "reply", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[沃斯·伊升]进行技能[侦查:60]检定: 1D100=70 失败，人面不知何处去，桃花依旧笑春风"}
+{"time": 1749563722, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(你在转述对吧)"}
+{"time": 1749563724, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哈哈哈哈)"}
+{"time": 1749563727, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(笑死了)"}
+{"time": 1749563746, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这也太几把搞笑了)"}
+{"time": 1749563752, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(啊)"}
+{"time": 1749563796, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这不是一眼假我吃)"}
+{"time": 1749563811, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(你可以，揭开帷幕)"}
+{"time": 1749563820, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(不干这种事)"}
+{"time": 1749563830, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(我知道是个什么逻辑了)"}
+{"time": 1749563835, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(龙神也是这样对吧)"}
+{"time": 1749563838, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(哈哈哈哈)"}

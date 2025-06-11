@@ -1,0 +1,6 @@
+{"time": 1749564928, "type": "reply", "dect": {"host_id": null, "group_id": "953751179", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1749564934, "type": "recv", "dect": {"host_id": null, "group_id": "953751179", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（不是有群吗）"}
+{"time": 1749564937, "type": "recv", "dect": {"host_id": null, "group_id": "953751179", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（又来一个）"}
+{"time": 1749564948, "type": "recv", "dect": {"host_id": null, "group_id": "953751179", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(忘了)"}
+{"time": 1749564952, "type": "recv", "dect": {"host_id": null, "group_id": "953751179", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(随便吧)"}
+{"time": 1749564953, "type": "recv", "dect": {"host_id": null, "group_id": "953751179", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(乐)"}
