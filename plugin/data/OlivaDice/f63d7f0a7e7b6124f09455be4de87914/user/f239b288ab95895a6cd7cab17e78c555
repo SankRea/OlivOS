@@ -3,7 +3,7 @@
         "userId": "124565322",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1749549989,
+        "lastHit": 1749712898,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -13,7 +13,7 @@
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "logEnable": false,
-            "logNowName": "log_6df6db70-bffe-4ca2-bfe7-861f9da5722f",
+            "logNowName": null,
             "groupInitParaList": {},
             "groupInitList": {}
         }

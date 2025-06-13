@@ -657,3 +657,6 @@
 {"time": 1747050294, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(感觉，没话的话，先sv?)"}
 {"time": 1747050303, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（sv呗）"}
 {"time": 1747050417, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
+{"time": 1749696143, "type": "reply", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1749696155, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（为什么是继续）"}
+{"time": 1749696158, "type": "recv", "dect": {"host_id": null, "group_id": "124565322", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}

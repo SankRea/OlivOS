@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            13
+                            81
                         ],
                         [],
                         [
-                            13
+                            81
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,15 +25,11 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                1
+                }
             ],
-            "RDRecordRaw": "d+1",
-            "RDRecordInt": 14,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 81,
+            "RDRecordSkillInt": 80,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -66,11 +62,12 @@
                     "totalElements": 1,
                     "totalPages": 1
                 }
-            }
+            },
+            "storyRuntime": {}
         },
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749562507
+        "lastHit": 1749742197
     }
 }
