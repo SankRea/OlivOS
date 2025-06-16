@@ -3454,9 +3454,9 @@
         "母语": 56,
         "SIZ": 75,
         "体型": 75,
-        "HP": 14,
-        "生命值": 14,
-        "HITPOINTS": 14,
+        "HP": 8,
+        "生命值": 8,
+        "HITPOINTS": 8,
         "HPMAX": 14,
         "生命值上限": 14,
         "HITPOINTSMAX": 14,
@@ -4198,6 +4198,7 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "LIST": 0
     }
 }

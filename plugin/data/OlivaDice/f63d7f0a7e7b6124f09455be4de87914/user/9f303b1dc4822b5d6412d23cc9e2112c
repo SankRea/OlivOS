@@ -3,20 +3,26 @@
         "configNote": {
             "userName": "我叫五个五",
             "RDRecord": [
+                5,
+                {
+                    "op": "*"
+                },
                 {
                     "result": [
                         [
-                            76
+                            3,
+                            5,
+                            1
                         ],
                         [],
                         [
-                            76
+                            9
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 3,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +33,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 76,
-            "RDRecordSkillInt": 80
+            "RDRecordRaw": "5*3d6",
+            "RDRecordInt": 45,
+            "RDRecordSkillInt": null
         },
         "userId": "2388921818",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749736521
+        "lastHit": 1749887220
     }
 }

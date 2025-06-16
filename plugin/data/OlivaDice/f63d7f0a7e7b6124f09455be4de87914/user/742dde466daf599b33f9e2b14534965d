@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            39
+                            76
                         ],
                         [],
                         [
-                            39
+                            76
                         ]
                     ],
                     "key": {
@@ -28,13 +28,19 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 39,
-            "RDRecordSkillInt": 80,
-            "storyRuntime": {}
+            "RDRecordInt": 76,
+            "RDRecordSkillInt": 60,
+            "storyRuntime": {
+                "qq|916896135": {
+                    "storyNameNow": "向火独行",
+                    "storyFlagNow": "185",
+                    "storyNoteList": []
+                }
+            }
         },
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749785856
+        "lastHit": 1750042435
     }
 }

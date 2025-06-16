@@ -6,41 +6,56 @@
                 {
                     "result": [
                         [
-                            54
+                            11
                         ],
-                        [],
                         [
-                            54
+                            3,
+                            3,
+                            {
+                                "op": "mark01",
+                                "v": 0
+                            },
+                            8,
+                            9,
+                            {
+                                "op": "mark01",
+                                "v": 0
+                            },
+                            3,
+                            4,
+                            3
+                        ],
+                        [
+                            1
                         ]
                     ],
                     "key": {
-                        "op": "d",
+                        "op": "b",
                         "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
+                        "r": 9,
+                        "v": {}
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 54,
-            "RDRecordSkillInt": 60,
+            "RDRecordRaw": "B9",
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": 200,
             "storyRuntime": {
                 "qq|916896135": {
                     "storyNameNow": "向火独行",
-                    "storyFlagNow": "16",
-                    "storyNoteList": []
+                    "storyFlagNow": "185",
+                    "storyNoteList": [
+                        "与阿博加斯特的约定",
+                        "阿博加斯特的仪式",
+                        "64-可怕的战斗",
+                        "号令天之火"
+                    ]
                 }
             }
         },
         "userId": "2433707750",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749786699
+        "lastHit": 1749801027
     }
 }

@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            81
+                            44
                         ],
                         [],
                         [
-                            81
+                            44
                         ]
                     ],
                     "key": {
@@ -28,8 +28,8 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 81,
-            "RDRecordSkillInt": 80,
+            "RDRecordInt": 44,
+            "RDRecordSkillInt": 20,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -68,6 +68,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749742197
+        "lastHit": 1750043791
     }
 }
