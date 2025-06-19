@@ -102,7 +102,7 @@
             "matchType": "full",
             "matchPlace": "1",
             "priority": 0,
-            "value": "[CQ:record,file=file:///C:\\\\Users\\Administrator\\Desktop\\dice\\OlivaDice-OlivOS-Win\\data\\audios\\春日影_东山奈央.wav]"
+            "value": "[CQ:record,file=data/audios/春日影_东山奈央.wav]"
         }
     }
 }

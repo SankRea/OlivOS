@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Megumin",
+            "userName": "咩咕min",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            11
+                            44
                         ],
                         [],
                         [
-                            11
+                            44
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 11,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d11",
-            "RDRecordInt": 11,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 44,
             "RDRecordSkillInt": null
         },
         "userId": "1302940876",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1731750620
+        "lastHit": 1750344471
     }
 }
