@@ -7,9 +7,16 @@
         "configNote": {
             "groupEnable": true,
             "logEnable": false,
-            "logNowName": "log_66b992e7-b0a3-4e7f-b6e4-3f49d2c64cd7",
+            "logNowName": null,
             "groupMainDice": null,
-            "groupMainDiceDRight": null
+            "groupMainDiceDRight": null,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "66b992e7-b0a3-4e7f-b6e4-3f49d2c64cd7"
+            }
         }
     }
 }

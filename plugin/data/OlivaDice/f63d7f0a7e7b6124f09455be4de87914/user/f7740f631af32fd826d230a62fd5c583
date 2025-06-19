@@ -8,7 +8,14 @@
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "logEnable": false,
-            "logNowName": "log_73804b46-3afe-425d-8e3c-8805c34717d9"
+            "logNowName": null,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "73804b46-3afe-425d-8e3c-8805c34717d9"
+            }
         }
     }
 }

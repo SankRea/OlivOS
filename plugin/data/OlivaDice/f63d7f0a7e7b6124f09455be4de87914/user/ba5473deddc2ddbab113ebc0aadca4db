@@ -6,11 +6,18 @@
         "lastHit": 1727356043,
         "configNote": {
             "logEnable": false,
-            "logNowName": "log_e0d53150-ae7a-43ca-9d3f-a19564cdf456",
+            "logNowName": null,
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "e0d53150-ae7a-43ca-9d3f-a19564cdf456"
+            }
         }
     }
 }

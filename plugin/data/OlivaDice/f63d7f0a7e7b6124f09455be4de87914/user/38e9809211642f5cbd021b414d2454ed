@@ -6,7 +6,7 @@
         "lastHit": 1749553047,
         "configNote": {
             "logEnable": false,
-            "logNowName": "log_c48f8f26-886e-4372-a609-3ec4f030c1d4",
+            "logNowName": null,
             "groupEnable": true,
             "groupObList": [],
             "groupTemplate": "COC7",
@@ -36,6 +36,13 @@
                 "水佳佳": 75,
                 "卡列尼娜": 80,
                 "心夏（侦探团）": 75
+            },
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "c48f8f26-886e-4372-a609-3ec4f030c1d4"
             }
         }
     }

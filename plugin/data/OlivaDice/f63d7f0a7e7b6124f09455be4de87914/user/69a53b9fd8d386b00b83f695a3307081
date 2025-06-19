@@ -17,7 +17,14 @@
                 "d18083d3001e8ec1d1bee7b8d7ed9398"
             ],
             "logEnable": false,
-            "logNowName": "log_56a08144-9a12-48c5-bc8b-7d7977872d96"
+            "logNowName": null,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "56a08144-9a12-48c5-bc8b-7d7977872d96"
+            }
         }
     }
 }

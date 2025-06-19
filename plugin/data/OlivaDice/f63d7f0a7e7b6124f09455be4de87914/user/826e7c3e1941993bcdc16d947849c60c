@@ -6,9 +6,16 @@
         "lastHit": 1748013115,
         "configNote": {
             "logEnable": true,
-            "logNowName": "log_754a86bd-6733-4024-a0dc-287ae79b88e5",
+            "logNowName": null,
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "754a86bd-6733-4024-a0dc-287ae79b88e5"
+            }
         }
     }
 }

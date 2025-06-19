@@ -2920,6 +2920,7 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 11,
-        "ARTILLERY": 11
+        "ARTILLERY": 11,
+        "SIZE": 0
     }
 }

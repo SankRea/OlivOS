@@ -25,7 +25,14 @@
                 "朝露": "1D20+11"
             },
             "logEnable": false,
-            "logNowName": "log_d965e9b6-7ee2-4179-865a-295bd501dd14"
+            "logNowName": null,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "d965e9b6-7ee2-4179-865a-295bd501dd14"
+            }
         }
     }
 }

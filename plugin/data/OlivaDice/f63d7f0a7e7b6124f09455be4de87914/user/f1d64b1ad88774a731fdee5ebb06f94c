@@ -6,7 +6,14 @@
         "lastHit": 1748528965,
         "configNote": {
             "logEnable": false,
-            "logNowName": "log_79ee7372-723d-40a6-8bc7-af430c0ca20d"
+            "logNowName": null,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "79ee7372-723d-40a6-8bc7-af430c0ca20d"
+            }
         }
     }
 }

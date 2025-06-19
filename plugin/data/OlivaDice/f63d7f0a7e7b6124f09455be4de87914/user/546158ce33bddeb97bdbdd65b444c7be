@@ -6,9 +6,16 @@
         "lastHit": 1730386790,
         "configNote": {
             "logEnable": false,
-            "logNowName": "log_08916ddd-c9fa-401e-934b-7d8e05967fa6",
+            "logNowName": null,
             "groupMainDice": "1D20",
-            "groupMainDiceDRight": 20
+            "groupMainDiceDRight": 20,
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "08916ddd-c9fa-401e-934b-7d8e05967fa6"
+            }
         }
     }
 }

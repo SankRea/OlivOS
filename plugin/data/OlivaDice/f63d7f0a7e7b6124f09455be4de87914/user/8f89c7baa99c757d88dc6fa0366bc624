@@ -8,7 +8,7 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "logEnable": false,
-            "logNowName": "log_a7bb0b86-f968-4216-8248-75386ea2719c",
+            "logNowName": null,
             "groupInitList": {
                 "伽娜": 7,
                 "阿尔墨斯": 21,
@@ -22,6 +22,13 @@
                 "芊羽_？": "1D20+3",
                 "灵风雨璇": "4",
                 "变异的狼": "1D20+2"
+            },
+            "logActiveName": "default",
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "a7bb0b86-f968-4216-8248-75386ea2719c"
             }
         }
     }
