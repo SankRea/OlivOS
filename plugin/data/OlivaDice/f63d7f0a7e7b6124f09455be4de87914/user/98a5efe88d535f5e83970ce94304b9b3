@@ -3,11 +3,20 @@
         "userId": "1026386647",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1749105958,
+        "lastHit": 1750701278,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
-            "groupEnable": false
+            "groupEnable": true,
+            "logNameList": [
+                "双子塔大战无敌克苏鲁"
+            ],
+            "logNameDict": {
+                "双子塔大战无敌克苏鲁": "79d4ae43-f29b-44af-ae03-0c1f35ceca0c"
+            },
+            "logActiveName": "双子塔大战无敌克苏鲁",
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
         }
     }
 }
