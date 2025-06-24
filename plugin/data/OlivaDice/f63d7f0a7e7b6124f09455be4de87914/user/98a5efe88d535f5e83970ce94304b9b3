@@ -3,9 +3,9 @@
         "userId": "1026386647",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1750701278,
+        "lastHit": 1750785773,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "groupEnable": true,
             "logNameList": [
