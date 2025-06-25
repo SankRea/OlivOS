@@ -3,11 +3,11 @@
         "userId": "728048958",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1749384320,
+        "lastHit": 1750872545,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "groupInitParaList": {
                 "邪恶的生物": "80",
@@ -30,7 +30,7 @@
                 "default"
             ],
             "logNameDict": {
-                "default": "ad8d1daf-8e32-4acf-8051-53bf2927b1b6"
+                "default": "3e98a491-5eff-4b5e-a186-6f8740b95950"
             }
         }
     }

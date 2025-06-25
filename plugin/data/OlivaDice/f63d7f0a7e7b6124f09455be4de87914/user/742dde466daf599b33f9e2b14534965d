@@ -6,30 +6,26 @@
                 {
                     "result": [
                         [
-                            81
+                            62
                         ],
-                        [],
                         [
-                            81
+                            3
+                        ],
+                        [
+                            62
                         ]
                     ],
                     "key": {
-                        "op": "d",
+                        "op": "p",
                         "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
+                        "r": 1,
+                        "v": {}
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 81,
-            "RDRecordSkillInt": 60,
+            "RDRecordRaw": "P",
+            "RDRecordInt": 62,
+            "RDRecordSkillInt": 50,
             "storyRuntime": {
                 "qq|916896135": {
                     "storyNameNow": "向火独行",
@@ -41,6 +37,6 @@
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1750774692
+        "lastHit": 1750867003
     }
 }
