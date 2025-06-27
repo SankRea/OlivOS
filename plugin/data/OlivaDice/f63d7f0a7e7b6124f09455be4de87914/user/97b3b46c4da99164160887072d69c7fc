@@ -1,18 +1,18 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
-        "userId": "390435021",
+        "userId": "1048556042",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1751037529,
+        "lastHit": 1751032477,
         "configNote": {
-            "logEnable": true,
             "logNameList": [
                 "default"
             ],
             "logNameDict": {
-                "default": "69572db0-5bf3-4325-8960-748dfb9f26e5"
+                "default": "86cc3b03-ae37-4d56-b7f2-8495c6aa6daa"
             },
-            "logActiveName": "default"
+            "logActiveName": "default",
+            "logEnable": true
         }
     }
 }
