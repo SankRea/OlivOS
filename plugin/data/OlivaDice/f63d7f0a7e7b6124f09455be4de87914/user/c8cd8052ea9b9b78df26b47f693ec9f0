@@ -3,16 +3,16 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1747586747,
+        "lastHit": 1751128448,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
-            "logActiveName": "default",
+            "logActiveName": "从结云村开始",
             "logNameList": [
-                "default"
+                "从结云村开始"
             ],
             "logNameDict": {
-                "default": "e097203d-2204-4c91-b5a9-3503d9143273"
+                "从结云村开始": "3926b501-a7da-4087-beff-832ff8ca4893"
             }
         }
     }

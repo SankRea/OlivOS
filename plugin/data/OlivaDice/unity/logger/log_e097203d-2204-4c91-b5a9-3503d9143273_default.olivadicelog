@@ -61,3 +61,5 @@
 {"time": 1739385396, "type": "recv", "dect": {"host_id": null, "group_id": "1020481325", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "）感觉，该睡觉了"}
 {"time": 1739385442, "type": "recv", "dect": {"host_id": null, "group_id": "1020481325", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(导入确实可以停在这里)"}
 {"time": 1739385447, "type": "recv", "dect": {"host_id": null, "group_id": "1020481325", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
+{"time": 1751088496, "type": "reply", "message_id": "866253527", "deleted": false, "dect": {"host_id": null, "group_id": "1020481325", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1751088504, "type": "recv", "message_id": "194699972", "deleted": false, "dect": {"host_id": null, "group_id": "1020481325", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log end"}
