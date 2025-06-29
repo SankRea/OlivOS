@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1751128448,
+        "lastHit": 1751208563,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "logActiveName": "从结云村开始",
             "logNameList": [
@@ -13,7 +13,21 @@
             ],
             "logNameDict": {
                 "从结云村开始": "3926b501-a7da-4087-beff-832ff8ca4893"
-            }
+            },
+            "groupInitList": {
+                "狗龙王": 4,
+                "会赢吗小露儿": 16,
+                "雌狗龙": 10,
+                "安": 2
+            },
+            "groupInitParaList": {
+                "狗龙王": "1D20+3",
+                "会赢吗小露儿": "1D20+1",
+                "雌狗龙": "1D20+1",
+                "安": "1D20+1"
+            },
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20
         }
     }
 }
