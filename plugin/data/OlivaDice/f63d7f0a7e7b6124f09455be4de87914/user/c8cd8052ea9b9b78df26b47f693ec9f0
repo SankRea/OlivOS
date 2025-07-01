@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1751302694,
+        "lastHit": 1751390703,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "logActiveName": "从结云村开始",
             "logNameList": [
