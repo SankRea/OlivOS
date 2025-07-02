@@ -134,6 +134,9 @@
         ],
         "mappingRecord": {
             "先攻": "1D20+7"
+        },
+        "noteRecord": {
+            "名片": "help"
         }
     }
 }

@@ -3,43 +3,15 @@
         "configNote": {
             "userName": "S&G绪章如梦",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            4,
-                            5,
-                            1
-                        ],
-                        [],
-                        [
-                            10
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 3,
-                        "r": 6,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "*"
-                },
-                5
+                100
             ],
-            "RDRecordRaw": "3d6*5",
-            "RDRecordInt": 50,
+            "RDRecordRaw": "100",
+            "RDRecordInt": 100,
             "RDRecordSkillInt": null
         },
         "userId": "2086118349",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1750927028
+        "lastHit": 1751427425
     }
 }
