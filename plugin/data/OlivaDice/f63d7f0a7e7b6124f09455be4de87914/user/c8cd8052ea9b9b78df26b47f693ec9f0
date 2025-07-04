@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1751565560,
+        "lastHit": 1751649969,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -15,16 +15,18 @@
                 "从结云村开始": "3926b501-a7da-4087-beff-832ff8ca4893"
             },
             "groupInitList": {
-                "露儿会赢的": 15,
-                "天宫安": 19,
-                "河童蛙": 17,
-                "野猪": 20
+                "影蜘蛛": 21,
+                "夏弥": 19,
+                "赫萝": 21,
+                "露儿": 18,
+                "天宫安": 13
             },
             "groupInitParaList": {
-                "露儿会赢的": "1D20+1",
-                "天宫安": "1D20+2",
-                "河童蛙": "1D20+2",
-                "野猪": "1D20+1"
+                "影蜘蛛": "1D20+4",
+                "夏弥": "1D20+8",
+                "赫萝": "1D20+8",
+                "露儿": "1D20+1",
+                "天宫安": "1D20+1"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
