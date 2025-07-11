@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1752170256,
+        "lastHit": 1752228696,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -15,12 +15,16 @@
                 "从结云村开始.2": "87b1ea13-8eb2-41a7-97c3-9ded22c2a20a"
             },
             "groupInitList": {
-                "绘梨衣": 10,
-                "彩鸟": 23
+                "沧澜": 18,
+                "桃毛兽": 16,
+                "桃毛兽王": 21,
+                "露儿": 2
             },
             "groupInitParaList": {
-                "绘梨衣": "1D20+5",
-                "彩鸟": "1D20+3"
+                "沧澜": "1D20+5",
+                "桃毛兽": "1D20+1",
+                "桃毛兽王": "1D20+2",
+                "露儿": "2"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
