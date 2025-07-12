@@ -6,42 +6,30 @@
                 {
                     "result": [
                         [
-                            35
+                            99
                         ],
+                        [],
                         [
-                            {
-                                "op": "mark01",
-                                "v": 0
-                            },
-                            7,
-                            3,
-                            {
-                                "op": "mark01",
-                                "v": 0
-                            },
-                            3,
-                            {
-                                "op": "mark01",
-                                "v": 0
-                            },
-                            9,
-                            6
-                        ],
-                        [
-                            5
+                            99
                         ]
                     ],
                     "key": {
-                        "op": "b",
+                        "op": "d",
                         "l": 1,
-                        "r": 8,
-                        "v": {}
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
                     }
                 }
             ],
-            "RDRecordRaw": "B8",
-            "RDRecordInt": 5,
-            "RDRecordSkillInt": 0,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 99,
+            "RDRecordSkillInt": 60,
             "storyRuntime": {
                 "qq|916896135": {
                     "storyNameNow": "向火独行",
@@ -53,6 +41,6 @@
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1752168186
+        "lastHit": 1752342938
     }
 }
