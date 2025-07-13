@@ -3,9 +3,9 @@
         "userId": "902737966",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1752168228,
+        "lastHit": 1752429196,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "groupEnable": true,
             "logActiveName": "default",
@@ -13,7 +13,7 @@
                 "default"
             ],
             "logNameDict": {
-                "default": "9a59f007-ad10-4242-a0a2-8216cac27507"
+                "default": "951c6b24-11e2-4707-b289-0c709cfc4380"
             },
             "groupMainDice": null,
             "groupMainDiceDRight": null

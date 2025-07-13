@@ -3,37 +3,15 @@
         "configNote": {
             "userName": "雨林霖",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            9
-                        ],
-                        [],
-                        [
-                            9
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 23,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                46
             ],
-            "RDRecordRaw": "d23",
-            "RDRecordInt": 9,
+            "RDRecordRaw": "46",
+            "RDRecordInt": 46,
             "RDRecordSkillInt": null
         },
         "userId": "1159237057",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1742481464
+        "lastHit": 1752345183
     }
 }
