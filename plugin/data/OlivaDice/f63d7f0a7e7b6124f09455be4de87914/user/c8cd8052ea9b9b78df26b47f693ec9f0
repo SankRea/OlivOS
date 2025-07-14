@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1752428738,
+        "lastHit": 1752514125,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "logActiveName": "从结云村开始.2",
             "logNameList": [
@@ -15,16 +15,16 @@
                 "从结云村开始.2": "87b1ea13-8eb2-41a7-97c3-9ded22c2a20a"
             },
             "groupInitList": {
-                "沧澜": 18,
-                "桃毛兽": 16,
-                "桃毛兽王": 21,
-                "露儿": 2
+                "露儿": 12,
+                "沧澜": 14,
+                "影蜘蛛": 19,
+                "蜘蛛群": 18
             },
             "groupInitParaList": {
+                "露儿": "12",
                 "沧澜": "1D20+5",
-                "桃毛兽": "1D20+1",
-                "桃毛兽王": "1D20+2",
-                "露儿": "2"
+                "影蜘蛛": "1D20+4",
+                "蜘蛛群": "1D20+2"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
