@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1752602375,
+        "lastHit": 1752684681,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -15,14 +15,18 @@
                 "从结云村开始.2": "87b1ea13-8eb2-41a7-97c3-9ded22c2a20a"
             },
             "groupInitList": {
-                "露儿": 13,
-                "鸟": 6,
-                "无敌之人": 16
+                "安": 2,
+                "活下去吧露儿": 3,
+                "尾槌龙16": 0,
+                "尾槌龙": 16,
+                "沧澜": 21
             },
             "groupInitParaList": {
-                "露儿": "1D20+2",
-                "鸟": "1D20+3",
-                "无敌之人": "1D20+8"
+                "安": "1D20+1",
+                "活下去吧露儿": "1D20+2",
+                "尾槌龙16": "0",
+                "尾槌龙": "16",
+                "沧澜": "1D20+5"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
