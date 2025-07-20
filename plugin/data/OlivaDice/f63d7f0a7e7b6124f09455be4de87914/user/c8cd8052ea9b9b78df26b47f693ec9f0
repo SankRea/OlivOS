@@ -3,27 +3,19 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1752925761,
+        "lastHit": 1753034373,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
-            "logActiveName": "从结云村开始.2",
+            "logActiveName": "恒古诡邪",
             "logNameList": [
-                "从结云村开始.2"
+                "恒古诡邪"
             ],
             "logNameDict": {
-                "从结云村开始.2": "87b1ea13-8eb2-41a7-97c3-9ded22c2a20a"
+                "恒古诡邪": "d58c733a-eb67-41ac-b12f-78e2523513d1"
             },
-            "groupInitList": {
-                "露儿": 8,
-                "沧澜": 25,
-                "天狗兽": 8
-            },
-            "groupInitParaList": {
-                "露儿": "8",
-                "沧澜": "25",
-                "天狗兽": "8"
-            },
+            "groupInitList": {},
+            "groupInitParaList": {},
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
         }
