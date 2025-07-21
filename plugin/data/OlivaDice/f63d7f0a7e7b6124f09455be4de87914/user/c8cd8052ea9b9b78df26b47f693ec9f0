@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1753034373,
+        "lastHit": 1753118812,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "logActiveName": "恒古诡邪",
             "logNameList": [
@@ -14,8 +14,20 @@
             "logNameDict": {
                 "恒古诡邪": "d58c733a-eb67-41ac-b12f-78e2523513d1"
             },
-            "groupInitList": {},
-            "groupInitParaList": {},
+            "groupInitList": {
+                "奥契丝": 12,
+                "枷薇": 27,
+                "真红": 8,
+                "亚里莎": 16,
+                "左手克星": 14
+            },
+            "groupInitParaList": {
+                "奥契丝": "1D20+9",
+                "枷薇": "1D20+9",
+                "真红": "1D20+3",
+                "亚里莎": "1D20+2",
+                "左手克星": "1D20+1"
+            },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
         }
