@@ -6,18 +6,16 @@
                 {
                     "result": [
                         [
-                            4,
-                            7,
-                            7
+                            8
                         ],
                         [],
                         [
-                            18
+                            8
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 3,
+                        "l": 1,
                         "r": 8,
                         "v": {
                             "k": null,
@@ -27,54 +25,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            5,
-                            4,
-                            2,
-                            6,
-                            2,
-                            6
-                        ],
-                        [],
-                        [
-                            25
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 6,
-                        "r": 6,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                9,
-                {
-                    "op": "+"
-                },
-                18
+                }
             ],
-            "RDRecordRaw": "3d8+6d6+9+18",
-            "RDRecordInt": 70,
+            "RDRecordRaw": "1d8",
+            "RDRecordInt": 8,
             "RDRecordSkillInt": null
         },
         "userId": "1040972910",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753118760
+        "lastHit": 1753202272
     }
 }

@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1753118812,
+        "lastHit": 1753202272,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
@@ -15,18 +15,18 @@
                 "恒古诡邪": "d58c733a-eb67-41ac-b12f-78e2523513d1"
             },
             "groupInitList": {
-                "奥契丝": 12,
-                "枷薇": 27,
-                "真红": 8,
-                "亚里莎": 16,
-                "左手克星": 14
+                "奥契丝": 18,
+                "吸血雾魔": 15,
+                "枷薇": 24,
+                "真红": 11,
+                "艾丽莎": 16
             },
             "groupInitParaList": {
                 "奥契丝": "1D20+9",
+                "吸血雾魔": "1D20+7",
                 "枷薇": "1D20+9",
                 "真红": "1D20+3",
-                "亚里莎": "1D20+2",
-                "左手克星": "1D20+1"
+                "艾丽莎": "1D20+2"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
