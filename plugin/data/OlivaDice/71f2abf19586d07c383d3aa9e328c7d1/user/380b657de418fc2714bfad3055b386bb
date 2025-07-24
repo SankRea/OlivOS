@@ -6,20 +6,19 @@
                 {
                     "result": [
                         [
-                            1,
-                            5,
-                            5,
-                            3
+                            7,
+                            3,
+                            5
                         ],
                         [],
                         [
-                            14
+                            15
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 4,
-                        "r": 6,
+                        "l": 3,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -32,16 +31,47 @@
                 {
                     "op": "+"
                 },
-                23
+                33,
+                {
+                    "op": "-"
+                },
+                5,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            4,
+                            2
+                        ],
+                        [],
+                        [
+                            6
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 2,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "4d6+23",
-            "RDRecordInt": 37,
+            "RDRecordRaw": "3d8+33-5+2d6",
+            "RDRecordInt": 49,
             "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753288099
+        "lastHit": 1753375328
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

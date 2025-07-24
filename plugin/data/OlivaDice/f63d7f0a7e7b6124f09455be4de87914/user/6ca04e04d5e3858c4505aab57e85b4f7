@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "夜鹿夜游真夜中",
+            "userName": "苦机拉",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            15
+                            20
                         ],
                         [],
                         [
-                            15
+                            20
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,20 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D20",
-            "RDRecordInt": 15,
-            "RDRecordSkillInt": null,
-            "storyRuntime": {
-                "qq|916896135": {
-                    "storyNameNow": "向火独行",
-                    "storyFlagNow": "185",
-                    "storyNoteList": []
-                }
-            }
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 20,
+            "RDRecordSkillInt": null
         },
-        "userId": "2468514664",
+        "userId": "851569621",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753334106
+        "lastHit": 1753357463
     }
 }
