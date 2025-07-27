@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "熊木",
+            "userName": "劇場愛歌",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            5
+                            2
                         ],
                         [],
                         [
-                            5
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 2,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 5,
-            "RDRecordSkillInt": 4
+            "RDRecordRaw": "1d2",
+            "RDRecordInt": 2,
+            "RDRecordSkillInt": null
         },
-        "userId": "376030837",
+        "userId": "3222503301",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753633093
+        "lastHit": 1753622767
     }
 }

@@ -3,21 +3,19 @@
         "userId": "121735290",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1753552413,
+        "lastHit": 1753559596,
         "configNote": {
             "groupEnable": true,
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "groupMainDice": null,
             "groupMainDiceDRight": null,
-            "logActiveName": "巫女小姐の异常祓除录",
+            "logActiveName": null,
             "logNameList": [
-                "default",
-                "巫女小姐の异常祓除录"
+                "default"
             ],
             "logNameDict": {
-                "default": "66b992e7-b0a3-4e7f-b6e4-3f49d2c64cd7",
-                "巫女小姐の异常祓除录": "4202c6bb-b695-4185-841e-d188f485bf9a"
+                "default": "66b992e7-b0a3-4e7f-b6e4-3f49d2c64cd7"
             }
         }
     }
