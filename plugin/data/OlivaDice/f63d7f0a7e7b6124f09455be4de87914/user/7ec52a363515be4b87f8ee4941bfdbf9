@@ -3,7 +3,7 @@
         "userId": "1050565807",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1753537954,
+        "lastHit": 1753719642,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
@@ -15,7 +15,27 @@
                 "default": "a8959a8a-c722-4d49-8d1a-3442f9e94820"
             },
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "groupInitList": {
+                "国字脸": 65,
+                "男人60": 0,
+                "男人": 60,
+                "女人": 55,
+                "肖越和": 60,
+                "顾幼龄": 75,
+                "月神夜": 70,
+                "拜亚基": 67
+            },
+            "groupInitParaList": {
+                "国字脸": "65",
+                "男人60": "0",
+                "男人": "60",
+                "女人": "55",
+                "肖越和": "60",
+                "顾幼龄": "75",
+                "月神夜": "70",
+                "拜亚基": "67"
+            }
         }
     }
 }

@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "初见，初醒",
+            "userName": "曲水矜",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            91
+                            33
                         ],
                         [],
                         [
-                            91
+                            33
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 91,
+            "RDRecordInt": 33,
             "RDRecordSkillInt": null
         },
         "userId": "3584734854",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1750419534
+        "lastHit": 1753710547
     }
 }
