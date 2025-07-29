@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1753710450,
+        "lastHit": 1753806989,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -15,22 +15,12 @@
                 "在炎火村继续1": "ce29cef4-6285-4bfd-99d2-cbc7d5639ee6"
             },
             "groupInitList": {
-                "露儿": 17,
-                "沧澜": 21,
-                "夏弥": 11,
-                "赫萝": 28,
-                "碎龙": 15,
-                "安": 14,
-                "碎龙2": 20
+                "浅上绘梨花": 3,
+                "露儿": 2
             },
             "groupInitParaList": {
-                "露儿": "1D20+1",
-                "沧澜": "1D20+5",
-                "夏弥": "1D20+8",
-                "赫萝": "1D20+8",
-                "碎龙": "1D20+6",
-                "安": "1D20+1",
-                "碎龙2": "1D20+6"
+                "浅上绘梨花": "1D20+1",
+                "露儿": "1D20+1"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20

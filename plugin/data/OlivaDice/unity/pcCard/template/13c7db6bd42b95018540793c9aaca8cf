@@ -167,6 +167,9 @@
         }
     },
     "浅上绘梨花": {
-        "enhanceList": []
+        "enhanceList": [],
+        "mappingRecord": {
+            "先攻": "1D20+1"
+        }
     }
 }
