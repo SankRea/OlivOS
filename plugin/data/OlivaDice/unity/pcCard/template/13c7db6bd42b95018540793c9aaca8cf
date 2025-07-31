@@ -167,7 +167,9 @@
         }
     },
     "浅上绘梨花": {
-        "enhanceList": [],
+        "enhanceList": [
+            "侦查"
+        ],
         "mappingRecord": {
             "先攻": "1D20+1"
         }
