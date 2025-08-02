@@ -3,25 +3,19 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1754070842,
+        "lastHit": 1754154958,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
-            "logActiveName": "在炎火村继续1",
+            "logActiveName": "伊始",
             "logNameList": [
-                "在炎火村继续1"
+                "伊始"
             ],
             "logNameDict": {
-                "在炎火村继续1": "ce29cef4-6285-4bfd-99d2-cbc7d5639ee6"
+                "伊始": "0673ac2f-1704-4dea-a40d-054d78ffaa8d"
             },
-            "groupInitList": {
-                "浅上绘梨花": 3,
-                "露儿": 2
-            },
-            "groupInitParaList": {
-                "浅上绘梨花": "1D20+1",
-                "露儿": "1D20+1"
-            },
+            "groupInitList": {},
+            "groupInitParaList": {},
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
         }

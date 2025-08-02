@@ -6,17 +6,21 @@
                 {
                     "result": [
                         [
-                            94
+                            1,
+                            1,
+                            2,
+                            3,
+                            4
                         ],
                         [],
                         [
-                            94
+                            11
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 5,
+                        "r": 5,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,10 +29,14 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "-"
+                },
+                5
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 94,
+            "RDRecordRaw": "5d5-5",
+            "RDRecordInt": 6,
             "RDRecordSkillInt": null,
             "trustLevel": 1000,
             "autoSnEnabled": true
@@ -36,7 +44,7 @@
         "userId": "1370316409",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753979700
+        "lastHit": 1754138356
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

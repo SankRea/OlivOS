@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "残阳亦旭.艾蕾王ver",
+            "userName": "残阳亦旭•我爱艾蕾！",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            67
+                            1
                         ],
                         [],
                         [
-                            67
+                            1
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 5,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 67,
-            "RDRecordSkillInt": 75
+            "RDRecordRaw": "1d5",
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": null
         },
         "userId": "2739405262",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1753103164
+        "lastHit": 1754152436
     }
 }
