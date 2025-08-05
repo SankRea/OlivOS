@@ -6,17 +6,28 @@
                 {
                     "result": [
                         [
-                            95
+                            1,
+                            2,
+                            2,
+                            1,
+                            2,
+                            2,
+                            1,
+                            1,
+                            2,
+                            2,
+                            1,
+                            2
                         ],
                         [],
                         [
-                            95
+                            19
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 12,
+                        "r": 2,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,8 +38,8 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d100",
-            "RDRecordInt": 95,
+            "RDRecordRaw": "12d2",
+            "RDRecordInt": 19,
             "RDRecordSkillInt": null,
             "trustLevel": 1000,
             "autoSnEnabled": true
@@ -36,7 +47,7 @@
         "userId": "1370316409",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1754231558
+        "lastHit": 1754383968
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

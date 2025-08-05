@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "划船不靠桨の233",
+            "userName": "老飞哥",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            11
+                            85
                         ],
                         [],
                         [
-                            11
+                            85
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,19 +25,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                1
+                }
             ],
-            "RDRecordRaw": "d+1",
-            "RDRecordInt": 12,
-            "RDRecordSkillInt": null
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 85,
+            "RDRecordSkillInt": 0
         },
-        "userId": "1040972910",
+        "userId": "1759856030",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1754362389
+        "lastHit": 1754378600
     }
 }
