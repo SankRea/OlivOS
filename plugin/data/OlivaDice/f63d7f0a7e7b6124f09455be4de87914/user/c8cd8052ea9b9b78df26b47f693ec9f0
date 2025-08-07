@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1754503161,
+        "lastHit": 1754563446,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -14,8 +14,14 @@
             "logNameDict": {
                 "伊始": "0673ac2f-1704-4dea-a40d-054d78ffaa8d"
             },
-            "groupInitList": {},
-            "groupInitParaList": {},
+            "groupInitList": {
+                "诺诺": 15,
+                "浅上绘梨花": 21
+            },
+            "groupInitParaList": {
+                "诺诺": "1D20+1",
+                "浅上绘梨花": "1D20+3"
+            },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
         }
