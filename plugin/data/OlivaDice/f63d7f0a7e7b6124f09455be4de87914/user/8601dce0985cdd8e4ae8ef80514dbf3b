@@ -3,7 +3,7 @@
         "userId": "1040778971",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1754576463,
+        "lastHit": 1754666169,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -16,13 +16,9 @@
             "groupInitList": {
                 "怪物": 65
             },
-            "logActiveName": "default",
-            "logNameList": [
-                "default"
-            ],
-            "logNameDict": {
-                "default": "61111fd2-bbff-4d48-9796-dbf92aa4291d"
-            },
+            "logActiveName": null,
+            "logNameList": [],
+            "logNameDict": {},
             "groupObList": [
                 "0295f58a921ad924e9bf09718b84ed18",
                 "a66de4b257565b441a90181fb4fa0980"
