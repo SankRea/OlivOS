@@ -4200,5 +4200,19 @@
         "炮术": 1,
         "ARTILLERY": 1,
         "LIST": 0
+    },
+    "干将": {
+        "HP": 50,
+        "生命值": 50,
+        "HITPOINTS": 50,
+        "HPMAX": 50,
+        "生命值上限": 50,
+        "HITPOINTSMAX": 50,
+        "MP": 60,
+        "魔法": 60,
+        "MAGICPOINTS": 60,
+        "MPMAX": 60,
+        "魔法上限": 60,
+        "MAGICPOINTSMAX": 60
     }
 }

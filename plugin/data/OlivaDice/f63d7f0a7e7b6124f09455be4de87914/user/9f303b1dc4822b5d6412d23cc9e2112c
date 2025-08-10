@@ -7,12 +7,12 @@
                     "result": [
                         [
                             3,
-                            3,
-                            2
+                            1,
+                            1
                         ],
                         [],
                         [
-                            8
+                            5
                         ]
                     ],
                     "key": {
@@ -31,15 +31,19 @@
                 {
                     "op": "+"
                 },
-                8
+                8,
+                {
+                    "op": "+"
+                },
+                6
             ],
-            "RDRecordRaw": "3d4+8",
-            "RDRecordInt": 16,
+            "RDRecordRaw": "3d4+8+6",
+            "RDRecordInt": 19,
             "RDRecordSkillInt": null
         },
         "userId": "2388921818",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1754232783
+        "lastHit": 1754832286
     }
 }
