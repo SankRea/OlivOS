@@ -1,22 +1,27 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "名取雅",
+            "userName": "多拉贡",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            37
+                            1,
+                            4,
+                            5,
+                            5,
+                            4,
+                            2
                         ],
                         [],
                         [
-                            37
+                            21
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 6,
+                        "r": 5,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,15 +30,19 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                1
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 37,
-            "RDRecordSkillInt": 80
+            "RDRecordRaw": "6d5+1",
+            "RDRecordInt": 22,
+            "RDRecordSkillInt": null
         },
-        "userId": "3166982250",
+        "userId": "3625185457",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1754925171
+        "lastHit": 1754904332
     }
 }

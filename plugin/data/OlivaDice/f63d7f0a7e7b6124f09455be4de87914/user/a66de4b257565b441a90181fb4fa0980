@@ -3,18 +3,76 @@
         "configNote": {
             "userName": "S&G绪章如梦",
             "RDRecord": [
-                100
+                {
+                    "result": [
+                        [
+                            2,
+                            4,
+                            3,
+                            2,
+                            5,
+                            3
+                        ],
+                        [],
+                        [
+                            19
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 6,
+                        "r": 5,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3,
+                            2,
+                            2,
+                            1
+                        ],
+                        [],
+                        [
+                            8
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 4,
+                        "r": 3,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                1
             ],
-            "RDRecordRaw": "100",
-            "RDRecordInt": 100,
+            "RDRecordRaw": "6d5+4d3+1",
+            "RDRecordInt": 28,
             "RDRecordSkillInt": null,
-            "userObList": [
-                "8601dce0985cdd8e4ae8ef80514dbf3b"
-            ]
+            "userObList": []
         },
         "userId": "2086118349",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1754034357
+        "lastHit": 1754905049
     }
 }
