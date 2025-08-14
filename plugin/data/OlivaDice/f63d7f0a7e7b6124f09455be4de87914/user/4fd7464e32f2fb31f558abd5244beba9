@@ -6,31 +6,35 @@
                 {
                     "result": [
                         [
-                            97
+                            20
                         ],
+                        [],
                         [
-                            7
-                        ],
-                        [
-                            97
+                            20
                         ]
                     ],
                     "key": {
-                        "op": "p",
+                        "op": "d",
                         "l": 1,
-                        "r": 1,
-                        "v": {}
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
                     }
                 }
             ],
-            "RDRecordRaw": "P",
-            "RDRecordInt": 97,
-            "RDRecordSkillInt": 95,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 20,
+            "RDRecordSkillInt": 8,
             "storyRuntime": {}
         },
         "userId": "3362422751",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1755091644
+        "lastHit": 1755181379
     }
 }

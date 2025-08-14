@@ -27,9 +27,9 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d",
+            "RDRecordRaw": "1D100",
             "RDRecordInt": 16,
-            "RDRecordSkillInt": null,
+            "RDRecordSkillInt": 60,
             "storyRuntime": {
                 "qq|916896135": {
                     "storyNameNow": "向火独行",
@@ -41,6 +41,6 @@
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1755104768
+        "lastHit": 1755189102
     }
 }

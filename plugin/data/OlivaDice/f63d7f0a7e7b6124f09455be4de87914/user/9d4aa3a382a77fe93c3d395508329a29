@@ -1,12 +1,10 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
-        "userId": "1056339614",
+        "userId": "1029911714",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755170875,
+        "lastHit": 1755170560,
         "configNote": {
-            "groupMainDice": null,
-            "groupMainDiceDRight": null,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3"
         }

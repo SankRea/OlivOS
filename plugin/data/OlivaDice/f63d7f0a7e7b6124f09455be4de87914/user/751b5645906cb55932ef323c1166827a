@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "芊羽",
+            "userName": "芊",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            18
+                            429
                         ],
                         [],
                         [
-                            18
+                            429
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 750,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,14 +27,14 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 18,
+            "RDRecordRaw": "d750",
+            "RDRecordInt": 429,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1751294394
+        "lastHit": 1755168928
     }
 }
