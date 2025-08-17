@@ -3,10 +3,18 @@
         "userId": "1056340271",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755277233,
+        "lastHit": 1755449642,
         "configNote": {
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "logNameList": [
+                "圣杯战争（狂）"
+            ],
+            "logNameDict": {
+                "圣杯战争（狂）": "83274e9d-df0a-42c7-bd48-399fe573f978"
+            },
+            "logActiveName": "圣杯战争（狂）",
+            "logEnable": false
         }
     }
 }

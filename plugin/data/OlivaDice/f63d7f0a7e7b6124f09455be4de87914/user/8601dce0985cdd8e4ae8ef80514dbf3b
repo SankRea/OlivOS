@@ -3,7 +3,7 @@
         "userId": "1040778971",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755231054,
+        "lastHit": 1755450144,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -16,9 +16,13 @@
             "groupInitList": {
                 "怪物": 65
             },
-            "logActiveName": null,
-            "logNameList": [],
-            "logNameDict": {},
+            "logActiveName": "圣杯战争（开幕）",
+            "logNameList": [
+                "圣杯战争（开幕）"
+            ],
+            "logNameDict": {
+                "圣杯战争（开幕）": "3b0c5507-c2c2-4bb5-a130-de309cc1520f"
+            },
             "groupObList": []
         }
     }

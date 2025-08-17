@@ -6,37 +6,44 @@
                 {
                     "result": [
                         [
-                            36
+                            40
                         ],
-                        [],
                         [
-                            36
+                            7,
+                            2,
+                            5,
+                            {
+                                "op": "mark01",
+                                "v": 10
+                            },
+                            6,
+                            1,
+                            5,
+                            8,
+                            2
+                        ],
+                        [
+                            100
                         ]
                     ],
                     "key": {
-                        "op": "d",
+                        "op": "p",
                         "l": 1,
-                        "r": 750,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
+                        "r": 9,
+                        "v": {}
                     }
                 }
             ],
-            "RDRecordRaw": "d750",
-            "RDRecordInt": 36,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "P9",
+            "RDRecordInt": 100,
+            "RDRecordSkillInt": 133,
             "trustLevel": 1000,
             "autoSnEnabled": true
         },
         "userId": "1370316409",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1755257787
+        "lastHit": 1755450031
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {

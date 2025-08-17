@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755361964,
+        "lastHit": 1755448779,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -23,28 +23,8 @@
             "logNameDict": {
                 "鬼屋（竟然是第二车": "3e92d9bc-41ec-406a-99b6-7516284b5080"
             },
-            "groupInitList": {
-                "鼠群": 9,
-                "着了火的疯鼠": 18,
-                "维克托": 120,
-                "敏捷": 0,
-                "椎名绪": 110,
-                "敏捷70": 0,
-                "敏捷55": 0,
-                "苏理绘": 55,
-                "许司昤": 70
-            },
-            "groupInitParaList": {
-                "鼠群": "9",
-                "着了火的疯鼠": "18",
-                "维克托": "120",
-                "敏捷": "0",
-                "椎名绪": "110",
-                "敏捷70": "0",
-                "敏捷55": "0",
-                "苏理绘": "55",
-                "许司昤": "70"
-            }
+            "groupInitList": {},
+            "groupInitParaList": {}
         }
     }
 }

@@ -4312,19 +4312,19 @@
         "炮术": 1,
         "ARTILLERY": 1
     },
-    "黑剑玛利喀斯": {
-        "HP": 50,
-        "生命值": 50,
-        "HITPOINTS": 50,
-        "HPMAX": 50,
-        "生命值上限": 50,
-        "HITPOINTSMAX": 50,
-        "MP": 60,
-        "魔法": 60,
-        "MAGICPOINTS": 60,
-        "MPMAX": 60,
-        "魔法上限": 60,
-        "MAGICPOINTSMAX": 60,
+    "绣冬": {
+        "HP": 49,
+        "生命值": 49,
+        "HITPOINTS": 49,
+        "HPMAX": 49,
+        "生命值上限": 49,
+        "HITPOINTSMAX": 49,
+        "MP": 46,
+        "魔法": 46,
+        "MAGICPOINTS": 46,
+        "MPMAX": 46,
+        "魔法上限": 46,
+        "MAGICPOINTSMAX": 46,
         "会计": 5,
         "ACCOUNTING": 5,
         "人类学": 1,
@@ -4435,6 +4435,7 @@
         "炮术": 1,
         "ARTILLERY": 1,
         "NN黑剑": 0,
-        "NN": 0
+        "NN": 0,
+        "感知": 60
     }
 }
