@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755448779,
+        "lastHit": 1755533311,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -23,8 +23,20 @@
             "logNameDict": {
                 "鬼屋（竟然是第二车": "3e92d9bc-41ec-406a-99b6-7516284b5080"
             },
-            "groupInitList": {},
-            "groupInitParaList": {}
+            "groupInitList": {
+                "维克托": 120,
+                "维姬": 105,
+                "维特": 45,
+                "椎名绪": 55,
+                "苏理绘": 55
+            },
+            "groupInitParaList": {
+                "维克托": "120",
+                "维姬": "105",
+                "维特": "45",
+                "椎名绪": "55",
+                "苏理绘": "55"
+            }
         }
     }
 }

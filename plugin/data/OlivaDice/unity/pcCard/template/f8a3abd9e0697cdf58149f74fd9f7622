@@ -47,5 +47,10 @@
         "mappingRecord": {
             "先攻": "70"
         }
+    },
+    "小黑": {
+        "enhanceList": [
+            "命中"
+        ]
     }
 }
