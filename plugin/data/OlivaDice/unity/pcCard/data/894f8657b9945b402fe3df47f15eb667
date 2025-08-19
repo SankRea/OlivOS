@@ -4313,12 +4313,12 @@
         "ARTILLERY": 1
     },
     "绣冬": {
-        "HP": 49,
-        "生命值": 49,
-        "HITPOINTS": 49,
-        "HPMAX": 49,
-        "生命值上限": 49,
-        "HITPOINTSMAX": 49,
+        "HP": 51,
+        "生命值": 51,
+        "HITPOINTS": 51,
+        "HPMAX": 51,
+        "生命值上限": 51,
+        "HITPOINTSMAX": 51,
         "MP": 46,
         "魔法": 46,
         "MAGICPOINTS": 46,
