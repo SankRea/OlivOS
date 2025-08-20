@@ -1,0 +1,76 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "山神",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            [
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 10
+                                    }
+                                },
+                                3,
+                                {
+                                    "op": "mark01",
+                                    "v": 9
+                                },
+                                4,
+                                2,
+                                1,
+                                7,
+                                2,
+                                6,
+                                1
+                            ],
+                            [
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 10
+                                    }
+                                }
+                            ],
+                            [
+                                {
+                                    "op": "mark01",
+                                    "v": 8
+                                }
+                            ]
+                        ],
+                        [
+                            2,
+                            1,
+                            1
+                        ],
+                        [
+                            4
+                        ]
+                    ],
+                    "key": {
+                        "op": "a",
+                        "l": 10,
+                        "r": 10,
+                        "v": {
+                            "k": 8,
+                            "q": null,
+                            "m": 10
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "10a10",
+            "RDRecordInt": 4,
+            "RDRecordSkillInt": null
+        },
+        "userId": "1780257366",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1755679282
+    }
+}

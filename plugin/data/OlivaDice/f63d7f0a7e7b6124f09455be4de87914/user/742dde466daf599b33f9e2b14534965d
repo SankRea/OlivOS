@@ -6,29 +6,38 @@
                 {
                     "result": [
                         [
-                            85
+                            [
+                                6,
+                                7,
+                                {
+                                    "op": "mark01",
+                                    "v": 9
+                                },
+                                1,
+                                3
+                            ]
                         ],
-                        [],
                         [
-                            85
+                            1
+                        ],
+                        [
+                            1
                         ]
                     ],
                     "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "op": "a",
+                        "l": 5,
+                        "r": 10,
                         "v": {
-                            "k": null,
+                            "k": 8,
                             "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
+                            "m": 10
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "d",
-            "RDRecordInt": 85,
+            "RDRecordRaw": "5a10",
+            "RDRecordInt": 1,
             "RDRecordSkillInt": null,
             "storyRuntime": {
                 "qq|916896135": {
@@ -41,6 +50,6 @@
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1755617572
+        "lastHit": 1755668355
     }
 }

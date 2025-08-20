@@ -1,0 +1,45 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "南瓜蛋糕（已黑化）",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            2,
+                            5,
+                            2
+                        ],
+                        [],
+                        [
+                            9
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                5
+            ],
+            "RDRecordRaw": "3d6*5",
+            "RDRecordInt": 45,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2521841432",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1755677875
+    }
+}

@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755618677,
+        "lastHit": 1755701173,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -16,26 +16,22 @@
             ],
             "logEnable": false,
             "logNowName": null,
-            "logActiveName": "鬼屋（竟然是第二车",
-            "logNameList": [
-                "鬼屋（竟然是第二车"
-            ],
-            "logNameDict": {
-                "鬼屋（竟然是第二车": "3e92d9bc-41ec-406a-99b6-7516284b5080"
-            },
+            "logActiveName": null,
+            "logNameList": [],
+            "logNameDict": {},
             "groupInitList": {
+                "科比特": 35,
                 "维克托": 120,
-                "维姬": 105,
-                "维特": 45,
                 "椎名绪": 55,
-                "苏理绘": 55
+                "苏理绘": 55,
+                "许司昤": 35
             },
             "groupInitParaList": {
+                "科比特": "35",
                 "维克托": "120",
-                "维姬": "105",
-                "维特": "45",
                 "椎名绪": "55",
-                "苏理绘": "55"
+                "苏理绘": "55",
+                "许司昤": "35"
             }
         }
     }
