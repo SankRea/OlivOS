@@ -3,7 +3,7 @@
         "userId": "964141319",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1755672795,
+        "lastHit": 1755784238,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -16,7 +16,7 @@
                 "圣杯战争（术）": "d4f731d3-87e4-455e-bd1a-0a07a9a0f718"
             },
             "logActiveName": "圣杯战争（术）",
-            "logEnable": true
+            "logEnable": false
         }
     }
 }
