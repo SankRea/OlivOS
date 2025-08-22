@@ -1,24 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "【⌖Ⅻ〖夏目安安〗Ⅻ⌖】",
+            "userName": "【⌖Ⅻ〖鸿园君主〗Ⅻ⌖】",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            6,
-                            5,
-                            1
+                            4
                         ],
                         [],
                         [
-                            12
+                            4
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 3,
-                        "r": 6,
+                        "l": 1,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -29,17 +27,17 @@
                     }
                 },
                 {
-                    "op": "*"
+                    "op": "+"
                 },
-                5
+                3
             ],
-            "RDRecordRaw": "3d6*5",
-            "RDRecordInt": 60,
+            "RDRecordRaw": "d20+3",
+            "RDRecordInt": 7,
             "RDRecordSkillInt": null
         },
         "userId": "3966127256",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1755691922
+        "lastHit": 1755867960
     }
 }
