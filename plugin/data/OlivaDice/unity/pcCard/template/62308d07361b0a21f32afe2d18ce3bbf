@@ -51,6 +51,9 @@
         ]
     },
     "夏虫": {
-        "enhanceList": []
+        "enhanceList": [
+            "说服",
+            "神秘学"
+        ]
     }
 }
