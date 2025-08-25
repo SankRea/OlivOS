@@ -6,17 +6,167 @@
                 {
                     "result": [
                         [
-                            400
+                            6
                         ],
                         [],
                         [
-                            400
+                            6
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 500,
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                100000,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3
+                        ],
+                        [],
+                        [
+                            3
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                10000,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            2
+                        ],
+                        [],
+                        [
+                            2
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                1000,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            6
+                        ],
+                        [],
+                        [
+                            6
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                100,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3
+                        ],
+                        [],
+                        [
+                            3
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 9,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                10,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3
+                        ],
+                        [],
+                        [
+                            3
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 9,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +177,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d500",
-            "RDRecordInt": 400,
+            "RDRecordRaw": "d9*100000+d9*10000+d9*1000+d9*100+d9*10+d9",
+            "RDRecordInt": 632633,
             "RDRecordSkillInt": null
         },
         "userId": "3057428454",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1756008819
+        "lastHit": 1756131523
     }
 }
