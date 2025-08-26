@@ -3,10 +3,13 @@
         "userId": "1057762086",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1756117547,
+        "lastHit": 1756225244,
         "configNote": {
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "groupObList": [
+                "742dde466daf599b33f9e2b14534965d"
+            ]
         }
     }
 }
