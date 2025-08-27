@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            33
+                            41
                         ],
                         [],
                         [
-                            33
+                            41
                         ]
                     ],
                     "key": {
@@ -27,14 +27,14 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 33,
-            "RDRecordSkillInt": 95
+            "RDRecordRaw": "d100",
+            "RDRecordInt": 41,
+            "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1756221571
+        "lastHit": 1756316838
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {
