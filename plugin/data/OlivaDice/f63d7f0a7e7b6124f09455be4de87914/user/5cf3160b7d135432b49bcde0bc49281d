@@ -3,7 +3,7 @@
         "userId": "903910689",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1756300558,
+        "lastHit": 1756385382,
         "configNote": {
             "logNameList": [
                 "结盟后（剑骑）"
@@ -12,7 +12,7 @@
                 "结盟后（剑骑）": "22892753-e7b6-4ddd-bb09-4dc482c7a578"
             },
             "logActiveName": "结盟后（剑骑）",
-            "logEnable": false
+            "logEnable": true
         }
     }
 }
