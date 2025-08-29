@@ -689,3 +689,4 @@
 {"time": 1756393531, "type": "recv", "message_id": "856496205", "deleted": false, "dect": {"host_id": null, "group_id": "1057651114", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:reply,id=1930969569]（1[CQ:at,qq=2388921818]"}
 {"time": 1756393987, "type": "recv", "message_id": "183089458", "deleted": false, "dect": {"host_id": null, "group_id": "1057651114", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "（来了）"}
 {"time": 1756394002, "type": "recv", "message_id": "1918141766", "deleted": false, "dect": {"host_id": null, "group_id": "1057651114", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "好的"}
+{"time": 1756440227, "type": "recv", "message_id": "764564008", "deleted": false, "dect": {"host_id": null, "group_id": "1057651114", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "。log off"}

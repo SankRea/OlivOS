@@ -925,3 +925,4 @@
 {"time": 1756393509, "type": "recv", "message_id": "1149966093", "deleted": false, "dect": {"host_id": null, "group_id": "1056340271", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "（我要帮她守一下）"}
 {"time": 1756393530, "type": "recv", "message_id": "1441331182", "deleted": false, "dect": {"host_id": null, "group_id": "1056340271", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(还没做好)"}
 {"time": 1756393539, "type": "recv", "message_id": "1992941779", "deleted": false, "dect": {"host_id": null, "group_id": "1056340271", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(做好KP会说)"}
+{"time": 1756440234, "type": "recv", "message_id": "1605881149", "deleted": false, "dect": {"host_id": null, "group_id": "1056340271", "user_id": "2388921818"}, "sender": {"id": "2388921818", "name": "我叫五个五"}, "message": "。log off"}

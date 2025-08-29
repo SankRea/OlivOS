@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Arcadia",
+            "userName": "维兹",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            86
+                            91
                         ],
                         [],
                         [
-                            86
+                            91
                         ]
                     ],
                     "key": {
@@ -28,13 +28,13 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 86,
-            "RDRecordSkillInt": 60,
+            "RDRecordInt": 91,
+            "RDRecordSkillInt": 31,
             "storyRuntime": {}
         },
         "userId": "3362422751",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1756397015
+        "lastHit": 1756488048
     }
 }
