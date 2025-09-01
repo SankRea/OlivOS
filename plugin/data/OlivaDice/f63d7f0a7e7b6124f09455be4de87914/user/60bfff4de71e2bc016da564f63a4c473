@@ -3,7 +3,7 @@
         "userId": "1057832383",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1756571747,
+        "lastHit": 1756729905,
         "configNote": {
             "logNameList": [
                 "default"
@@ -12,7 +12,7 @@
                 "default": "eced703b-c44a-43cf-9880-0238e0d73271"
             },
             "logActiveName": "default",
-            "logEnable": false
+            "logEnable": true
         }
     }
 }
