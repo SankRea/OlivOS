@@ -85,6 +85,8 @@
         ]
     },
     "云登": {
-        "enhanceList": []
+        "enhanceList": [
+            "感知"
+        ]
     }
 }

@@ -398,3 +398,4 @@
 {"time": 1756730534, "type": "recv", "message_id": "1781430822", "deleted": false, "dect": {"host_id": null, "group_id": "1057832383", "user_id": "1067041556"}, "sender": {"id": "1067041556", "name": "虚幻过往"}, "message": "（他都要去天文台了）"}
 {"time": 1756730534, "type": "recv", "message_id": "1288552057", "deleted": false, "dect": {"host_id": null, "group_id": "1057832383", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(不聊)"}
 {"time": 1756731067, "type": "recv", "message_id": "1841323372", "deleted": false, "dect": {"host_id": null, "group_id": "1057832383", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "总之，金发的从者离开了大厅，往里间去了"}
+{"time": 1756903913, "type": "recv", "message_id": "1806587021", "deleted": false, "dect": {"host_id": null, "group_id": "1057832383", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "这边，各自感知"}
