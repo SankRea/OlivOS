@@ -1,10 +1,6 @@
 {
     "不会在的人": {
-        "enhanceList": [
-            "侦查",
-            "剑",
-            "绘画"
-        ],
+        "enhanceList": [],
         "mappingRecord": {
             "先攻": "1D20+8"
         }
