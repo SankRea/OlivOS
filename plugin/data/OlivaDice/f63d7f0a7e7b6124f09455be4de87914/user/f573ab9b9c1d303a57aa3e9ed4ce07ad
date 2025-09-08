@@ -3,15 +3,19 @@
         "userId": "1055214585",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757259727,
+        "lastHit": 1757342883,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "logNameList": [],
-            "logNameDict": {},
-            "logActiveName": null,
+            "logNameList": [
+                "昨日星火2"
+            ],
+            "logNameDict": {
+                "昨日星火2": "486dc741-ba4f-498e-bdf5-ef88bc277fd8"
+            },
+            "logActiveName": "昨日星火2",
             "logEnable": false
         }
     }

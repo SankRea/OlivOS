@@ -88,5 +88,10 @@
         "enhanceList": [
             "感知"
         ]
+    },
+    "雾雨铃": {
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

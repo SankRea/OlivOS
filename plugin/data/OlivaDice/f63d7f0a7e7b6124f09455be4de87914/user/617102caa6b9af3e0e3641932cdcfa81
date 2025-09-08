@@ -3,6 +3,16 @@
         "userId": "781088767",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757217666
+        "lastHit": 1757311378,
+        "configNote": {
+            "logNameList": [
+                "娱乐续写"
+            ],
+            "logNameDict": {
+                "娱乐续写": "fbb45379-0fb2-4fd3-bb74-52aa10dc06fc"
+            },
+            "logActiveName": "娱乐续写",
+            "logEnable": false
+        }
     }
 }

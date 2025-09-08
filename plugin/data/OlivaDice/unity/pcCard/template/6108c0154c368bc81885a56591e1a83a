@@ -4,7 +4,9 @@
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
         "enhanceList": [
-            "灵感"
+            "灵感",
+            "侦查",
+            "图书馆"
         ]
     }
 }
