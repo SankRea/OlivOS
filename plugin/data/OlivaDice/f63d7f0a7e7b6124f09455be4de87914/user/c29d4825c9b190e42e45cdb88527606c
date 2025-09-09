@@ -3,20 +3,16 @@
         "userId": "1057762086",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757087943,
+        "lastHit": 1757430816,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupObList": [
                 "742dde466daf599b33f9e2b14534965d"
             ],
-            "logNameList": [
-                "白灾1——初入买卖城"
-            ],
-            "logNameDict": {
-                "白灾1——初入买卖城": "7e68b371-6223-4967-837e-4d94b7a32ef5"
-            },
-            "logActiveName": "白灾1——初入买卖城",
+            "logNameList": [],
+            "logNameDict": {},
+            "logActiveName": null,
             "logEnable": false
         }
     }
