@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757436555,
+        "lastHit": 1757519363,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -12,7 +12,8 @@
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupObList": [
-                "5c5ba4969428218f4ec42552de8fddf9"
+                "5c5ba4969428218f4ec42552de8fddf9",
+                "3ae67c305bd76b206462583d0696e80d"
             ],
             "groupInitList": {
                 "怪": 110,
