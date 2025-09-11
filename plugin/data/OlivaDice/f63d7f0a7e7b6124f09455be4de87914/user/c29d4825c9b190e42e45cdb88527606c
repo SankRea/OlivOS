@@ -3,16 +3,20 @@
         "userId": "1057762086",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757430816,
+        "lastHit": 1757582865,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupObList": [
                 "742dde466daf599b33f9e2b14534965d"
             ],
-            "logNameList": [],
-            "logNameDict": {},
-            "logActiveName": null,
+            "logNameList": [
+                "缉查1"
+            ],
+            "logNameDict": {
+                "缉查1": "bf6e3b1a-eb69-459b-85f2-2a523b23fb40"
+            },
+            "logActiveName": "缉查1",
             "logEnable": false
         }
     }
