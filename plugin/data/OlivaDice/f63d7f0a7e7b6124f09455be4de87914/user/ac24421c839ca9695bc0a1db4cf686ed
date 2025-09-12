@@ -3,11 +3,11 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757519363,
+        "lastHit": 1757680139,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -26,7 +26,14 @@
                 "保安": "75",
                 "顾": "70",
                 "何": "55"
-            }
+            },
+            "logNameList": [
+                "合线"
+            ],
+            "logNameDict": {
+                "合线": "dcfcca7c-c767-4ce1-9928-139d2a1b18d1"
+            },
+            "logActiveName": "合线"
         }
     }
 }

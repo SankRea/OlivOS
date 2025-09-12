@@ -3,11 +3,33 @@
         "configNote": {
             "userName": "森の月",
             "RDRecord": [
-                100
+                {
+                    "result": [
+                        [
+                            30
+                        ],
+                        [],
+                        [
+                            30
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "100",
-            "RDRecordInt": 100,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 30,
+            "RDRecordSkillInt": 100,
             "userObList": [
                 "ac24421c839ca9695bc0a1db4cf686ed"
             ],
@@ -16,6 +38,6 @@
         "userId": "408119794",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1757586204
+        "lastHit": 1757694986
     }
 }

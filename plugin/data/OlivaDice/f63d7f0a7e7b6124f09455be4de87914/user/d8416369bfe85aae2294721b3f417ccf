@@ -3,11 +3,15 @@
         "userId": "1022805967",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757607565,
+        "lastHit": 1757686985,
         "configNote": {
-            "logNameList": [],
-            "logNameDict": {},
-            "logActiveName": null,
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "15c054a2-ce3a-4f25-9036-3b403f3833dd"
+            },
+            "logActiveName": "default",
             "logEnable": false,
             "groupObList": [
                 "3ae67c305bd76b206462583d0696e80d"
