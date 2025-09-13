@@ -192,3 +192,4 @@
 {"time": 1757681558, "type": "recv", "message_id": "1068574053", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（已经有报告了，但是还能去再看"}
 {"time": 1757681649, "type": "recv", "message_id": "342903841", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（不去了）"}
 {"time": 1757681669, "type": "recv", "message_id": "493136424", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "408119794"}, "sender": {"id": "408119794", "name": "森の月"}, "message": "（尊重世界观）"}
+{"time": 1757733129, "type": "recv", "message_id": "1722321943", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": ".log off"}

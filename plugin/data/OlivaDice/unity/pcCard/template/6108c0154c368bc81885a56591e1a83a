@@ -3,6 +3,8 @@
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
-        "enhanceList": []
+        "enhanceList": [
+            "我不是可爱男娘"
+        ]
     }
 }
