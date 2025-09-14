@@ -92,5 +92,8 @@
         "mappingRecord": {
             "先攻": "1D20+6"
         }
+    },
+    "二条熏": {
+        "enhanceList": []
     }
 }

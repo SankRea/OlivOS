@@ -6,5 +6,11 @@
         "enhanceList": [
             "我不是可爱男娘"
         ]
+    },
+    "林雪风": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": []
     }
 }
