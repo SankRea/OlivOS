@@ -3,15 +3,19 @@
         "userId": "1055214585",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1757855286,
+        "lastHit": 1757946567,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "logNameList": [],
-            "logNameDict": {},
-            "logActiveName": null,
+            "logNameList": [
+                "星尘的研究"
+            ],
+            "logNameDict": {
+                "星尘的研究": "d6eaad07-2cac-4909-b20e-0de3af885b72"
+            },
+            "logActiveName": "星尘的研究",
             "logEnable": false
         }
     }

@@ -4,7 +4,8 @@
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
         "enhanceList": [
-            "我不是可爱男娘"
+            "我不是可爱男娘",
+            "图书馆"
         ]
     },
     "林雪风": {

@@ -1,5 +1,8 @@
 {
     "阿斯顿": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查",
+            "图书馆"
+        ]
     }
 }
