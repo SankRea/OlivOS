@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "清词",
+            "userName": "repreologue",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            35
+                            1
                         ],
                         [],
                         [
-                            35
+                            1
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 35,
-            "RDRecordSkillInt": 80
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": null
         },
-        "userId": "2039502134",
+        "userId": "2671886534",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1758202034
+        "lastHit": 1758177434
     }
 }
