@@ -1,0 +1,68 @@
+{
+    "0755": [
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        }
+    ],
+    "1255": [
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        }
+    ],
+    "2115": [
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        }
+    ],
+    "2255": [
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        }
+    ],
+    "2359": [
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        },
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "1098529435",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        },
+        {
+            "cont": "\u6bc1\u706d\u4e16\u754c",
+            "user": "408119794",
+            "group": "913879073",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        },
+        {
+            "cont": "\u590d\u6d3b",
+            "user": "3362422751",
+            "group": "1098529435",
+            "host": "None",
+            "hash": "f63d7f0a7e7b6124f09455be4de87914"
+        }
+    ]
+}
