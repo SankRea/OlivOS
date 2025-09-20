@@ -6,9 +6,9 @@
                 {
                     "result": [
                         [
-                            4,
-                            4,
-                            3
+                            8,
+                            1,
+                            2
                         ],
                         [],
                         [
@@ -35,15 +35,19 @@
                 {
                     "op": "+"
                 },
+                3,
+                {
+                    "op": "+"
+                },
                 12
             ],
-            "RDRecordRaw": "3d8+21+12",
-            "RDRecordInt": 44,
+            "RDRecordRaw": "3d8+21+3+12",
+            "RDRecordInt": 47,
             "RDRecordSkillInt": null
         },
         "userId": "1040972910",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1758293629
+        "lastHit": 1758389268
     }
 }

@@ -6,30 +6,133 @@
                 {
                     "result": [
                         [
-                            12
+                            [
+                                1,
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 9
+                                    }
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 9
+                                    }
+                                },
+                                2,
+                                4,
+                                4,
+                                {
+                                    "op": "mark02",
+                                    "v": 5
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": 6
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 9
+                                    }
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 10
+                                    }
+                                }
+                            ],
+                            [
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 9
+                                    }
+                                },
+                                4,
+                                2,
+                                {
+                                    "op": "mark02",
+                                    "v": 7
+                                },
+                                2,
+                                {
+                                    "op": "mark02",
+                                    "v": 6
+                                }
+                            ],
+                            [
+                                1,
+                                {
+                                    "op": "mark02",
+                                    "v": 7
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 9
+                                    }
+                                }
+                            ],
+                            [
+                                {
+                                    "op": "mark02",
+                                    "v": 6
+                                },
+                                {
+                                    "op": "mark02",
+                                    "v": {
+                                        "op": "mark01",
+                                        "v": 8
+                                    }
+                                }
+                            ],
+                            [
+                                3,
+                                {
+                                    "op": "mark02",
+                                    "v": 6
+                                }
+                            ],
+                            [
+                                3
+                            ]
                         ],
-                        [],
                         [
-                            12
+                            4,
+                            1,
+                            1,
+                            1,
+                            0,
+                            0
+                        ],
+                        [
+                            7
                         ]
                     ],
                     "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "op": "a",
+                        "l": 10,
+                        "r": 5,
                         "v": {
-                            "k": null,
+                            "k": 8,
                             "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
+                            "m": 10
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 12,
-            "RDRecordSkillInt": 60,
+            "RDRecordRaw": "10a5",
+            "RDRecordInt": 7,
+            "RDRecordSkillInt": null,
             "storyRuntime": {
                 "qq|916896135": {
                     "storyNameNow": "向火独行",
@@ -44,6 +147,6 @@
         "userId": "2468514664",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1758274492
+        "lastHit": 1758388582
     }
 }
