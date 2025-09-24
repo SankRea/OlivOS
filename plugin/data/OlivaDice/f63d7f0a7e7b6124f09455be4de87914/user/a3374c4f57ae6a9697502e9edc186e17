@@ -1,11 +1,12 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
-        "userId": "692285679",
+        "userId": "1047104144",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1758703793,
+        "lastHit": 1758683579,
         "configNote": {
-            "groupEnable": true
+            "groupMainDice": null,
+            "groupMainDiceDRight": null
         }
     }
 }
