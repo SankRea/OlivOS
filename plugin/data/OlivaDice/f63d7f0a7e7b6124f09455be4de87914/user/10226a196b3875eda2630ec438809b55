@@ -6,49 +6,18 @@
                 {
                     "result": [
                         [
-                            5,
+                            3,
                             2,
-                            6
+                            2
                         ],
                         [],
                         [
-                            13
+                            7
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 3,
-                        "r": 8,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            6,
-                            4,
-                            6,
-                            2,
-                            3,
-                            5
-                        ],
-                        [],
-                        [
-                            26
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 6,
                         "r": 6,
                         "v": {
                             "k": null,
@@ -58,19 +27,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                30
+                }
             ],
-            "RDRecordRaw": "3d8+6d6+30",
-            "RDRecordInt": 69,
+            "RDRecordRaw": "3d6",
+            "RDRecordInt": 7,
             "RDRecordSkillInt": null
         },
         "userId": "1040972910",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1758871602
+        "lastHit": 1758989549
     }
 }

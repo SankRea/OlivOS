@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1758886226,
+        "lastHit": 1758992940,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,18 +12,20 @@
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "杀人藤": 15,
-                "沙耶": 26,
-                "心爱": 8,
-                "蛮子": 9,
-                "女巫": 32
+                "妲里德拉": 15,
+                "真菌狼": 3,
+                "心爱": 9,
+                "智乃": 20,
+                "女巫": 22,
+                "蛮子": 13
             },
             "groupInitParaList": {
-                "杀人藤": "1D20+0",
-                "沙耶": "1D20+9",
+                "妲里德拉": "1D20+5",
+                "真菌狼": "1D20+1",
                 "心爱": "1D20+2",
-                "蛮子": "1D20+7",
-                "女巫": "1D20+17"
+                "智乃": "1D20+7",
+                "女巫": "1D20+17",
+                "蛮子": "1D20+7"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
