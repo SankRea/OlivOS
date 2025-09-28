@@ -3,7 +3,7 @@
         "userId": "1040778971",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1758436667,
+        "lastHit": 1759032997,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -23,7 +23,8 @@
             "logNameDict": {
                 "圣杯战争（开幕）": "3b0c5507-c2c2-4bb5-a130-de309cc1520f"
             },
-            "groupObList": []
+            "groupObList": [],
+            "groupEnable": false
         }
     }
 }
