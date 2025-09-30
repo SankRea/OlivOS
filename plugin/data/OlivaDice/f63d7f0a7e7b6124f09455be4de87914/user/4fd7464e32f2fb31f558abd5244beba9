@@ -16,7 +16,7 @@
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 7,
+                        "r": 15,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,7 +27,7 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d7",
+            "RDRecordRaw": "d15",
             "RDRecordInt": 2,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
@@ -35,6 +35,6 @@
         "userId": "3362422751",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1759162120
+        "lastHit": 1759241147
     }
 }
