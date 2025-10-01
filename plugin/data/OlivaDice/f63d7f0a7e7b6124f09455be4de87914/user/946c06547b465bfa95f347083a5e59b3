@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1759241147,
+        "lastHit": 1759302913,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -16,14 +16,16 @@
                 "女巫": 25,
                 "man": 26,
                 "沙耶": 16,
-                "archer": 20
+                "archer": 20,
+                "圣武士": 4
             },
             "groupInitParaList": {
                 "水鬼": "1D20+3",
                 "女巫": "1D20+17",
                 "man": "1D20+7",
                 "沙耶": "1D20+7",
-                "archer": "1D20+2"
+                "archer": "1D20+2",
+                "圣武士": "1D20-1"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
