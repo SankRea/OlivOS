@@ -6,83 +6,29 @@
                 {
                     "result": [
                         [
-                            [
-                                {
-                                    "op": "mark02",
-                                    "v": 7
-                                },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 9
-                                    }
-                                },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                2,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 9
-                                    }
-                                }
-                            ],
-                            [
-                                1,
-                                2,
-                                1,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 9
-                                    }
-                                }
-                            ],
-                            [
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 8
-                                    }
-                                }
-                            ],
-                            [
-                                4
-                            ]
+                            4
                         ],
+                        [],
                         [
-                            3,
-                            1,
-                            1,
-                            0
-                        ],
-                        [
-                            5
+                            4
                         ]
                     ],
                     "key": {
-                        "op": "a",
-                        "l": 5,
-                        "r": 6,
+                        "op": "d",
+                        "l": 1,
+                        "r": 5,
                         "v": {
-                            "k": 8,
+                            "k": null,
                             "q": null,
-                            "m": 10
+                            "p": null,
+                            "b": null,
+                            "a": null
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "5a6",
-            "RDRecordInt": 5,
+            "RDRecordRaw": "d5",
+            "RDRecordInt": 4,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -122,6 +68,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1759409817
+        "lastHit": 1759634050
     }
 }
