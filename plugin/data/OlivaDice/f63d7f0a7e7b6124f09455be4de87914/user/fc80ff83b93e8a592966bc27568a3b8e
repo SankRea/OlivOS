@@ -6,67 +6,34 @@
                 {
                     "result": [
                         [
-                            [
-                                5,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                {
-                                    "op": "mark01",
-                                    "v": 9
-                                },
-                                {
-                                    "op": "mark01",
-                                    "v": 9
-                                },
-                                {
-                                    "op": "mark01",
-                                    "v": 9
-                                },
-                                4,
-                                {
-                                    "op": "mark01",
-                                    "v": 9
-                                },
-                                6,
-                                3,
-                                5
-                            ],
-                            [
-                                3
-                            ]
+                            62
                         ],
+                        [],
                         [
-                            5,
-                            0
-                        ],
-                        [
-                            5
+                            62
                         ]
                     ],
                     "key": {
-                        "op": "a",
-                        "l": 10,
-                        "r": 10,
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
                         "v": {
-                            "k": 8,
+                            "k": null,
                             "q": null,
-                            "m": 10
+                            "p": null,
+                            "b": null,
+                            "a": null
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "10A10",
-            "RDRecordInt": 5,
-            "RDRecordSkillInt": null
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 62,
+            "RDRecordSkillInt": 50
         },
         "userId": "3350763001",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1758872635
+        "lastHit": 1759808645
     }
 }

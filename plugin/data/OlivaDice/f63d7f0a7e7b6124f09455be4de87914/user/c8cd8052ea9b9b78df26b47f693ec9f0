@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1759769121,
+        "lastHit": 1759853135,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -24,7 +24,8 @@
                 "绘梨衣": 23,
                 "安": 2,
                 "弩台": 19,
-                "露儿": 21
+                "露儿": 21,
+                "伊芙": 5
             },
             "groupInitParaList": {
                 "赫萝": "1D20+8",
@@ -34,7 +35,8 @@
                 "绘梨衣": "1D20+6",
                 "安": "1D20+1",
                 "弩台": "1D20+2",
-                "露儿": "1D20+1"
+                "露儿": "1D20+1",
+                "伊芙": "1D20+1"
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
