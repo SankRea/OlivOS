@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1759939483,
+        "lastHit": 1760027725,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,20 +12,18 @@
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "水鬼": 7,
-                "女巫": 25,
-                "man": 26,
-                "沙耶": 16,
-                "archer": 20,
-                "圣武士": 4
+                "芊羽_？": 32,
+                "塞西尔": 22,
+                "灵风雨璇": 10,
+                "智乃": 45,
+                "僵尸": 19
             },
             "groupInitParaList": {
-                "水鬼": "1D20+3",
-                "女巫": "1D20+17",
-                "man": "1D20+7",
-                "沙耶": "1D20+7",
-                "archer": "1D20+2",
-                "圣武士": "1D20-1"
+                "芊羽_？": "1D20+21",
+                "塞西尔": "1D20+8",
+                "灵风雨璇": "1D20+5",
+                "智乃": "1D20+27",
+                "僵尸": "1D20+7"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"

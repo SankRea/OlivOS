@@ -3,23 +3,37 @@
         "configNote": {
             "userName": "灵风雨璇",
             "RDRecord": [
-                87,
                 {
-                    "op": "+"
-                },
-                36,
-                {
-                    "op": "+"
-                },
-                91
+                    "result": [
+                        [
+                            2
+                        ],
+                        [],
+                        [
+                            2
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "87+36+91",
-            "RDRecordInt": 214,
+            "RDRecordRaw": "d6",
+            "RDRecordInt": 2,
             "RDRecordSkillInt": null
         },
         "userId": "1009793416",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1749053593
+        "lastHit": 1760021443
     }
 }
