@@ -6,99 +6,30 @@
                 {
                     "result": [
                         [
-                            [
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 9
-                                    }
-                                },
-                                1,
-                                2,
-                                2,
-                                3,
-                                1,
-                                6,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 8
-                                    }
-                                },
-                                4,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 8
-                                    }
-                                }
-                            ],
-                            [
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 9
-                                    }
-                                }
-                            ],
-                            [
-                                7,
-                                2,
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 8
-                                    }
-                                }
-                            ],
-                            [
-                                5
-                            ]
+                            19
                         ],
+                        [],
                         [
-                            3,
-                            3,
-                            1,
-                            0
-                        ],
-                        [
-                            7
+                            19
                         ]
                     ],
                     "key": {
-                        "op": "a",
-                        "l": 10,
-                        "r": 8,
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
                         "v": {
-                            "k": 8,
+                            "k": null,
                             "q": null,
-                            "m": 10
+                            "p": null,
+                            "b": null,
+                            "a": null
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "10a8",
-            "RDRecordInt": 7,
-            "RDRecordSkillInt": null,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 19,
+            "RDRecordSkillInt": 70,
             "userObList": [
                 "69a53b9fd8d386b00b83f695a3307081"
             ]
@@ -106,6 +37,6 @@
         "userId": "246376731",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1760156731
+        "lastHit": 1760250726
     }
 }

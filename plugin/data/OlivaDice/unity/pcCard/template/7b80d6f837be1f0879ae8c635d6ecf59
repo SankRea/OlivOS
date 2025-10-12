@@ -86,7 +86,9 @@
         ]
     },
     "御卒怜侍": {
-        "enhanceList": []
+        "enhanceList": [
+            "医学"
+        ]
     },
     "安诺_切哈亚": {
         "enhanceList": [

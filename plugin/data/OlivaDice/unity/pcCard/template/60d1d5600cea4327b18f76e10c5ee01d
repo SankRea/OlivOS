@@ -94,6 +94,8 @@
         }
     },
     "二条熏": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }
