@@ -1,0 +1,20 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "628159892",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1760541452,
+        "configNote": {
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C1",
+            "logNameList": [
+                "《我的色彩-马克西姆·穆勒》"
+            ],
+            "logNameDict": {
+                "《我的色彩-马克西姆·穆勒》": "4bc9a840-bcd7-4868-aaa5-1c21965e9994"
+            },
+            "logActiveName": "《我的色彩-马克西姆·穆勒》",
+            "logEnable": false
+        }
+    }
+}

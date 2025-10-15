@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "rll_",
+            "userName": "二阶堂",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            57
+                            2
                         ],
                         [],
                         [
-                            57
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 57,
-            "RDRecordSkillInt": 5
+            "RDRecordRaw": "d8",
+            "RDRecordInt": 2,
+            "RDRecordSkillInt": null
         },
-        "userId": "1445789346",
+        "userId": "3496412852",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1760465709
+        "lastHit": 1760541136
     }
 }
