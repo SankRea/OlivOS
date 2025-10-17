@@ -3,18 +3,16 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1760609457,
+        "lastHit": 1760656861,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
-            "logActiveName": "片翼之鸟3",
+            "logActiveName": null,
             "logNameList": [
-                "在海的裙边",
-                "片翼之鸟3"
+                "在海的裙边"
             ],
             "logNameDict": {
-                "在海的裙边": "5d7ca540-4cb6-41c1-ac34-3848cbdea39d",
-                "片翼之鸟3": "4529c9a1-6c89-4b82-bfe3-37052485311d"
+                "在海的裙边": "5d7ca540-4cb6-41c1-ac34-3848cbdea39d"
             },
             "groupInitList": {
                 "赫萝": 16,
