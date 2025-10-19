@@ -6,17 +6,20 @@
                 {
                     "result": [
                         [
-                            2
+                            5,
+                            2,
+                            5,
+                            1
                         ],
                         [],
                         [
-                            2
+                            13
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 4,
+                        "l": 4,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -29,42 +32,16 @@
                 {
                     "op": "+"
                 },
-                {
-                    "result": [
-                        [
-                            3
-                        ],
-                        [],
-                        [
-                            3
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 3,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                22
+                5
             ],
-            "RDRecordRaw": "d4+d3+22",
-            "RDRecordInt": 27,
+            "RDRecordRaw": "4d6+5",
+            "RDRecordInt": 18,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1760799143
+        "lastHit": 1760884860
     }
 }
