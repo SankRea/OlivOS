@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1760959467,
+        "lastHit": 1760990607,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -16,28 +16,8 @@
                 "在海的裙边": "5d7ca540-4cb6-41c1-ac34-3848cbdea39d",
                 "渐起": "28fb42f8-43c8-49c3-b642-4933c36763fc"
             },
-            "groupInitList": {
-                "赫萝": 16,
-                "夏弥": 20,
-                "沧澜": 7,
-                "河南露": 21,
-                "绘梨衣": 23,
-                "安": 2,
-                "弩台": 19,
-                "露儿": 21,
-                "伊芙": 5
-            },
-            "groupInitParaList": {
-                "赫萝": "1D20+8",
-                "夏弥": "1D20+8",
-                "沧澜": "1D20+6",
-                "河南露": "1D20+2",
-                "绘梨衣": "1D20+6",
-                "安": "1D20+1",
-                "弩台": "1D20+2",
-                "露儿": "1D20+1",
-                "伊芙": "1D20+1"
-            },
+            "groupInitList": {},
+            "groupInitParaList": {},
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20
         }
