@@ -3,17 +3,13 @@
         "userId": "628159892",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1760541452,
+        "lastHit": 1761147382,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C1",
-            "logNameList": [
-                "《我的色彩-马克西姆·穆勒》"
-            ],
-            "logNameDict": {
-                "《我的色彩-马克西姆·穆勒》": "4bc9a840-bcd7-4868-aaa5-1c21965e9994"
-            },
-            "logActiveName": "《我的色彩-马克西姆·穆勒》",
+            "logNameList": [],
+            "logNameDict": {},
+            "logActiveName": null,
             "logEnable": false
         }
     }
