@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1761153061,
+        "lastHit": 1761239945,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,16 +12,18 @@
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "怨灵": 20,
-                "芊羽_？": 23,
-                "灵风雨璇": 30,
-                "沙耶": 29
+                "asa": 19,
+                "黛兰": 13,
+                "沙耶": 42,
+                "灵风雨璇": 24,
+                "芊羽_？": 30
             },
             "groupInitParaList": {
-                "怨灵": "1D20+3",
-                "芊羽_？": "1D20+15",
-                "灵风雨璇": "1D20+14",
-                "沙耶": "1D20+25"
+                "asa": "1D20+5",
+                "黛兰": "1D20+5",
+                "沙耶": "1D20+23",
+                "灵风雨璇": "1D20+6",
+                "芊羽_？": "1D20+11"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
