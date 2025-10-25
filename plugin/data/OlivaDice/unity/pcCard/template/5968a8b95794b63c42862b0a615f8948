@@ -8,14 +8,12 @@
         ]
     },
     "蕾姆黛丝": {
-        "enhanceList": [
-            "医学",
-            "灵感",
-            "急救"
-        ]
+        "enhanceList": []
     },
     "王富贵": {
-        "enhanceList": [],
+        "enhanceList": [
+            "斗殴"
+        ],
         "mappingRecord": {
             "先攻": "70"
         }

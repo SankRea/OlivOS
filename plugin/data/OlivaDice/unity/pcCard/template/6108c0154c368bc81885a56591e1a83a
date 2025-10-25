@@ -16,9 +16,15 @@
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
+        "enhanceList": []
+    },
+    "亚当_斯密": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
         "enhanceList": [
-            "斗殴",
-            "闪避"
+            "聆听",
+            "侦查"
         ]
     }
 }

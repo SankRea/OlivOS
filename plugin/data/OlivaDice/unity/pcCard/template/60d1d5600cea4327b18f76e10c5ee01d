@@ -97,5 +97,11 @@
         "enhanceList": [
             "侦查"
         ]
+    },
+    "白锦霖": {
+        "enhanceList": [],
+        "mappingRecord": {
+            "先攻": "65"
+        }
     }
 }
