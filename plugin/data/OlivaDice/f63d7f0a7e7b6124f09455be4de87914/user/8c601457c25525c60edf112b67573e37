@@ -3,7 +3,7 @@
         "userId": "1033334080",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1761568415,
+        "lastHit": 1761666101,
         "configNote": {
             "logNameList": [
                 "腐肉岭"
@@ -12,7 +12,9 @@
                 "腐肉岭": "fee71b07-72ee-4dc6-81ff-ae8079ced639"
             },
             "logActiveName": "腐肉岭",
-            "logEnable": false
+            "logEnable": false,
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20
         }
     }
 }

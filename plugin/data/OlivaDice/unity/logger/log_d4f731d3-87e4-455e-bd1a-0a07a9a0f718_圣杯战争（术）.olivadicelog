@@ -2909,3 +2909,4 @@
 {"time": 1758546770, "type": "recv", "message_id": "1478022973", "deleted": false, "dect": {"host_id": null, "group_id": "964141319", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "（但是他们现在什么都没说）"}
 {"time": 1758546780, "type": "recv", "message_id": "8621605", "deleted": false, "dect": {"host_id": null, "group_id": "964141319", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "（所以看也没用）"}
 {"time": 1758546825, "type": "recv", "message_id": "1338423247", "deleted": false, "dect": {"host_id": null, "group_id": "964141319", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(折的屋子拍我的使魔就太厉害了)"}
+{"time": 1761655209, "type": "recv", "message_id": "1449762451", "deleted": false, "dect": {"host_id": null, "group_id": "964141319", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "（我不记得了，你们在左边地标高楼有阵地吗）"}
