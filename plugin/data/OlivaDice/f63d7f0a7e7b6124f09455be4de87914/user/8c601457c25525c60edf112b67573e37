@@ -3,7 +3,7 @@
         "userId": "1033334080",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1761666101,
+        "lastHit": 1761754928,
         "configNote": {
             "logNameList": [
                 "腐肉岭"
@@ -14,7 +14,25 @@
             "logActiveName": "腐肉岭",
             "logEnable": false,
             "groupMainDice": "1D20",
-            "groupMainDiceDRight": 20
+            "groupMainDiceDRight": 20,
+            "groupInitParaList": {
+                "风堇": "1D20+12",
+                "库露露": "1D20+11",
+                "希里·薇歌": "1D20+9",
+                "莉维娅": "1D20+15",
+                "MIYAKO": "1D20+8",
+                "挠挠": "1D20+7",
+                "夺命双头鲨": "1D20+6"
+            },
+            "groupInitList": {
+                "风堇": 23,
+                "库露露": 21,
+                "希里·薇歌": 19,
+                "莉维娅": 29,
+                "MIYAKO": 17,
+                "挠挠": 8,
+                "夺命双头鲨": 8
+            }
         }
     }
 }
