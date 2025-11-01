@@ -3,29 +3,31 @@
         "userId": "1033334080",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1761927759,
+        "lastHit": 1762006986,
         "configNote": {
-            "logNameList": [
-                "腐肉岭"
-            ],
-            "logNameDict": {
-                "腐肉岭": "fee71b07-72ee-4dc6-81ff-ae8079ced639"
-            },
-            "logActiveName": "腐肉岭",
+            "logNameList": [],
+            "logNameDict": {},
+            "logActiveName": null,
             "logEnable": false,
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitParaList": {
-                "风堇": "1D20+12",
-                "Miyako": "1D20+8",
-                "蘑菇人": "1D20+14",
-                "库露露": "1D20+11"
+                "库露露": "1D20+10",
+                "天空泰坦雅辛忒斯": "1D20+12",
+                "希里·薇歌": "1D20+9",
+                "挠挠": "1D20+7",
+                "神秘生物": "67",
+                "莉维娅": "1D20+11",
+                "Miyako（强弩之末）": "1D20+8"
             },
             "groupInitList": {
-                "风堇": 30,
-                "Miyako": 20,
-                "蘑菇人": 22,
-                "库露露": 27
+                "库露露": 22,
+                "天空泰坦雅辛忒斯": 27,
+                "希里·薇歌": 21,
+                "挠挠": 19,
+                "神秘生物": 67,
+                "莉维娅": 26,
+                "Miyako（强弩之末）": 17
             }
         }
     }
