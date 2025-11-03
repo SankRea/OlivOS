@@ -6,16 +6,71 @@
                 {
                     "result": [
                         [
-                            2
+                            1
                         ],
                         [],
                         [
-                            2
+                            1
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            4,
+                            3
+                        ],
+                        [],
+                        [
+                            7
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 2,
+                        "r": 4,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            2,
+                            2,
+                            2
+                        ],
+                        [],
+                        [
+                            6
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
                         "r": 2,
                         "v": {
                             "k": null,
@@ -29,16 +84,20 @@
                 {
                     "op": "+"
                 },
-                5
+                30,
+                {
+                    "op": "+"
+                },
+                19
             ],
-            "RDRecordRaw": "d2+5",
-            "RDRecordInt": 7,
+            "RDRecordRaw": "d6+2d4+3d2+30+19",
+            "RDRecordInt": 63,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1762098356
+        "lastHit": 1762189462
     }
 }
