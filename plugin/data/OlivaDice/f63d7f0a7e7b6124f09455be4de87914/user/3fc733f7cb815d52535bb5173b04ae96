@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            38
+                            4
                         ],
                         [],
                         [
-                            38
+                            4
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 4,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,8 +27,8 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d100",
-            "RDRecordInt": 38,
+            "RDRecordRaw": "d4",
+            "RDRecordInt": 4,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -68,6 +68,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1762313777
+        "lastHit": 1762398405
     }
 }
