@@ -3,12 +3,12 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1762432840,
+        "lastHit": 1762533018,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupMainDice": "1D20",
-            "groupMainDiceDRight": 20,
+            "groupMainDice": "1D100",
+            "groupMainDiceDRight": 100,
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
@@ -26,7 +26,7 @@
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
             ],
-            "welcomeMsg": "欢迎加入zaca跑团组",
+            "welcomeMsg": "欢迎加入a2z跑团组",
             "groupEnable": true,
             "logActiveName": "恒古诡邪第二章下(2)",
             "logNameList": [

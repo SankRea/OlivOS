@@ -197,7 +197,9 @@
         ]
     },
     "零彩羽": {
-        "enhanceList": [],
+        "enhanceList": [
+            "侦查"
+        ],
         "mappingRecord": {
             "先攻": "55"
         }
