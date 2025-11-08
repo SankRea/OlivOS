@@ -108,5 +108,13 @@
         "mappingRecord": {
             "先攻": "1D20+10"
         }
+    },
+    "今村美纪": {
+        "enhanceList": [
+            "侦查"
+        ],
+        "mappingRecord": {
+            "先攻": "65"
+        }
     }
 }

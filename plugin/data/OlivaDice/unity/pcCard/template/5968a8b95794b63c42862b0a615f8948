@@ -8,7 +8,10 @@
         ]
     },
     "蕾姆黛丝": {
-        "enhanceList": []
+        "enhanceList": [],
+        "mappingRecord": {
+            "先攻": "155"
+        }
     },
     "王富贵": {
         "enhanceList": [

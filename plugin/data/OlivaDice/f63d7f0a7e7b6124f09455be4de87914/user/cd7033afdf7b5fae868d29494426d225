@@ -3,10 +3,26 @@
         "userId": "929844615",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1742128249,
+        "lastHit": 1762596028,
         "configNote": {
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C5"
+            "groupTemplateRule": "C5",
+            "groupMainDice": null,
+            "groupMainDiceDRight": null,
+            "groupInitList": {
+                "山根俊子": 65,
+                "川澄树里": 55,
+                "今村美纪": 65,
+                "山上彻也": 80,
+                "蕾姆黛丝": 155
+            },
+            "groupInitParaList": {
+                "山根俊子": "65",
+                "川澄树里": "55",
+                "今村美纪": "65",
+                "山上彻也": "80",
+                "蕾姆黛丝": "155"
+            }
         }
     }
 }
