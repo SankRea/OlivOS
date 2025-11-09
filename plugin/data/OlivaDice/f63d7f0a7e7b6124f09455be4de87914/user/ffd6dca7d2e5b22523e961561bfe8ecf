@@ -1,11 +1,45 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "佩洛洛Sama"
+            "userName": "佩洛洛Sama",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            5,
+                            4,
+                            6
+                        ],
+                        [],
+                        [
+                            15
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                5
+            ],
+            "RDRecordRaw": "3d6*5",
+            "RDRecordInt": 75,
+            "RDRecordSkillInt": null
         },
         "userId": "1760933748",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1725107067
+        "lastHit": 1762671419
     }
 }
