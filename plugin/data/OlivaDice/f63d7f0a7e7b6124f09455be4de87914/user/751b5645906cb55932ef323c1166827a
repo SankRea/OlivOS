@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            3
+                            7
                         ],
                         [],
                         [
-                            3
+                            7
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 3,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,16 +25,52 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                7,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            3,
+                            6,
+                            2
+                        ],
+                        [],
+                        [
+                            11
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "-"
+                },
+                10
             ],
-            "RDRecordRaw": "d3",
-            "RDRecordInt": 3,
+            "RDRecordRaw": "1d8+7+3d6-10",
+            "RDRecordInt": 15,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1762791888
+        "lastHit": 1762874841
     }
 }

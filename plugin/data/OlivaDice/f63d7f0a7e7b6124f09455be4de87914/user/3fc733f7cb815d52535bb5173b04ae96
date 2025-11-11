@@ -6,17 +6,28 @@
                 {
                     "result": [
                         [
-                            24
+                            3,
+                            4,
+                            6,
+                            3,
+                            2,
+                            4,
+                            6,
+                            5,
+                            6,
+                            2,
+                            6,
+                            4
                         ],
                         [],
                         [
-                            24
+                            51
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 12,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,11 +36,15 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                20
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 24,
-            "RDRecordSkillInt": 40,
+            "RDRecordRaw": "12d6+20",
+            "RDRecordInt": 71,
+            "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -68,6 +83,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1762785613
+        "lastHit": 1762843421
     }
 }
