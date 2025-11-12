@@ -3,9 +3,9 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1758070992,
+        "lastHit": 1762959877,
         "configNote": {
-            "groupEnable": true,
+            "groupEnable": false,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D20",
