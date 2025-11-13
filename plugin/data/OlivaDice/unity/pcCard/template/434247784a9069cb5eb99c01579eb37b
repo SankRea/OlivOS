@@ -2,6 +2,11 @@
     "惠子·凯恩": {
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
-        }
+        },
+        "enhanceList": [
+            "说服",
+            "侦查",
+            "神秘学"
+        ]
     }
 }

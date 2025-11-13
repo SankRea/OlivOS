@@ -30,6 +30,10 @@
     "查理约瑟夫": {
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
-        }
+        },
+        "enhanceList": [
+            "心理学",
+            "说服"
+        ]
     }
 }
