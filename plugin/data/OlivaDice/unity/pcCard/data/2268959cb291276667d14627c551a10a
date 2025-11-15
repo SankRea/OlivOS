@@ -156,6 +156,12 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "会计": 5,
+        "ACCOUNTING": 5,
+        "驯兽": 5,
+        "BEAST_TRAINING": 5,
+        "LUC": 0,
+        "幸运": 0
     }
 }

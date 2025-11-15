@@ -3,6 +3,16 @@
         "userId": "1058913258",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1763096018
+        "lastHit": 1763176007,
+        "configNote": {
+            "logNameList": [
+                "追书人"
+            ],
+            "logNameDict": {
+                "追书人": "68933656-a6f9-4035-81ae-ae3830450b8a"
+            },
+            "logActiveName": "追书人",
+            "logEnable": false
+        }
     }
 }
