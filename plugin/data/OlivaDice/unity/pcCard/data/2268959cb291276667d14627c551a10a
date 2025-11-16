@@ -161,7 +161,7 @@
         "ACCOUNTING": 5,
         "驯兽": 5,
         "BEAST_TRAINING": 5,
-        "LUC": 0,
-        "幸运": 0
+        "LUC": 50,
+        "幸运": 50
     }
 }

@@ -3,16 +3,16 @@
         "userId": "1058913258",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1763176007,
+        "lastHit": 1763278688,
         "configNote": {
             "logNameList": [
-                "追书人"
+                "后日谈"
             ],
             "logNameDict": {
-                "追书人": "68933656-a6f9-4035-81ae-ae3830450b8a"
+                "后日谈": "c0c0bbaa-b927-41f9-b7cb-eaa7821cffac"
             },
-            "logActiveName": "追书人",
-            "logEnable": false
+            "logActiveName": "后日谈",
+            "logEnable": true
         }
     }
 }
