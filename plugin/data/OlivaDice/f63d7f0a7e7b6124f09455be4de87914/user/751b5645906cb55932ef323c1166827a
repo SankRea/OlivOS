@@ -6,13 +6,13 @@
                 {
                     "result": [
                         [
-                            1,
                             3,
-                            5
+                            5,
+                            8
                         ],
                         [],
                         [
-                            9
+                            16
                         ]
                     ],
                     "key": {
@@ -27,20 +27,16 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                21
+                }
             ],
-            "RDRecordRaw": "3d10+21",
-            "RDRecordInt": 30,
+            "RDRecordRaw": "3d10",
+            "RDRecordInt": 16,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1763311427
+        "lastHit": 1763384592
     }
 }
