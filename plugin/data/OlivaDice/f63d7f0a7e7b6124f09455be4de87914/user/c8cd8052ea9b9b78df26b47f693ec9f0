@@ -3,18 +3,18 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1763378768,
+        "lastHit": 1763487588,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
-            "logActiveName": "渐起",
+            "logActiveName": "default",
             "logNameList": [
                 "在海的裙边",
-                "渐起"
+                "default"
             ],
             "logNameDict": {
                 "在海的裙边": "5d7ca540-4cb6-41c1-ac34-3848cbdea39d",
-                "渐起": "28fb42f8-43c8-49c3-b642-4933c36763fc"
+                "default": "5ebd6526-56d0-4aad-9e26-3785968cee9a"
             },
             "groupInitList": {},
             "groupInitParaList": {},
