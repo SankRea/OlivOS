@@ -3,16 +3,16 @@
         "configNote": {
             "userName": "洛绫飞羽",
             "RDRecord": [
-                2
+                3
             ],
-            "RDRecordRaw": "2",
-            "RDRecordInt": 2,
+            "RDRecordRaw": "3",
+            "RDRecordInt": 3,
             "RDRecordSkillInt": null,
             "userObList": []
         },
         "userId": "1985245608",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1763537360
+        "lastHit": 1763652673
     }
 }

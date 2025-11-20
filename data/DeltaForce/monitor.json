@@ -10,11 +10,13 @@
         },
         {
             "name": "盒装挂耳咖啡",
-            "threshold": 340000
+            "threshold": 340000,
+            "triggered": true
         },
         {
             "name": "可编程处理器",
-            "threshold": 135000
+            "threshold": 135000,
+            "triggered": true
         },
         {
             "name": "自旋型手锯",
@@ -22,7 +24,8 @@
         },
         {
             "name": "聚乙烯纤维",
-            "threshold": 38000
+            "threshold": 38000,
+            "triggered": true
         }
     ],
     "788081069": []

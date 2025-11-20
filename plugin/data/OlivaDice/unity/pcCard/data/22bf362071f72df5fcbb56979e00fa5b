@@ -6248,6 +6248,12 @@
         "读唇": 1,
         "READ_LIPS": 1,
         "催眠": 1,
-        "HYPNOSIS": 1
+        "HYPNOSIS": 1,
+        "ORAGE": 0,
+        "EMULATED": 0,
+        "ANDROID": 0,
+        "ATA": 0,
+        "COM_BILIBILI_AZURLANE": 0,
+        "FILES": 0
     }
 }
