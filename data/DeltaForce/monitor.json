@@ -2,11 +2,13 @@
     "1014421406": [
         {
             "name": ".300BLK_5",
-            "threshold": 5000
+            "threshold": 5000,
+            "triggered": false
         },
         {
             "name": "9x39mm BP",
-            "threshold": 5000
+            "threshold": 5000,
+            "triggered": false
         },
         {
             "name": "盒装挂耳咖啡",

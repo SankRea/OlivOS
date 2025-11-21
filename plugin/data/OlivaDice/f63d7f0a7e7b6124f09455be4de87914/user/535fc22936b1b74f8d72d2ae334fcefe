@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "echo"
+            "userName": "echo",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            12
+                        ],
+                        [],
+                        [
+                            12
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D20",
+            "RDRecordInt": 12,
+            "RDRecordSkillInt": null
         },
         "userId": "3078572880",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1762585727
+        "lastHit": 1763746162
     }
 }
