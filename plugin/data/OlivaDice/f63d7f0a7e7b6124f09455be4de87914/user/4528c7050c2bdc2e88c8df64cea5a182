@@ -3,16 +3,38 @@
         "configNote": {
             "userName": "洛绫飞羽",
             "RDRecord": [
-                3
+                {
+                    "result": [
+                        [
+                            1
+                        ],
+                        [],
+                        [
+                            1
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 2,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "3",
-            "RDRecordInt": 3,
+            "RDRecordRaw": "1d2",
+            "RDRecordInt": 1,
             "RDRecordSkillInt": null,
             "userObList": []
         },
         "userId": "1985245608",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1763716227
+        "lastHit": 1763774855
     }
 }

@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "？",
+            "userName": "Kevin.Wang",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            67
+                            19
                         ],
                         [],
                         [
-                            67
+                            19
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 67,
-            "RDRecordSkillInt": 60
+            "RDRecordInt": 19,
+            "RDRecordSkillInt": 25
         },
-        "userId": "1746075082",
+        "userId": "576988096",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1763788336
+        "lastHit": 1763791705
     }
 }
