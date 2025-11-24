@@ -1104,3 +1104,4 @@
 {"time": 1763900357, "type": "recv", "message_id": "1407128196", "deleted": false, "dect": {"host_id": null, "group_id": "902737966", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "（要end先吗"}
 {"time": 1763900425, "type": "recv", "message_id": "73525809", "deleted": false, "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(呃，无妨)"}
 {"time": 1763900594, "type": "recv", "message_id": "1667341328", "deleted": false, "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=755059689]它们在等待，你居然会这么想，真是奇怪的事。"}
+{"time": 1763959717, "type": "recv", "message_id": "1609085284", "deleted": false, "dect": {"host_id": null, "group_id": "902737966", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log off"}
