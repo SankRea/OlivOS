@@ -3,9 +3,12 @@
         "userId": "498091309",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1764088423,
+        "lastHit": 1764159111,
         "configNote": {
-            "groupEnable": true
+            "groupEnable": true,
+            "groupObList": [
+                "46f7bfb21f88afb26dae8f947c03835f"
+            ]
         }
     }
 }

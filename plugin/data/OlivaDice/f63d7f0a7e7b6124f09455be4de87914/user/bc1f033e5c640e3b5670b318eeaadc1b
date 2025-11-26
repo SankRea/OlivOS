@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "茫然鹅不知所措",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            23
+                        ],
+                        [],
+                        [
+                            23
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 23,
+            "RDRecordSkillInt": null
+        },
+        "userId": "242816085",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1764142519
+    }
+}

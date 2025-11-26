@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1764078290,
+        "lastHit": 1764178591,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,34 +12,32 @@
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "梅里森": 29,
-                "拜亚基": 35,
-                "传送狗": 32,
-                "星之精": 22,
-                "香风智乃": 45,
-                "灵风雨璇": 26,
-                "芊羽_？": 24
+                "灵风雨璇": 29,
+                "芊羽_？": 28,
+                "沙耶": 37,
+                "藿藿": 12,
+                "阿尔托莉雅·潘德拉贡": 19
             },
             "groupInitParaList": {
-                "梅里森": "1D20+22",
-                "拜亚基": "1D20+17",
-                "传送狗": "1D20+20",
-                "星之精": "1D20+7",
-                "香风智乃": "1D20+27",
-                "灵风雨璇": "1D20+17",
-                "芊羽_？": "1D20+21"
+                "灵风雨璇": "1D20+14",
+                "芊羽_？": "1D20+21",
+                "沙耶": "1D20+21",
+                "藿藿": "1D20+7",
+                "阿尔托莉雅·潘德拉贡": "1D20+14"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
             ],
             "welcomeMsg": "欢迎加入a2z跑团组",
             "groupEnable": true,
-            "logActiveName": null,
+            "logActiveName": "恒古诡邪第三章",
             "logNameList": [
-                "default"
+                "default",
+                "恒古诡邪第三章"
             ],
             "logNameDict": {
-                "default": "2f9bc325-848e-496f-95ff-77707d4a5fec"
+                "default": "2f9bc325-848e-496f-95ff-77707d4a5fec",
+                "恒古诡邪第三章": "70d0416b-818b-487c-ab0b-2b5d8e146b13"
             }
         }
     }

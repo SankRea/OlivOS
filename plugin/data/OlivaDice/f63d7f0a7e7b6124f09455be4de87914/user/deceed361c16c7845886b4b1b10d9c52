@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "槐若梦炳",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            5
+                        ],
+                        [],
+                        [
+                            5
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 5,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2804166036",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1764136551
+    }
+}

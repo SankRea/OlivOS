@@ -1,24 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "岭上落花不开花",
+            "userName": "岭上开花不落花",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            6,
-                            2,
-                            2
+                            23
                         ],
                         [],
                         [
-                            10
+                            23
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 3,
-                        "r": 6,
+                        "l": 1,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,19 +25,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "*"
-                },
-                5
+                }
             ],
-            "RDRecordRaw": "3d6*5",
-            "RDRecordInt": 50,
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 23,
             "RDRecordSkillInt": null
         },
         "userId": "1531372473",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1743747780
+        "lastHit": 1764142047
     }
 }

@@ -3,7 +3,7 @@
         "userId": "1040778971",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1759032997,
+        "lastHit": 1764176308,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -16,15 +16,17 @@
             "groupInitList": {
                 "怪物": 65
             },
-            "logActiveName": "圣杯战争（开幕）",
+            "logActiveName": "折木维娜大战维兹柒乔阪",
             "logNameList": [
-                "圣杯战争（开幕）"
+                "圣杯战争（开幕）",
+                "折木维娜大战维兹柒乔阪"
             ],
             "logNameDict": {
-                "圣杯战争（开幕）": "3b0c5507-c2c2-4bb5-a130-de309cc1520f"
+                "圣杯战争（开幕）": "3b0c5507-c2c2-4bb5-a130-de309cc1520f",
+                "折木维娜大战维兹柒乔阪": "d6db9163-525e-493c-9ca4-dc42f7fe1217"
             },
             "groupObList": [],
-            "groupEnable": false
+            "groupEnable": true
         }
     }
 }
