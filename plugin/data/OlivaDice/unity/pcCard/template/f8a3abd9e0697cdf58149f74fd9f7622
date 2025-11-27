@@ -59,6 +59,9 @@
     "斯薇塔": {
         "enhanceList": [
             "刀剑"
-        ]
+        ],
+        "mappingRecord": {
+            "先攻": "1"
+        }
     }
 }

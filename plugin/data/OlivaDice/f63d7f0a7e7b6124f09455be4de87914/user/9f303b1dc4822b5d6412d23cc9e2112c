@@ -6,11 +6,10 @@
                 {
                     "result": [
                         [
-                            2,
-                            3,
+                            4,
                             5,
                             5,
-                            2
+                            3
                         ],
                         [],
                         [
@@ -19,7 +18,7 @@
                     ],
                     "key": {
                         "op": "d",
-                        "l": 5,
+                        "l": 4,
                         "r": 6,
                         "v": {
                             "k": null,
@@ -33,15 +32,15 @@
                 {
                     "op": "+"
                 },
-                24
+                43
             ],
-            "RDRecordRaw": "5d6+24",
-            "RDRecordInt": 41,
+            "RDRecordRaw": "4d6+43",
+            "RDRecordInt": 60,
             "RDRecordSkillInt": null
         },
         "userId": "2388921818",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764163313
+        "lastHit": 1764256102
     }
 }

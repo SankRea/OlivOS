@@ -2205,3 +2205,5 @@
 {"time": 1764164149, "type": "recv", "message_id": "636781348", "deleted": false, "dect": {"host_id": null, "group_id": "1029911714", "user_id": "970417396"}, "sender": {"id": "970417396", "name": "银翼"}, "message": "（平民卡）"}
 {"time": 1764164162, "type": "recv", "message_id": "1357508314", "deleted": false, "dect": {"host_id": null, "group_id": "1029911714", "user_id": "3625185457"}, "sender": {"id": "3625185457", "name": "多拉贡"}, "message": "（）"}
 {"time": 1764164172, "type": "recv", "message_id": "594107035", "deleted": false, "dect": {"host_id": null, "group_id": "1029911714", "user_id": "2739405262"}, "sender": {"id": "2739405262", "name": "残阳亦旭•我爱艾蕾！"}, "message": "（我们两个太有自限了"}
+{"time": 1764213024, "type": "recv", "message_id": "87904093", "deleted": false, "dect": {"host_id": null, "group_id": "1029911714", "user_id": "970417396"}, "sender": {"id": "970417396", "name": "银翼"}, "message": "（唉）"}
+{"time": 1764213062, "type": "recv", "message_id": "1770891395", "deleted": false, "dect": {"host_id": null, "group_id": "1029911714", "user_id": "970417396"}, "sender": {"id": "970417396", "name": "银翼"}, "message": "（没打成牌）"}
