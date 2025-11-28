@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "森の月",
+            "userName": "people",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            29
+                            5
                         ],
                         [],
                         [
-                            29
+                            5
                         ]
                     ],
                     "key": {
@@ -28,16 +28,12 @@
                 }
             ],
             "RDRecordRaw": "d100",
-            "RDRecordInt": 29,
-            "RDRecordSkillInt": null,
-            "userObList": [
-                "ac24421c839ca9695bc0a1db4cf686ed"
-            ],
-            "storyRuntime": {}
+            "RDRecordInt": 5,
+            "RDRecordSkillInt": null
         },
-        "userId": "408119794",
+        "userId": "272030163",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764269853
+        "lastHit": 1764307363
     }
 }
