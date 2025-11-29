@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            13
+                            18
                         ],
                         [],
                         [
-                            13
+                            18
                         ]
                     ],
                     "key": {
@@ -25,10 +25,14 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                6
             ],
-            "RDRecordRaw": "1D20",
-            "RDRecordInt": 13,
+            "RDRecordRaw": "d+6",
+            "RDRecordInt": 24,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -68,6 +72,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764322940
+        "lastHit": 1764430510
     }
 }

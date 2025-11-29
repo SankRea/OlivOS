@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "people",
+            "userName": "落尘",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            100
+                            9
                         ],
                         [],
                         [
-                            100
+                            9
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 12,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 100,
-            "RDRecordSkillInt": 60
+            "RDRecordRaw": "d12",
+            "RDRecordInt": 9,
+            "RDRecordSkillInt": null
         },
-        "userId": "272030163",
+        "userId": "3569693563",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764431440
+        "lastHit": 1764427309
     }
 }
