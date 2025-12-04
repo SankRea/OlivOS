@@ -1,11 +1,6 @@
 {
     "1014421406": [
         {
-            "name": ".300BLK_5",
-            "threshold": 5000,
-            "triggered": false
-        },
-        {
             "name": "9x39mm BP",
             "threshold": 5000,
             "triggered": false
@@ -18,7 +13,7 @@
         {
             "name": "可编程处理器",
             "threshold": 135000,
-            "triggered": true
+            "triggered": false
         },
         {
             "name": "自旋型手锯",
