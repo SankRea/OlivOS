@@ -3,7 +3,7 @@
         {
             "name": "9x39mm BP",
             "threshold": 5000,
-            "triggered": false
+            "triggered": true
         },
         {
             "name": "盒装挂耳咖啡",
