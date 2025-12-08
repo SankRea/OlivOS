@@ -10,5 +10,9 @@
     "把小雅吃掉": {
         "content": "那... 那个... 只能轻轻咬一口哦...",
         "mode": 0
+    },
+    "关羽之歌": {
+        "content": "[CQ:record,url=file:///root/olivos/OlivOS/data/audios/关羽之歌.mp3]",
+        "mode": 0
     }
 }
