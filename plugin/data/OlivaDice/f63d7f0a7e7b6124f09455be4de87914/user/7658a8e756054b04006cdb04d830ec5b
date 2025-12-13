@@ -1,22 +1,22 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "维兹",
+            "userName": "喝可乐的可乐",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            27
+                            11
                         ],
                         [],
                         [
-                            27
+                            11
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 59,
+                        "r": 100,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,14 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d59",
-            "RDRecordInt": 27,
-            "RDRecordSkillInt": null,
-            "storyRuntime": {}
+            "RDRecordRaw": "d",
+            "RDRecordInt": 11,
+            "RDRecordSkillInt": null
         },
-        "userId": "3362422751",
+        "userId": "3035876253",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765636948
+        "lastHit": 1765642613
     }
 }

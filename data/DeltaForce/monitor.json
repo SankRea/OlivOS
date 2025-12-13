@@ -18,7 +18,7 @@
         {
             "name": "自旋型手锯",
             "threshold": 100000,
-            "triggered": false
+            "triggered": true
         },
         {
             "name": "聚乙烯纤维",
