@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Cr24(｡ᗜ ‸ ᗜ｡)",
+            "userName": "花と記憶",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            19
+                            77
                         ],
                         [],
                         [
-                            19
+                            77
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 19,
+            "RDRecordInt": 77,
             "RDRecordSkillInt": 50
         },
-        "userId": "1163108392",
+        "userId": "1551519620",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765799645
+        "lastHit": 1765788072
     }
 }
