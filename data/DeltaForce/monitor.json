@@ -13,7 +13,7 @@
         {
             "name": "可编程处理器",
             "threshold": 135000,
-            "triggered": true
+            "triggered": false
         },
         {
             "name": "自旋型手锯",

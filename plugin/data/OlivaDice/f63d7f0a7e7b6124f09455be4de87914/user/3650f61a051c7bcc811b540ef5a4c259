@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "09",
+            "userName": "鬼火重生",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            80
+                            12
                         ],
                         [],
                         [
-                            80
+                            12
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 80,
-            "RDRecordSkillInt": 0
+            "RDRecordInt": 12,
+            "RDRecordSkillInt": 80
         },
-        "userId": "1257856112",
+        "userId": "575159166",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765902816
+        "lastHit": 1765893418
     }
 }
