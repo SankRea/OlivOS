@@ -35,5 +35,10 @@
         "enhanceList": [
             "灵感"
         ]
+    },
+    "三条树": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        }
     }
 }

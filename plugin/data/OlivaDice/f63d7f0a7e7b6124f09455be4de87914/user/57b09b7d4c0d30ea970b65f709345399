@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "风云无名"
+            "userName": "风云无名",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            79
+                        ],
+                        [],
+                        [
+                            79
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 79,
+            "RDRecordSkillInt": 25
         },
         "userId": "188753208",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765887802
+        "lastHit": 1765987562
     }
 }

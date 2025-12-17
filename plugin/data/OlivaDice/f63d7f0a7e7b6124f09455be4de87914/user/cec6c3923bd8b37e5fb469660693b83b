@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "沐沫Pokaro"
+            "userName": "沐沫Pokaro",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            45
+                        ],
+                        [],
+                        [
+                            45
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 45,
+            "RDRecordSkillInt": 50
         },
         "userId": "1711123272",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765886852
+        "lastHit": 1765988174
     }
 }
