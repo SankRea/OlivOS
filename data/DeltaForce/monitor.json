@@ -2,7 +2,7 @@
     "1014421406": [
         {
             "name": "9x39mm BP",
-            "threshold": 5000,
+            "threshold": 4830,
             "triggered": true
         },
         {

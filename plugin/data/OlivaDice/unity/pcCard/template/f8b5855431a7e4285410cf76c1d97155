@@ -4,7 +4,10 @@
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
         },
         "enhanceList": [
-            "侦查"
+            "侦查",
+            "聆听",
+            "医学",
+            "灵感"
         ]
     }
 }

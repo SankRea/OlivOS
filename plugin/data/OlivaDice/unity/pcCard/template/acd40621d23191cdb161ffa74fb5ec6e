@@ -2,6 +2,12 @@
     "李土豆": {
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
-        }
+        },
+        "enhanceList": [
+            "导航",
+            "侦查",
+            "聆听",
+            "灵感"
+        ]
     }
 }

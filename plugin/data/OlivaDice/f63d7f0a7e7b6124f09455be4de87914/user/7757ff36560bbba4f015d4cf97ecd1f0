@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1765641013,
+        "lastHit": 1766069920,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -26,12 +26,14 @@
             },
             "logEnable": false,
             "logNowName": null,
-            "logActiveName": "default",
+            "logActiveName": "无限",
             "logNameList": [
-                "default"
+                "default",
+                "无限"
             ],
             "logNameDict": {
-                "default": "d965e9b6-7ee2-4179-865a-295bd501dd14"
+                "default": "d965e9b6-7ee2-4179-865a-295bd501dd14",
+                "无限": "1a184a47-d4a4-48fd-b557-de91352d4083"
             }
         }
     }

@@ -39,6 +39,12 @@
     "三条树": {
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
-        }
+        },
+        "enhanceList": [
+            "侦查",
+            "机械维修",
+            "汽车驾驶",
+            "灵感"
+        ]
     }
 }

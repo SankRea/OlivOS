@@ -29,16 +29,16 @@
                 {
                     "op": "+"
                 },
-                8
+                2
             ],
-            "RDRecordRaw": "d20+8",
-            "RDRecordInt": 28,
+            "RDRecordRaw": "d+2",
+            "RDRecordInt": 22,
             "RDRecordSkillInt": null
         },
         "userId": "1252219916",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765938261
+        "lastHit": 1766063080
     },
     "71f2abf19586d07c383d3aa9e328c7d1": {
         "configNote": {
