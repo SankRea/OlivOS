@@ -3,20 +3,27 @@
         "configNote": {
             "userName": "不会在的人",
             "RDRecord": [
+                17,
+                {
+                    "op": "-"
+                },
                 {
                     "result": [
                         [
-                            18
+                            3,
+                            4,
+                            2,
+                            3
                         ],
                         [],
                         [
-                            18
+                            12
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 20,
+                        "l": 4,
+                        "r": 4,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +34,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d20",
-            "RDRecordInt": 18,
+            "RDRecordRaw": "17-4d4",
+            "RDRecordInt": 5,
             "RDRecordSkillInt": null
         },
         "userId": "961142868",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764858820
+        "lastHit": 1766156172
     }
 }

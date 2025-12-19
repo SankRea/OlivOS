@@ -3,27 +3,21 @@
         "userId": "728048958",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1765784253,
+        "lastHit": 1766156907,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "logEnable": false,
             "logNowName": null,
             "groupInitParaList": {
-                "邪恶的生物": "80",
-                "赵逸民": "140",
-                "小枝儿": "80",
-                "郭襄": "65",
-                "刘颐": "75",
-                "小遇": "70"
+                "1": "1D20+6",
+                "2": "1D20+5",
+                "3": "1D20+8"
             },
             "groupInitList": {
-                "邪恶的生物": 80,
-                "赵逸民": 140,
-                "小枝儿": 80,
-                "郭襄": 65,
-                "刘颐": 75,
-                "小遇": 70
+                "1": 12,
+                "2": 21,
+                "3": 10
             },
             "logActiveName": "default",
             "logNameList": [
