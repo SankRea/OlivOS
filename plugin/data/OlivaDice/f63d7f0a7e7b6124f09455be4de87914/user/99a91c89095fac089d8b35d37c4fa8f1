@@ -6,51 +6,34 @@
                 {
                     "result": [
                         [
-                            [
-                                4,
-                                {
-                                    "op": "mark01",
-                                    "v": 8
-                                },
-                                {
-                                    "op": "mark01",
-                                    "v": 9
-                                },
-                                1,
-                                3,
-                                5,
-                                6,
-                                5,
-                                7,
-                                7
-                            ]
+                            3
                         ],
+                        [],
                         [
-                            2
-                        ],
-                        [
-                            2
+                            3
                         ]
                     ],
                     "key": {
-                        "op": "a",
-                        "l": 10,
-                        "r": 10,
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
                         "v": {
-                            "k": 8,
+                            "k": null,
                             "q": null,
-                            "m": 10
+                            "p": null,
+                            "b": null,
+                            "a": null
                         }
                     }
                 }
             ],
-            "RDRecordRaw": "10A10",
-            "RDRecordInt": 2,
+            "RDRecordRaw": "d",
+            "RDRecordInt": 3,
             "RDRecordSkillInt": null
         },
         "userId": "3057428454",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1765960338
+        "lastHit": 1766204430
     }
 }

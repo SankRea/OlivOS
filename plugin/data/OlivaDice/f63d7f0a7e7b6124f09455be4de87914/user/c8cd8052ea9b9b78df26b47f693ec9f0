@@ -3,18 +3,18 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1766153357,
+        "lastHit": 1766241236,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
-            "logActiveName": "地狱复仇",
+            "logActiveName": "default",
             "logNameList": [
                 "在海的裙边",
-                "地狱复仇"
+                "default"
             ],
             "logNameDict": {
                 "在海的裙边": "5d7ca540-4cb6-41c1-ac34-3848cbdea39d",
-                "地狱复仇": "fc83e95b-746b-4259-b3e3-dd6d440a84c9"
+                "default": "7d2cf02b-15a5-46e4-98e9-71ac0fb885c4"
             },
             "groupInitList": {
                 "西姆莉": 18,
