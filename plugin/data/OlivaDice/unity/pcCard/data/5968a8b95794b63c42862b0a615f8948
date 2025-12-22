@@ -964,9 +964,9 @@
         "DODGE": 27,
         "POW": 80,
         "意志": 80,
-        "SAN": 79,
-        "理智": 79,
-        "SANITY": 79,
+        "SAN": 78,
+        "理智": 78,
+        "SANITY": 78,
         "SANMAX": 80,
         "理智上限": 80,
         "SANITYMAX": 80,
@@ -1123,6 +1123,7 @@
         "催眠": 1,
         "HYPNOSIS": 1,
         "炮术": 1,
-        "ARTILLERY": 1
+        "ARTILLERY": 1,
+        "OW": 0
     }
 }

@@ -27,17 +27,17 @@
                     }
                 },
                 {
-                    "op": "+"
+                    "op": "-"
                 },
-                4,
+                3,
                 {
                     "op": "+"
                 },
                 {
                     "result": [
                         [
-                            2,
-                            2,
+                            1,
+                            3,
                             1,
                             1
                         ],
@@ -58,23 +58,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                2,
-                {
-                    "op": "+"
-                },
-                2
+                }
             ],
-            "RDRecordRaw": "d20+4+4d4+2+2",
-            "RDRecordInt": 31,
+            "RDRecordRaw": "d20-3+4d4",
+            "RDRecordInt": 20,
             "RDRecordSkillInt": null
         },
         "userId": "1085444390",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766328756
+        "lastHit": 1766390663
     }
 }
