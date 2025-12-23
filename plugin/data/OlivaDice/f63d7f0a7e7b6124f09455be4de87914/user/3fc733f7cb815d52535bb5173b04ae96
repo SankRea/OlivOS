@@ -16,7 +16,7 @@
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,10 +25,14 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "-"
+                },
+                1
             ],
-            "RDRecordRaw": "d100",
-            "RDRecordInt": 15,
+            "RDRecordRaw": "d-1",
+            "RDRecordInt": 14,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -68,6 +72,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766419074
+        "lastHit": 1766482258
     }
 }
