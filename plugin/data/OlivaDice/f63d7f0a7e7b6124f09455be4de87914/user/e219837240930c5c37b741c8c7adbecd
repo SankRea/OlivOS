@@ -1,22 +1,23 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "千成之愿",
+            "userName": "镀金骑士",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            15
+                            10,
+                            8
                         ],
                         [],
                         [
-                            15
+                            18
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 20,
+                        "l": 2,
+                        "r": 10,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,28 +26,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                9
+                }
             ],
-            "RDRecordRaw": "d20+9",
-            "RDRecordInt": 24,
+            "RDRecordRaw": "2d10",
+            "RDRecordInt": 18,
             "RDRecordSkillInt": null
         },
-        "userId": "1252219916",
+        "userId": "2993783718",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766664377
-    },
-    "71f2abf19586d07c383d3aa9e328c7d1": {
-        "configNote": {
-            "userName": "千成之愿"
-        },
-        "userId": "1252219916",
-        "userType": "user",
-        "platform": "qq",
-        "lastHit": 1742893282
+        "lastHit": 1766673423
     }
 }

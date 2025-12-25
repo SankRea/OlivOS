@@ -1,22 +1,31 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "不会在的人",
+            "userName": "白墨",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            9
+                            3,
+                            2,
+                            3,
+                            1,
+                            3,
+                            3,
+                            2,
+                            2,
+                            2,
+                            2
                         ],
                         [],
                         [
-                            9
+                            23
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 20,
+                        "l": 10,
+                        "r": 3,
                         "v": {
                             "k": null,
                             "q": null,
@@ -32,24 +41,17 @@
                 {
                     "result": [
                         [
-                            2,
-                            1,
-                            3,
-                            3,
-                            1,
-                            2,
-                            2,
-                            2
+                            17
                         ],
                         [],
                         [
-                            16
+                            17
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 8,
-                        "r": 3,
+                        "l": 1,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -60,13 +62,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d20+8d3",
-            "RDRecordInt": 25,
+            "RDRecordRaw": "10d3+d20",
+            "RDRecordInt": 40,
             "RDRecordSkillInt": null
         },
-        "userId": "961142868",
+        "userId": "629322604",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766675519
+        "lastHit": 1766675393
     }
 }

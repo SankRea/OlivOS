@@ -1,22 +1,23 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "千成之愿",
+            "userName": "北极星，彼岸花",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            15
+                            1,
+                            8
                         ],
                         [],
                         [
-                            15
+                            9
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 20,
+                        "l": 2,
+                        "r": 8,
                         "v": {
                             "k": null,
                             "q": null,
@@ -29,24 +30,15 @@
                 {
                     "op": "+"
                 },
-                9
+                3
             ],
-            "RDRecordRaw": "d20+9",
-            "RDRecordInt": 24,
+            "RDRecordRaw": "2d8+3",
+            "RDRecordInt": 12,
             "RDRecordSkillInt": null
         },
-        "userId": "1252219916",
+        "userId": "3257603106",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766664377
-    },
-    "71f2abf19586d07c383d3aa9e328c7d1": {
-        "configNote": {
-            "userName": "千成之愿"
-        },
-        "userId": "1252219916",
-        "userType": "user",
-        "platform": "qq",
-        "lastHit": 1742893282
+        "lastHit": 1766675282
     }
 }
