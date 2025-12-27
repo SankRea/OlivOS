@@ -6,18 +6,24 @@
                 {
                     "result": [
                         [
-                            1,
-                            8
+                            2,
+                            2,
+                            3,
+                            2,
+                            2,
+                            3,
+                            3,
+                            1
                         ],
                         [],
                         [
-                            9
+                            18
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 2,
-                        "r": 8,
+                        "l": 8,
+                        "r": 3,
                         "v": {
                             "k": null,
                             "q": null,
@@ -30,15 +36,37 @@
                 {
                     "op": "+"
                 },
-                3
+                {
+                    "result": [
+                        [
+                            8
+                        ],
+                        [],
+                        [
+                            8
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
             ],
-            "RDRecordRaw": "2d8+3",
-            "RDRecordInt": 12,
+            "RDRecordRaw": "8d3+d20",
+            "RDRecordInt": 26,
             "RDRecordSkillInt": null
         },
         "userId": "3257603106",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766675282
+        "lastHit": 1766845430
     }
 }
