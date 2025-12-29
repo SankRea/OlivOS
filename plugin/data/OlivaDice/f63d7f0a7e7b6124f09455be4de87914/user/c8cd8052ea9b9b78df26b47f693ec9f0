@@ -35,7 +35,19 @@
                 "梅丹佐": "24"
             },
             "groupMainDice": "1D20",
-            "groupMainDiceDRight": 20
+            "groupMainDiceDRight": 20,
+            "logNameTimeDict": {
+                "在海的裙边": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                },
+                "地狱复仇第一章": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            63
+                            1
                         ],
                         [],
                         [
-                            63
+                            1
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 1,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 63,
-            "RDRecordSkillInt": 87
+            "RDRecordRaw": "d1",
+            "RDRecordInt": 1,
+            "RDRecordSkillInt": null
         },
         "userId": "2628755988",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766885442
+        "lastHit": 1767003234
     }
 }

@@ -14,7 +14,14 @@
                 "圣杯战争（剑）": "746bec04-1eff-436b-ac5f-d31518a1cb62"
             },
             "logActiveName": "圣杯战争（剑）",
-            "logEnable": true
+            "logEnable": true,
+            "logNameTimeDict": {
+                "圣杯战争（剑）": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

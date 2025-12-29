@@ -33,7 +33,14 @@
             "logNameDict": {
                 "合线": "dcfcca7c-c767-4ce1-9928-139d2a1b18d1"
             },
-            "logActiveName": "合线"
+            "logActiveName": "合线",
+            "logNameTimeDict": {
+                "合线": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

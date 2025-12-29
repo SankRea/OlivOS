@@ -15,7 +15,14 @@
             "logEnable": false,
             "groupObList": [
                 "3ae67c305bd76b206462583d0696e80d"
-            ]
+            ],
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

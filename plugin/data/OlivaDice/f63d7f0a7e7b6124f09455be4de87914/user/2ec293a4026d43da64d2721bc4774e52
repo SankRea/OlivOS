@@ -14,7 +14,14 @@
                 "追书人": "52896c3e-ed8b-44cc-96bc-c4c724c0b92b"
             },
             "logActiveName": "追书人",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "追书人": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

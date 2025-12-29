@@ -30,6 +30,13 @@
                 "阿尔忒弥斯": 17,
                 "斯薇塔": 22,
                 "青山翠": 16
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
             }
         }
     }

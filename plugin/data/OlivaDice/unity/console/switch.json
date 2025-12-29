@@ -4,7 +4,9 @@
     "pulseInterval": 300,
     "autoAcceptGroupAdd": 1,
     "autoAcceptFriendAdd": 1,
+    "recordBotJoinGroup": 1,
     "disableReplyPrivate": 0,
+    "disablePrivate": 0,
     "messageFliterMode": 0,
     "messageSplitGate": 650,
     "messageSplitPageLimit": 10,
@@ -17,6 +19,8 @@
     "helpRecommendGate": 25,
     "censorMode": 1,
     "censorMatchMode": 1,
+    "defaultShowDefault": 0,
+    "defaultAutoSn": 0,
     "masterList": [],
     "noticeGroupList": [],
     "pulseUrlList": [],
@@ -26,5 +30,9 @@
     "odysseyRulesItemLimit": 8,
     "odysseyKOOKBotMarketPulseEnable": 0,
     "odysseyKOOKPlayGameMode": 1,
-    "odysseyKOOKPlayGameMusicSoftware": 0
+    "odysseyKOOKPlayGameMusicSoftware": 0,
+    "differentJrrpMode": 0,
+    "defaultLogQuote": 0,
+    "defaultLogUsePcName": 0,
+    "defaultLogUploadTimeout": 60
 }

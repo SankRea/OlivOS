@@ -12,7 +12,14 @@
                 "七伏市": "4d831060-e641-4038-9f27-bcca175011fd"
             },
             "logActiveName": "七伏市",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "七伏市": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

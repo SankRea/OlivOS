@@ -17,7 +17,14 @@
                 "缉查1": "bf6e3b1a-eb69-459b-85f2-2a523b23fb40"
             },
             "logActiveName": "缉查1",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "缉查1": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

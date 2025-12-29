@@ -13,7 +13,14 @@
                 "default": "0f199a4a-2c53-43d3-b759-df7ec4370854"
             },
             "logActiveName": "default",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

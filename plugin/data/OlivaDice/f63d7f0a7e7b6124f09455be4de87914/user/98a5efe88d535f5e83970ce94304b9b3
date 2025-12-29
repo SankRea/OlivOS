@@ -16,7 +16,14 @@
             },
             "logActiveName": "双子塔大战无敌克苏鲁",
             "groupTemplate": "COC7",
-            "groupTemplateRule": "C3"
+            "groupTemplateRule": "C3",
+            "logNameTimeDict": {
+                "双子塔大战无敌克苏鲁": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

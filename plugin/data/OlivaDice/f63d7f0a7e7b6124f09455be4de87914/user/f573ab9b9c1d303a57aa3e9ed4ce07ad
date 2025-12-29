@@ -16,7 +16,14 @@
                 "星尘的研究": "d6eaad07-2cac-4909-b20e-0de3af885b72"
             },
             "logActiveName": "星尘的研究",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "星尘的研究": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

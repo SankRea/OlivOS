@@ -35,6 +35,13 @@
                 "顾幼龄": "75",
                 "月神夜": "70",
                 "拜亚基": "67"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
             }
         }
     }

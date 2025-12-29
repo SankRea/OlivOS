@@ -34,6 +34,18 @@
             "logNameDict": {
                 "default": "d965e9b6-7ee2-4179-865a-295bd501dd14",
                 "无限": "1a184a47-d4a4-48fd-b557-de91352d4083"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                },
+                "无限": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
             }
         }
     }

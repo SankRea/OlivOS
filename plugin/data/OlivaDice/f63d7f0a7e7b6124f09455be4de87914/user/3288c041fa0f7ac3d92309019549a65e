@@ -12,7 +12,14 @@
                 "后日谈": "c0c0bbaa-b927-41f9-b7cb-eaa7821cffac"
             },
             "logActiveName": "后日谈",
-            "logEnable": true
+            "logEnable": true,
+            "logNameTimeDict": {
+                "后日谈": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

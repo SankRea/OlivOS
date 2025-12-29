@@ -13,6 +13,13 @@
             ],
             "logNameDict": {
                 "default": "dbdab017-b85a-45f9-b45e-d00e1d88bba5"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
             }
         }
     }

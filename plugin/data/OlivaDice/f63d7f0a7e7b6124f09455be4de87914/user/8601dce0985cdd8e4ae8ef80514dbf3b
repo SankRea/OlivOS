@@ -26,7 +26,19 @@
                 "折木维娜大战维兹柒乔阪": "d6db9163-525e-493c-9ca4-dc42f7fe1217"
             },
             "groupObList": [],
-            "groupEnable": true
+            "groupEnable": true,
+            "logNameTimeDict": {
+                "圣杯战争（开幕）": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                },
+                "折木维娜大战维兹柒乔阪": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

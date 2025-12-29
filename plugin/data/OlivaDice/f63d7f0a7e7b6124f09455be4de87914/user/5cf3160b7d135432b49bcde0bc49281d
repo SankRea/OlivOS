@@ -12,7 +12,14 @@
                 "结盟后（剑骑）": "22892753-e7b6-4ddd-bb09-4dc482c7a578"
             },
             "logActiveName": "结盟后（剑骑）",
-            "logEnable": true
+            "logEnable": true,
+            "logNameTimeDict": {
+                "结盟后（剑骑）": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

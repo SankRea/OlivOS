@@ -16,7 +16,14 @@
             "logActiveName": "圣杯战争（弓）",
             "logEnable": true,
             "groupMainDice": null,
-            "groupMainDiceDRight": null
+            "groupMainDiceDRight": null,
+            "logNameTimeDict": {
+                "圣杯战争（弓）": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }

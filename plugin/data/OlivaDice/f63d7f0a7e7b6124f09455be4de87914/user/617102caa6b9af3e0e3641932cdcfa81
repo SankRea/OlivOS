@@ -12,7 +12,14 @@
                 "娱乐续写": "fbb45379-0fb2-4fd3-bb74-52aa10dc06fc"
             },
             "logActiveName": "娱乐续写",
-            "logEnable": false
+            "logEnable": false,
+            "logNameTimeDict": {
+                "娱乐续写": {
+                    "start_time": 0,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            }
         }
     }
 }
