@@ -8,7 +8,7 @@
         {
             "name": "盒装挂耳咖啡",
             "threshold": 340000,
-            "triggered": true
+            "triggered": false
         },
         {
             "name": "可编程处理器",
