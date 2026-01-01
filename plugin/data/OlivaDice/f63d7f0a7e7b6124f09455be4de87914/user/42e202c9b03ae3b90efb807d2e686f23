@@ -3,10 +3,10 @@
         "userId": "121735290",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1767203670,
+        "lastHit": 1767210262,
         "configNote": {
             "groupEnable": true,
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -20,8 +20,8 @@
             "logNameTimeDict": {
                 "default": {
                     "start_time": 1767202516.0345063,
-                    "end_time": 0,
-                    "total_time": 8861.3623752594
+                    "end_time": 1767209549.7314837,
+                    "total_time": 15895.059352636337
                 }
             }
         }

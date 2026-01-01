@@ -6,11 +6,48 @@
                 {
                     "result": [
                         [
-                            13
+                            2,
+                            2,
+                            3,
+                            2,
+                            2,
+                            1,
+                            3,
+                            3,
+                            1,
+                            2,
+                            3,
+                            1
                         ],
                         [],
                         [
-                            13
+                            25
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 12,
+                        "r": 3,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            15
+                        ],
+                        [],
+                        [
+                            15
                         ]
                     ],
                     "key": {
@@ -29,54 +66,15 @@
                 {
                     "op": "+"
                 },
-                {
-                    "result": [
-                        [
-                            3,
-                            3,
-                            2,
-                            2,
-                            1,
-                            1,
-                            3,
-                            3,
-                            3,
-                            3,
-                            2,
-                            2,
-                            2,
-                            1,
-                            1,
-                            2,
-                            1,
-                            1
-                        ],
-                        [],
-                        [
-                            36
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 18,
-                        "r": 3,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                12
             ],
-            "RDRecordRaw": "d20+18d3",
-            "RDRecordInt": 49,
+            "RDRecordRaw": "12d3+d20+12",
+            "RDRecordInt": 52,
             "RDRecordSkillInt": null
         },
         "userId": "961142868",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766931764
+        "lastHit": 1767280744
     }
 }

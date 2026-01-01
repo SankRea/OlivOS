@@ -6,20 +6,61 @@
                 {
                     "result": [
                         [
-                            5,
-                            8,
-                            5,
-                            5
+                            1,
+                            2,
+                            2,
+                            1,
+                            2,
+                            3,
+                            3,
+                            3,
+                            2,
+                            3,
+                            1,
+                            1,
+                            3,
+                            3,
+                            1,
+                            3,
+                            1,
+                            2,
+                            1
                         ],
                         [],
                         [
-                            23
+                            38
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 4,
-                        "r": 8,
+                        "l": 19,
+                        "r": 3,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            17
+                        ],
+                        [],
+                        [
+                            17
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -30,13 +71,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "4d8",
-            "RDRecordInt": 23,
+            "RDRecordRaw": "19d3+d20",
+            "RDRecordInt": 55,
             "RDRecordSkillInt": null
         },
         "userId": "88012085",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1766928260
+        "lastHit": 1767280779
     }
 }
