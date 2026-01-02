@@ -3,6 +3,76 @@
         "userId": "302552206",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1767261843
+        "lastHit": 1767370755,
+        "configNote": {
+            "logStatus": {
+                "28db16ed-0fa9-46b3-8802-093780e99a4a": {
+                    "4528c7050c2bdc2e88c8df64cea5a182": {
+                        "id": "1985245608",
+                        "人物卡": {
+                            "香奈美_旅游诡谈": {
+                                "成功": {
+                                    "侦查": 1,
+                                    "LUC": 1
+                                },
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    },
+                    "3fc733f7cb815d52535bb5173b04ae96": {
+                        "id": "825734198",
+                        "人物卡": {
+                            "艾利欧": {
+                                "成功": {},
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    },
+                    "742dde466daf599b33f9e2b14534965d": {
+                        "id": "2468514664",
+                        "人物卡": {
+                            "叶氏仁": {
+                                "成功": {},
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    },
+                    "380b657de418fc2714bfad3055b386bb": {
+                        "id": "1252219916",
+                        "人物卡": {
+                            "浅上悠子": {
+                                "成功": {},
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "28db16ed-0fa9-46b3-8802-093780e99a4a"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1767363006.79532,
+                    "end_time": 1767370755.9944663,
+                    "total_time": 7749.199146270752
+                }
+            },
+            "logActiveName": "default",
+            "logEnable": false,
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
+        }
     }
 }
