@@ -3,7 +3,7 @@
         "userId": "728048958",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1767701254,
+        "lastHit": 1767748264,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -32,7 +32,10 @@
                     "end_time": 0,
                     "total_time": 0
                 }
-            }
+            },
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
+            "groupMainDiceDLeft": 1
         }
     }
 }
