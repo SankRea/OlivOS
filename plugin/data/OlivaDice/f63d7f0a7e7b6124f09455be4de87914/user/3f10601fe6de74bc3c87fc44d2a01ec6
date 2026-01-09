@@ -1,11 +1,76 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "姚杉杉"
+            "userName": "姚杉杉",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            12
+                        ],
+                        [],
+                        [
+                            12
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 20,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                3
+            ],
+            "RDRecordRaw": "d+3",
+            "RDRecordInt": 15,
+            "RDRecordSkillInt": null,
+            "cnmodsTemp": {
+                "code": 1,
+                "timestamp": 1767963869561,
+                "data": {
+                    "list": [
+                        {
+                            "qq": "",
+                            "minAmount": 3,
+                            "minDuration": 9,
+                            "original": true,
+                            "moduleType": "DND",
+                            "releaseDate": "2026-01-03",
+                            "keyId": 4472,
+                            "sort": 0,
+                            "title": "博德之门奇事",
+                            "structure": "",
+                            "article": "南北西东",
+                            "url": "https://cnmods.lanzoum.com/ijxjU3f4x84d",
+                            "moduleAge": "",
+                            "freeLevel": "5-10",
+                            "opinion": "<p>这个故事的来源是一本落满了灰尘的卷宗，由于残破不堪，案件所发生的具体纪年已失落无考。</p>\n<p>后有一好事者，在博德之门的档案馆中将此案卷找出，阅读后发觉有趣，便广为散发，使人传阅，又一好事者将其整理成剧本，将案件的发生点确定为卷宗被找到的博德之门，又添加了几个探案的人物，最终成为了一个完整的故事。</p>\n<p>卷中写道，在某年某月某一天的早晨&hellip;&hellip;</p>\n<p>&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;</p>\n<p>《博德之门奇事》</p>\n<p>模组作者：南北西东</p>\n<p>规则：DND5E</p>\n<p>类型：长篇模组（开阔世界）</p>\n<p>世设：费伦</p>\n<p>游戏阶段：T2(约7级)</p>\n<p>结束等级：约7级</p>\n<p>简介：玩家扮演代表着博德之门官方的执法人员行动，卷入一桩发生在剧院里的破坏案，又在机缘巧合中发现一具突然出现在【至高之厅】英雄陵墓中的尸体，这些看似无关的案情又逐渐发展为一个引得所有博德之门居民关注的大案。冒险者将扮演焰拳----类似于【警探】的角色，主动或被动卷入案件，并找出案件背后隐藏的真相。</p>",
+                            "updateLastWeek": true,
+                            "moduleVersion": "D&D5E",
+                            "occurrencePlace": "",
+                            "maxAmount": 4,
+                            "maxDuration": 18,
+                            "email": "3507219212@qq.com"
+                        }
+                    ],
+                    "totalElements": 1,
+                    "totalPages": 1
+                }
+            }
         },
         "userId": "1020051121",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1767498434
+        "lastHit": 1767963869
     }
 }
