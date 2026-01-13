@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768231732,
+        "lastHit": 1768289478,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -24,7 +24,7 @@
                 "云夜": "1D20+9",
                 "朝露": "1D20+11"
             },
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "logActiveName": "无限",
             "logNameList": [
@@ -43,8 +43,8 @@
                 },
                 "无限": {
                     "start_time": 1768217970.9249182,
-                    "end_time": 0,
-                    "total_time": 325473.2505912781
+                    "end_time": 1768289478.5079012,
+                    "total_time": 396980.83357429504
                 }
             }
         }
