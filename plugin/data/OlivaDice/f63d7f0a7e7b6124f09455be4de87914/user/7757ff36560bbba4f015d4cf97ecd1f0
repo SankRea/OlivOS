@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768289478,
+        "lastHit": 1768401660,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -42,9 +42,9 @@
                     "total_time": 0
                 },
                 "无限": {
-                    "start_time": 1768217970.9249182,
-                    "end_time": 1768289478.5079012,
-                    "total_time": 396980.83357429504
+                    "start_time": 1768396922.386238,
+                    "end_time": 1768401660.5945864,
+                    "total_time": 401719.0419225693
                 }
             }
         }
