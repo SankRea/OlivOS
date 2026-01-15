@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1748627795, "type": "reply", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1748627804, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "(这个要做replay吗)"}
 {"time": 1748627809, "type": "recv", "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(随你吧)"}
@@ -969,3 +970,6 @@
 {"time": 1763900243, "type": "recv", "message_id": "670897165", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*小声回复"}
 {"time": 1763900249, "type": "recv", "message_id": "615290434", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“仔细说说”"}
 {"time": 1763900454, "type": "recv", "message_id": "2029184990", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:reply,id=615290434]\"...很熟悉...\"她下了很大决心，吐出三个字。"}
+{"time": 1768450767, "type": "recv", "message_id": "2031867209", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log"}
+{"time": 1768450767, "type": "reply", "message_id": "2031867209", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[default] 日志状态:\nUUID: a85cafb0-e570-406b-a723-3d553baab271\n当前状态: 开启\n日志行数: 972\n日志总时长: 491236h19m27s"}
+{"time": 1768450770, "type": "recv", "message_id": "395215347", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

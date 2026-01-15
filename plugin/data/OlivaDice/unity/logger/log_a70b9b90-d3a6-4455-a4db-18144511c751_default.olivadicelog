@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1749482402, "type": "reply", "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1749482413, "type": "recv", "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你在路上遇见了维克多"}
 {"time": 1749482448, "type": "recv", "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "你远远地看见了维克多往旅馆这边走"}
@@ -559,3 +560,4 @@
 {"time": 1763902967, "type": "reply", "message_id": "1289808000", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[秘密]演奏出: 1D100=33"}
 {"time": 1763902982, "type": "recv", "message_id": "1147104938", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "[CQ:image,file={957E930A-38D9-09BF-AC4F-3200FC34270E}.png,sub_type=0,url=https://gchat.qpic.cn/gchatpic_new/0/0-0-957E930A38D909BFAC4F3200FC34270E/0,file_size=7849]"}
 {"time": 1763903137, "type": "recv", "message_id": "728667995", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "“诶……？那不就是说？”有些恍惚“一切的起因是……我？在渴求什么？还是有……海，在渴求我……”"}
+{"time": 1768450758, "type": "recv", "message_id": "1015266701", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log end"}

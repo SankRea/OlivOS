@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1749484506, "type": "reply", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1749484515, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "过个灵感"}
 {"time": 1749484516, "type": "recv", "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:image,file=b7b349f16d120f811a99f3225193f7e4.image,subType=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhTicEm7yO-HoX2bRx7m3e7Vc1rLixiwgQEg_woo0qny2NnkjQMyBHByb2RQgL2jAVoQ-6uc0hQAFcM5H62LlsNrS3oCnls&amp;spec=0&amp;rkey=CAQSMFK-0kCJKrr0Yn4CEu12fdJg2ugFiAdFMTlRwjGYk8cjvTacVmKHDlJiJ4K15yORVg]"}

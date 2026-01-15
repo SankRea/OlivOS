@@ -6,50 +6,17 @@
                 {
                     "result": [
                         [
-                            3,
-                            1,
-                            2,
-                            2,
-                            1,
-                            3,
-                            1,
-                            1
+                            8
                         ],
                         [],
                         [
-                            14
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 8,
-                        "r": 3,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            9
-                        ],
-                        [],
-                        [
-                            9
+                            8
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 10,
                         "v": {
                             "k": null,
                             "q": null,
@@ -60,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "8d3+d20",
-            "RDRecordInt": 23,
+            "RDRecordRaw": "d10",
+            "RDRecordInt": 8,
             "RDRecordSkillInt": null
         },
         "userId": "3257603106",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1767363202
+        "lastHit": 1768482537
     }
 }

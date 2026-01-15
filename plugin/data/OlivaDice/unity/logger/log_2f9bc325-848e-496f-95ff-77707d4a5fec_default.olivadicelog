@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 14.852736234664917}
 {"time": 1748001608, "type": "reply", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1748001608, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1558524070"}, "sender": {"id": "1558524070", "name": "诗铃"}, "message": "开始记录日志"}
 {"time": 1748001613, "type": "recv", "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。rd2"}
@@ -14937,3 +14938,6 @@
 {"time": 1750346859, "type": "recv", "message_id": "1112959192", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": "目盲"}
 {"time": 1750346950, "type": "recv", "message_id": "77831166", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:image,summary=&#91;动画表情&#93;,file=52D469F7D4F855418AD528AC1CE4BE83.jpg,sub_type=1,url=https://multimedia.nt.qq.com.cn/download?appid=1407&amp;fileid=EhRHucTbCnDHTxOtMeRq_qHAtaNJKRiQcSD_Ciin5rnB5v2NAzIEcHJvZFCAvaMBWhCbiEtNurpqjndCbSajenDiegK24A&amp;rkey=CAISMHcHVRelcTu5AIYt_t30jwJHXnLTTs6ED2I_XkXZ1Jl4BNUPQNXUJUUdGqjmcfkG0w,file_size=14480]"}
 {"time": 1750346959, "type": "recv", "message_id": "1115768510", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "2422497068"}, "sender": {"id": "2422497068", "name": "芊羽"}, "message": ".log off"}
+{"time": 1768485074, "type": "reply", "message_id": "2106464294", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1985245608"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "继续记录乐谱"}
+{"time": 1768485087, "type": "recv", "message_id": "1028242762", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1258719565"}, "sender": {"id": "1258719565", "name": "雪狼"}, "message": "（宝藏——魔法物品详述）"}
+{"time": 1768485089, "type": "recv", "message_id": "2134609833", "deleted": false, "dect": {"host_id": null, "group_id": "1098529435", "user_id": "1985245608"}, "sender": {"id": "1985245608", "name": "洛绫飞羽"}, "message": ".log off"}
