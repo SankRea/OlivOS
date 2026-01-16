@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "Mothal"
+            "userName": "Mothal",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            53
+                        ],
+                        [],
+                        [
+                            53
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d",
+            "RDRecordInt": 53,
+            "RDRecordSkillInt": null
         },
         "userId": "1817341157",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1767257736
+        "lastHit": 1768579910
     }
 }

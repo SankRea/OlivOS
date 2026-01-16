@@ -3,37 +3,15 @@
         "configNote": {
             "userName": "千璃",
             "RDRecord": [
-                {
-                    "result": [
-                        [
-                            3
-                        ],
-                        [],
-                        [
-                            3
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                2
             ],
-            "RDRecordRaw": "d",
-            "RDRecordInt": 3,
+            "RDRecordRaw": "2",
+            "RDRecordInt": 2,
             "RDRecordSkillInt": null
         },
         "userId": "3057428454",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1768244688
+        "lastHit": 1768579931
     }
 }
