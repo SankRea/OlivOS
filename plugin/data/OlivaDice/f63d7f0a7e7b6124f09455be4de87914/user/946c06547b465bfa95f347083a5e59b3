@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768582887,
+        "lastHit": 1768672306,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -61,7 +61,23 @@
                 }
             },
             "logStatus": {
-                "441fb123-1b1c-488e-8f98-f377abe1a309": {}
+                "441fb123-1b1c-488e-8f98-f377abe1a309": {},
+                "8a13cb03-d9e9-4993-bf3c-61902b92f0c6": {
+                    "48d2af0ca1bbe29179a8277240393e94": {
+                        "id": "979090618",
+                        "人物卡": {
+                            "梅史密斯": {
+                                "成功": {
+                                    "侦查": 1
+                                },
+                                "失败": {
+                                    "聆听": 1,
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    }
+                }
             }
         }
     }

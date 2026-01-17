@@ -3,7 +3,7 @@
         "userId": "979367137",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768295110,
+        "lastHit": 1768667914,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
@@ -37,18 +37,44 @@
                 "卡列尼娜": 80,
                 "心夏（侦探团）": 75
             },
-            "logActiveName": "default",
+            "logActiveName": "静水",
             "logNameList": [
-                "default"
+                "default",
+                "静水"
             ],
             "logNameDict": {
-                "default": "c48f8f26-886e-4372-a609-3ec4f030c1d4"
+                "default": "c48f8f26-886e-4372-a609-3ec4f030c1d4",
+                "静水": "8a13cb03-d9e9-4993-bf3c-61902b92f0c6"
             },
             "logNameTimeDict": {
                 "default": {
                     "start_time": 0,
                     "end_time": 0,
                     "total_time": 0
+                },
+                "静水": {
+                    "start_time": 1768656777.3432453,
+                    "end_time": 1768667914.2627451,
+                    "total_time": 11136.919499874115
+                }
+            },
+            "logStatus": {
+                "441fb123-1b1c-488e-8f98-f377abe1a309": {},
+                "8a13cb03-d9e9-4993-bf3c-61902b92f0c6": {
+                    "48d2af0ca1bbe29179a8277240393e94": {
+                        "id": "979090618",
+                        "人物卡": {
+                            "梅史密斯": {
+                                "成功": {
+                                    "侦查": 1
+                                },
+                                "失败": {
+                                    "聆听": 1,
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    }
                 }
             }
         }
