@@ -3,39 +3,89 @@
         "userId": "728048958",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768537381,
+        "lastHit": 1768749803,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "logEnable": false,
             "logNowName": null,
             "groupInitParaList": {
-                "1": "1D20+6",
-                "2": "1D20+5",
-                "3": "1D20+8"
+                "食尸鬼": "1D20+5",
+                "芝士汉堡": "1D20+8",
+                "莱纳尔": "1D20+16",
+                "三条树": "1D20+8",
+                "chesslia_21": "0",
+                "chesslia21": "0",
+                "chessila": "21",
+                "肌肉虹夏": "27"
             },
             "groupInitList": {
-                "1": 12,
-                "2": 21,
-                "3": 10
+                "食尸鬼": 16,
+                "芝士汉堡": 28,
+                "莱纳尔": 22,
+                "三条树": 27,
+                "chesslia_21": 0,
+                "chesslia21": 0,
+                "chessila": 21,
+                "肌肉虹夏": 27
             },
-            "logActiveName": "default",
+            "logActiveName": "尖啸山庄之泪",
             "logNameList": [
-                "default"
+                "尖啸山庄之泪"
             ],
             "logNameDict": {
-                "default": "3e98a491-5eff-4b5e-a186-6f8740b95950"
+                "尖啸山庄之泪": "a2b8c5b5-7b7f-4056-a8aa-228ef04df357"
             },
             "logNameTimeDict": {
-                "default": {
-                    "start_time": 0,
-                    "end_time": 0,
-                    "total_time": 0
+                "尖啸山庄之泪": {
+                    "start_time": 1768737399.530024,
+                    "end_time": 1768749803.0451694,
+                    "total_time": 12403.515145301819
                 }
             },
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
-            "groupMainDiceDLeft": 1
+            "groupMainDiceDLeft": 1,
+            "logEndingLock": false,
+            "logStatus": {
+                "a2b8c5b5-7b7f-4056-a8aa-228ef04df357": {}
+            },
+            "groupInitUserList": {
+                "食尸鬼": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "芝士汉堡": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "莱纳尔": {
+                    "userId": "576021174",
+                    "platform": "qq"
+                },
+                "三条树": {
+                    "userId": "2037978956",
+                    "platform": "qq"
+                },
+                "chesslia_21": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "chesslia21": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "chessila": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "肌肉虹夏": {
+                    "userId": "2037978956",
+                    "platform": "qq"
+                }
+            },
+            "groupInitCurrentPlayer": 0,
+            "groupInitRound": 1
         }
     }
 }

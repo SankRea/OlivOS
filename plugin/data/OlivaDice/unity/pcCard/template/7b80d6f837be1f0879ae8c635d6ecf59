@@ -102,5 +102,9 @@
         "mappingRecord": {
             "先攻": "1D20+13"
         }
+    },
+    "Chesslia": {
+        "template": "COC7",
+        "checkRules": "C3"
     }
 }

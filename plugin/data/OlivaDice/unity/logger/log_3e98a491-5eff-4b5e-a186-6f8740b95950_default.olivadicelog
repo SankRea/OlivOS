@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1750863752, "type": "reply", "message_id": "1998159957", "deleted": false, "dect": {"host_id": null, "group_id": "728048958", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1750863766, "type": "recv", "message_id": "1172916212", "deleted": false, "dect": {"host_id": null, "group_id": "728048958", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "(对了，你的录卡呢？"}
 {"time": 1750863858, "type": "recv", "message_id": "1727698383", "deleted": false, "dect": {"host_id": null, "group_id": "728048958", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。st set顾昭君"}
