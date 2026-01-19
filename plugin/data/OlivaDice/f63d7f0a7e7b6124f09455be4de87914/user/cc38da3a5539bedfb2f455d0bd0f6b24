@@ -3,7 +3,7 @@
         "userId": "795819000",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768486555,
+        "lastHit": 1768831791,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
@@ -19,7 +19,89 @@
             "groupInitList": {
                 "拜亚基": 65,
                 "亚当": 50
-            }
+            },
+            "logEndingLock": false,
+            "logStatus": {
+                "a2b8c5b5-7b7f-4056-a8aa-228ef04df357": {},
+                "a785def0-2baa-4202-a0bc-535b0a4089ea": {
+                    "4528c7050c2bdc2e88c8df64cea5a182": {
+                        "id": "1985245608",
+                        "人物卡": {
+                            "德缪歌": {
+                                "成功": {
+                                    "LUC": 1,
+                                    "DEX": 1,
+                                    "SAN": 1
+                                },
+                                "失败": {
+                                    "侦查": 1,
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    },
+                    "3ae67c305bd76b206462583d0696e80d": {
+                        "id": "2801086039",
+                        "人物卡": {
+                            "维多·弗兰肯斯坦": {
+                                "成功": {
+                                    "侦查": 1,
+                                    "SAN": 2
+                                },
+                                "失败": {
+                                    "DEX": 1,
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    },
+                    "5c5ba4969428218f4ec42552de8fddf9": {
+                        "id": "408119794",
+                        "人物卡": {
+                            "罗宾·布莱克": {
+                                "成功": {
+                                    "侦查": 1,
+                                    "DEX": 1
+                                },
+                                "失败": {
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    },
+                    "87ac9449095b1fb80d1360afd37eff0c": {
+                        "id": "2677428383",
+                        "人物卡": {
+                            "高文": {
+                                "成功": {
+                                    "聆听": 1,
+                                    "SAN": 2,
+                                    "DEX": 1
+                                },
+                                "失败": {
+                                    "侦查": 1,
+                                    "SAN": 1,
+                                    "医学": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "logNameList": [
+                "解离STAGE0"
+            ],
+            "logNameDict": {
+                "解离STAGE0": "a785def0-2baa-4202-a0bc-535b0a4089ea"
+            },
+            "logNameTimeDict": {
+                "解离STAGE0": {
+                    "start_time": 1768820352.7414002,
+                    "end_time": 1768831791.6984167,
+                    "total_time": 11438.957016468048
+                }
+            },
+            "logActiveName": "解离STAGE0"
         }
     }
 }

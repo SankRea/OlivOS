@@ -6,36 +6,32 @@
                 {
                     "result": [
                         [
-                            81
+                            31
                         ],
-                        [],
                         [
-                            81
+                            4
+                        ],
+                        [
+                            31
                         ]
                     ],
                     "key": {
-                        "op": "d",
+                        "op": "b",
                         "l": 1,
-                        "r": 100,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
+                        "r": 1,
+                        "v": {}
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 81,
-            "RDRecordSkillInt": 60,
+            "RDRecordRaw": "B",
+            "RDRecordInt": 31,
+            "RDRecordSkillInt": 75,
             "userObList": [],
             "autoSnEnabled": true
         },
         "userId": "1985245608",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1768669917
+        "lastHit": 1768830774
     }
 }

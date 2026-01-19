@@ -201,5 +201,12 @@
         "mappingRecord": {
             "先攻": "55"
         }
+    },
+    "罗宾·布莱克": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

@@ -140,5 +140,10 @@
         "enhanceList": [
             "侦查"
         ]
+    },
+    "德缪歌": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": []
     }
 }

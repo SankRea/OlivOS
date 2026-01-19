@@ -37,5 +37,12 @@
             "聆听",
             "灵感"
         ]
+    },
+    "维多·弗兰肯斯坦": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }
