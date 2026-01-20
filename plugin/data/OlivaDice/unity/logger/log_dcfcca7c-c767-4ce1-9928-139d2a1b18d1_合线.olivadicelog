@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1757676300, "type": "reply", "message_id": "1056926205", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1757676339, "type": "recv", "message_id": "1375679873", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "2468514664"}, "sender": {"id": "2468514664", "name": "夜鹿夜游真夜中"}, "message": "过了一段时间，二条警官等来了御卒检察官的到来"}
 {"time": 1757676379, "type": "recv", "message_id": "1054865932", "deleted": false, "dect": {"host_id": null, "group_id": "264175027", "user_id": "246376731"}, "sender": {"id": "246376731", "name": "ㅤᅠㅤㅤᅠㅤㅤᅠㅤᅠ"}, "message": "*打量一下检察官"}

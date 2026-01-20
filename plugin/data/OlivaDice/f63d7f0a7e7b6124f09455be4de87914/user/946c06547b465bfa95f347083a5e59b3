@@ -3,29 +3,29 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768844991,
+        "lastHit": 1768927351,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupMainDice": null,
-            "groupMainDiceDRight": null,
+            "groupMainDice": "1D20",
+            "groupMainDiceDRight": 20,
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "水栖魔蚺": 24,
-                "芊羽_？": 19,
-                "灵风雨璇": 28,
-                "阿尔托莉雅·潘德拉贡": 21,
-                "沙耶": 36,
-                "藿藿": 9
+                "伊特怪": 25,
+                "大蜘蛛": 12,
+                "灵风雨璇": 17,
+                "阿尔托莉雅·潘德拉贡": 23,
+                "智乃": 39,
+                "涂山言言": 18
             },
             "groupInitParaList": {
-                "水栖魔蚺": "1D20+7",
-                "芊羽_？": "1D20+16",
-                "灵风雨璇": "1D20+11",
-                "阿尔托莉雅·潘德拉贡": "1D20+9",
-                "沙耶": "1D20+22",
-                "藿藿": "1D20+7"
+                "伊特怪": "1D20+12",
+                "大蜘蛛": "1D20+5",
+                "灵风雨璇": "1D20+15",
+                "阿尔托莉雅·潘德拉贡": "1D20+14",
+                "智乃": "1D20+26",
+                "涂山言言": "1D20+7"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
@@ -55,9 +55,9 @@
                     "total_time": 0
                 },
                 "亘古诡邪第三章": {
-                    "start_time": 1768827603.1779737,
-                    "end_time": 1768828789.503878,
-                    "total_time": 1186.3259043693542
+                    "start_time": 1768914099.348836,
+                    "end_time": 1768922196.8534098,
+                    "total_time": 9283.830478191376
                 }
             },
             "logStatus": {
@@ -79,7 +79,36 @@
                 },
                 "50be3def-782f-419f-ad6b-ed54db964794": {}
             },
-            "logEndingLock": false
+            "logEndingLock": false,
+            "groupMainDiceDLeft": 1,
+            "groupInitUserList": {
+                "伊特怪": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "大蜘蛛": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "灵风雨璇": {
+                    "userId": "1009793416",
+                    "platform": "qq"
+                },
+                "阿尔托莉雅·潘德拉贡": {
+                    "userId": "3362422751",
+                    "platform": "qq"
+                },
+                "智乃": {
+                    "userId": "1252219916",
+                    "platform": "qq"
+                },
+                "涂山言言": {
+                    "userId": "1252219916",
+                    "platform": "qq"
+                }
+            },
+            "groupInitCurrentPlayer": 0,
+            "groupInitRound": 1
         }
     }
 }

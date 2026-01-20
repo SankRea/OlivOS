@@ -6,84 +6,31 @@
                 {
                     "result": [
                         [
-                            8,
+                            6,
+                            1,
+                            10,
+                            18,
+                            17,
                             9,
+                            14,
+                            17,
                             6,
-                            8,
-                            2
-                        ],
-                        [],
-                        [
-                            33
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 5,
-                        "r": 10,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                40,
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            4,
-                            3,
-                            8
-                        ],
-                        [],
-                        [
-                            15
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 3,
-                        "r": 8,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            1,
-                            2,
-                            3,
                             6,
+                            16,
                             1,
-                            6
+                            13,
+                            18,
+                            5
                         ],
                         [],
                         [
-                            19
+                            157
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 6,
-                        "r": 6,
+                        "l": 15,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -96,38 +43,16 @@
                 {
                     "op": "+"
                 },
-                {
-                    "result": [
-                        [
-                            1
-                        ],
-                        [],
-                        [
-                            1
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 6,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                225
             ],
-            "RDRecordRaw": "5d10+40+3d8+6d6+1d6",
-            "RDRecordInt": 108,
+            "RDRecordRaw": "15d20+225",
+            "RDRecordInt": 382,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1768500136
+        "lastHit": 1768925014
     }
 }

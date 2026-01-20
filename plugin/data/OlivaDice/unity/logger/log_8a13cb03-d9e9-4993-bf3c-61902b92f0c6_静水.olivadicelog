@@ -1,4 +1,4 @@
-{"type": "log_total_duration", "total_time": 11136.919499874115}
+{"type": "log_total_duration", "total_time": 66612.15982174873}
 {"time": 1768656777, "type": "reply", "message_id": "145339541", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1768656818, "type": "recv", "message_id": "1816462006", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "2086118349"}, "sender": {"id": "2086118349", "name": "S&G绪章如梦"}, "message": ".st set摩西"}
 {"time": 1768656818, "type": "reply", "message_id": "1816462006", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "2086118349"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "人物卡已切换至[摩西]"}
@@ -251,3 +251,4 @@
 {"time": 1768836346, "type": "recv", "message_id": "1777867149", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "979090618"}, "sender": {"id": "979090618", "name": "无名"}, "message": "（那没事了）"}
 {"time": 1768836451, "type": "recv", "message_id": "69591644", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "979090618"}, "sender": {"id": "979090618", "name": "无名"}, "message": "毫无成效地包扎完后，注意到码头上的影子，把手半弯成号筒型向其呼叫“你好？半夜在这里游泳吗？”另一只手的手电筒扫向水面"}
 {"time": 1768837760, "type": "recv", "message_id": "1130402857", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "当然没有任何回应，连回声都没有。雨夜大声地沉默着"}
+{"time": 1768875924, "type": "recv", "message_id": "903463018", "deleted": false, "dect": {"host_id": null, "group_id": "979367137", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "。log off"}

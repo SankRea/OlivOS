@@ -3,9 +3,9 @@
         "userId": "979367137",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768836339,
+        "lastHit": 1768875924,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "groupEnable": true,
             "groupObList": [],
@@ -56,8 +56,8 @@
                 },
                 "静水": {
                     "start_time": 1768820449.6397352,
-                    "end_time": 0,
-                    "total_time": 11136.919499874115
+                    "end_time": 1768875924.880057,
+                    "total_time": 66612.15982174873
                 }
             },
             "logStatus": {
