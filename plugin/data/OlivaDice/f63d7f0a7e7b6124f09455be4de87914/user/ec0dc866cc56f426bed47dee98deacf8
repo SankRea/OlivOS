@@ -3,13 +3,33 @@
         "userId": "735825367",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768570130,
+        "lastHit": 1768994706,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
             "groupMainDice": "1D100",
             "groupMainDiceDRight": 100,
-            "groupMainDiceDLeft": 1
+            "groupMainDiceDLeft": 1,
+            "groupInitList": {
+                "龙神": 1,
+                "伊神": 3
+            },
+            "groupInitParaList": {
+                "龙神": "1",
+                "伊神": "3"
+            },
+            "groupInitUserList": {
+                "龙神": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "伊神": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                }
+            },
+            "groupInitCurrentPlayer": 1,
+            "groupInitRound": 2
         }
     }
 }

@@ -3,7 +3,7 @@
         "userId": "1098529435",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768927351,
+        "lastHit": 1769015772,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -12,20 +12,22 @@
             "logEnable": false,
             "logNowName": null,
             "groupInitList": {
-                "伊特怪": 25,
-                "大蜘蛛": 12,
-                "灵风雨璇": 17,
-                "阿尔托莉雅·潘德拉贡": 23,
-                "智乃": 39,
-                "涂山言言": 18
+                "灵风雨璇": 21,
+                "魔像": 8,
+                "蛇": 13,
+                "梅菲斯": 43,
+                "阿尔托莉雅·潘德拉贡": 26,
+                "沙耶": 41,
+                "言言": 27
             },
             "groupInitParaList": {
-                "伊特怪": "1D20+12",
-                "大蜘蛛": "1D20+5",
-                "灵风雨璇": "1D20+15",
+                "灵风雨璇": "1D20+13",
+                "魔像": "1D20+6",
+                "蛇": "1D20+3",
+                "梅菲斯": "1D20+23",
                 "阿尔托莉雅·潘德拉贡": "1D20+14",
-                "智乃": "1D20+26",
-                "涂山言言": "1D20+7"
+                "沙耶": "1D20+22",
+                "言言": "1D20+8"
             },
             "groupObList": [
                 "733bbd1efeb9a43711198c349e9cd549"
@@ -55,9 +57,9 @@
                     "total_time": 0
                 },
                 "亘古诡邪第三章": {
-                    "start_time": 1768914099.348836,
-                    "end_time": 1768922196.8534098,
-                    "total_time": 9283.830478191376
+                    "start_time": 1768998872.9298084,
+                    "end_time": 1769007598.9060318,
+                    "total_time": 18009.806701660156
                 }
             },
             "logStatus": {
@@ -82,27 +84,31 @@
             "logEndingLock": false,
             "groupMainDiceDLeft": 1,
             "groupInitUserList": {
-                "伊特怪": {
-                    "userId": "1040972910",
-                    "platform": "qq"
-                },
-                "大蜘蛛": {
-                    "userId": "1040972910",
-                    "platform": "qq"
-                },
                 "灵风雨璇": {
                     "userId": "1009793416",
+                    "platform": "qq"
+                },
+                "魔像": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "蛇": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "梅菲斯": {
+                    "userId": "2422497068",
                     "platform": "qq"
                 },
                 "阿尔托莉雅·潘德拉贡": {
                     "userId": "3362422751",
                     "platform": "qq"
                 },
-                "智乃": {
+                "沙耶": {
                     "userId": "1252219916",
                     "platform": "qq"
                 },
-                "涂山言言": {
+                "言言": {
                     "userId": "1252219916",
                     "platform": "qq"
                 }
