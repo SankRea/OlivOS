@@ -144,6 +144,8 @@
     "德缪歌": {
         "template": "COC7",
         "checkRules": "C3",
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }
