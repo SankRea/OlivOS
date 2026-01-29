@@ -6,49 +6,19 @@
                 {
                     "result": [
                         [
+                            6,
+                            5,
                             5
                         ],
                         [],
                         [
-                            5
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 20,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                },
-                {
-                    "op": "+"
-                },
-                1,
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            2,
-                            1,
-                            2
-                        ],
-                        [],
-                        [
-                            5
+                            16
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 3,
-                        "r": 4,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -59,13 +29,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d20+1+3d4",
-            "RDRecordInt": 11,
+            "RDRecordRaw": "3d6",
+            "RDRecordInt": 16,
             "RDRecordSkillInt": null
         },
         "userId": "1085444390",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1768658940
+        "lastHit": 1769696030
     }
 }

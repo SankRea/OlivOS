@@ -1,11 +1,44 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "星间尘"
+            "userName": "星间尘",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            4,
+                            3,
+                            5,
+                            6,
+                            5,
+                            6
+                        ],
+                        [],
+                        [
+                            29
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 6,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "6d6",
+            "RDRecordInt": 29,
+            "RDRecordSkillInt": null
         },
         "userId": "879403626",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1769325635
+        "lastHit": 1769690857
     }
 }
