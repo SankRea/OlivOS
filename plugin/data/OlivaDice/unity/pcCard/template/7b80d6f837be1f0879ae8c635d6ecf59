@@ -109,7 +109,7 @@
         "template": "COC7",
         "checkRules": "C3",
         "mappingRecord": {
-            "先攻": "1D20+19"
+            "先攻": "1D20+16"
         }
     }
 }
