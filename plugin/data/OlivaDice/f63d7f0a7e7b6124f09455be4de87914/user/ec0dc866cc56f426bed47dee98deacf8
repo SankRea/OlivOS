@@ -3,13 +3,13 @@
         "userId": "735825367",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1768994706,
+        "lastHit": 1770102825,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupMainDice": "1D100",
-            "groupMainDiceDRight": 100,
-            "groupMainDiceDLeft": 1,
+            "groupMainDice": null,
+            "groupMainDiceDRight": null,
+            "groupMainDiceDLeft": null,
             "groupInitList": {
                 "龙神": 1,
                 "伊神": 3

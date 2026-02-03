@@ -6,10 +6,10 @@
                 {
                     "result": [
                         [
+                            6,
+                            4,
                             5,
-                            4,
-                            4,
-                            3
+                            1
                         ],
                         [],
                         [
@@ -28,16 +28,20 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                14
             ],
-            "RDRecordRaw": "4d6",
-            "RDRecordInt": 16,
+            "RDRecordRaw": "4d6+14",
+            "RDRecordInt": 30,
             "RDRecordSkillInt": null,
             "storyRuntime": {}
         },
         "userId": "2422497068",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1769871523
+        "lastHit": 1770129194
     }
 }

@@ -3,74 +3,50 @@
         "userId": "1073830032",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1769872122,
+        "lastHit": 1770129445,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
             "groupInitParaList": {
-                "Chesslia": "1D20+16",
+                "白悠离": "1D20+14",
+                "遗迹重机": "1D20+7",
+                "花银子": "1D20+9",
                 "灵风雨璇": "1D20+10",
-                "艾利欧": "1D20+14",
-                "星间尘": "1D20+9",
-                "高文": "1D20+10",
-                "冰胖": "1D20+1",
-                "风拳": "1D20+4",
-                "火枪": "1D20+7",
-                "雷锤": "1D20+1",
-                "岩术": "1D20+0"
+                "高文": "1D20+26",
+                "纤云": "1D20+16"
             },
             "groupInitList": {
-                "Chesslia": 29,
-                "灵风雨璇": 15,
-                "艾利欧": 21,
-                "星间尘": 23,
-                "高文": 23,
-                "冰胖": 13,
-                "风拳": 11,
-                "火枪": 18,
-                "雷锤": 15,
-                "岩术": 9
+                "白悠离": 25,
+                "遗迹重机": 18,
+                "花银子": 20,
+                "灵风雨璇": 17,
+                "高文": 33,
+                "纤云": 33
             },
             "groupInitUserList": {
-                "Chesslia": {
-                    "userId": "2628755988",
+                "白悠离": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "遗迹重机": {
+                    "userId": "2422497068",
+                    "platform": "qq"
+                },
+                "花银子": {
+                    "userId": "879403626",
                     "platform": "qq"
                 },
                 "灵风雨璇": {
                     "userId": "1009793416",
                     "platform": "qq"
                 },
-                "艾利欧": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "星间尘": {
-                    "userId": "879403626",
-                    "platform": "qq"
-                },
                 "高文": {
                     "userId": "2677428383",
                     "platform": "qq"
                 },
-                "冰胖": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "风拳": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "火枪": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "雷锤": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "岩术": {
-                    "userId": "2422497068",
+                "纤云": {
+                    "userId": "825734198",
                     "platform": "qq"
                 }
             },

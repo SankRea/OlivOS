@@ -319,5 +319,12 @@
     },
     "伊桑·桑塔罗斯": {
         "enhanceList": []
+    },
+    "巫山雨纪": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "mappingRecord": {
+            "先攻": "1D20+9"
+        }
     }
 }
