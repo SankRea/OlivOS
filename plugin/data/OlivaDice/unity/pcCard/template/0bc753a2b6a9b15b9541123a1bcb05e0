@@ -217,5 +217,12 @@
             "图书馆",
             "斗殴"
         ]
+    },
+    "星野鶇": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

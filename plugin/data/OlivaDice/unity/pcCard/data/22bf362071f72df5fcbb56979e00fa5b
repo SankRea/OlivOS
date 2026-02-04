@@ -7374,6 +7374,7 @@
         "魔法上限加值": 0,
         "MPMAX": 12,
         "魔法上限": 12,
-        "MAGICPOINTSMAX": 12
+        "MAGICPOINTSMAX": 12,
+        "正常": 0
     }
 }

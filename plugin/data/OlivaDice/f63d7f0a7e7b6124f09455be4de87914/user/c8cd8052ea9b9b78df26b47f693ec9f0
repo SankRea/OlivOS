@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770105562,
+        "lastHit": 1770200236,
         "configNote": {
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "logActiveName": "西海岸",
             "logNameList": [
@@ -43,9 +43,9 @@
                     "total_time": 0
                 },
                 "西海岸": {
-                    "start_time": 1769997890.370957,
-                    "end_time": 0,
-                    "total_time": 2271406.141442299
+                    "start_time": 1770188926.195088,
+                    "end_time": 1770200236.6215076,
+                    "total_time": 2472561.8510918617
                 }
             },
             "logEndingLock": false,

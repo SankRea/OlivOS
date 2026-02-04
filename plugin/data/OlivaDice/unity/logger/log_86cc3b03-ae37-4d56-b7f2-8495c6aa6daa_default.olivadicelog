@@ -1,3 +1,4 @@
+{"type": "log_total_duration", "total_time": 0}
 {"time": 1751032477, "type": "reply", "message_id": "879351030", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
 {"time": 1751032508, "type": "recv", "message_id": "1022556080", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "（让我康康！）"}
 {"time": 1751032510, "type": "recv", "message_id": "584159366", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“怎么了医生？”"}
@@ -112,3 +113,6 @@
 {"time": 1751038084, "type": "recv", "message_id": "91589376", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "正好看见小卡带着威尔曼上来"}
 {"time": 1751038098, "type": "recv", "message_id": "1956650700", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "“怎么样？维克多呢”"}
 {"time": 1751038118, "type": "recv", "message_id": "1538169107", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“你们去哪了？”"}
+{"time": 1770202027, "type": "recv", "message_id": "754613315", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "[CQ:at,qq=1252219916]"}
+{"time": 1770202031, "type": "recv", "message_id": "355267459", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "有的有的"}
+{"time": 1770202036, "type": "recv", "message_id": "1822144824", "deleted": false, "dect": {"host_id": null, "group_id": "1048556042", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

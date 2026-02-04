@@ -63,6 +63,9 @@
     },
     "哈里": {
         "template": "COC7",
-        "checkRules": "C3"
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

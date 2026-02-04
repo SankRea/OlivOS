@@ -1,0 +1,4 @@
+{"type": "log_total_duration", "total_time": 156.6548948287964}
+{"time": 1770198625, "type": "reply", "message_id": "1245335971", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1770198657, "type": "recv", "message_id": "1785968820", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（从哪开始）"}
+{"time": 1770198782, "type": "recv", "message_id": "849831785", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

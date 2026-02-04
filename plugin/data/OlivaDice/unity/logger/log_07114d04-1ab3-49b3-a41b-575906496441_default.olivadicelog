@@ -1,0 +1,3 @@
+{"type": "log_total_duration", "total_time": 381.06291794776917}
+{"time": 1770198417, "type": "reply", "message_id": "363265468", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "开始记录乐谱"}
+{"time": 1770198798, "type": "recv", "message_id": "579436102", "deleted": false, "dect": {"host_id": null, "group_id": "929378827", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "。log end"}

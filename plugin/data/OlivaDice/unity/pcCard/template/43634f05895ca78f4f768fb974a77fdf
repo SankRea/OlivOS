@@ -113,6 +113,15 @@
     },
     "摩西": {
         "template": "COC7",
-        "checkRules": "C3"
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
+    },
+    "矢吹绫": {
+        "enhanceList": [
+            "侦查",
+            "聆听"
+        ]
     }
 }

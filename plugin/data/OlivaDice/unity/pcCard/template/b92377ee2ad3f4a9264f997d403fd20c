@@ -1,6 +1,9 @@
 {
     "许司昤": {
-        "enhanceList": [],
+        "enhanceList": [
+            "聆听",
+            "侦查"
+        ],
         "mappingRecord": {
             "先攻": "70"
         }
