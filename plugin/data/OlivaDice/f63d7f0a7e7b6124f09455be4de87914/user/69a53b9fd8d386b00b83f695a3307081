@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770298674,
+        "lastHit": 1770449612,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -187,7 +187,8 @@
                     "end_time": 1770298674.331303,
                     "total_time": 13969.634641885757
                 }
-            }
+            },
+            "groupMainDiceDLeft": null
         }
     }
 }
