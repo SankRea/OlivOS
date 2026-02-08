@@ -1,0 +1,39 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "扶寒抹茶全肯定",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            54
+                        ],
+                        [],
+                        [
+                            54
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 54,
+            "RDRecordSkillInt": 0
+        },
+        "userId": "3396647920",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1770573234
+    }
+}

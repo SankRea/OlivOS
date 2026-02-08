@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "名取雅",
+            "userName": "一一",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            33
+                            83
                         ],
                         [],
                         [
-                            33
+                            83
                         ]
                     ],
                     "key": {
@@ -28,13 +28,13 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 33,
-            "RDRecordSkillInt": 75,
+            "RDRecordInt": 83,
+            "RDRecordSkillInt": 70,
             "autoSnEnabled": true
         },
         "userId": "3166982250",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1770434242
+        "lastHit": 1770562508
     }
 }

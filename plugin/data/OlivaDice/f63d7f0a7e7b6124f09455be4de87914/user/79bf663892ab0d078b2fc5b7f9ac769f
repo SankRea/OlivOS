@@ -1,0 +1,40 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "海阔凭鱼跃",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            83
+                        ],
+                        [],
+                        [
+                            83
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 83,
+            "RDRecordSkillInt": 60,
+            "autoSnEnabled": true
+        },
+        "userId": "1486497852",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1770569806
+    }
+}

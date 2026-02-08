@@ -1,0 +1,13 @@
+{
+    "魏暮莲": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查",
+            "话术",
+            "闪避",
+            "手枪"
+        ]
+    }
+}

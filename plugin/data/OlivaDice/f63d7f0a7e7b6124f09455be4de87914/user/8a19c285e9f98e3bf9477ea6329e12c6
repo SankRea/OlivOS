@@ -3,38 +3,28 @@
         "userId": "1073830032",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770129445,
+        "lastHit": 1770567915,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
             "groupInitParaList": {
-                "白悠离": "1D20+14",
-                "遗迹重机": "1D20+7",
-                "花银子": "1D20+9",
+                "Chesslia": "1D20+16",
                 "灵风雨璇": "1D20+10",
-                "高文": "1D20+26",
-                "纤云": "1D20+16"
+                "高文": "1D20+12",
+                "巫山雨纪": "1D20+14",
+                "星间尘": "1D20+9"
             },
             "groupInitList": {
-                "白悠离": 25,
-                "遗迹重机": 18,
-                "花银子": 20,
-                "灵风雨璇": 17,
-                "高文": 33,
-                "纤云": 33
+                "Chesslia": 23,
+                "灵风雨璇": 11,
+                "高文": 14,
+                "巫山雨纪": 26,
+                "星间尘": 14
             },
             "groupInitUserList": {
-                "白悠离": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "遗迹重机": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "花银子": {
-                    "userId": "879403626",
+                "Chesslia": {
+                    "userId": "2628755988",
                     "platform": "qq"
                 },
                 "灵风雨璇": {
@@ -45,8 +35,12 @@
                     "userId": "2677428383",
                     "platform": "qq"
                 },
-                "纤云": {
+                "巫山雨纪": {
                     "userId": "825734198",
+                    "platform": "qq"
+                },
+                "星间尘": {
+                    "userId": "879403626",
                     "platform": "qq"
                 }
             },

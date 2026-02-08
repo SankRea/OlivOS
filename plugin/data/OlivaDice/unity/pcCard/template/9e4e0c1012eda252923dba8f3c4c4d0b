@@ -237,7 +237,9 @@
         }
     },
     "伊恩": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     },
     "刻晴": {
         "enhanceList": [

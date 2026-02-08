@@ -6,17 +6,50 @@
                 {
                     "result": [
                         [
-                            50
+                            6,
+                            4,
+                            8
                         ],
                         [],
                         [
-                            50
+                            18
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 3,
+                        "r": 8,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                13,
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            5,
+                            1
+                        ],
+                        [],
+                        [
+                            6
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 2,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +60,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d100",
-            "RDRecordInt": 50,
+            "RDRecordRaw": "3d8+13+2d6",
+            "RDRecordInt": 37,
             "RDRecordSkillInt": null
         },
         "userId": "1009793416",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1770129445
+        "lastHit": 1770560135
     }
 }
