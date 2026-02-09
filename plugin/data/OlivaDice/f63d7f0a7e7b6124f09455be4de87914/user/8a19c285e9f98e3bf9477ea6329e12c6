@@ -3,32 +3,38 @@
         "userId": "1073830032",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770567915,
+        "lastHit": 1770645912,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
             "groupInitParaList": {
+                "灵风雨璇": "1D20+13",
+                "星间尘": "1D20+9",
                 "Chesslia": "1D20+16",
-                "灵风雨璇": "1D20+10",
-                "高文": "1D20+12",
+                "高文": "1D20+10",
                 "巫山雨纪": "1D20+14",
-                "星间尘": "1D20+9"
+                "古岩龙蜥": "1D20+12"
             },
             "groupInitList": {
-                "Chesslia": 23,
-                "灵风雨璇": 11,
-                "高文": 14,
+                "灵风雨璇": 14,
+                "星间尘": 22,
+                "Chesslia": 21,
+                "高文": 24,
                 "巫山雨纪": 26,
-                "星间尘": 14
+                "古岩龙蜥": 26
             },
             "groupInitUserList": {
-                "Chesslia": {
-                    "userId": "2628755988",
-                    "platform": "qq"
-                },
                 "灵风雨璇": {
                     "userId": "1009793416",
+                    "platform": "qq"
+                },
+                "星间尘": {
+                    "userId": "879403626",
+                    "platform": "qq"
+                },
+                "Chesslia": {
+                    "userId": "2628755988",
                     "platform": "qq"
                 },
                 "高文": {
@@ -39,8 +45,8 @@
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "星间尘": {
-                    "userId": "879403626",
+                "古岩龙蜥": {
+                    "userId": "2422497068",
                     "platform": "qq"
                 }
             },

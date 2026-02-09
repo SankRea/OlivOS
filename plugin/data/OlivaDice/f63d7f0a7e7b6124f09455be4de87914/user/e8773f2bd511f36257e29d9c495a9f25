@@ -3,7 +3,7 @@
         "userId": "1041572232",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770206282,
+        "lastHit": 1770646190,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -111,9 +111,12 @@
                         "人物卡": {
                             "神山露": {
                                 "成功": {
-                                    "侦查": 1
+                                    "侦查": 4,
+                                    "写作": 1
                                 },
-                                "失败": {}
+                                "失败": {
+                                    "IDEA": 1
+                                }
                             }
                         }
                     }

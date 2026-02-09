@@ -326,6 +326,8 @@
         "mappingRecord": {
             "先攻": "1D20+14"
         },
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

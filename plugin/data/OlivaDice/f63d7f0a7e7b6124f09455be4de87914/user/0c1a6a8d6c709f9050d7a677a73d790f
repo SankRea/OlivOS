@@ -3,7 +3,7 @@
         "userId": "1036106955",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770207969,
+        "lastHit": 1770646228,
         "configNote": {
             "logStatus": {
                 "f876621f-cd5c-458f-9666-00323522ff70": {
@@ -73,9 +73,12 @@
                         "人物卡": {
                             "矢吹绫": {
                                 "成功": {
-                                    "侦查": 1
+                                    "侦查": 3,
+                                    "IDEA": 1
                                 },
-                                "失败": {}
+                                "失败": {
+                                    "侦查": 1
+                                }
                             }
                         }
                     }
@@ -158,7 +161,9 @@
                 }
             },
             "logActiveName": "default",
-            "logEnable": true
+            "logEnable": true,
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C2"
         }
     }
 }

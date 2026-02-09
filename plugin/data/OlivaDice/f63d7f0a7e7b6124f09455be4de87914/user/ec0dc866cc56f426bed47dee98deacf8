@@ -3,7 +3,7 @@
         "userId": "735825367",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770208401,
+        "lastHit": 1770647301,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
@@ -177,9 +177,9 @@
             },
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1770207595.7811995,
-                    "end_time": 1770208401.6562703,
-                    "total_time": 805.875070810318
+                    "start_time": 1770644532.7091117,
+                    "end_time": 1770647301.0699558,
+                    "total_time": 8536.881732463837
                 }
             },
             "logActiveName": "default",
