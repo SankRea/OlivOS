@@ -3,7 +3,7 @@
         "userId": "929378827",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770646341,
+        "lastHit": 1770712861,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -155,7 +155,9 @@
                                 },
                                 "失败": {
                                     "正常": 1,
-                                    "侦查": 5
+                                    "侦查": 5,
+                                    "弓箭": 1,
+                                    "弓术": 1
                                 }
                             }
                         }

@@ -1,0 +1,29 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "userId": "1077323674",
+        "userType": "group",
+        "platform": "qq",
+        "lastHit": 1770712817,
+        "configNote": {
+            "logStatus": {
+                "b2a4a222-1041-40bd-9e6b-c19681c07941": {},
+                "e1ae027c-00eb-45ff-9b4b-b6443237d95f": {}
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "e1ae027c-00eb-45ff-9b4b-b6443237d95f"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1770708394.8237472,
+                    "end_time": 1770712817.5495267,
+                    "total_time": 4422.725779533386
+                }
+            },
+            "logActiveName": "default",
+            "logEnable": false
+        }
+    }
+}

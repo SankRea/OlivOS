@@ -3,7 +3,7 @@
         "userId": "1036106955",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770646228,
+        "lastHit": 1770733849,
         "configNote": {
             "logStatus": {
                 "f876621f-cd5c-458f-9666-00323522ff70": {
@@ -74,7 +74,8 @@
                             "矢吹绫": {
                                 "成功": {
                                     "侦查": 3,
-                                    "IDEA": 1
+                                    "IDEA": 1,
+                                    "EDU": 2
                                 },
                                 "失败": {
                                     "侦查": 1

@@ -1,0 +1,7 @@
+{
+    "扶寒抹茶全肯定": {
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        }
+    }
+}
