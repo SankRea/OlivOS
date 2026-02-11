@@ -3,7 +3,7 @@
         "userId": "589351221",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770731415,
+        "lastHit": 1770807187,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -96,13 +96,18 @@
                                     "侦查": 4,
                                     "IDEA": 1
                                 },
-                                "失败": {}
+                                "失败": {
+                                    "LUC": 1,
+                                    "话术": 1
+                                }
                             }
                         }
                     }
                 },
                 "b35e1442-7bbb-4765-add6-27f0a3d3aabb": {}
-            }
+            },
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
         }
     }
 }

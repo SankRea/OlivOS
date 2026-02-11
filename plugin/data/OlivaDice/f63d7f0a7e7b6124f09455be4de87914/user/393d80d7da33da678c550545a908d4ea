@@ -3,7 +3,7 @@
         "userId": "929378827",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770712861,
+        "lastHit": 1770818998,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -149,15 +149,16 @@
                         "人物卡": {
                             "巫山雨纪": {
                                 "成功": {
-                                    "LUC": 2,
-                                    "IDEA": 1,
+                                    "LUC": 3,
+                                    "IDEA": 2,
                                     "侦查": 1
                                 },
                                 "失败": {
                                     "正常": 1,
-                                    "侦查": 5,
+                                    "侦查": 6,
                                     "弓箭": 1,
-                                    "弓术": 1
+                                    "弓术": 1,
+                                    "DEX": 1
                                 }
                             }
                         }

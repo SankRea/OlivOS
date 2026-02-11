@@ -3,7 +3,7 @@
         "userId": "1044159263",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770730259,
+        "lastHit": 1770820867,
         "configNote": {
             "logEnable": true,
             "logStatus": {
@@ -98,7 +98,19 @@
                         }
                     }
                 },
-                "dc300f31-21d6-4f97-b530-dd8f84b97895": {}
+                "dc300f31-21d6-4f97-b530-dd8f84b97895": {
+                    "10226a196b3875eda2630ec438809b55": {
+                        "id": "1040972910",
+                        "人物卡": {
+                            "神山露": {
+                                "成功": {
+                                    "LUC": 1
+                                },
+                                "失败": {}
+                            }
+                        }
+                    }
+                }
             },
             "logNameList": [
                 "default"
