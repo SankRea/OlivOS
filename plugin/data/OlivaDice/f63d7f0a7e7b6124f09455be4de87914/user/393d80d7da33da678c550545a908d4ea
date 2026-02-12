@@ -3,7 +3,7 @@
         "userId": "929378827",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770818998,
+        "lastHit": 1770872515,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -150,8 +150,9 @@
                             "巫山雨纪": {
                                 "成功": {
                                     "LUC": 3,
-                                    "IDEA": 2,
-                                    "侦查": 1
+                                    "IDEA": 3,
+                                    "侦查": 1,
+                                    "SAN": 1
                                 },
                                 "失败": {
                                     "正常": 1,
