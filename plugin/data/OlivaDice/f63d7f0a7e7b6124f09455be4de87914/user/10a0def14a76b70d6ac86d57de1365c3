@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "骨蝶"
+            "userName": "骨蝶",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            31
+                        ],
+                        [],
+                        [
+                            31
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 31,
+            "RDRecordSkillInt": 50
         },
         "userId": "3335863425",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1771003751
+        "lastHit": 1771085209
     }
 }

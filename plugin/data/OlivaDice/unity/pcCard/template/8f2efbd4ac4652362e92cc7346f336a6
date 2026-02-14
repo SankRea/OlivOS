@@ -2,6 +2,11 @@
     "潘旭英": {
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
-        }
+        },
+        "enhanceList": [
+            "侦查",
+            "取悦",
+            "图书馆"
+        ]
     }
 }

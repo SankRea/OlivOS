@@ -2,7 +2,8 @@
     "Shrike": {
         "enhanceList": [
             "打鸟",
-            "侦查"
+            "侦查",
+            "话术"
         ],
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
