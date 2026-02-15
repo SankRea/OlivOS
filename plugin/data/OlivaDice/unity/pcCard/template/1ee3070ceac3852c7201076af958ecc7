@@ -3,7 +3,8 @@
         "enhanceList": [
             "打鸟",
             "侦查",
-            "话术"
+            "话术",
+            "说服"
         ],
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
