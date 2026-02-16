@@ -123,5 +123,10 @@
             "侦查",
             "聆听"
         ]
+    },
+    "二荆条": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": []
     }
 }

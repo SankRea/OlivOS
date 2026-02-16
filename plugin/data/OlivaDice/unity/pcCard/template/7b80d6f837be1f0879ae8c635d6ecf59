@@ -111,5 +111,8 @@
         "mappingRecord": {
             "先攻": "1D20+16"
         }
+    },
+    "姜丝": {
+        "enhanceList": []
     }
 }

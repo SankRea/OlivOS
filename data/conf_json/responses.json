@@ -14,5 +14,9 @@
     "关羽之歌": {
         "content": "[CQ:record,url=file:///root/olivos/OlivOS/data/audios/关羽之歌.mp3]",
         "mode": 0
+    },
+    "新年快乐": {
+        "content": "新年快乐",
+        "mode": 0
     }
 }

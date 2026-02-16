@@ -225,5 +225,10 @@
             "侦查",
             "图书馆"
         ]
+    },
+    "python": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": []
     }
 }
