@@ -10,7 +10,9 @@
     "Achora": {
         "enhanceList": [
             "侦查",
-            "聆听"
+            "聆听",
+            "图书馆",
+            "闪避"
         ],
         "noteRecord": {
             "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
