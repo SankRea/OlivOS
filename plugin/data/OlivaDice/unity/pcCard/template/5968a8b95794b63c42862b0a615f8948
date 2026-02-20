@@ -65,7 +65,8 @@
         "template": "COC7",
         "checkRules": "C3",
         "enhanceList": [
-            "侦查"
+            "侦查",
+            "妙手"
         ]
     }
 }
