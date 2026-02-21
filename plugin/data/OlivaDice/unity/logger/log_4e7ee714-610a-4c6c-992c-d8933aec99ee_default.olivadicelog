@@ -254,3 +254,4 @@
 {"time": 1770876176, "type": "recv", "message_id": "1460080812", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（好的）"}
 {"time": 1770876204, "type": "recv", "message_id": "142816696", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(采访一下，跑到现在是什么感觉?)"}
 {"time": 1770876225, "type": "recv", "message_id": "997844677", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "（挺好）"}
+{"time": 1771638562, "type": "recv", "message_id": "483474914", "deleted": false, "dect": {"host_id": null, "group_id": "1041572232", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "“对不起....妈妈...给你..添麻烦了”感觉说话的时候嗓子痛痛的，也没什么精神"}

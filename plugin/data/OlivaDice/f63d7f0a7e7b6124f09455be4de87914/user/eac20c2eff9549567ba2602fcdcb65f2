@@ -3,9 +3,65 @@
         "userId": "623151204",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1771203851,
+        "lastHit": 1771689555,
         "configNote": {
-            "groupObList": []
+            "groupObList": [],
+            "logStatus": {
+                "2b9883e9-1b10-48fc-99eb-64064ab3a890": {}
+            },
+            "logNameList": [
+                "矿坑"
+            ],
+            "logNameDict": {
+                "矿坑": "2b9883e9-1b10-48fc-99eb-64064ab3a890"
+            },
+            "logNameTimeDict": {
+                "矿坑": {
+                    "start_time": 1771682113.7233949,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            },
+            "logActiveName": "矿坑",
+            "logEnable": true,
+            "groupInitList": {
+                "沃里克·安维尔": 20,
+                "李": 21,
+                "黎特白": 13,
+                "对不起罐头": 23,
+                "哥布林c": 16
+            },
+            "groupInitParaList": {
+                "沃里克·安维尔": "1D20+2",
+                "李": "1D20+3",
+                "黎特白": "1D20+4",
+                "对不起罐头": "1D20+4",
+                "哥布林c": "1D20+2"
+            },
+            "groupInitUserList": {
+                "沃里克·安维尔": {
+                    "userId": "1020051121",
+                    "platform": "qq"
+                },
+                "李": {
+                    "userId": "1102906527",
+                    "platform": "qq"
+                },
+                "黎特白": {
+                    "userId": "1850621345",
+                    "platform": "qq"
+                },
+                "对不起罐头": {
+                    "userId": "3757850839",
+                    "platform": "qq"
+                },
+                "哥布林c": {
+                    "userId": "2438158764",
+                    "platform": "qq"
+                }
+            },
+            "groupInitCurrentPlayer": 2,
+            "groupInitRound": 3
         }
     }
 }

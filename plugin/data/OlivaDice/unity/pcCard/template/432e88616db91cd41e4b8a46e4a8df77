@@ -1,6 +1,9 @@
 {
     "沃里克·安维尔": {
         "template": "DND5E",
-        "checkRules": "default"
+        "checkRules": "default",
+        "mappingRecord": {
+            "先攻": "1D20+2"
+        }
     }
 }
