@@ -7,6 +7,9 @@
     "非华": {
         "mappingRecord": {
             "先攻": "1D20+2"
-        }
+        },
+        "template": "DND5E",
+        "checkRules": "default",
+        "noteRecord": {}
     }
 }

@@ -3,7 +3,7 @@
         "userId": "302552206",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770908477,
+        "lastHit": 1771772213,
         "configNote": {
             "logStatus": {
                 "28db16ed-0fa9-46b3-8802-093780e99a4a": {
@@ -40,10 +40,12 @@
                         "人物卡": {
                             "叶氏仁": {
                                 "成功": {
-                                    "LUC": 1
+                                    "LUC": 2,
+                                    "IDEA": 1
                                 },
                                 "失败": {
-                                    "侦查": 1
+                                    "侦查": 1,
+                                    "IDEA": 1
                                 }
                             }
                         }
@@ -73,9 +75,9 @@
             },
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1770898153.6769946,
-                    "end_time": 1770908477.126273,
-                    "total_time": 18072.648424625397
+                    "start_time": 1771767922.3257842,
+                    "end_time": 1771772213.7361073,
+                    "total_time": 22364.058747768402
                 }
             },
             "logActiveName": "default",
