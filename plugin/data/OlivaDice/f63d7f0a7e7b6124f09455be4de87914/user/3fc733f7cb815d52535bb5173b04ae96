@@ -6,21 +6,18 @@
                 {
                     "result": [
                         [
-                            5,
-                            3,
-                            2,
-                            3,
-                            3
+                            4,
+                            1
                         ],
                         [],
                         [
-                            16
+                            5
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 5,
-                        "r": 6,
+                        "l": 2,
+                        "r": 20,
                         "v": {
                             "k": null,
                             "q": null,
@@ -29,10 +26,40 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                {
+                    "result": [
+                        [
+                            4
+                        ],
+                        [],
+                        [
+                            4
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 15,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "+"
+                },
+                6
             ],
-            "RDRecordRaw": "5d6",
-            "RDRecordInt": 16,
+            "RDRecordRaw": "2d20+1d15+6",
+            "RDRecordInt": 15,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -72,6 +99,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1771767132
+        "lastHit": 1771852421
     }
 }
