@@ -3,7 +3,7 @@
         "userId": "589351221",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770867698,
+        "lastHit": 1771900401,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -95,7 +95,7 @@
                                 "成功": {
                                     "侦查": 4,
                                     "IDEA": 1,
-                                    "LUC": 1
+                                    "LUC": 2
                                 },
                                 "失败": {
                                     "LUC": 1,

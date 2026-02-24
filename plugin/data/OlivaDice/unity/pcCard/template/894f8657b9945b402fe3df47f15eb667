@@ -216,7 +216,9 @@
         ]
     },
     "叶氏仁": {
-        "enhanceList": []
+        "enhanceList": [
+            "侦查"
+        ]
     },
     "薯": {
         "enhanceList": [

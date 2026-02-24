@@ -3,7 +3,7 @@
         "userId": "972136174",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770818764,
+        "lastHit": 1771900105,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -86,9 +86,9 @@
                         "人物卡": {
                             "星野鶇": {
                                 "成功": {
-                                    "LUC": 3,
+                                    "LUC": 4,
                                     "侦查": 5,
-                                    "IDEA": 1,
+                                    "IDEA": 2,
                                     "图书馆": 1
                                 },
                                 "失败": {
