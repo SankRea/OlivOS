@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "卿霜"
+            "userName": "卿霜",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            91
+                        ],
+                        [],
+                        [
+                            91
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 91,
+            "RDRecordSkillInt": 65
         },
         "userId": "3132880854",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1772102805
+        "lastHit": 1772206051
     }
 }
