@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772208223,
+        "lastHit": 1772301215,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,29 +11,25 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "冰麒麟": 26,
-                "_8": 20,
-                "不会在的人": 14,
-                "云夜": 27,
-                "朝露": 28
+                "野猪": 18,
+                "刀刀爆": 19,
+                "回光返照": 12
             },
             "groupInitParaList": {
-                "冰麒麟": "1D20+10",
-                "_8": "20",
-                "不会在的人": "1D20+8",
-                "云夜": "1D20+9",
-                "朝露": "1D20+11"
+                "野猪": "1D20+1",
+                "刀刀爆": "1D20+1",
+                "回光返照": "1D20+2"
             },
             "logEnable": true,
             "logNowName": null,
-            "logActiveName": "无限",
+            "logActiveName": "龙王 世界的重启",
             "logNameList": [
                 "default",
-                "无限"
+                "龙王 世界的重启"
             ],
             "logNameDict": {
                 "default": "d965e9b6-7ee2-4179-865a-295bd501dd14",
-                "无限": "1a184a47-d4a4-48fd-b557-de91352d4083"
+                "龙王 世界的重启": "ce0c8565-1629-47df-922f-ec388040239b"
             },
             "logNameTimeDict": {
                 "default": {
@@ -41,12 +37,32 @@
                     "end_time": 0,
                     "total_time": 0
                 },
-                "无限": {
-                    "start_time": 1768546349.5909634,
+                "龙王 世界的重启": {
+                    "start_time": 1772281809.295064,
                     "end_time": 0,
-                    "total_time": 408050.4102330208
+                    "total_time": 0
                 }
-            }
+            },
+            "logEndingLock": false,
+            "logStatus": {
+                "ce0c8565-1629-47df-922f-ec388040239b": {}
+            },
+            "groupInitUserList": {
+                "野猪": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "刀刀爆": {
+                    "userId": "2275904091",
+                    "platform": "qq"
+                },
+                "回光返照": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                }
+            },
+            "groupInitCurrentPlayer": null,
+            "groupInitRound": 1
         }
     }
 }
