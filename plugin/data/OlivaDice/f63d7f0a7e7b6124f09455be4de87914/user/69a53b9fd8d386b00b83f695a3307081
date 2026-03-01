@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1771685018,
+        "lastHit": 1772373719,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -109,7 +109,7 @@
                             "哈里": {
                                 "成功": {
                                     "侦查": 3,
-                                    "DEX": 1,
+                                    "DEX": 2,
                                     "妙手": 1
                                 },
                                 "失败": {
@@ -117,7 +117,7 @@
                                     "聆听": 2,
                                     "侦查": 2,
                                     "图书馆": 1,
-                                    "LUC": 2,
+                                    "LUC": 4,
                                     "潜行": 1,
                                     "SAN": 2,
                                     "POW": 1
@@ -216,9 +216,9 @@
             },
             "logNameTimeDict": {
                 "猫之摇篮": {
-                    "start_time": 1771678188.40319,
-                    "end_time": 1771685018.2470114,
-                    "total_time": 33877.004796504974
+                    "start_time": 1772366977.5123587,
+                    "end_time": 1772373719.5160513,
+                    "total_time": 40619.00848913193
                 }
             },
             "groupMainDiceDLeft": null

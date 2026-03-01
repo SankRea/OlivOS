@@ -223,7 +223,8 @@
         "checkRules": "C3",
         "enhanceList": [
             "侦查",
-            "图书馆"
+            "图书馆",
+            "聆听"
         ]
     },
     "python": {

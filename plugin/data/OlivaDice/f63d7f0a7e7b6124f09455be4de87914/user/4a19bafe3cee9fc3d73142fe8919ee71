@@ -3,7 +3,7 @@
         "userId": "972136174",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772295852,
+        "lastHit": 1772361915,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -87,14 +87,15 @@
                             "星野鶇": {
                                 "成功": {
                                     "LUC": 4,
-                                    "侦查": 5,
+                                    "侦查": 7,
                                     "IDEA": 3,
-                                    "图书馆": 1
+                                    "图书馆": 1,
+                                    "聆听": 2
                                 },
                                 "失败": {
                                     "聆听": 1,
                                     "LUC": 1,
-                                    "IDEA": 4,
+                                    "IDEA": 5,
                                     "侦查": 1
                                 }
                             }

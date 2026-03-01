@@ -3,7 +3,7 @@
         "userId": "589351221",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1771900401,
+        "lastHit": 1772360954,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -93,13 +93,15 @@
                         "人物卡": {
                             "沃斯·伊升": {
                                 "成功": {
-                                    "侦查": 4,
+                                    "侦查": 6,
                                     "IDEA": 1,
                                     "LUC": 2
                                 },
                                 "失败": {
                                     "LUC": 1,
-                                    "话术": 1
+                                    "话术": 1,
+                                    "侦查": 1,
+                                    "SAN": 1
                                 }
                             }
                         }

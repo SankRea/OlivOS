@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772301215,
+        "lastHit": 1772384163,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -20,7 +20,7 @@
                 "刀刀爆": "1D20+1",
                 "回光返照": "1D20+2"
             },
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "logActiveName": "龙王 世界的重启",
             "logNameList": [
@@ -38,9 +38,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772281809.295064,
-                    "end_time": 0,
-                    "total_time": 0
+                    "start_time": 1772379390.0612879,
+                    "end_time": 1772384163.8796244,
+                    "total_time": 25398.524132966995
                 }
             },
             "logEndingLock": false,

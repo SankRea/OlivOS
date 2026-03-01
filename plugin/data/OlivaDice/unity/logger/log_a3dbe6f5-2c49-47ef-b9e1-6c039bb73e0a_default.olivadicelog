@@ -419,3 +419,4 @@
 {"time": 1748016331, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[APL]: 0"}
 {"time": 1748016337, "type": "recv", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": ".st app"}
 {"time": 1748016337, "type": "reply", "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": 2875548981, "name": "小雅"}, "message": "[水佳佳（古宅）]的[APP]: 85"}
+{"time": 1772379786, "type": "recv", "message_id": "1878270707", "deleted": false, "dect": {"host_id": null, "group_id": "1040792363", "user_id": "1040972910"}, "sender": {"id": "1040972910", "name": "划船不靠桨の233"}, "message": "可以"}
