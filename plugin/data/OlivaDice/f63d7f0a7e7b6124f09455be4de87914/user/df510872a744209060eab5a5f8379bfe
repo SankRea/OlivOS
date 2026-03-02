@@ -3,6 +3,29 @@
         "userId": "1035799209",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772379873
+        "lastHit": 1772453247,
+        "configNote": {
+            "logStatus": {
+                "ce0c8565-1629-47df-922f-ec388040239b": {},
+                "eab1d704-259f-4b29-b128-cb29de0ab5a6": {},
+                "51160c76-6470-4f7a-af4c-2ee3b40ae68d": {},
+                "eba5bcdb-e79f-4c3b-9ca5-2a0b7e2dda3a": {}
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "51160c76-6470-4f7a-af4c-2ee3b40ae68d"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1772453247.275225,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            },
+            "logActiveName": "default",
+            "logEnable": true
+        }
     }
 }

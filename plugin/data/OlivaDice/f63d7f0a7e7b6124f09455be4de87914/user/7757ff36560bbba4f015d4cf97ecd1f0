@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772384163,
+        "lastHit": 1772470987,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,14 +11,16 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "野猪": 18,
-                "刀刀爆": 19,
-                "回光返照": 12
+                "雪狮子1": 9,
+                "雪狮子2": 12,
+                "雪狮子3": 19,
+                "神秘偷袭女": 19
             },
             "groupInitParaList": {
-                "野猪": "1D20+1",
-                "刀刀爆": "1D20+1",
-                "回光返照": "1D20+2"
+                "雪狮子1": "1D20+2",
+                "雪狮子2": "1D20+2",
+                "雪狮子3": "1D20+2",
+                "神秘偷袭女": "1D20+1"
             },
             "logEnable": false,
             "logNowName": null,
@@ -38,30 +40,64 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772379390.0612879,
-                    "end_time": 1772384163.8796244,
-                    "total_time": 25398.524132966995
+                    "start_time": 1772454618.3814185,
+                    "end_time": 1772470987.7402828,
+                    "total_time": 54302.8529086113
                 }
             },
             "logEndingLock": false,
             "logStatus": {
-                "ce0c8565-1629-47df-922f-ec388040239b": {}
+                "ce0c8565-1629-47df-922f-ec388040239b": {},
+                "eab1d704-259f-4b29-b128-cb29de0ab5a6": {
+                    "380b657de418fc2714bfad3055b386bb": {
+                        "id": "1252219916",
+                        "人物卡": {
+                            "浅上真由理": {
+                                "成功": {},
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "51160c76-6470-4f7a-af4c-2ee3b40ae68d": {},
+                "eba5bcdb-e79f-4c3b-9ca5-2a0b7e2dda3a": {},
+                "a3dbe6f5-2c49-47ef-b9e1-6c039bb73e0a": {
+                    "3fc733f7cb815d52535bb5173b04ae96": {
+                        "id": "825734198",
+                        "人物卡": {
+                            "凤凰院单枞": {
+                                "成功": {
+                                    "IDEA": 2
+                                },
+                                "失败": {
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    }
+                }
             },
             "groupInitUserList": {
-                "野猪": {
+                "雪狮子1": {
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "刀刀爆": {
+                "雪狮子2": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "雪狮子3": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "神秘偷袭女": {
                     "userId": "2275904091",
-                    "platform": "qq"
-                },
-                "回光返照": {
-                    "userId": "825734198",
                     "platform": "qq"
                 }
             },
-            "groupInitCurrentPlayer": null,
+            "groupInitCurrentPlayer": 0,
             "groupInitRound": 1
         }
     }

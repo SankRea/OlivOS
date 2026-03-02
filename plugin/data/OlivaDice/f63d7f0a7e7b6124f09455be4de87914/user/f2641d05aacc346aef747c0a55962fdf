@@ -3,6 +3,56 @@
         "userId": "1084785147",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772380691
+        "lastHit": 1772458309,
+        "configNote": {
+            "logStatus": {
+                "ce0c8565-1629-47df-922f-ec388040239b": {},
+                "eab1d704-259f-4b29-b128-cb29de0ab5a6": {
+                    "380b657de418fc2714bfad3055b386bb": {
+                        "id": "1252219916",
+                        "人物卡": {
+                            "浅上真由理": {
+                                "成功": {},
+                                "失败": {
+                                    "侦查": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "51160c76-6470-4f7a-af4c-2ee3b40ae68d": {},
+                "eba5bcdb-e79f-4c3b-9ca5-2a0b7e2dda3a": {},
+                "a3dbe6f5-2c49-47ef-b9e1-6c039bb73e0a": {
+                    "3fc733f7cb815d52535bb5173b04ae96": {
+                        "id": "825734198",
+                        "人物卡": {
+                            "凤凰院单枞": {
+                                "成功": {
+                                    "IDEA": 1
+                                },
+                                "失败": {
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "eab1d704-259f-4b29-b128-cb29de0ab5a6"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1772453240.696564,
+                    "end_time": 0,
+                    "total_time": 0
+                }
+            },
+            "logActiveName": "default",
+            "logEnable": true
+        }
     }
 }

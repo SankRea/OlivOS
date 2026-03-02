@@ -113,6 +113,8 @@
         }
     },
     "姜丝": {
-        "enhanceList": []
+        "enhanceList": [
+            "放弃黑潮"
+        ]
     }
 }
