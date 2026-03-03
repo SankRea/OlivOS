@@ -596,3 +596,4 @@
 {"time": 1772443372, "type": "recv", "message_id": "1286190095", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "*意识到不太对劲"}
 {"time": 1772443376, "type": "recv", "message_id": "1627682522", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1370316409"}, "sender": {"id": "1370316409", "name": "折木"}, "message": "过去看看怎么回事"}
 {"time": 1772443930, "type": "recv", "message_id": "443610336", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "(先sv)"}
+{"time": 1772512792, "type": "recv", "message_id": "79077448", "deleted": false, "dect": {"host_id": null, "group_id": "589351221", "user_id": "1252219916"}, "sender": {"id": "1252219916", "name": "千成之愿"}, "message": "正在这时，手机响了一下"}

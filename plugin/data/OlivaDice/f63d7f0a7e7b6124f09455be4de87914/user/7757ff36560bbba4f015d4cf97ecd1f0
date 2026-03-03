@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772470987,
+        "lastHit": 1772542617,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -14,13 +14,17 @@
                 "雪狮子1": 9,
                 "雪狮子2": 12,
                 "雪狮子3": 19,
-                "神秘偷袭女": 19
+                "神秘偷袭女": 19,
+                "白速龙王": 7,
+                "白毛体育生": 19
             },
             "groupInitParaList": {
                 "雪狮子1": "1D20+2",
                 "雪狮子2": "1D20+2",
                 "雪狮子3": "1D20+2",
-                "神秘偷袭女": "1D20+1"
+                "神秘偷袭女": "1D20+1",
+                "白速龙王": "1D20+4",
+                "白毛体育生": "1D20+1"
             },
             "logEnable": false,
             "logNowName": null,
@@ -40,9 +44,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772454618.3814185,
-                    "end_time": 1772470987.7402828,
-                    "total_time": 54302.8529086113
+                    "start_time": 1772522797.4115117,
+                    "end_time": 1772542617.9754066,
+                    "total_time": 81327.86402249336
                 }
             },
             "logEndingLock": false,
@@ -93,6 +97,14 @@
                     "platform": "qq"
                 },
                 "神秘偷袭女": {
+                    "userId": "2275904091",
+                    "platform": "qq"
+                },
+                "白速龙王": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "白毛体育生": {
                     "userId": "2275904091",
                     "platform": "qq"
                 }

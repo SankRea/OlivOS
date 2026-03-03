@@ -66,7 +66,8 @@
         "checkRules": "C3",
         "enhanceList": [
             "侦查",
-            "妙手"
+            "妙手",
+            "图书馆"
         ]
     }
 }
