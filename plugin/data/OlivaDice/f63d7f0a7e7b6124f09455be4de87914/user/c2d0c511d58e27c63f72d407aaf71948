@@ -3,7 +3,7 @@
         "userId": "1040792363",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772458906,
+        "lastHit": 1772631402,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -44,7 +44,7 @@
                         "人物卡": {
                             "凤凰院单枞": {
                                 "成功": {
-                                    "IDEA": 2
+                                    "IDEA": 3
                                 },
                                 "失败": {
                                     "SAN": 1

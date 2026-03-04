@@ -3,12 +3,43 @@
         "userId": "588162808",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772452918,
+        "lastHit": 1772635877,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
             "logEnable": false,
-            "logNowName": null
+            "logNowName": null,
+            "logStatus": {
+                "f2b880ff-3458-4516-b800-256a7f8bbea3": {
+                    "3fc733f7cb815d52535bb5173b04ae96": {
+                        "id": "825734198",
+                        "人物卡": {
+                            "凤凰院单枞": {
+                                "成功": {
+                                    "聆听": 1
+                                },
+                                "失败": {}
+                            }
+                        }
+                    }
+                }
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "f2b880ff-3458-4516-b800-256a7f8bbea3"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1772627917.2907162,
+                    "end_time": 1772635877.600259,
+                    "total_time": 7960.309542894363
+                }
+            },
+            "logActiveName": "default",
+            "groupTemplate": "COC7",
+            "groupTemplateRule": "C3"
         }
     }
 }

@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772542617,
+        "lastHit": 1772637038,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,20 +11,18 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "雪狮子1": 9,
-                "雪狮子2": 12,
-                "雪狮子3": 19,
-                "神秘偷袭女": 19,
-                "白速龙王": 7,
-                "白毛体育生": 19
+                "雷吉娅娜": 26,
+                "神秘单发滋水枪": 3,
+                "神秘重弩男": 6,
+                "太刀侠": 14,
+                "轰龙": 25
             },
             "groupInitParaList": {
-                "雪狮子1": "1D20+2",
-                "雪狮子2": "1D20+2",
-                "雪狮子3": "1D20+2",
-                "神秘偷袭女": "1D20+1",
-                "白速龙王": "1D20+4",
-                "白毛体育生": "1D20+1"
+                "雷吉娅娜": "1D20+6",
+                "神秘单发滋水枪": "1D20+1",
+                "神秘重弩男": "1D20+1",
+                "太刀侠": "1D20+1",
+                "轰龙": "1D20+6"
             },
             "logEnable": false,
             "logNowName": null,
@@ -44,9 +42,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772522797.4115117,
-                    "end_time": 1772542617.9754066,
-                    "total_time": 81327.86402249336
+                    "start_time": 1772625175.1028862,
+                    "end_time": 1772637038.9423015,
+                    "total_time": 110569.69623327255
                 }
             },
             "logEndingLock": false,
@@ -84,32 +82,28 @@
                 }
             },
             "groupInitUserList": {
-                "雪狮子1": {
+                "雷吉娅娜": {
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "雪狮子2": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "雪狮子3": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "神秘偷袭女": {
+                "神秘单发滋水枪": {
                     "userId": "2275904091",
                     "platform": "qq"
                 },
-                "白速龙王": {
-                    "userId": "825734198",
+                "神秘重弩男": {
+                    "userId": "1085444390",
                     "platform": "qq"
                 },
-                "白毛体育生": {
-                    "userId": "2275904091",
+                "太刀侠": {
+                    "userId": "961142868",
+                    "platform": "qq"
+                },
+                "轰龙": {
+                    "userId": "825734198",
                     "platform": "qq"
                 }
             },
-            "groupInitCurrentPlayer": 0,
+            "groupInitCurrentPlayer": null,
             "groupInitRound": 1
         }
     }
