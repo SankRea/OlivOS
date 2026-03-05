@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772637038,
+        "lastHit": 1772721405,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,18 +11,12 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "雷吉娅娜": 26,
-                "神秘单发滋水枪": 3,
-                "神秘重弩男": 6,
-                "太刀侠": 14,
-                "轰龙": 25
+                "鹿头猛牛龙": 12,
+                "纳切居": 14
             },
             "groupInitParaList": {
-                "雷吉娅娜": "1D20+6",
-                "神秘单发滋水枪": "1D20+1",
-                "神秘重弩男": "1D20+1",
-                "太刀侠": "1D20+1",
-                "轰龙": "1D20+6"
+                "鹿头猛牛龙": "1D20+2",
+                "纳切居": "1D20+1"
             },
             "logEnable": false,
             "logNowName": null,
@@ -42,9 +36,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772625175.1028862,
-                    "end_time": 1772637038.9423015,
-                    "total_time": 110569.69623327255
+                    "start_time": 1772706409.112237,
+                    "end_time": 1772715117.4739556,
+                    "total_time": 140157.95384955406
                 }
             },
             "logEndingLock": false,
@@ -82,24 +76,12 @@
                 }
             },
             "groupInitUserList": {
-                "雷吉娅娜": {
+                "鹿头猛牛龙": {
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "神秘单发滋水枪": {
-                    "userId": "2275904091",
-                    "platform": "qq"
-                },
-                "神秘重弩男": {
-                    "userId": "1085444390",
-                    "platform": "qq"
-                },
-                "太刀侠": {
+                "纳切居": {
                     "userId": "961142868",
-                    "platform": "qq"
-                },
-                "轰龙": {
-                    "userId": "825734198",
                     "platform": "qq"
                 }
             },
