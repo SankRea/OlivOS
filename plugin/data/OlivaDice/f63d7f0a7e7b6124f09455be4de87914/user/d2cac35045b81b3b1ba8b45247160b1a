@@ -3,7 +3,7 @@
         "userId": "302552206",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772119271,
+        "lastHit": 1772806097,
         "configNote": {
             "logStatus": {
                 "28db16ed-0fa9-46b3-8802-093780e99a4a": {
@@ -36,7 +36,8 @@
                                     "侦查": 1,
                                     "CON": 1,
                                     "SAN": 1,
-                                    "LUC": 1
+                                    "LUC": 1,
+                                    "医学": 1
                                 }
                             }
                         }
@@ -76,6 +77,12 @@
                                     "侦查": 1,
                                     "CON": 1
                                 }
+                            },
+                            "浅上真由理": {
+                                "成功": {},
+                                "失败": {
+                                    "医学": 1
+                                }
                             }
                         }
                     }
@@ -89,9 +96,9 @@
             },
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1772111219.3724248,
-                    "end_time": 1772119271.7331445,
-                    "total_time": 38314.87433433533
+                    "start_time": 1772802323.6445696,
+                    "end_time": 1772806097.7420151,
+                    "total_time": 42088.9717798233
                 }
             },
             "logActiveName": "default",
