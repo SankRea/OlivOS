@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            8
+                            4
                         ],
                         [],
                         [
-                            8
+                            4
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 100,
+                        "r": 5,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,9 +27,9 @@
                     }
                 }
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 8,
-            "RDRecordSkillInt": 1,
+            "RDRecordRaw": "d5",
+            "RDRecordInt": 4,
+            "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
                 "timestamp": 1743590287873,
@@ -68,6 +68,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1772836305
+        "lastHit": 1772980932
     }
 }
