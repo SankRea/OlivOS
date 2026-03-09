@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772896517,
+        "lastHit": 1773062587,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,12 +11,12 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "毒怪龙": 4,
-                "浴血愤怒女": 6
+                "猛牛龙": 3,
+                "太刀侠": 16
             },
             "groupInitParaList": {
-                "毒怪龙": "1D20+3",
-                "浴血愤怒女": "1D20+1"
+                "猛牛龙": "1D20+1",
+                "太刀侠": "1D20+1"
             },
             "logEnable": false,
             "logNowName": null,
@@ -36,9 +36,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1772830980.8284929,
-                    "end_time": 1772836305.4653206,
-                    "total_time": 156963.00839686394
+                    "start_time": 1773056677.6107054,
+                    "end_time": 1773062587.8225904,
+                    "total_time": 174484.63887286186
                 }
             },
             "logEndingLock": false,
@@ -76,12 +76,12 @@
                 }
             },
             "groupInitUserList": {
-                "毒怪龙": {
+                "猛牛龙": {
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "浴血愤怒女": {
-                    "userId": "2275904091",
+                "太刀侠": {
+                    "userId": "961142868",
                     "platform": "qq"
                 }
             },
