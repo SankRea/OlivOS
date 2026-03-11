@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "狂吸李箱嘴努子",
+            "userName": "火热多汁琵琶腿",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            1
+                            2
                         ],
                         [],
                         [
-                            1
+                            2
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "d2",
-            "RDRecordInt": 1,
+            "RDRecordInt": 2,
             "RDRecordSkillInt": null
         },
         "userId": "3350763001",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1772975756
+        "lastHit": 1773224100
     }
 }

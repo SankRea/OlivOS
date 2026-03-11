@@ -1,16 +1,16 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "iatstia",
+            "userName": "迩旅",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            50
+                            23
                         ],
                         [],
                         [
-                            50
+                            23
                         ]
                     ],
                     "key": {
@@ -28,12 +28,12 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 50,
+            "RDRecordInt": 23,
             "RDRecordSkillInt": null
         },
         "userId": "2779268618",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1764139488
+        "lastHit": 1773206672
     }
 }

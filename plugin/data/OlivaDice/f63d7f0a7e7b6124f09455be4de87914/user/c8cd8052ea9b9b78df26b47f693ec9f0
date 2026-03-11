@@ -3,9 +3,9 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1770513884,
+        "lastHit": 1773215220,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "logActiveName": "西海岸",
             "logNameList": [
@@ -43,8 +43,8 @@
                     "total_time": 0
                 },
                 "西海岸": {
-                    "start_time": 1770188926.195088,
-                    "end_time": 1770200236.6215076,
+                    "start_time": 1773210801.484121,
+                    "end_time": 0,
                     "total_time": 2472561.8510918617
                 }
             },
@@ -99,7 +99,19 @@
                         }
                     }
                 },
-                "916a6b66-c637-4b1b-80c4-27c7077d39bb": {}
+                "916a6b66-c637-4b1b-80c4-27c7077d39bb": {
+                    "10226a196b3875eda2630ec438809b55": {
+                        "id": "1040972910",
+                        "人物卡": {
+                            "伊恩": {
+                                "成功": {
+                                    "IDEA": 1
+                                },
+                                "失败": {}
+                            }
+                        }
+                    }
+                }
             }
         }
     }

@@ -3,10 +3,10 @@
         "userId": "121735290",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773164003,
+        "lastHit": 1773171334,
         "configNote": {
             "groupEnable": true,
-            "logEnable": true,
+            "logEnable": false,
             "logNowName": null,
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -27,8 +27,8 @@
                 },
                 "莉维娅的FSF": {
                     "start_time": 1773161873.4916139,
-                    "end_time": 0,
-                    "total_time": 82039.9907412529
+                    "end_time": 1773171282.4763231,
+                    "total_time": 91448.97545051575
                 }
             },
             "logStatus": {
