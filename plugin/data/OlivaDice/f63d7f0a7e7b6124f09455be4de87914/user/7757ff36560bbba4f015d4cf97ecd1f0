@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773241373,
+        "lastHit": 1773330255,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -11,12 +11,16 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupInitList": {
-                "猛牛龙": 3,
-                "太刀侠": 16
+                "轰龙": 14,
+                "npc们": 18,
+                "神秘埋伏女": 19,
+                "迎娶她的天尊": 17
             },
             "groupInitParaList": {
-                "猛牛龙": "1D20+1",
-                "太刀侠": "1D20+1"
+                "轰龙": "1D20+6",
+                "npc们": "1D20+1",
+                "神秘埋伏女": "1D20+1",
+                "迎娶她的天尊": "1D20+1"
             },
             "logEnable": false,
             "logNowName": null,
@@ -36,9 +40,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1773149043.8436224,
-                    "end_time": 1773156704.7802494,
-                    "total_time": 191737.34622764587
+                    "start_time": 1773316774.4481146,
+                    "end_time": 1773321229.4812686,
+                    "total_time": 196192.37938165665
                 }
             },
             "logEndingLock": false,
@@ -76,16 +80,24 @@
                 }
             },
             "groupInitUserList": {
-                "猛牛龙": {
+                "轰龙": {
                     "userId": "825734198",
                     "platform": "qq"
                 },
-                "太刀侠": {
-                    "userId": "961142868",
+                "npc们": {
+                    "userId": "825734198",
+                    "platform": "qq"
+                },
+                "神秘埋伏女": {
+                    "userId": "2275904091",
+                    "platform": "qq"
+                },
+                "迎娶她的天尊": {
+                    "userId": "1085444390",
                     "platform": "qq"
                 }
             },
-            "groupInitCurrentPlayer": null,
+            "groupInitCurrentPlayer": 0,
             "groupInitRound": 1
         }
     }
