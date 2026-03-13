@@ -3,7 +3,7 @@
         "userId": "1036106955",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1772360956,
+        "lastHit": 1773409671,
         "configNote": {
             "logStatus": {
                 "f876621f-cd5c-458f-9666-00323522ff70": {
@@ -80,7 +80,7 @@
                                     "聆听": 1
                                 },
                                 "失败": {
-                                    "侦查": 1,
+                                    "侦查": 2,
                                     "聆听": 1,
                                     "SAN": 1
                                 }

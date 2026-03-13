@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773142052,
+        "lastHit": 1773412506,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -66,7 +66,7 @@
                                     "SAN": 4,
                                     "信用": 1,
                                     "聆听": 3,
-                                    "侦查": 14,
+                                    "侦查": 15,
                                     "说服": 2,
                                     "CON": 1,
                                     "IDEA": 1,
@@ -221,9 +221,9 @@
             },
             "logNameTimeDict": {
                 "猫之摇篮": {
-                    "start_time": 1772952158.4617958,
-                    "end_time": 1772961765.5110898,
-                    "total_time": 54064.525399923325
+                    "start_time": 1773406859.830821,
+                    "end_time": 1773412506.024343,
+                    "total_time": 59710.718921899796
                 }
             },
             "groupMainDiceDLeft": null
