@@ -3,7 +3,7 @@
         "userId": "1020481325",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773387166,
+        "lastHit": 1773677296,
         "configNote": {
             "logEnable": true,
             "logNowName": null,
@@ -106,6 +106,12 @@
                             "伊恩": {
                                 "成功": {
                                     "IDEA": 1
+                                },
+                                "失败": {}
+                            },
+                            "诺薇拉": {
+                                "成功": {
+                                    "侦查": 1
                                 },
                                 "失败": {}
                             }

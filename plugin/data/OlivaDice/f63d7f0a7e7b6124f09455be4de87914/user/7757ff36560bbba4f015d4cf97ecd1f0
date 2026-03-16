@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773366147,
+        "lastHit": 1773677087,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -14,13 +14,15 @@
                 "轰龙": 14,
                 "npc们": 18,
                 "神秘埋伏女": 19,
-                "迎娶她的天尊": 17
+                "迎娶她的天尊": 17,
+                "轰龙第二动": 16
             },
             "groupInitParaList": {
                 "轰龙": "1D20+6",
                 "npc们": "1D20+1",
                 "神秘埋伏女": "1D20+1",
-                "迎娶她的天尊": "1D20+1"
+                "迎娶她的天尊": "1D20+1",
+                "轰龙第二动": "1D20+8"
             },
             "logEnable": false,
             "logNowName": null,
@@ -40,9 +42,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1773316774.4481146,
-                    "end_time": 1773321229.4812686,
-                    "total_time": 196192.37938165665
+                    "start_time": 1773665487.800466,
+                    "end_time": 1773671759.4717588,
+                    "total_time": 215114.42964100838
                 }
             },
             "logEndingLock": false,
@@ -94,6 +96,10 @@
                 },
                 "迎娶她的天尊": {
                     "userId": "1085444390",
+                    "platform": "qq"
+                },
+                "轰龙第二动": {
+                    "userId": "825734198",
                     "platform": "qq"
                 }
             },
