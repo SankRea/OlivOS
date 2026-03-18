@@ -128,5 +128,9 @@
         "template": "COC7",
         "checkRules": "C3",
         "enhanceList": []
+    },
+    "杨秀全": {
+        "template": "COC7",
+        "checkRules": "C3"
     }
 }

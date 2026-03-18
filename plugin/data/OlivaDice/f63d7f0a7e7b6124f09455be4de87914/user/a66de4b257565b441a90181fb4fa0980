@@ -1,22 +1,24 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "S&G绪章如梦",
+            "userName": "S&G绪言梦语",
             "RDRecord": [
                 {
                     "result": [
                         [
-                            81
+                            4,
+                            4,
+                            3
                         ],
                         [],
                         [
-                            81
+                            11
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 1,
-                        "r": 100,
+                        "l": 3,
+                        "r": 6,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,16 +27,20 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "*"
+                },
+                5
             ],
-            "RDRecordRaw": "1D100",
-            "RDRecordInt": 81,
-            "RDRecordSkillInt": 80,
+            "RDRecordRaw": "3d6*5",
+            "RDRecordInt": 55,
+            "RDRecordSkillInt": null,
             "userObList": []
         },
         "userId": "2086118349",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1773409671
+        "lastHit": 1773802910
     }
 }
