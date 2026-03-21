@@ -6,17 +6,17 @@
                 {
                     "result": [
                         [
-                            3
+                            443
                         ],
                         [],
                         [
-                            3
+                            443
                         ]
                     ],
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 20,
+                        "r": 666,
                         "v": {
                             "k": null,
                             "q": null,
@@ -25,19 +25,15 @@
                             "a": null
                         }
                     }
-                },
-                {
-                    "op": "+"
-                },
-                3
+                }
             ],
-            "RDRecordRaw": "d20+3",
-            "RDRecordInt": 6,
+            "RDRecordRaw": "d666",
+            "RDRecordInt": 443,
             "RDRecordSkillInt": null
         },
         "userId": "1102906527",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1773914507
+        "lastHit": 1774108996
     }
 }
