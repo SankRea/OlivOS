@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773931151,
+        "lastHit": 1774190181,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -27,10 +27,20 @@
                 "顾": "70",
                 "何": "55"
             },
-            "logNameList": [],
-            "logNameDict": {},
-            "logActiveName": null,
-            "logNameTimeDict": {},
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "f1fb2382-e64f-4734-92dd-5394042f9c84"
+            },
+            "logActiveName": "default",
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1774175435.2532792,
+                    "end_time": 1774190181.3658087,
+                    "total_time": 14746.11252951622
+                }
+            },
             "logEndingLock": false,
             "logStatus": {
                 "a2b8c5b5-7b7f-4056-a8aa-228ef04df357": {},
@@ -93,6 +103,70 @@
                                     "侦查": 1,
                                     "SAN": 1,
                                     "医学": 1
+                                }
+                            }
+                        }
+                    }
+                },
+                "f1fb2382-e64f-4734-92dd-5394042f9c84": {
+                    "3ae67c305bd76b206462583d0696e80d": {
+                        "id": "2801086039",
+                        "人物卡": {
+                            "倪雨": {
+                                "成功": {
+                                    "LUC": 2,
+                                    "侦查": 2
+                                },
+                                "失败": {
+                                    "汽车驾驶": 1,
+                                    "IDEA": 1,
+                                    "SAN": 1
+                                }
+                            }
+                        }
+                    },
+                    "5c5ba4969428218f4ec42552de8fddf9": {
+                        "id": "408119794",
+                        "人物卡": {
+                            "王逍遥": {
+                                "成功": {
+                                    "聆听": 2,
+                                    "侦查": 2
+                                },
+                                "失败": {
+                                    "LUC": 1
+                                }
+                            }
+                        }
+                    },
+                    "53ff874c80ca9b2dc68c76059b857d63": {
+                        "id": "2483922115",
+                        "人物卡": {
+                            "徐舟": {
+                                "成功": {
+                                    "LUC": 1,
+                                    "IDEA": 1,
+                                    "侦查": 1,
+                                    "EDU": 1
+                                },
+                                "失败": {
+                                    "聆听": 1
+                                }
+                            }
+                        }
+                    },
+                    "a66de4b257565b441a90181fb4fa0980": {
+                        "id": "2086118349",
+                        "人物卡": {
+                            "杨秀全": {
+                                "成功": {
+                                    "聆听": 1,
+                                    "LUC": 1,
+                                    "侦查": 1
+                                },
+                                "失败": {
+                                    "IDEA": 1,
+                                    "侦查": 1
                                 }
                             }
                         }

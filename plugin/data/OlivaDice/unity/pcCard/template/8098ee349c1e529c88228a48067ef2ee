@@ -85,5 +85,15 @@
             "图书馆",
             "医学"
         ]
+    },
+    "徐舟": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "noteRecord": {
+            "名片": "{tName} hp{HP}/{HPMAX} san{SAN}/{SANMAX} dex{DEX}"
+        },
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

@@ -45,5 +45,12 @@
             "侦查",
             "聆听"
         ]
+    },
+    "倪雨": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": [
+            "侦查"
+        ]
     }
 }

@@ -231,5 +231,13 @@
         "template": "COC7",
         "checkRules": "C3",
         "enhanceList": []
+    },
+    "王逍遥": {
+        "template": "COC7",
+        "checkRules": "C3",
+        "enhanceList": [
+            "聆听",
+            "侦查"
+        ]
     }
 }

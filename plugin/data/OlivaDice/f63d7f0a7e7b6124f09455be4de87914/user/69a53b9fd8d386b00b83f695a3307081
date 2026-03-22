@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1773568472,
+        "lastHit": 1774172957,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -15,9 +15,13 @@
             ],
             "logEnable": false,
             "logNowName": null,
-            "logActiveName": null,
-            "logNameList": [],
-            "logNameDict": {},
+            "logActiveName": "猫之摇篮二阶段",
+            "logNameList": [
+                "猫之摇篮二阶段"
+            ],
+            "logNameDict": {
+                "猫之摇篮二阶段": "87e50f2a-868e-4493-8535-fb40986da044"
+            },
             "groupInitList": {
                 "科比特": 35,
                 "维克托": 120,
@@ -108,9 +112,72 @@
                 "dc300f31-21d6-4f97-b530-dd8f84b97895": {},
                 "7d5e313b-9894-41f9-93a3-fe20cb040d51": {},
                 "bd006a3e-85c1-4890-af52-f91ddbe46b63": {},
-                "c56aa527-ee9d-4b60-a4b5-1a85030994b7": {}
+                "c56aa527-ee9d-4b60-a4b5-1a85030994b7": {},
+                "87e50f2a-868e-4493-8535-fb40986da044": {
+                    "1d2b6febb3d738e3e3e640df429d3bc3": {
+                        "id": "3091099280",
+                        "人物卡": {
+                            "苏理绘": {
+                                "成功": {
+                                    "信用": 1
+                                },
+                                "失败": {
+                                    "SAN": 1,
+                                    "聆听": 1
+                                }
+                            }
+                        }
+                    },
+                    "2c46beab781cbafe6aa4b4458505086d": {
+                        "id": "2037978956",
+                        "人物卡": {
+                            "哈里": {
+                                "成功": {},
+                                "失败": {
+                                    "SAN": 1,
+                                    "聆听": 1,
+                                    "说服": 1
+                                }
+                            }
+                        }
+                    },
+                    "8394ae551a94036a06185ede0f44ae7d": {
+                        "id": "3222503301",
+                        "人物卡": {
+                            "椎名绪": {
+                                "成功": {
+                                    "聆听": 1
+                                },
+                                "失败": {
+                                    "SAN": 1,
+                                    "说服": 1
+                                }
+                            }
+                        }
+                    },
+                    "b50343cf021842a7c60819850f24b8ae": {
+                        "id": "3166982250",
+                        "人物卡": {
+                            "许司昤": {
+                                "成功": {
+                                    "聆听": 1
+                                },
+                                "失败": {
+                                    "SAN": 1,
+                                    "INT": 1
+                                }
+                            }
+                        }
+                    }
+                }
             },
-            "logNameTimeDict": {},
+            "logNameTimeDict": {
+                "猫之摇篮二阶段": {
+                    "start_time": 1774163102.646374,
+                    "end_time": 1774171800.9599712,
+                    "total_time": 8698.313597202301
+                }
+            },
             "groupMainDiceDLeft": null,
             "logEndingLock": false
         }
