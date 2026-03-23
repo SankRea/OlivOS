@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1774190181,
+        "lastHit": 1774276998,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -11,10 +11,7 @@
             "logNowName": null,
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupObList": [
-                "5c5ba4969428218f4ec42552de8fddf9",
-                "3ae67c305bd76b206462583d0696e80d"
-            ],
+            "groupObList": [],
             "groupInitList": {
                 "怪": 110,
                 "保安": 75,
@@ -36,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1774175435.2532792,
-                    "end_time": 1774190181.3658087,
-                    "total_time": 14746.11252951622
+                    "start_time": 1774262562.5096452,
+                    "end_time": 1774276491.7038474,
+                    "total_time": 28675.306731700897
                 }
             },
             "logEndingLock": false,
@@ -120,7 +117,8 @@
                                 "失败": {
                                     "汽车驾驶": 1,
                                     "IDEA": 1,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "LUC": 1
                                 }
                             }
                         }
@@ -131,10 +129,11 @@
                             "王逍遥": {
                                 "成功": {
                                     "聆听": 2,
-                                    "侦查": 2
+                                    "侦查": 4
                                 },
                                 "失败": {
-                                    "LUC": 1
+                                    "LUC": 1,
+                                    "侦查": 1
                                 }
                             }
                         }
@@ -144,9 +143,9 @@
                         "人物卡": {
                             "徐舟": {
                                 "成功": {
-                                    "LUC": 1,
+                                    "LUC": 2,
                                     "IDEA": 1,
-                                    "侦查": 1,
+                                    "侦查": 2,
                                     "EDU": 1
                                 },
                                 "失败": {
@@ -162,11 +161,12 @@
                                 "成功": {
                                     "聆听": 1,
                                     "LUC": 1,
-                                    "侦查": 1
+                                    "侦查": 4,
+                                    "POW": 1
                                 },
                                 "失败": {
                                     "IDEA": 1,
-                                    "侦查": 1
+                                    "侦查": 2
                                 }
                             }
                         }
