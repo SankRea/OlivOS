@@ -3,7 +3,7 @@
         "userId": "1141869747",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1774278592,
+        "lastHit": 1774328064,
         "configNote": {
             "groupEnable": true,
             "groupTemplate": "COC7",
@@ -42,9 +42,9 @@
                     "total_time": 0
                 },
                 "龙王 世界的重启": {
-                    "start_time": 1774249423.0668666,
-                    "end_time": 1774278593.0082817,
-                    "total_time": 288678.7896530628
+                    "start_time": 1774321399.1258001,
+                    "end_time": 1774328064.7160487,
+                    "total_time": 295344.37990164757
                 }
             },
             "logEndingLock": false,
