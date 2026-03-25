@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1774276998,
+        "lastHit": 1774449336,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1774262562.5096452,
-                    "end_time": 1774276491.7038474,
-                    "total_time": 28675.306731700897
+                    "start_time": 1774438491.9675136,
+                    "end_time": 1774449336.6284697,
+                    "total_time": 39519.96768784523
                 }
             },
             "logEndingLock": false,
@@ -112,7 +112,8 @@
                             "倪雨": {
                                 "成功": {
                                     "LUC": 2,
-                                    "侦查": 2
+                                    "侦查": 3,
+                                    "STR": 1
                                 },
                                 "失败": {
                                     "汽车驾驶": 1,
@@ -149,7 +150,8 @@
                                     "EDU": 1
                                 },
                                 "失败": {
-                                    "聆听": 1
+                                    "聆听": 1,
+                                    "侦查": 1
                                 }
                             }
                         }
@@ -161,8 +163,9 @@
                                 "成功": {
                                     "聆听": 1,
                                     "LUC": 1,
-                                    "侦查": 4,
-                                    "POW": 1
+                                    "侦查": 5,
+                                    "POW": 1,
+                                    "STR": 1
                                 },
                                 "失败": {
                                     "IDEA": 1,
