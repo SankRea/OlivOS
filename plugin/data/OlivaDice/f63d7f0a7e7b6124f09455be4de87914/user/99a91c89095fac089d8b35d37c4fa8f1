@@ -7,49 +7,29 @@
                     "result": [
                         [
                             [
+                                7,
                                 5,
                                 1,
+                                4,
+                                {
+                                    "op": "mark01",
+                                    "v": 9
+                                },
+                                3,
                                 {
                                     "op": "mark01",
                                     "v": 8
                                 },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                {
-                                    "op": "mark02",
-                                    "v": {
-                                        "op": "mark01",
-                                        "v": 10
-                                    }
-                                },
-                                2,
-                                {
-                                    "op": "mark01",
-                                    "v": 8
-                                },
-                                1,
-                                1,
-                                4
-                            ],
-                            [
-                                {
-                                    "op": "mark01",
-                                    "v": 8
-                                },
-                                7
+                                5,
+                                7,
+                                6
                             ]
                         ],
                         [
-                            4,
-                            1
+                            2
                         ],
                         [
-                            5
+                            2
                         ]
                     ],
                     "key": {
@@ -65,12 +45,12 @@
                 }
             ],
             "RDRecordRaw": "10A10",
-            "RDRecordInt": 5,
+            "RDRecordInt": 2,
             "RDRecordSkillInt": null
         },
         "userId": "3057428454",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1774598808
+        "lastHit": 1774831985
     }
 }
