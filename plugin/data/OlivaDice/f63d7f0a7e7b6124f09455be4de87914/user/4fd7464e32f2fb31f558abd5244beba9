@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            3
+                            4
                         ],
                         [],
                         [
-                            3
+                            4
                         ]
                     ],
                     "key": {
@@ -28,7 +28,7 @@
                 }
             ],
             "RDRecordRaw": "d4",
-            "RDRecordInt": 3,
+            "RDRecordInt": 4,
             "RDRecordSkillInt": null,
             "storyRuntime": {},
             "autoSnEnabled": true,
@@ -37,6 +37,6 @@
         "userId": "3362422751",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1774952267
+        "lastHit": 1775063059
     }
 }

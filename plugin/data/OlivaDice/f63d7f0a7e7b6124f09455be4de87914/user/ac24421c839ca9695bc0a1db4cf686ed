@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1774449336,
+        "lastHit": 1775049265,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1774438491.9675136,
-                    "end_time": 1774449336.6284697,
-                    "total_time": 39519.96768784523
+                    "start_time": 1775041006.7327569,
+                    "end_time": 1775049265.8855414,
+                    "total_time": 47779.12047243118
                 }
             },
             "logEndingLock": false,
@@ -146,8 +146,9 @@
                                 "成功": {
                                     "LUC": 2,
                                     "IDEA": 1,
-                                    "侦查": 2,
-                                    "EDU": 1
+                                    "侦查": 3,
+                                    "EDU": 1,
+                                    "聆听": 1
                                 },
                                 "失败": {
                                     "聆听": 1,
