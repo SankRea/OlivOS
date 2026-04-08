@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "静候过去来临"
+            "userName": "静候过去来临",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            70
+                        ],
+                        [],
+                        [
+                            70
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "d100",
+            "RDRecordInt": 70,
+            "RDRecordSkillInt": null
         },
         "userId": "2456373889",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1775283096
+        "lastHit": 1775585885
     }
 }

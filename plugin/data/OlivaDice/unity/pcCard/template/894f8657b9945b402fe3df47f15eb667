@@ -232,5 +232,9 @@
         "enhanceList": [
             "侦查"
         ]
+    },
+    "kp": {
+        "template": "COC7",
+        "checkRules": "C3"
     }
 }

@@ -3,55 +3,85 @@
         "userId": "1073830032",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1775554688,
+        "lastHit": 1775663858,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
             "groupInitParaList": {
-                "灵风雨璇": "1D20+13",
-                "星间尘": "1D20+9",
-                "Chesslia": "1D20+16",
-                "高文": "1D20+10",
-                "巫山雨纪": "1D20+14",
-                "古岩龙蜥": "1D20+12"
+                "云璃": "1D20+5",
+                "浅上真由理": "1D20+1",
+                "物理剑鬼": "1D20+8",
+                "冰剑鬼": "1D20+6",
+                "星间尘": "1D20+2",
+                "风剑鬼": "1D20+10",
+                "灵风雨璇": "1D20+3",
+                "德洛米娅": "1D20+7"
             },
             "groupInitList": {
-                "灵风雨璇": 14,
-                "星间尘": 22,
-                "Chesslia": 21,
-                "高文": 24,
-                "巫山雨纪": 26,
-                "古岩龙蜥": 26
+                "云璃": 7,
+                "浅上真由理": 2,
+                "物理剑鬼": 14,
+                "冰剑鬼": 10,
+                "星间尘": 8,
+                "风剑鬼": 25,
+                "灵风雨璇": 16,
+                "德洛米娅": 11
             },
             "groupInitUserList": {
-                "灵风雨璇": {
-                    "userId": "1009793416",
+                "云璃": {
+                    "userId": "1040972910",
+                    "platform": "qq"
+                },
+                "浅上真由理": {
+                    "userId": "1252219916",
+                    "platform": "qq"
+                },
+                "物理剑鬼": {
+                    "userId": "2422497068",
+                    "platform": "qq"
+                },
+                "冰剑鬼": {
+                    "userId": "2422497068",
                     "platform": "qq"
                 },
                 "星间尘": {
                     "userId": "879403626",
                     "platform": "qq"
                 },
-                "Chesslia": {
-                    "userId": "2628755988",
-                    "platform": "qq"
-                },
-                "高文": {
-                    "userId": "2677428383",
-                    "platform": "qq"
-                },
-                "巫山雨纪": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "古岩龙蜥": {
+                "风剑鬼": {
                     "userId": "2422497068",
+                    "platform": "qq"
+                },
+                "灵风雨璇": {
+                    "userId": "1009793416",
+                    "platform": "qq"
+                },
+                "德洛米娅": {
+                    "userId": "825734198",
                     "platform": "qq"
                 }
             },
             "groupInitCurrentPlayer": 0,
-            "groupInitRound": 1
+            "groupInitRound": 1,
+            "logStatus": {
+                "7b0577fe-f1e4-4d58-8698-c60b8ee9b4a4": {}
+            },
+            "logNameList": [
+                "default"
+            ],
+            "logNameDict": {
+                "default": "7b0577fe-f1e4-4d58-8698-c60b8ee9b4a4"
+            },
+            "logNameTimeDict": {
+                "default": {
+                    "start_time": 1775652103.1936367,
+                    "end_time": 1775661843.254493,
+                    "total_time": 9740.060856342316
+                }
+            },
+            "logActiveName": "default",
+            "logEnable": false
         }
     }
 }
