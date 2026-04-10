@@ -6,18 +6,16 @@
                 {
                     "result": [
                         [
-                            8,
-                            4,
-                            7
+                            2
                         ],
                         [],
                         [
-                            19
+                            2
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 3,
+                        "l": 1,
                         "r": 10,
                         "v": {
                             "k": null,
@@ -31,28 +29,26 @@
                 {
                     "op": "+"
                 },
-                96,
+                25,
                 {
                     "op": "+"
                 },
                 {
                     "result": [
                         [
-                            2,
-                            1,
+                            5,
                             3,
                             3,
-                            3,
-                            5
+                            3
                         ],
                         [],
                         [
-                            17
+                            14
                         ]
                     ],
                     "key": {
                         "op": "d",
-                        "l": 6,
+                        "l": 4,
                         "r": 6,
                         "v": {
                             "k": null,
@@ -64,13 +60,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "3d10+96+6d6",
-            "RDRecordInt": 132,
+            "RDRecordRaw": "1d10+25+4d6",
+            "RDRecordInt": 41,
             "RDRecordSkillInt": null
         },
         "userId": "879403626",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1775661700
+        "lastHit": 1775832637
     }
 }
