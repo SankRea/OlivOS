@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1774772139,
+        "lastHit": 1775898236,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -160,9 +160,9 @@
                                     "聆听": 1
                                 },
                                 "失败": {
-                                    "SAN": 2,
+                                    "SAN": 3,
                                     "说服": 2,
-                                    "图书馆": 1,
+                                    "图书馆": 2,
                                     "信用": 1
                                 }
                             }
@@ -176,7 +176,8 @@
                                     "聆听": 1,
                                     "说服": 1,
                                     "SAN": 1,
-                                    "侦查": 2
+                                    "侦查": 2,
+                                    "心理学": 1
                                 },
                                 "失败": {
                                     "SAN": 1,
@@ -191,9 +192,9 @@
             },
             "logNameTimeDict": {
                 "猫之摇篮二阶段": {
-                    "start_time": 1774765952.1153483,
-                    "end_time": 1774772139.4049418,
-                    "total_time": 24370.024515390396
+                    "start_time": 1775892299.8006973,
+                    "end_time": 1775898236.531337,
+                    "total_time": 30306.755155086517
                 }
             },
             "groupMainDiceDLeft": null,
