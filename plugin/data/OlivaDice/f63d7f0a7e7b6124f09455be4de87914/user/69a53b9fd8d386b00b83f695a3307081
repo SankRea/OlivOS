@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1775898236,
+        "lastHit": 1775980825,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -192,9 +192,9 @@
             },
             "logNameTimeDict": {
                 "猫之摇篮二阶段": {
-                    "start_time": 1775892299.8006973,
-                    "end_time": 1775898236.531337,
-                    "total_time": 30306.755155086517
+                    "start_time": 1775976477.5363019,
+                    "end_time": 1775980825.7740982,
+                    "total_time": 34654.99295139313
                 }
             },
             "groupMainDiceDLeft": null,

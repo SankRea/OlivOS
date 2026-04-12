@@ -3,11 +3,12 @@
         "userId": "742946649",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1775208029,
+        "lastHit": 1775990172,
         "configNote": {
             "groupTemplate": "COC7",
             "groupTemplateRule": "C3",
-            "groupEnable": true
+            "groupEnable": true,
+            "welcomeMsg": "欢迎来到中山大学其咕噜米同好组"
         }
     }
 }
