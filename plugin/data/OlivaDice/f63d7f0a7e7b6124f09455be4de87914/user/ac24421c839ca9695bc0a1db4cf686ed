@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1775655679,
+        "lastHit": 1776088575,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1775644373.3584886,
-                    "end_time": 1775655679.7249436,
-                    "total_time": 71690.69422125816
+                    "start_time": 1776078136.9327822,
+                    "end_time": 1776088575.8472085,
+                    "total_time": 82129.60864758492
                 }
             },
             "logEndingLock": false,
@@ -114,7 +114,9 @@
                                     "LUC": 2,
                                     "侦查": 3,
                                     "STR": 3,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "话术": 1,
+                                    "POW": 2
                                 },
                                 "失败": {
                                     "汽车驾驶": 1,
@@ -161,7 +163,8 @@
                                     "侦查": 3,
                                     "EDU": 1,
                                     "聆听": 2,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "POW": 2
                                 },
                                 "失败": {
                                     "聆听": 1,
