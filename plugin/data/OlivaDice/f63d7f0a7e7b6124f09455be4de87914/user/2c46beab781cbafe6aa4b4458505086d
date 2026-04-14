@@ -6,11 +6,11 @@
                 {
                     "result": [
                         [
-                            2
+                            5
                         ],
                         [],
                         [
-                            2
+                            5
                         ]
                     ],
                     "key": {
@@ -28,14 +28,14 @@
                 }
             ],
             "RDRecordRaw": "1D100",
-            "RDRecordInt": 2,
-            "RDRecordSkillInt": 45,
+            "RDRecordInt": 5,
+            "RDRecordSkillInt": 10,
             "userObList": [],
             "autoSnEnabled": true
         },
         "userId": "2037978956",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1775979237
+        "lastHit": 1776156439
     }
 }
