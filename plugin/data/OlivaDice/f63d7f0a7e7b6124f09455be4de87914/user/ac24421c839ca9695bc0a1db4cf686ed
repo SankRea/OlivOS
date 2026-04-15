@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1776088575,
+        "lastHit": 1776261723,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1776078136.9327822,
-                    "end_time": 1776088575.8472085,
-                    "total_time": 82129.60864758492
+                    "start_time": 1776254470.970558,
+                    "end_time": 1776261723.1429553,
+                    "total_time": 89381.78104496002
                 }
             },
             "logEndingLock": false,
@@ -137,18 +137,20 @@
                             "王逍遥": {
                                 "成功": {
                                     "聆听": 4,
-                                    "侦查": 4,
+                                    "侦查": 5,
                                     "LUC": 1,
                                     "闪避": 1,
                                     "斗殴": 2,
-                                    "急救": 1
+                                    "急救": 1,
+                                    "CON": 1
                                 },
                                 "失败": {
                                     "LUC": 1,
                                     "侦查": 2,
                                     "IDEA": 1,
                                     "POW": 1,
-                                    "SAN": 2
+                                    "SAN": 2,
+                                    "DEX": 1
                                 }
                             }
                         }
@@ -182,7 +184,7 @@
                                 "成功": {
                                     "聆听": 2,
                                     "LUC": 1,
-                                    "侦查": 5,
+                                    "侦查": 6,
                                     "POW": 1,
                                     "STR": 1,
                                     "急救": 1,
@@ -192,7 +194,8 @@
                                     "IDEA": 1,
                                     "侦查": 2,
                                     "STR": 1,
-                                    "斗殴": 1
+                                    "斗殴": 1,
+                                    "LUC": 1
                                 }
                             }
                         }
