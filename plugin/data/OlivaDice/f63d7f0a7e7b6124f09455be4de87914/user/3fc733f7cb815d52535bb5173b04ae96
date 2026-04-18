@@ -25,10 +25,14 @@
                             "a": null
                         }
                     }
-                }
+                },
+                {
+                    "op": "+"
+                },
+                13
             ],
-            "RDRecordRaw": "d",
-            "RDRecordInt": 10,
+            "RDRecordRaw": "d+13",
+            "RDRecordInt": 23,
             "RDRecordSkillInt": null,
             "cnmodsTemp": {
                 "code": 1,
@@ -68,6 +72,6 @@
         "userId": "825734198",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1776213607
+        "lastHit": 1776519872
     }
 }
