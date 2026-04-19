@@ -3,7 +3,7 @@
         "userId": "938830904",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1776156906,
+        "lastHit": 1776589871,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -148,7 +148,8 @@
                                     "聆听": 1,
                                     "说服": 1,
                                     "图书馆": 1,
-                                    "信用": 2
+                                    "信用": 2,
+                                    "潜行": 1
                                 }
                             }
                         }
@@ -158,7 +159,8 @@
                         "人物卡": {
                             "椎名绪": {
                                 "成功": {
-                                    "聆听": 2
+                                    "聆听": 2,
+                                    "潜行": 1
                                 },
                                 "失败": {
                                     "SAN": 3,
@@ -194,9 +196,9 @@
             },
             "logNameTimeDict": {
                 "猫之摇篮二阶段": {
-                    "start_time": 1776148486.7049458,
-                    "end_time": 1776156906.929843,
-                    "total_time": 43075.21784853935
+                    "start_time": 1776585504.523647,
+                    "end_time": 1776589871.4327037,
+                    "total_time": 47442.126905202866
                 }
             },
             "groupMainDiceDLeft": null,
