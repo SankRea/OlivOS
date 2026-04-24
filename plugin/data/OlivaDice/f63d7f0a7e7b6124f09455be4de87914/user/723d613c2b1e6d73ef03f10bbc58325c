@@ -3,25 +3,36 @@
         "userId": "741877128",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1766754123,
+        "lastHit": 1777021712,
         "configNote": {
             "logEnable": false,
             "logNowName": null,
             "groupEnable": true,
-            "logActiveName": "default",
+            "logActiveName": "旋脊之章1",
             "logNameList": [
-                "default"
+                "default",
+                "旋脊之章1"
             ],
             "logNameDict": {
-                "default": "a4c357a1-f175-4561-b086-f7daec883f04"
+                "default": "a4c357a1-f175-4561-b086-f7daec883f04",
+                "旋脊之章1": "d8f50396-2030-4093-8217-35845f7960c0"
             },
             "logNameTimeDict": {
                 "default": {
                     "start_time": 0,
                     "end_time": 0,
                     "total_time": 0
+                },
+                "旋脊之章1": {
+                    "start_time": 1777014952.0257647,
+                    "end_time": 1777021712.8530357,
+                    "total_time": 6760.82727098465
                 }
-            }
+            },
+            "logStatus": {
+                "d8f50396-2030-4093-8217-35845f7960c0": {}
+            },
+            "logEndingLock": false
         }
     }
 }
