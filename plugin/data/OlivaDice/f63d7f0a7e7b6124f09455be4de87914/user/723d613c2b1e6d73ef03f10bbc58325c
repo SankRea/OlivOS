@@ -3,9 +3,9 @@
         "userId": "741877128",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1777021712,
+        "lastHit": 1777252286,
         "configNote": {
-            "logEnable": false,
+            "logEnable": true,
             "logNowName": null,
             "groupEnable": true,
             "logActiveName": "旋脊之章1",
@@ -24,8 +24,8 @@
                     "total_time": 0
                 },
                 "旋脊之章1": {
-                    "start_time": 1777014952.0257647,
-                    "end_time": 1777021712.8530357,
+                    "start_time": 1777251843.607234,
+                    "end_time": 0,
                     "total_time": 6760.82727098465
                 }
             },

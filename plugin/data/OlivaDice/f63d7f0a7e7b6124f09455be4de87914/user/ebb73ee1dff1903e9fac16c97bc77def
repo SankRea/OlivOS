@@ -3,66 +3,19 @@
         "configNote": {
             "userName": "灵风雨璇",
             "RDRecord": [
+                389,
                 {
-                    "result": [
-                        [
-                            2
-                        ],
-                        [],
-                        [
-                            2
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 1,
-                        "r": 8,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
+                    "op": "*"
                 },
-                {
-                    "op": "+"
-                },
-                {
-                    "result": [
-                        [
-                            2,
-                            1,
-                            4,
-                            4
-                        ],
-                        [],
-                        [
-                            11
-                        ]
-                    ],
-                    "key": {
-                        "op": "d",
-                        "l": 4,
-                        "r": 6,
-                        "v": {
-                            "k": null,
-                            "q": null,
-                            "p": null,
-                            "b": null,
-                            "a": null
-                        }
-                    }
-                }
+                3
             ],
-            "RDRecordRaw": "d8+4d6",
-            "RDRecordInt": 13,
+            "RDRecordRaw": "389*3",
+            "RDRecordInt": 1167,
             "RDRecordSkillInt": null
         },
         "userId": "1009793416",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1775832325
+        "lastHit": 1777304869
     }
 }

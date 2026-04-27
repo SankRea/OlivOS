@@ -3,34 +3,32 @@
         "userId": "1073830032",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1775833640,
+        "lastHit": 1777305563,
         "configNote": {
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
             "groupInitParaList": {
                 "姜丝": "1D20+3",
-                "云璃": "1D20+5",
-                "灵风雨璇": "1D20+3",
-                "星间尘": "1D20+2",
+                "云璃": "1D20+2",
                 "德洛米娅": "1D20+12",
-                "浅上真由理": "1D20+2",
-                "停云": "0",
-                "梅菲斯": "1D20+21",
-                "飘浮灵猎犬": "1D20+5",
-                "急冻树丘丘王": "1D20-1"
+                "星间尘": "1D20+2",
+                "停云": "1D20+1",
+                "隐德来希": "1D20+9",
+                "灵风雨璇": "1D20+2",
+                "转阶段计数": "1D20+15",
+                "芊羽_？": "1D20+2"
             },
             "groupInitList": {
-                "姜丝": 10,
-                "云璃": 17,
-                "灵风雨璇": 8,
-                "星间尘": 20,
-                "德洛米娅": 18,
-                "浅上真由理": 3,
-                "停云": 0,
-                "梅菲斯": 40,
-                "飘浮灵猎犬": 22,
-                "急冻树丘丘王": 18
+                "姜丝": 18,
+                "云璃": 18,
+                "德洛米娅": 20,
+                "星间尘": 18,
+                "停云": 20,
+                "隐德来希": 26,
+                "灵风雨璇": 6,
+                "转阶段计数": 33,
+                "芊羽_？": 5
             },
             "groupInitUserList": {
                 "姜丝": {
@@ -41,59 +39,44 @@
                     "userId": "1040972910",
                     "platform": "qq"
                 },
-                "灵风雨璇": {
-                    "userId": "1009793416",
+                "德洛米娅": {
+                    "userId": "825734198",
                     "platform": "qq"
                 },
                 "星间尘": {
                     "userId": "879403626",
                     "platform": "qq"
                 },
-                "德洛米娅": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
-                "浅上真由理": {
-                    "userId": "1252219916",
-                    "platform": "qq"
-                },
                 "停云": {
                     "userId": "1252219916",
                     "platform": "qq"
                 },
-                "梅菲斯": {
+                "隐德来希": {
                     "userId": "2422497068",
                     "platform": "qq"
                 },
-                "飘浮灵猎犬": {
+                "灵风雨璇": {
+                    "userId": "1009793416",
+                    "platform": "qq"
+                },
+                "转阶段计数": {
                     "userId": "2422497068",
                     "platform": "qq"
                 },
-                "急冻树丘丘王": {
+                "芊羽_？": {
                     "userId": "2422497068",
                     "platform": "qq"
                 }
             },
             "groupInitCurrentPlayer": 0,
             "groupInitRound": 1,
-            "logStatus": {
-                "7b0577fe-f1e4-4d58-8698-c60b8ee9b4a4": {}
-            },
-            "logNameList": [
-                "default"
-            ],
-            "logNameDict": {
-                "default": "7b0577fe-f1e4-4d58-8698-c60b8ee9b4a4"
-            },
-            "logNameTimeDict": {
-                "default": {
-                    "start_time": 1775826878.5454926,
-                    "end_time": 1775833640.3726447,
-                    "total_time": 16501.888008356094
-                }
-            },
-            "logActiveName": "default",
-            "logEnable": false
+            "logStatus": {},
+            "logNameList": [],
+            "logNameDict": {},
+            "logNameTimeDict": {},
+            "logActiveName": null,
+            "logEnable": false,
+            "logEndingLock": false
         }
     }
 }

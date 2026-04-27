@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1776854945,
+        "lastHit": 1777295208,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1776682778.2313304,
-                    "end_time": 1776692226.5753126,
-                    "total_time": 98830.12502717972
+                    "start_time": 1777288236.680113,
+                    "end_time": 1777295208.7990167,
+                    "total_time": 105802.24393081665
                 }
             },
             "logEndingLock": false,
@@ -115,12 +115,12 @@
                                     "侦查": 4,
                                     "STR": 3,
                                     "SAN": 3,
-                                    "话术": 1,
+                                    "话术": 2,
                                     "POW": 2
                                 },
                                 "失败": {
                                     "汽车驾驶": 1,
-                                    "IDEA": 1,
+                                    "IDEA": 2,
                                     "SAN": 1,
                                     "LUC": 1,
                                     "聆听": 2,
@@ -144,7 +144,8 @@
                                     "斗殴": 2,
                                     "急救": 1,
                                     "CON": 1,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "IDEA": 1
                                 },
                                 "失败": {
                                     "LUC": 1,
@@ -194,7 +195,8 @@
                                     "STR": 1,
                                     "急救": 1,
                                     "话术": 1,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "IDEA": 1
                                 },
                                 "失败": {
                                     "IDEA": 1,
