@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1777295208,
+        "lastHit": 1777474211,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1777288236.680113,
-                    "end_time": 1777295208.7990167,
-                    "total_time": 105802.24393081665
+                    "start_time": 1777463419.3675308,
+                    "end_time": 1777474211.7228673,
+                    "total_time": 116594.59926724434
                 }
             },
             "logEndingLock": false,
@@ -145,15 +145,17 @@
                                     "急救": 1,
                                     "CON": 1,
                                     "SAN": 1,
-                                    "IDEA": 1
+                                    "IDEA": 1,
+                                    "潜行": 1
                                 },
                                 "失败": {
-                                    "LUC": 1,
+                                    "LUC": 2,
                                     "侦查": 2,
                                     "IDEA": 1,
                                     "POW": 1,
                                     "SAN": 3,
-                                    "DEX": 1
+                                    "DEX": 1,
+                                    "潜行": 1
                                 }
                             }
                         }
@@ -163,7 +165,7 @@
                         "人物卡": {
                             "徐舟": {
                                 "成功": {
-                                    "LUC": 3,
+                                    "LUC": 5,
                                     "IDEA": 1,
                                     "侦查": 3,
                                     "EDU": 2,
@@ -178,7 +180,8 @@
                                     "侦查": 2,
                                     "IDEA": 2,
                                     "斗殴": 1,
-                                    "表演": 1
+                                    "表演": 1,
+                                    "LUC": 2
                                 }
                             }
                         }
@@ -190,20 +193,21 @@
                                 "成功": {
                                     "聆听": 2,
                                     "LUC": 1,
-                                    "侦查": 6,
+                                    "侦查": 7,
                                     "POW": 1,
                                     "STR": 1,
                                     "急救": 1,
                                     "话术": 1,
                                     "SAN": 1,
-                                    "IDEA": 1
+                                    "IDEA": 1,
+                                    "DEX": 1
                                 },
                                 "失败": {
                                     "IDEA": 1,
                                     "侦查": 2,
                                     "STR": 1,
                                     "斗殴": 1,
-                                    "LUC": 1,
+                                    "LUC": 2,
                                     "SAN": 1
                                 }
                             }
