@@ -3,40 +3,28 @@
         "userId": "1103684896",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1777564388,
+        "lastHit": 1777645518,
         "configNote": {
             "groupInitList": {
-                "德罗米娅": 18,
-                "云璃": 10,
-                "蛇花": 12,
-                "备选者": 20,
-                "打劫的": 16
+                "云璃": 25,
+                "邪教徒": 19,
+                "虫": 16
             },
             "groupInitParaList": {
-                "德罗米娅": "18",
-                "云璃": "1D20+1",
-                "蛇花": "1D20+3",
-                "备选者": "1D20+1",
-                "打劫的": "1D20+5"
+                "云璃": "1D20+7",
+                "邪教徒": "1D20+0",
+                "虫": "1D20+0"
             },
             "groupInitUserList": {
-                "德罗米娅": {
-                    "userId": "825734198",
-                    "platform": "qq"
-                },
                 "云璃": {
                     "userId": "1040972910",
                     "platform": "qq"
                 },
-                "蛇花": {
+                "邪教徒": {
                     "userId": "2422497068",
                     "platform": "qq"
                 },
-                "备选者": {
-                    "userId": "2422497068",
-                    "platform": "qq"
-                },
-                "打劫的": {
+                "虫": {
                     "userId": "2422497068",
                     "platform": "qq"
                 }
@@ -44,7 +32,7 @@
             "groupMainDice": "1D20",
             "groupMainDiceDRight": 20,
             "groupMainDiceDLeft": 1,
-            "groupInitCurrentPlayer": 0,
+            "groupInitCurrentPlayer": null,
             "groupInitRound": 1
         }
     }
