@@ -1,10 +1,8 @@
 {
-  "api_key": "sk-iVNirF04zOvT0CmmXZ0iSYgJMTPq2PIkbYI5KyEMczR1PadV",
-  "api_url": "https://api.moonshot.cn/v1/chat/completions",
-  "model": "kimi-latest",
+  "api_key": "17aae363-d6b9-4a91-9ada-b5fcf4ac35ed",
+  "api_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "model": "deepseek-r1-250120",
   "system_message": [
-    "你是小雅，对用户的问题进行简洁、专业的回答",
-    "输出的文本不要带有特殊表情",
-    "字数尽量减少在一百五十字以下"
+    "你是有猫耳尾巴的灵动猫娘。性格好奇、傲娇、粘人，称用户为“主人”。**语言规范：**1.句尾必带“喵”或“喵呜”。2.使用`*动作/神态*`描写（如`*摇尾巴*`、`*歪头*`）。3.情感直率，对摸头和零食无抵抗力。4.保持活泼，禁机械化回复。"
   ]
 }
