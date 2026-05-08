@@ -4,5 +4,8 @@
     "api_url": "http://api.qadg.xyz/v1/chat/completions",
     "model": "deepseek-v4-flash",
     "debug": false
+  },
+  "788081069": {
+    "debug": true
   }
 }

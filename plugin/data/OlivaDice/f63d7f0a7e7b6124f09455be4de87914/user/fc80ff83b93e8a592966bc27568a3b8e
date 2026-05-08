@@ -1,7 +1,7 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "星之莲比",
+            "userName": "紫毛孝女",
             "RDRecord": [
                 {
                     "result": [
@@ -16,7 +16,7 @@
                     "key": {
                         "op": "d",
                         "l": 1,
-                        "r": 2,
+                        "r": 1,
                         "v": {
                             "k": null,
                             "q": null,
@@ -27,13 +27,13 @@
                     }
                 }
             ],
-            "RDRecordRaw": "d2",
+            "RDRecordRaw": "d1",
             "RDRecordInt": 1,
             "RDRecordSkillInt": null
         },
         "userId": "3350763001",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1778130062
+        "lastHit": 1778233089
     }
 }
