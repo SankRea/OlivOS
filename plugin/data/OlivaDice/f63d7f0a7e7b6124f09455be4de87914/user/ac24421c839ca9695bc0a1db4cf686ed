@@ -3,7 +3,7 @@
         "userId": "264175027",
         "userType": "group",
         "platform": "qq",
-        "lastHit": 1777474211,
+        "lastHit": 1778336030,
         "configNote": {
             "groupMainDice": null,
             "groupMainDiceDRight": null,
@@ -33,9 +33,9 @@
             "logActiveName": "default",
             "logNameTimeDict": {
                 "default": {
-                    "start_time": 1777463419.3675308,
-                    "end_time": 1777474211.7228673,
-                    "total_time": 116594.59926724434
+                    "start_time": 1778324746.9318204,
+                    "end_time": 1778336030.3935528,
+                    "total_time": 127878.06099963188
                 }
             },
             "logEndingLock": false,
@@ -150,7 +150,7 @@
                                 },
                                 "失败": {
                                     "LUC": 2,
-                                    "侦查": 2,
+                                    "侦查": 3,
                                     "IDEA": 1,
                                     "POW": 1,
                                     "SAN": 3,
@@ -167,7 +167,7 @@
                                 "成功": {
                                     "LUC": 5,
                                     "IDEA": 1,
-                                    "侦查": 3,
+                                    "侦查": 4,
                                     "EDU": 2,
                                     "聆听": 2,
                                     "SAN": 1,
@@ -197,7 +197,7 @@
                                     "POW": 1,
                                     "STR": 1,
                                     "急救": 1,
-                                    "话术": 1,
+                                    "话术": 2,
                                     "SAN": 1,
                                     "IDEA": 1,
                                     "DEX": 1
@@ -208,7 +208,8 @@
                                     "STR": 1,
                                     "斗殴": 1,
                                     "LUC": 2,
-                                    "SAN": 1
+                                    "SAN": 1,
+                                    "厨艺": 1
                                 }
                             }
                         }

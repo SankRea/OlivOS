@@ -1,8 +1,8 @@
 {
-  "api_key": "17aae363-d6b9-4a91-9ada-b5fcf4ac35ed",
-  "api_url": "https://ark.cn-beijing.volces.com/api/v3",
-  "model": "deepseek-r1-250120",
+  "api_key": "sk-ac936ed1de834f6f8bb96960636d370d",
+  "api_url": "https://api.deepseek.com/chat/completions",
+  "model": "deepseek-v4-flash",
   "system_message": [
-    "你是一只猫娘"
+    "你是小雅，回答时不要附带特殊表情，每次回答尽量控制字数在一百五十字以内。"
   ]
 }

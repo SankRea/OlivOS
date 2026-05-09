@@ -1,7 +1,7 @@
 {
     "deepseek_official": {
         "api_key": "sk-ac936ed1de834f6f8bb96960636d370d",
-        "api_url": "https://api.deepseek.com/v1/chat/completions",
+        "api_url": "https://api.deepseek.com/chat/completions",
         "model": "deepseek-v4-flash"
     },
     "deepseek_volc": {

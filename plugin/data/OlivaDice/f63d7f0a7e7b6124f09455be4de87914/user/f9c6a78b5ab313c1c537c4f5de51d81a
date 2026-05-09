@@ -1,11 +1,39 @@
 {
     "f63d7f0a7e7b6124f09455be4de87914": {
         "configNote": {
-            "userName": "心意相悖"
+            "userName": "心意相悖",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            46
+                        ],
+                        [],
+                        [
+                            46
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 1,
+                        "r": 100,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                }
+            ],
+            "RDRecordRaw": "1D100",
+            "RDRecordInt": 46,
+            "RDRecordSkillInt": 0
         },
         "userId": "1821504057",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1774712256
+        "lastHit": 1778328487
     }
 }
