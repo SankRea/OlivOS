@@ -147,5 +147,9 @@
         "enhanceList": [
             "侦查"
         ]
+    },
+    "嘉音": {
+        "template": "COC7",
+        "checkRules": "C3"
     }
 }
