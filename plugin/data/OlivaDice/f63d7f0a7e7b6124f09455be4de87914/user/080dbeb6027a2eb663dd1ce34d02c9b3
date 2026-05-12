@@ -1,0 +1,45 @@
+{
+    "f63d7f0a7e7b6124f09455be4de87914": {
+        "configNote": {
+            "userName": "七七 Adrian",
+            "RDRecord": [
+                {
+                    "result": [
+                        [
+                            6,
+                            6,
+                            2
+                        ],
+                        [],
+                        [
+                            14
+                        ]
+                    ],
+                    "key": {
+                        "op": "d",
+                        "l": 3,
+                        "r": 6,
+                        "v": {
+                            "k": null,
+                            "q": null,
+                            "p": null,
+                            "b": null,
+                            "a": null
+                        }
+                    }
+                },
+                {
+                    "op": "*"
+                },
+                5
+            ],
+            "RDRecordRaw": "3d6*5",
+            "RDRecordInt": 70,
+            "RDRecordSkillInt": null
+        },
+        "userId": "2960359924",
+        "userType": "user",
+        "platform": "qq",
+        "lastHit": 1778584570
+    }
+}
