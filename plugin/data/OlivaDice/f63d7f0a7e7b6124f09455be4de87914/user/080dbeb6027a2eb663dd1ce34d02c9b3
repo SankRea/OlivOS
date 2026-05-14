@@ -6,13 +6,13 @@
                 {
                     "result": [
                         [
-                            6,
-                            6,
+                            3,
+                            2,
                             2
                         ],
                         [],
                         [
-                            14
+                            7
                         ]
                     ],
                     "key": {
@@ -34,12 +34,12 @@
                 5
             ],
             "RDRecordRaw": "3d6*5",
-            "RDRecordInt": 70,
+            "RDRecordInt": 35,
             "RDRecordSkillInt": null
         },
         "userId": "2960359924",
         "userType": "user",
         "platform": "qq",
-        "lastHit": 1778584570
+        "lastHit": 1778758426
     }
 }

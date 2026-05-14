@@ -1,0 +1,8 @@
+{
+  "742946649": {
+    "api_key": "sk-YHJsgJrVQ50GYxqS5k2BpRowSlIH8UoUgMXSzPbLB8wizf96",
+    "api_url": "http://api.qadg.xyz/v1/chat/completions",
+    "model": "deepseek-v4-flash",
+    "system_message": ""
+  }
+}
