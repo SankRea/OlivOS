@@ -8,10 +8,5 @@
         "api_key": "17aae363-d6b9-4a91-9ada-b5fcf4ac35ed",
         "api_url": "https://ark.cn-beijing.volces.com/api/v3",
         "model": "deepseek-r1-250120"
-    },
-    "kimi": {
-        "api_key": "sk-iVNirF04zOvT0CmmXZ0iSYgJMTPq2PIkbYI5KyEMczR1PadV",
-        "api_url": "https://api.moonshot.cn/v1/chat/completions",
-        "model": "kimi-latest"
     }
 }
