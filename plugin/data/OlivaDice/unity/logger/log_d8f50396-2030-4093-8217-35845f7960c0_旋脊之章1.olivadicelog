@@ -42,3 +42,4 @@
 {"time": 1777256924, "type": "recv", "message_id": "1411295261", "deleted": false, "dect": {"host_id": null, "group_id": "741877128", "user_id": "3362422751"}, "sender": {"id": "3362422751", "name": "维兹"}, "message": "（竟然还活着）"}
 {"time": 1777257001, "type": "recv", "message_id": "303251933", "deleted": false, "dect": {"host_id": null, "group_id": "741877128", "user_id": "825734198"}, "sender": {"id": "825734198", "name": "草食龙"}, "message": "（大野木（）"}
 {"time": 1777259174, "type": "recv", "message_id": "1404801515", "deleted": false, "dect": {"host_id": null, "group_id": "741877128", "user_id": "458095233"}, "sender": {"id": "458095233", "name": "风铃浅唱"}, "message": "[CQ:reply,id=1411295261]（复活吧，我的爱人）"}
+{"time": 1778980786, "type": "recv", "message_id": "1661727654", "deleted": false, "dect": {"host_id": null, "group_id": "741877128", "user_id": "3196247581"}, "sender": {"id": "3196247581", "name": "你身上长猫了"}, "message": "（复活吧，我的爱人）"}
