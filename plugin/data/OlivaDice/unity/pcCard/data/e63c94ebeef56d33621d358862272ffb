@@ -302,6 +302,7 @@
         "HANDGUN": 52,
         "OWN_LANGUAGE": 60,
         "SURVIVAL": 10,
-        "动物驯养": 5
+        "动物驯养": 5,
+        "D": 0
     }
 }
